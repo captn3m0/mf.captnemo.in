@@ -1,0 +1,20 @@
+title: India Mutual Funds API
+email: mf@captnemo.in
+description: Get information about Indian Mutual Funds from their ISIN numbers.
+url: "https://mf.captnemo.in"
+twitter_username: captn3m0
+github_username:  captn3m0
+theme: jekyll-theme-modernist
+
+exclude:
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - _scripts
+  - netlify.toml
+  - vendor
+  - Makefile
+include:
+  - _redirects
