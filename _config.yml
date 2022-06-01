@@ -18,3 +18,4 @@ exclude:
   - Makefile
 include:
   - _redirects
+  - _headers
