@@ -1,6 +1,8 @@
-/404.html
+/kuvera/*
   Content-Type: application/json
-/
+/nav/*
+  Content-Type: application/json
+/*
   X-Frame-Options: DENY
   X-XSS-Protection: 1; mode=block
   Referrer-Policy: strict-origin

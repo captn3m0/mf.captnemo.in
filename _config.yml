@@ -19,6 +19,7 @@ exclude:
 include:
   - _redirects
   - _headers
+  - nav
 # Not supported yet
 csv_reader:
   col_sep: ';'

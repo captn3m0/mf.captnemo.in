@@ -4,7 +4,7 @@ require 'json'
 module AMFI
   class Generator < Jekyll::Generator
     def generate(site)
-      Dir.mkdir("nav")
+      Dir.mkdir("nav") if !Dir.exist?('nav')
       data = CSV.read('_data/nav.csv', col_sep: ';', headers: ['code', 'isin', 'reinvestment_isin', 'name', 'nav', 'date'])[1..]
       data.each do |nav_data|
         date = Date.parse(nav_data['date']).strftime('%Y-%m-%d')
