@@ -1,5 +1,6 @@
 name: Update Data
 on:
+  push:
   schedule:
     # “At minute 7 past hour 16.” 
     # 16:07 UTC
@@ -14,7 +15,7 @@ jobs:
       with:
         ref: ${{ github.head_ref }}
     - name: Update data
-      run: make mf-list
+      run: make all
     - uses: stefanzweifel/git-auto-commit-action@v4
       with:
         commit_message: Update Kuvera mappings
