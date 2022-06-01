@@ -17,6 +17,9 @@ exclude:
   - netlify.toml
   - vendor
   - Makefile
+  - README.md
+  - LICENSE
+  - nav/.gitkeep
 include:
   - _redirects
   - _headers
@@ -24,12 +27,6 @@ include:
 # Not supported yet
 csv_reader:
   col_sep: ';'
-defaults:
-  - scope:
-      path: "*.md"
-    values:
-      layout: default
-      permalink: '/'
 markdown: kramdown
 kramdown:
   parse_block_html: true
