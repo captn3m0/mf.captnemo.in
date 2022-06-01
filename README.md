@@ -129,6 +129,10 @@ To just get basic information about a given mutual fund, including the NAV.
 
 This is a much more exhaustive list of Mutual Funds.
 
+## cors
+
+All endpoints have CORS enabled, so you can call them directly in your website frontend.
+
 ## credits
 
 This service uses data from 2 sources:
