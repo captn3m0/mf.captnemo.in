@@ -11,7 +11,7 @@ Jekyll::Hooks.register :site, :after_init do |site|
       'nav' => nav_data['nav'].to_f,
       'date'=> date
     }
-    File.write("nav/#{data['ISIN']}.json", data.to_json) if data['ISIN'].length == 12
+    File.write("nav/#{data['ISIN']}", data.to_json) if data['ISIN'].length == 12
     if nav_data['reinvestment_isin'].length == 12
       data = {
         'ISIN'=> nav_data['reinvestment_isin'],
@@ -19,7 +19,7 @@ Jekyll::Hooks.register :site, :after_init do |site|
         'nav' => nav_data['nav'],
         'date'=> date
       }
-      File.write("nav/#{data['ISIN']}.json", data.to_json)
+      File.write("nav/#{data['ISIN']}", data.to_json)
     end
   end
 end

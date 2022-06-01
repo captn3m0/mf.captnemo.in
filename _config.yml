@@ -5,7 +5,8 @@ url: "https://mf.captnemo.in"
 twitter_username: captn3m0
 github_username:  captn3m0
 theme: jekyll-theme-modernist
-repository_url: https://github.com/captn3m0/mf.captnemo.in
+github:
+  repository_url: https://github.com/captn3m0/mf.captnemo.in
 exclude:
   - .sass-cache/
   - .jekyll-cache/
@@ -23,3 +24,12 @@ include:
 # Not supported yet
 csv_reader:
   col_sep: ';'
+defaults:
+  - scope:
+      path: "*"
+    values:
+      layout: default
+      permalink: '/'
+markdown: kramdown
+kramdown:
+  parse_block_html: true
