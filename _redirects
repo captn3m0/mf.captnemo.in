@@ -2,5 +2,5 @@
 # Setting a layout forces Jekyll to render this file
 layout: null
 ---
-{% for row in site.data.lookup %}/kuvera/{{row['ISIN']}} https://api.kuvera.in/mf/api/v5/fund_schemes/{{row['code']}}.json
+{% for row in site.data.lookup %}/kuvera/{{row['ISIN']}} https://api.kuvera.in/mf/api/v5/fund_schemes/{{row['code']}}.json 302
 {% endfor %}
