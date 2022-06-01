@@ -113,7 +113,7 @@ This endpoint returns various details about the mutual fund. The schema is docum
 
 `/nav/:isin`
 : ### NAV Details
-To just get basic information about a given mutual fund, including the NAV, use `https://mf.captnemo.in/nav/:isin.json`.
+To just get basic information about a given mutual fund, including the NAV.
   <details>
   <summary markdown='span'>Show/Hide Sample response
   </summary>
