@@ -19,7 +19,7 @@ While this endpoint provides a lot of information, this only supports Mutual Fun
 
 ### NAV
 
-To just get basic information about a given mutual fund, including the NAV, use `https://mf.captnemo.in/nav/:isin`. The
+To just get basic information about a given mutual fund, including the NAV, use `https://mf.captnemo.in/nav/:isin.json`. The
 response will look like:
 
 ```json
