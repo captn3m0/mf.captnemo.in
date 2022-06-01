@@ -8,7 +8,7 @@ Jekyll::Hooks.register :site, :after_init do |site|
     data = {
       'ISIN'=> nav_data['isin'],
       'name'=> nav_data['name'],
-      'nav' => nav_data['nav'],
+      'nav' => nav_data['nav'].to_f,
       'date'=> date
     }
     File.write("nav/#{data['ISIN']}.json", data.to_json) if data['ISIN'].length == 12

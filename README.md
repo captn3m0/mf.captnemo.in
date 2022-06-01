@@ -26,7 +26,7 @@ response will look like:
 {
   "ISIN": "INF843K01FC8",
   "name": "Edelweiss Banking and PSU Debt Fund - Direct Plan - Growth Option",
-  "nav": "20.1021",
+  "nav": 20.1021,
   "date": "2022-05-31"
 }
 ```

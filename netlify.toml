@@ -1,6 +1,5 @@
 [build]
   command = """
   jekyll build
-  ls -lRah _site
   """
   publish = "_site"
