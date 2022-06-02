@@ -4,7 +4,7 @@ Get information about Indian Mutual Funds from their ISIN numbers.
 
 To call this API, you will need an ISIN of a valid Mutual Fund in India.
 
-You can get ISIN data from various [sources](https://github.com/captn3m0/india-isin-data#alternative-sources).
+You can get ISIN data from various [sources](https://github.com/captn3m0/india-isin-data#alternative-sources), including your [CDSL Consolidated Account Statement (CAS)](https://www.camsonline.com/Investors/Statements/Consolidated-Account-Statement).
 
 API documentation is available at <https://mf.captnemo.in>.
 
