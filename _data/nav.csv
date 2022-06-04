@@ -1461,10 +1461,10 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 129924;INF917K01QH6;-;L&T Liquid Fund -Regular Plan - Bonus;2318.6887;20-Nov-2017
 112445;INF917K01JB4;-;L&T Liquid Fund -Regular Plan - Daily IDCW;1011.7794;03-Jun-2022
 112457;INF917K01JH1;-;L&T Liquid Fund -Regular Plan - Growth;2919.1492;03-Jun-2022
-120248;INF767K01DL5;INF767K01DM3;LIC MF Liquid Fund-Direct Plan-Daily IDCW;1013.6;03-Jun-2022
-120249;INF767K01DN1;-;LIC MF Liquid Fund-Direct Plan-Growth;3891.8248;03-Jun-2022
-101184;INF767K01IQ3;INF767K01IR1;LIC MF Liquid Fund-Regular Plan-Daily IDCW;1000.1;03-Jun-2022
-101185;INF767K01IS9;-;LIC MF Liquid Fund-Regular Plan-Growth;3850.0601;03-Jun-2022
+120248;INF767K01DL5;INF767K01DM3;LIC MF Liquid Fund-Direct Plan-Daily IDCW;1013.6;04-Jun-2022
+120249;INF767K01DN1;-;LIC MF Liquid Fund-Direct Plan-Growth;3892.2953;04-Jun-2022
+101184;INF767K01IQ3;INF767K01IR1;LIC MF Liquid Fund-Regular Plan-Daily IDCW;1000.1;04-Jun-2022
+101185;INF767K01IS9;-;LIC MF Liquid Fund-Regular Plan-Growth;3850.5107;04-Jun-2022
 139535;-;INF174V01051;Mahindra Manulife Liquid Fund - Direct Plan - Daily IDCW;1004.8301;05-Jun-2022
 139536;-;INF174V01069;Mahindra Manulife Liquid Fund - Direct Plan - Weekly IDCW;1003.4125;05-Jun-2022
 139538;INF174V01044;-;Mahindra Manulife Liquid Fund - Direct Plan -Growth;1393.8181;05-Jun-2022
@@ -2689,14 +2689,14 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 118056;-;INF917K01EJ8;L&T Overnight Fund - Regular Plan - Daily IDCW;1023.3;03-Jun-2022
 118058;INF917K01EI0;-;L&T Overnight Fund - Regular Plan - Growth;1588.1059;03-Jun-2022
 118065;-;INF917K01EK6;L&T Overnight Fund - Regular Plan - Weekly IDCW;1000.4602;03-Jun-2022
-147516;-;INF767K01QG7;LIC MF Overnight Fund-Direct Plan-Daily IDCW;1027.2601;03-Jun-2022
-147515;INF767K01QI3;-;LIC MF Overnight Fund-Direct Plan-Growth;1109.2459;03-Jun-2022
-147513;INF767K01QE2;INF767K01QF9;LIC MF Overnight Fund-Direct Plan-IDCW;1108.9794;03-Jun-2022
-147514;-;INF767K01QH5;LIC MF Overnight Fund-Direct Plan-Weekly IDCW;1000.9131;03-Jun-2022
+147516;-;INF767K01QG7;LIC MF Overnight Fund-Direct Plan-Daily IDCW;1027.3713;04-Jun-2022
+147515;INF767K01QI3;-;LIC MF Overnight Fund-Direct Plan-Growth;1109.3667;04-Jun-2022
+147513;INF767K01QE2;INF767K01QF9;LIC MF Overnight Fund-Direct Plan-IDCW;1109.1001;04-Jun-2022
+147514;-;INF767K01QH5;LIC MF Overnight Fund-Direct Plan-Weekly IDCW;1001.0221;04-Jun-2022
 147517;-;INF767K01QB8;LIC MF Overnight Fund-Regular Plan-Daily IDCW;1012.1231;13-Jan-2022
-147519;INF767K01QD4;-;LIC MF Overnight Fund-Regular Plan-Growth;1105.0965;03-Jun-2022
-147512;INF767K01PZ9;INF767K01QA0;LIC MF Overnight Fund-Regular Plan-IDCW;1105.5936;03-Jun-2022
-147518;-;INF767K01QC6;LIC MF Overnight Fund-Regular Plan-Weekly IDCW;1023.1783;03-Jun-2022
+147519;INF767K01QD4;-;LIC MF Overnight Fund-Regular Plan-Growth;1105.2129;04-Jun-2022
+147512;INF767K01PZ9;INF767K01QA0;LIC MF Overnight Fund-Regular Plan-IDCW;1105.7101;04-Jun-2022
+147518;-;INF767K01QC6;LIC MF Overnight Fund-Regular Plan-Weekly IDCW;1023.2857;04-Jun-2022
 147563;-;INF174V01846;Mahindra Manulife Overnight Fund - Direct Plan - Daily IDCW;1057.2913;05-Jun-2022
 147564;INF174V01838;-;Mahindra Manulife Overnight Fund - Direct Plan -Growth;1107.9575;05-Jun-2022
 147566;-;INF174V01820;Mahindra Manulife Overnight Fund - Regular Plan - Daily IDCW;1033.1746;05-Jun-2022
@@ -6400,18 +6400,18 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 119280;INF740K01PG6;INF740K01PH4;DSP World Mining Fund - Direct Plan - IDCW;17.7127;02-Jun-2022
 112293;INF740K01730;-;DSP World Mining Fund - Regular Plan - Growth;16.8044;02-Jun-2022
 112347;INF740K01748;INF740K01AL8;DSP World Mining Fund - Regular Plan - IDCW;16.8044;02-Jun-2022
-140256;INF843K01AW7;-;Edelweiss ASEAN Equity Off-shore Fund - Direct Plan - Growth Option;25.324;02-Jun-2022
-140255;INF843K01609;-;Edelweiss ASEAN Equity Off-shore Fund - Regular Plan - Growth Option;23.196;02-Jun-2022
+140256;INF843K01AW7;-;Edelweiss ASEAN Equity Off-shore Fund - Direct Plan - Growth Option;25.39;03-Jun-2022
+140255;INF843K01609;-;Edelweiss ASEAN Equity Off-shore Fund - Regular Plan - Growth Option;23.256;03-Jun-2022
 140327;INF843K01IZ3;-;Edelweiss Emerging Markets Opportunities Equity Offshore Fund - Direct Plan - Growth Option;14.6616;02-Jun-2022
 140328;INF843K01IY6;-;Edelweiss Emerging Markets Opportunities Equity Offshore Fund - Regular Plan - Growth Option;13.8703;02-Jun-2022
-140296;INF843K01GI3;-;Edelweiss Europe Dynamic Equity Offshore Fund - Growth Option - Direct Plan;15.076;02-Jun-2022
-140295;INF843K01GJ1;-;Edelweiss Europe Dynamic Equity Offshore Fund - Growth Option - Regular Plan;14.0263;02-Jun-2022
+140296;INF843K01GI3;-;Edelweiss Europe Dynamic Equity Offshore Fund - Growth Option - Direct Plan;15.2295;03-Jun-2022
+140295;INF843K01GJ1;-;Edelweiss Europe Dynamic Equity Offshore Fund - Growth Option - Regular Plan;14.1689;03-Jun-2022
 140243;INF843K01AU1;-;Edelweiss Greater China Equity Off-shore Fund - Direct Plan - Growth Option;41.967;02-Jun-2022
 140242;INF843K01138;-;Edelweiss Greater China Equity Off-shore Fund - Regular Plan - Growth Option;38.437;02-Jun-2022
-148063;INF754K01LB7;-;Edelweiss US Technology Equity Fund of Fund- Direct Plan- Growth;14.2099;02-Jun-2022
-148064;INF754K01LC5;-;Edelweiss US Technology Equity Fund of Fund- Regular Plan- Growth;13.8869;02-Jun-2022
-140274;INF843K01EC1;-;Edelweiss US Value Equity Offshore Fund - Direct Plan - Growth Option;25.3053;02-Jun-2022
-140273;INF843K01ED9;-;Edelweiss US Value Equity Offshore Fund - Regular Plan - Growth Option;23.5392;02-Jun-2022
+148063;INF754K01LB7;-;Edelweiss US Technology Equity Fund of Fund- Direct Plan- Growth;14.5397;03-Jun-2022
+148064;INF754K01LC5;-;Edelweiss US Technology Equity Fund of Fund- Regular Plan- Growth;14.2088;03-Jun-2022
+140274;INF843K01EC1;-;Edelweiss US Value Equity Offshore Fund - Direct Plan - Growth Option;25.6113;03-Jun-2022
+140273;INF843K01ED9;-;Edelweiss US Value Equity Offshore Fund - Regular Plan - Growth Option;23.8232;03-Jun-2022
 118550;INF090I01JP4;INF090I01JQ2;Franklin India Feeder - Franklin U S Opportunities Fund - Direct - IDCW ;49.3734;02-Jun-2022
 116632;INF090I01EV3;INF090I01EU5;Franklin India Feeder - Franklin U S Opportunities Fund - IDCW ;45.0320;02-Jun-2022
 116633;INF090I01EW1;-;Franklin India Feeder - Franklin U.S. Opportunities Fund - Growth;45.0320;02-Jun-2022
@@ -6618,10 +6618,10 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 149339;INF754K01NS7;-;Edelweiss Large & Midcap Index Fund - Direct Plan Payout;9.3398;03-Jun-2022
 149341;INF754K01NN8;-;Edelweiss Large & Midcap Index Fund - Regular Plan Growth;9.3086;03-Jun-2022
 149342;INF754K01NO6;-;Edelweiss Large & Midcap Index Fund - Regular Plan Payout;9.3081;03-Jun-2022
-148556;INF754K01LW3;INF754K01LX1;Edelweiss MSCI India Domestic & World Healthcare 45 Index Fund - Direct Plan - IDCW Option;11.721;02-Jun-2022
-148558;INF754K01LS1;INF754K01LT9;Edelweiss MSCI India Domestic & World Healthcare 45 Index Fund - Regular Plan - IDCW Option;11.6087;02-Jun-2022
-148555;INF754K01LV5;-;Edelweiss MSCI India Domestic & World Healthcare 45 Index Fund Direct Plan - Growth;11.721;02-Jun-2022
-148557;INF754K01LR3;-;Edelweiss MSCI India Domestic & World Healthcare 45 index Fund Regular Plan - Growth;11.6087;02-Jun-2022
+148556;INF754K01LW3;INF754K01LX1;Edelweiss MSCI India Domestic & World Healthcare 45 Index Fund - Direct Plan - IDCW Option;11.62;03-Jun-2022
+148558;INF754K01LS1;INF754K01LT9;Edelweiss MSCI India Domestic & World Healthcare 45 Index Fund - Regular Plan - IDCW Option;11.5085;03-Jun-2022
+148555;INF754K01LV5;-;Edelweiss MSCI India Domestic & World Healthcare 45 Index Fund Direct Plan - Growth;11.62;03-Jun-2022
+148557;INF754K01LR3;-;Edelweiss MSCI India Domestic & World Healthcare 45 index Fund Regular Plan - Growth;11.5085;03-Jun-2022
 149254;INF754K01NJ6;-;Edelweiss Nifty 100 Quality 30 Index Fund Direct Plan Growth;8.9972;03-Jun-2022
 149255;INF754K01NK4;INF754K01NL2;Edelweiss Nifty 100 Quality 30 Index Fund Direct Plan IDCW;8.8714;03-Jun-2022
 149256;INF754K01NF4;-;Edelweiss Nifty 100 Quality 30 Index Fund Regular Plan Growth;8.9605;03-Jun-2022
