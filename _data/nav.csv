@@ -501,8 +501,8 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 128053;INF179KA1GC0;-;HDFC Credit Risk Debt Fund - Growth Option;19.2774;03-Jun-2022
 128051;INF179KA1FZ3;-;HDFC Credit Risk Debt Fund - Growth Option - Direct Plan;20.4433;03-Jun-2022
 133148;INF179KA1I87;INF179KA1I79;HDFC Credit Risk Debt Fund - IDCW Option;17.7506;03-Jun-2022
-133147;INF179KA1GA4;-;HDFC Credit Risk Debt Fund - IDCW Option - Direct Plan;17.9206;03-Jun-2022
-128050;INF179KA1GB2;-;HDFC Credit Risk Debt Fund - Quarterly IDCW - Direct Plan;10.5289;03-Jun-2022
+133147;INF179KA1I61;INF179KA1I53;HDFC Credit Risk Debt Fund - IDCW Option - Direct Plan;17.9206;03-Jun-2022
+128050;INF179KA1GA4;INF179KA1GB2;HDFC Credit Risk Debt Fund - Quarterly IDCW - Direct Plan;10.5289;03-Jun-2022
 128052;INF179KA1GD8;INF179KA1GE6;HDFC Credit Risk Debt Fund - Quarterly IDCW Option;10.2125;03-Jun-2022
 134342;INF109KB1AF0;INF109KB1AG8;ICICI Prudential Credit Risk Fund - Annual IDCW;10.0996;03-Jun-2022
 130943;INF109KA1I27;-;ICICI Prudential Credit Risk Fund - Bonus;15.7498;24-Apr-2020
@@ -2370,7 +2370,7 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 101993;INF179KB1HR5;-;HDFC Money Market Fund - Growth Option;4608.318;03-Jun-2022
 119092;INF179KB1HU9;-;HDFC Money Market Fund - Growth Option - Direct Plan;4674.391;03-Jun-2022
 101995;INF179KB1IH4;INF179KB1II2;HDFC Money Market Fund - Weekly IDCW Option;1063.4893;03-Jun-2022
-119094;-;INF179KB1IA9;HDFC Money Market Fund - Weekly IDCW Option -Direct Plan;1063.5301;03-Jun-2022
+119094;INF179KB1IA9;INF179KB1IB7;HDFC Money Market Fund - Weekly IDCW Option -Direct Plan;1063.5301;03-Jun-2022
 130946;INF109KA1H85;-;ICICI Prudential Money Market Fund - Direct Plan Bonus;151.2089;24-Apr-2020
 130945;INF109KA1H93;-;ICICI Prudential Money Market Fund -Bonus;118.0134;21-Nov-2016
 115328;INF109K01I72;-;ICICI Prudential Money Market Fund Dividend;100.0952;24-Apr-2020
@@ -3403,8 +3403,8 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 103678;INF090I01957;-;Templeton India Equity Income Fund-Growth Plan;82.9562;03-Jun-2022
 148609;INF179KC1AO6;-;HDFC Dividend Yield Fund - Growth Option Direct Plan;14.036;03-Jun-2022
 148610;INF179KC1AR9;-;HDFC Dividend Yield Fund - Growth Plan;13.696;03-Jun-2022
-148608;INF179KC1AQ1;INF179KC1AP3;HDFC Dividend Yield Fund - IDCW Option Direct Plan;13.091;03-Jun-2022
-148611;INF179KC1AT5;INF179KC1AS7;HDFC Dividend Yield Fund - IDCW Plan;12.706;03-Jun-2022
+148608;INF179KC1AP3;INF179KC1AQ1;HDFC Dividend Yield Fund - IDCW Option Direct Plan;13.091;03-Jun-2022
+148611;INF179KC1AS7;INF179KC1AT5;HDFC Dividend Yield Fund - IDCW Plan;12.706;03-Jun-2022
 129312;INF109KA1UA0;-;ICICI Prudential Dividend Yield Equity Fund Direct Plan Growth Option;28.10;03-Jun-2022
 129309;INF109KA1UB8;INF109KA1UC6;ICICI Prudential Dividend Yield Equity Fund Direct Plan IDCW Option;16.80;03-Jun-2022
 129310;INF109KA1TX4;-;ICICI Prudential Dividend Yield Equity Fund Growth Option;26.32;03-Jun-2022
@@ -4439,10 +4439,10 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 118538;INF090I01GD6;INF090I01GE4;Franklin INDIA OPPORTUNITIES FUND - Direct - IDCW ;23.3788;03-Jun-2022
 103151;INF090I01841;-;Franklin India Opportunities Fund - Growth;105.1927;03-Jun-2022
 100524;INF090I01858;INF090I01866;Franklin INDIA OPPORTUNITIES FUND - IDCW ;21.3627;03-Jun-2022
-118537;INF090I01FE6;-;Franklin India Technology Fund - Direct - Growth;313.3791;02-Jun-2022
-118536;INF090I01FF3;INF090I01FG1;Franklin India Technology Fund - Direct - IDCW ;39.4261;02-Jun-2022
-100521;INF090I01759;INF090I01767;Franklin India Technology Fund - IDCW ;36.3263;02-Jun-2022
-100522;INF090I01742;-;Franklin India Technology Fund-Growth;294.0703;02-Jun-2022
+118537;INF090I01FE6;-;Franklin India Technology Fund - Direct - Growth;311.9979;03-Jun-2022
+118536;INF090I01FF3;INF090I01FG1;Franklin India Technology Fund - Direct - IDCW ;39.2523;03-Jun-2022
+100521;INF090I01759;INF090I01767;Franklin India Technology Fund - IDCW ;36.1651;03-Jun-2022
+100522;INF090I01742;-;Franklin India Technology Fund-Growth;292.7660;03-Jun-2022
 148987;INF179KC1BJ4;-;HDFC Banking & Financial Services Fund - Growth Option;9.571;03-Jun-2022
 148986;INF179KC1BG0;-;HDFC Banking & Financial Services Fund - Growth Option - Direct Plan;9.739;03-Jun-2022
 148984;INF179KC1BK2;INF179KC1BL0;HDFC Banking & Financial Services Fund - IDCW Option;9.571;03-Jun-2022
@@ -6412,14 +6412,14 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 148064;INF754K01LC5;-;Edelweiss US Technology Equity Fund of Fund- Regular Plan- Growth;14.2088;03-Jun-2022
 140274;INF843K01EC1;-;Edelweiss US Value Equity Offshore Fund - Direct Plan - Growth Option;25.6113;03-Jun-2022
 140273;INF843K01ED9;-;Edelweiss US Value Equity Offshore Fund - Regular Plan - Growth Option;23.8232;03-Jun-2022
-118550;INF090I01JP4;INF090I01JQ2;Franklin India Feeder - Franklin U S Opportunities Fund - Direct - IDCW ;49.3734;02-Jun-2022
-116632;INF090I01EV3;INF090I01EU5;Franklin India Feeder - Franklin U S Opportunities Fund - IDCW ;45.0320;02-Jun-2022
-116633;INF090I01EW1;-;Franklin India Feeder - Franklin U.S. Opportunities Fund - Growth;45.0320;02-Jun-2022
-118551;INF090I01JR0;-;Franklin India Feeder - Franklin US Opportunities Fund - Direct - Growth;49.3734;02-Jun-2022
-129440;INF090I01KX6;-;Franklin India Feeder - Templeton European Opportunities Fund - Direct - Growth;9.8354;02-Jun-2022
-129441;INF090I01KY4;INF090I01KZ1;Franklin India Feeder - Templeton European Opportunities Fund - Direct - IDCW ;9.8354;02-Jun-2022
-129438;INF090I01KU2;-;Franklin India Feeder - Templeton European Opportunities Fund - Growth;8.9698;02-Jun-2022
-129439;INF090I01KV0;INF090I01KW8;Franklin India Feeder - Templeton European Opportunities Fund - IDCW ;8.9698;02-Jun-2022
+118550;INF090I01JP4;INF090I01JQ2;Franklin India Feeder - Franklin U S Opportunities Fund - Direct - IDCW ;48.1033;03-Jun-2022
+116632;INF090I01EV3;INF090I01EU5;Franklin India Feeder - Franklin U S Opportunities Fund - IDCW ;43.8723;03-Jun-2022
+116633;INF090I01EW1;-;Franklin India Feeder - Franklin U.S. Opportunities Fund - Growth;43.8723;03-Jun-2022
+118551;INF090I01JR0;-;Franklin India Feeder - Franklin US Opportunities Fund - Direct - Growth;48.1033;03-Jun-2022
+129440;INF090I01KX6;-;Franklin India Feeder - Templeton European Opportunities Fund - Direct - Growth;9.8003;03-Jun-2022
+129441;INF090I01KY4;INF090I01KZ1;Franklin India Feeder - Templeton European Opportunities Fund - Direct - IDCW ;9.8003;03-Jun-2022
+129438;INF090I01KU2;-;Franklin India Feeder - Templeton European Opportunities Fund - Growth;8.9375;03-Jun-2022
+129439;INF090I01KV0;INF090I01KW8;Franklin India Feeder - Templeton European Opportunities Fund - IDCW ;8.9375;03-Jun-2022
 149180;INF179KC1BO4;-;HDFC Developed World Indexes Fund of Funds - Direct Plan - Growth Option;9.764;03-Jun-2022
 149181;INF179KC1BP1;-;HDFC Developed World Indexes Fund of Funds - Growth Option;9.72;03-Jun-2022
 127073;INF336L01HC7;-;HSBC Asia Pacific (Ex Japan) Dividend Yield Fund - Growth;18.148;02-Jun-2022
@@ -8076,13 +8076,10 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 144797;INF179KB13O6;-;HDFC FMP 1487D August 2018 (1) - IDCW Option;13.7072;03-Jun-2022
 144796;INF179KB10O2;-;HDFC FMP 1487D August 2018 (1) - IDCW Option - Direct Plan;13.8995;03-Jun-2022
 144801;INF179KB11O0;-;HDFC FMP 1487D August 2018 (1) - Quarterly IDCW Option - Direct Plan;10.5227;03-Jun-2022
-123401;INF179K013A5;-;HDFC FMP 1846D August 2013 (1) - Growth Option;20.9659;03-Jun-2022
-123402;INF179K01Z92;-;HDFC FMP 1846D August 2013 (1) - Growth Option - Direct Plan;21.5313;03-Jun-2022
-123406;INF179K014A3;-;HDFC FMP 1846D August 2013 (1) - IDCW Option;13.7528;03-Jun-2022
-123403;INF179K010A1;-;HDFC FMP 1846D August 2013 (1) - IDCW Option - Direct Plan;13.9146;03-Jun-2022
-123405;INF179K011A9;-;HDFC FMP 1846D August 2013 (1)-Direct Option-Quarterly Dividend Option;10.0000;03-Sep-2018
-123407;INF179K012A7;-;HDFC FMP 1846D August 2013 (1)-Regular Option-Flexi Option;15.2465;03-Sep-2018
-123408;INF179K015A0;-;HDFC FMP 1846D August 2013 (1)-Regular Option-Quarterly Dividend Option;10.0000;03-Sep-2018
+123401;INF179KB15P8;-;HDFC FMP 1846D August 2013 (1) - Growth Option;20.9659;03-Jun-2022
+123402;INF179KB11P7;-;HDFC FMP 1846D August 2013 (1) - Growth Option - Direct Plan;21.5313;03-Jun-2022
+123406;INF179KB16P6;-;HDFC FMP 1846D August 2013 (1) - IDCW Option;13.7528;03-Jun-2022
+123403;INF179KB12P5;-;HDFC FMP 1846D August 2013 (1) - IDCW Option - Direct Plan;13.9146;03-Jun-2022
 149922;INF179KC1CF0;-;HDFC FMP 1861D March 2022 - Growth Option;9.7556;03-Jun-2022
 149924;INF179KC1CC7;-;HDFC FMP 1861D March 2022 - Growth Option - Direct Plan;9.7603;03-Jun-2022
 149925;INF179KC1CG8;-;HDFC FMP 1861D March 2022 - IDCW Option;9.7556;03-Jun-2022
