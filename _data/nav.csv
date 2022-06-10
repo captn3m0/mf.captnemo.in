@@ -3593,10 +3593,10 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 119723;INF200K01UM9;-;SBI LONG TERM EQUITY FUND - DIRECT PLAN -GROWTH;221.8555;09-Jun-2022
 103883;INF200K01479;-;SBI Long Term Equity Fund - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);47.2774;09-Jun-2022
 105628;INF200K01495;-;SBI LONG TERM EQUITY FUND - REGULAR PLAN- GROWTH;209.5720;09-Jun-2022
-145819;INF680P01158;-;Shriram Long Term Equity Fund - Direct Growth;15.2969;09-Jun-2022
-145822;INF680P01166;-;Shriram Long Term Equity Fund - Direct- IDCW;15.2405;09-Jun-2022
-145820;INF680P01133;-;Shriram Long Term Equity Fund - Regular Growth;14.3537;09-Jun-2022
-145821;INF680P01141;-;Shriram Long Term Equity Fund - Regular-IDCW;14.3453;09-Jun-2022
+145819;INF680P01158;-;Shriram Long Term Equity Fund - Direct Growth;15.1038;10-Jun-2022
+145822;INF680P01166;-;Shriram Long Term Equity Fund - Direct- IDCW;15.0480;10-Jun-2022
+145820;INF680P01133;-;Shriram Long Term Equity Fund - Regular Growth;14.1718;10-Jun-2022
+145821;INF680P01141;-;Shriram Long Term Equity Fund - Regular-IDCW;14.1634;10-Jun-2022
 119549;INF903J01NN3;-;Sundaram Diversified Equity (ELSS) Direct Plan - Growth;144.6540;09-Jun-2022
 119548;INF903J01NL7;INF903J01NM5;Sundaram Diversified Equity (ELSS) Direct Plan - Income Distribution cum Capital Withdrawal (IDCW);15.2069;09-Jun-2022
 101853;INF903J01538;-;Sundaram Diversified Equity (ELSS) Regular Plan - Growth;138.9660;09-Jun-2022
@@ -3721,10 +3721,10 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 119717;INF200K01UE6;INF200K01UF3;SBI Flexicap Fund - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);38.5708;09-Jun-2022
 103216;INF200K01230;INF200K01248;SBI Flexicap Fund - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);31.7659;09-Jun-2022
 103215;INF200K01222;-;SBI Flexicap Fund - REGULAR PLAN -Growth Option;70.9415;09-Jun-2022
-144905;INF680P01109;-;Shriram Flexi Cap Fund - Direct Growth;14.3971;09-Jun-2022
-144906;INF680P01117;INF680P01125;Shriram Flexi Cap Fund - Direct-IDCW;14.3276;09-Jun-2022
-144902;INF680P01075;-;Shriram Flexi Cap Fund - Regular Growth;13.4623;09-Jun-2022
-144903;INF680P01083;INF680P01091;Shriram Flexi Cap Fund - Regular-IDCW;13.4582;09-Jun-2022
+144905;INF680P01109;-;Shriram Flexi Cap Fund - Direct Growth;14.2404;10-Jun-2022
+144906;INF680P01117;INF680P01125;Shriram Flexi Cap Fund - Direct-IDCW;14.1716;10-Jun-2022
+144902;INF680P01075;-;Shriram Flexi Cap Fund - Regular Growth;13.3151;10-Jun-2022
+144903;INF680P01083;INF680P01091;Shriram Flexi Cap Fund - Regular-IDCW;13.3110;10-Jun-2022
 144547;INF277K017K6;-;TATA Flexi Cap Fund - Direct Plan - Payout of Income Distribution cum capital withdrawal option ;15.7492;09-Jun-2022
 144548;INF277K019K2;-;Tata Flexi Cap Fund -Regular Plan-Growth;14.7692;09-Jun-2022
 144543;-;INF277K016K8;TATA Flexi Cap Fund Direct Plan - Reinvestment of Income Distribution cum capital withdrawal option;15.7492;09-Jun-2022
@@ -5205,10 +5205,10 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 119604;INF200K01RW4;INF200K01RX2;SBI Equity Hybrid Fund - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);60.9861;09-Jun-2022
 101551;INF200K01115;INF200K01123;SBI Equity Hybrid Fund - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);40.8277;09-Jun-2022
 102885;INF200K01107;-;SBI EQUITY HYBRID FUND - REGULAR PLAN -Growth;192.6713;09-Jun-2022
-125711;INF680P01042;-;Shriram Hybrid Equity Fund- Direct Growth;23.7370;09-Jun-2022
-125712;INF680P01059;INF680P01067;Shriram Hybrid Equity Fund- Direct- IDCW;18.8246;09-Jun-2022
-125713;INF680P01018;-;Shriram Hybrid Equity Fund- Growth;21.8073;09-Jun-2022
-125714;INF680P01026;INF680P01034;Shriram Hybrid Equity Fund- Regular-IDCW;17.4327;09-Jun-2022
+125711;INF680P01042;-;Shriram Hybrid Equity Fund- Direct Growth;23.5179;10-Jun-2022
+125712;INF680P01059;INF680P01067;Shriram Hybrid Equity Fund- Direct- IDCW;18.6508;10-Jun-2022
+125713;INF680P01018;-;Shriram Hybrid Equity Fund- Growth;21.6051;10-Jun-2022
+125714;INF680P01026;INF680P01034;Shriram Hybrid Equity Fund- Regular-IDCW;17.2711;10-Jun-2022
 149601;INF173K01FE6;-;Sundaram Aggressive Hybrid Fund (Formerly Known as Principal Hybrid Equity Fund)- Direct Plan - Growth Option;116.4096;09-Jun-2022
 149600;INF173K01CI4;INF173K01CJ2;Sundaram Aggressive Hybrid Fund (Formerly Known as Principal Hybrid Equity Fund)- Monthly Income Distribution CUM Capital Withdrawal;25.7794;09-Jun-2022
 149599;INF173K01CL8;-;Sundaram Aggressive Hybrid Fund (Formerly Known as Principal Hybrid Equity Fund)-Growth;105.3119;09-Jun-2022
@@ -5645,10 +5645,10 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 134109;INF200KA1648;-;SBI Dynamic Asset Allocation Fund - Regular Plan - Growth;15.9463;02-Jul-2021
 134111;INF200KA1689;INF200KA1697;SBI Dynamic Asset Allocation Fund- Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);16.8235;02-Jul-2021
 134108;INF200KA1655;INF200KA1663;SBI Dynamic Asset Allocation Fund- Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);15.9495;02-Jul-2021
-147406;INF680P01208;-;Shriram Balanced Advantage Fund - Direct Growth;13.4121;09-Jun-2022
-147403;INF680P01216;INF680P01224;Shriram Balanced Advantage Fund - Direct- IDCW;13.3719;09-Jun-2022
-147405;INF680P01174;-;Shriram Balanced Advantage Fund - Regular Growth;12.6753;09-Jun-2022
-147404;INF680P01182;INF680P01190;Shriram Balanced Advantage Fund - Regular-IDCW;12.6760;09-Jun-2022
+147406;INF680P01208;-;Shriram Balanced Advantage Fund - Direct Growth;13.3496;10-Jun-2022
+147403;INF680P01216;INF680P01224;Shriram Balanced Advantage Fund - Direct- IDCW;13.3096;10-Jun-2022
+147405;INF680P01174;-;Shriram Balanced Advantage Fund - Regular Growth;12.6156;10-Jun-2022
+147404;INF680P01182;INF680P01190;Shriram Balanced Advantage Fund - Regular-IDCW;12.6163;10-Jun-2022
 149717;INF173K01FI7;-;Sundaram Balanced Advantage Fund ( Formerly Known as Principal Balanced Advantage Fund) - Direct Plan - Growth Option;27.3985;09-Jun-2022
 149718;INF173K01FF3;INF173K01FG1;Sundaram Balanced Advantage Fund (Formerly Known as Principal Balanced Advantage Fund) - Direct Plan - Monthly Income Distribution CUM Capital Withdrawal Option;16.1104;09-Jun-2022
 149715;INF173K01585;-;Sundaram Balanced Advantage Fund (Formerly Known as Principal Balanced Advantage Fund) - Growth Option;24.4512;09-Jun-2022
@@ -11343,14 +11343,14 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 145950;INF200KA1XP0;-;SBI Debt Fund Series - C - 34 (1211 Days) - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);12.7542;25-Apr-2022
 145947;INF200KA1XQ8;-;SBI DEBT FUND SERIES C - 34 (1211 DAYS) - DIRECT PLAN - GROWTH;12.8817;25-Apr-2022
 145949;INF200KA1XO3;-;SBI DEBT FUND SERIES C - 34 (1211 DAYS) - REGULAR PLAN - GROWTH;12.7543;25-Apr-2022
-145988;INF200KA1XV8;-;SBI Debt Fund Series - C - 35 (1235 Days) - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);12.8934;09-Jun-2022
-145990;INF200KA1XT2;-;SBI Debt Fund Series - C - 35 (1235 Days) - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);12.7843;09-Jun-2022
-145987;INF200KA1XU0;-;SBI Debt Fund Series C - 35 (1235 Days) - Direct Plan - Growth;12.8928;09-Jun-2022
-145989;INF200KA1XS4;-;SBI Debt Fund Series C - 35 (1235 Days) - Regular Plan - Growth;12.7833;09-Jun-2022
-146175;INF200KA1YH5;-;SBI Debt Fund Series - C - 38 (1224 Days) - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);12.7905;09-Jun-2022
-146176;INF200KA1YF9;-;SBI Debt Fund Series - C - 38 (1224 Days) - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);12.6812;09-Jun-2022
-146174;INF200KA1YG7;-;SBI Debt Fund Series C - 38 (1224 Days) - Direct Plan - Growth;12.7878;09-Jun-2022
-146173;INF200KA1YE2;-;SBI Debt Fund Series C - 38 (1224 Days) - Regular Plan - Growth;12.6809;09-Jun-2022
+145988;INF200KA1XV8;-;SBI Debt Fund Series - C - 35 (376 Days) - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);12.8934;09-Jun-2022
+145990;INF200KA1XT2;-;SBI Debt Fund Series - C - 35 (376 Days) - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);12.7843;09-Jun-2022
+145987;INF200KA1XU0;-;SBI Debt Fund Series C - 35 (376 Days) - Direct Plan - Growth;12.8928;09-Jun-2022
+145989;INF200KA1XS4;-;SBI Debt Fund Series C - 35 (376 Days) - Regular Plan - Growth;12.7833;09-Jun-2022
+146175;INF200KA1YH5;-;SBI Debt Fund Series - C - 38 (389 Days) - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);12.7905;09-Jun-2022
+146176;INF200KA1YF9;-;SBI Debt Fund Series - C - 38 (389 Days) - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);12.6812;09-Jun-2022
+146174;INF200KA1YG7;-;SBI Debt Fund Series C - 38 (389 Days) - Direct Plan - Growth;12.7878;09-Jun-2022
+146173;INF200KA1YE2;-;SBI Debt Fund Series C - 38 (389 Days) - Regular Plan - Growth;12.6809;09-Jun-2022
 146286;INF200KA1YZ7;-;SBI Debt Fund Series - C - 40 (1177 Days) - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);12.7485;20-Apr-2022
 146287;INF200KA1YX2;-;SBI Debt Fund Series - C - 40 (1177 Days) - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);12.6463;20-Apr-2022
 146288;INF200KA1YW4;-;SBI Debt Fund Series C - 40 - (1177 Days) - Regular Plan - Growth;12.6463;20-Apr-2022
@@ -11359,18 +11359,18 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 146315;INF200KA1ZB5;-;SBI Debt Fund Series - C - 41 (1178 Days) - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);12.6680;27-Apr-2022
 146312;INF200KA1ZC3;-;SBI Debt Fund Series C - 41 (1178 Days) - Direct Plan - Growth;12.7704;27-Apr-2022
 146314;INF200KA1ZA7;-;SBI Debt Fund Series C - 41 (1178 Days) - Regular Plan - Growth;12.6680;27-Apr-2022
-146368;INF200KA10J8;-;SBI Debt Fund Series - C - 43 (1176 Days) - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);12.7890;09-Jun-2022
-146366;INF200KA18I3;-;SBI Debt Fund Series - C - 43 (1176 Days) - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);12.6836;09-Jun-2022
-146367;INF200KA19I1;-;SBI Debt Fund Series C - 43 (1176 Days) - Direct Plan - Growth;12.7894;09-Jun-2022
-146369;INF200KA17I5;-;SBI Debt Fund Series C - 43 (1176 Days) - Regular Plan - Growth;12.6835;09-Jun-2022
-146494;INF200KA14J0;-;SBI Debt Fund Series - C - 44 (1175 Days) - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);12.8021;09-Jun-2022
-146496;INF200KA12J4;-;SBI Debt Fund Series - C - 44 (1175 Days) - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);12.6971;09-Jun-2022
-146495;INF200KA13J2;-;SBI Debt Fund Series C - 44 (1175 Days) - Direct Plan - Growth;12.8014;09-Jun-2022
-146493;INF200KA11J6;-;SBI Debt Fund Series C - 44 (1175 Days) - Regular Plan - Growth;12.6971;09-Jun-2022
-146591;INF200KA1A30;-;SBI Debt Fund Series - C - 46 (1178 Days) - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);12.6568;09-Jun-2022
-146593;INF200KA1A14;-;SBI Debt Fund Series - C - 46 (1178 Days) - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);12.5541;09-Jun-2022
-146592;INF200KA1A22;-;SBI Debt Fund Series C - 46 (1178 Days) - Direct Plan - Growth;12.6585;09-Jun-2022
-146590;INF200KA1A06;-;SBI Debt Fund Series C - 46 (1178 Days) - Regular Plan - Growth;12.5541;09-Jun-2022
+146368;INF200KA10J8;-;SBI Debt Fund Series - C - 43 (384 Days) - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);12.7890;09-Jun-2022
+146366;INF200KA18I3;-;SBI Debt Fund Series - C - 43 (384 Days) - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);12.6836;09-Jun-2022
+146367;INF200KA19I1;-;SBI Debt Fund Series C - 43 (384 Days) - Direct Plan - Growth;12.7894;09-Jun-2022
+146369;INF200KA17I5;-;SBI Debt Fund Series C - 43 (384 Days) - Regular Plan - Growth;12.6835;09-Jun-2022
+146494;INF200KA14J0;-;SBI Debt Fund Series - C - 44 (378 Days) - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);12.8021;09-Jun-2022
+146496;INF200KA12J4;-;SBI Debt Fund Series - C - 44 (378 Days) - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);12.6971;09-Jun-2022
+146495;INF200KA13J2;-;SBI Debt Fund Series C - 44 (378 Days) - Direct Plan - Growth;12.8014;09-Jun-2022
+146493;INF200KA11J6;-;SBI Debt Fund Series C - 44 (378 Days) - Regular Plan - Growth;12.6971;09-Jun-2022
+146591;INF200KA1A30;-;SBI Debt Fund Series - C - 46 (376 Days) - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);12.6568;09-Jun-2022
+146593;INF200KA1A14;-;SBI Debt Fund Series - C - 46 (376 Days) - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);12.5541;09-Jun-2022
+146592;INF200KA1A22;-;SBI Debt Fund Series C - 46 (376 Days) - Direct Plan - Growth;12.6585;09-Jun-2022
+146590;INF200KA1A06;-;SBI Debt Fund Series C - 46 (376 Days) - Regular Plan - Growth;12.5541;09-Jun-2022
 146658;INF200KA1B70;-;SBI Debt Fund Series - C - 48 (1177 Days) - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);12.6922;09-Jun-2022
 146657;INF200KA1B54;-;SBI Debt Fund Series - C - 48 (1177 Days) - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);12.5905;09-Jun-2022
 146656;INF200KA1B62;-;SBI Debt Fund Series C - 48 (1177 Days) - Direct Plan - Growth;12.6937;09-Jun-2022
