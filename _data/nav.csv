@@ -1236,12 +1236,12 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 141889;-;-;BOI AXA Liquid Fund  Unclaimed Dividend Upto 3 years;1226.9964;30-Nov-2021
 141888;-;-;BOI AXA Liquid Fund  Unclaimed Redemption greater than  3 years;1000.0000;30-Nov-2021
 141890;-;-;BOI AXA Liquid Fund  Unclaimed Redemption Upto 3 years;1226.8682;30-Nov-2021
-119368;-;INF761K01CL0;BOI AXA Liquid Fund- Direct Plan- Daily IDCW;1002.6483;10-Jun-2022
-119369;INF761K01785;-;BOI AXA Liquid Fund- Direct Plan- Growth;2467.8011;10-Jun-2022
-119370;-;INF761K01CM8;BOI AXA Liquid Fund- Direct Plan- Weekly IDCW;1062.1374;10-Jun-2022
-111971;-;INF761K01CO4;BOI AXA Liquid Fund- Regular Plan- Daily IDCW;1002.1069;10-Jun-2022
-109254;INF761K01306;-;BOI AXA Liquid Fund- Regular Plan- Growth;2446.8740;10-Jun-2022
-109255;-;INF761K01CP1;BOI AXA Liquid Fund- Regular Plan- Weekly IDCW;1001.8592;10-Jun-2022
+119368;-;INF761K01CL0;BOI AXA Liquid Fund- Direct Plan- Daily IDCW;1002.6483;12-Jun-2022
+119369;INF761K01785;-;BOI AXA Liquid Fund- Direct Plan- Growth;2468.4816;12-Jun-2022
+119370;-;INF761K01CM8;BOI AXA Liquid Fund- Direct Plan- Weekly IDCW;1062.4297;12-Jun-2022
+111971;-;INF761K01CO4;BOI AXA Liquid Fund- Regular Plan- Daily IDCW;1002.1069;12-Jun-2022
+109254;INF761K01306;-;BOI AXA Liquid Fund- Regular Plan- Growth;2447.5406;12-Jun-2022
+109255;-;INF761K01CP1;BOI AXA Liquid Fund- Regular Plan- Weekly IDCW;1002.1322;12-Jun-2022
 118307;-;INF760K01FS0;CANARA ROBECO LIQUID FUND - DIRECT PLAN - DAILY IDCW (Reinvestment);1005.5000;12-Jun-2022
 118305;INF760K01FU6;-;CANARA ROBECO LIQUID FUND - DIRECT PLAN - GROWTH OPTION;2569.5782;12-Jun-2022
 118304;INF760K01FT8;-;CANARA ROBECO LIQUID FUND - DIRECT PLAN - IDCW (Payout/Reinvestment);1839.2456;12-Jun-2022
@@ -1465,12 +1465,12 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 120249;INF767K01DN1;-;LIC MF Liquid Fund-Direct Plan-Growth;3895.3041;10-Jun-2022
 101184;INF767K01IQ3;INF767K01IR1;LIC MF Liquid Fund-Regular Plan-Daily IDCW;1000.1;10-Jun-2022
 101185;INF767K01IS9;-;LIC MF Liquid Fund-Regular Plan-Growth;3853.3985;10-Jun-2022
-139535;-;INF174V01051;Mahindra Manulife Liquid Fund - Direct Plan - Daily IDCW;1004.8301;11-Jun-2022
-139536;-;INF174V01069;Mahindra Manulife Liquid Fund - Direct Plan - Weekly IDCW;1003.2914;11-Jun-2022
-139538;INF174V01044;-;Mahindra Manulife Liquid Fund - Direct Plan -Growth;1394.9978;11-Jun-2022
-139534;-;INF174V01028;Mahindra Manulife Liquid Fund - Regular Plan - Daily IDCW;1000.3545;11-Jun-2022
-139537;INF174V01010;-;Mahindra Manulife Liquid Fund - Regular Plan - Growth;1384.8795;11-Jun-2022
-139541;-;INF174V01036;Mahindra Manulife Liquid Fund - Regular Plan - Weekly IDCW;1009.7018;11-Jun-2022
+139535;-;INF174V01051;Mahindra Manulife Liquid Fund - Direct Plan - Daily IDCW;1004.8301;12-Jun-2022
+139536;-;INF174V01069;Mahindra Manulife Liquid Fund - Direct Plan - Weekly IDCW;1003.4237;12-Jun-2022
+139538;INF174V01044;-;Mahindra Manulife Liquid Fund - Direct Plan -Growth;1395.1818;12-Jun-2022
+139534;-;INF174V01028;Mahindra Manulife Liquid Fund - Regular Plan - Daily IDCW;1000.3545;12-Jun-2022
+139537;INF174V01010;-;Mahindra Manulife Liquid Fund - Regular Plan - Growth;1385.0580;12-Jun-2022
+139541;-;INF174V01036;Mahindra Manulife Liquid Fund - Regular Plan - Weekly IDCW;1009.8320;12-Jun-2022
 139540;-;-;Mahindra Manulife Liquid Fund - Unclaimed Redemption / IDCW Beyond 3 years;1000.0000;30-Nov-2021
 139539;-;-;Mahindra Manulife Liquid Fund - Unclaimed Redemption / IDCW Upto three years;1218.6343;30-Nov-2021
 118859;INF769K01CM1;-;Mirae Asset Cash Management Fund - Direct Plan - Growth;2264.2934;10-Jun-2022
@@ -1617,20 +1617,20 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 148833;INF0GCD01198;-;TRUSTMF Liquid Fund-Regular Plan-Growth;1038.1749;12-Jun-2022
 148843;INF0GCD01248;INF0GCD01230;TRUSTMF Liquid Fund-Regular Plan-Monthly Income Distribution cum Capital Withdrawal;1014.1566;12-Jun-2022
 148836;INF0GCD01214;INF0GCD01222;TRUSTMF Liquid Fund-Regular Plan-Weekly Income Distribution cum Capital Withdrawal;1011.2408;12-Jun-2022
-115401;-;INF582M01021;Union Liquid Fund - Daily IDCW Option;1000.7927;10-Jun-2022
-119301;-;INF582M01682;Union Liquid Fund - Direct Plan - Daily IDCW Option;1000.7927;10-Jun-2022
-119305;INF582M01724;INF582M01708;Union Liquid Fund - Direct Plan - Fortnightly IDCW Option;1002.5861;10-Jun-2022
-119303;INF582M01674;-;Union Liquid Fund - Direct Plan - Growth Option;2066.4241;10-Jun-2022
-119302;INF582M01732;INF582M01716;Union Liquid Fund - Direct Plan - Monthly IDCW Option;1002.5859;10-Jun-2022
-119304;-;INF582M01690;Union Liquid Fund - Direct Plan - Weekly IDCW Option;1001.2765;10-Jun-2022
-115399;INF582M01062;INF582M01047;Union Liquid Fund - Fortnightly IDCW Option;1002.5511;10-Jun-2022
-115398;INF582M01013;-;Union Liquid Fund - Growth Option;2047.5148;10-Jun-2022
-115400;INF582M01070;INF582M01054;Union Liquid Fund - Monthly IDCW Option;1002.5429;10-Jun-2022
+115401;-;INF582M01021;Union Liquid Fund - Daily IDCW Option;1000.7927;12-Jun-2022
+119301;-;INF582M01682;Union Liquid Fund - Direct Plan - Daily IDCW Option;1000.7927;12-Jun-2022
+119305;INF582M01724;INF582M01708;Union Liquid Fund - Direct Plan - Fortnightly IDCW Option;1000.8032;12-Jun-2022
+119303;INF582M01674;-;Union Liquid Fund - Direct Plan - Growth Option;2066.9490;12-Jun-2022
+119302;INF582M01732;INF582M01716;Union Liquid Fund - Direct Plan - Monthly IDCW Option;1002.8406;12-Jun-2022
+119304;-;INF582M01690;Union Liquid Fund - Direct Plan - Weekly IDCW Option;1001.5333;12-Jun-2022
+115399;INF582M01062;INF582M01047;Union Liquid Fund - Fortnightly IDCW Option;1000.8066;12-Jun-2022
+115398;INF582M01013;-;Union Liquid Fund - Growth Option;2048.0236;12-Jun-2022
+115400;INF582M01070;INF582M01054;Union Liquid Fund - Monthly IDCW Option;1002.7920;12-Jun-2022
 142345;-;-;Union Liquid Fund - Unclaimed Amounts Plan - IDCW Beyond 3 years;1000.0000;30-Nov-2021
 142344;-;-;Union Liquid Fund - Unclaimed Amounts Plan - IDCW Upto 3 years;1167.6169;30-Nov-2021
 142343;-;-;Union Liquid Fund - Unclaimed Amounts Plan - Redemption Beyond 3 years;1000.0000;30-Nov-2021
 142342;-;-;Union Liquid Fund - Unclaimed Amounts Plan - Redemption Upto 3 years;1167.3290;30-Nov-2021
-115402;-;INF582M01039;Union Liquid Fund - Weekly IDCW Option;1001.4666;10-Jun-2022
+115402;-;INF582M01039;Union Liquid Fund - Weekly IDCW Option;1001.7155;12-Jun-2022
 134427;INF789FA1K63;INF789FA1K71;UTI Liquid Cash Plan - Direct Plan - Annual IDCW;1545.4678;10-Jun-2022
 120558;-;INF789F01XP8;UTI Liquid Cash Plan - Direct Plan - Daily IDCW (Reinvestment);1044.959;10-Jun-2022
 141768;INF789FA1K89;INF789FA1K97;UTI Liquid Cash Plan - Direct Plan - Flexi IDCW;1272.9168;10-Jun-2022
@@ -2541,16 +2541,16 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 147193;INF955L01HS0;-;Baroda BNP Paribas Overnight Fund - Regular Plan - Growth;1122.8146;11-Jun-2022
 147198;-;INF955L01HU6;Baroda BNP Paribas Overnight Fund - Regular Plan - Weekly IDCW;1000.5707;11-Jun-2022
 147953;-;INF761K01FA6;BOI AXA  Overnight Fund Regular Plan- Daily IDCW;1000.0000;23-Mar-2021
-147951;INF761K01EU7;-;BOI AXA Overnight Fund Direct Plan Growth;1084.3759;10-Jun-2022
-147952;-;INF761K01EV5;BOI AXA Overnight Fund Direct Plan- Daily IDCW;1000.0000;10-Jun-2022
-147948;INF761K01EY9;INF761K01EX1;BOI AXA Overnight Fund Direct Plan- Monthly IDCW;1001.5977;10-Jun-2022
-147950;-;INF761K01EW3;BOI AXA Overnight Fund Direct Plan- Weekly IDCW;1000.4849;10-Jun-2022
-147936;INF761K01EZ6;-;BOI AXA Overnight Fund Regular Plan Growth;1082.2876;10-Jun-2022
-147949;INF761K01FD0;INF761K01FC2;BOI AXA Overnight Fund Regular Plan- Monthly IDCW;1001.5899;10-Jun-2022
-149412;-;-;BOI AXA Overnight Fund Unclaimed IDCW Plan - Greater than 3 Years;1000.0000;10-Jun-2022
-149414;-;-;BOI AXA Overnight Fund Unclaimed IDCW Plan - Up to 3 Years;1019.5819;10-Jun-2022
-149415;-;-;BOI AXA Overnight Fund Unclaimed Redemption Plan - Greater than 3 Years;1000.0000;10-Jun-2022
-149413;-;-;BOI AXA Overnight Fund Unclaimed Redemption Plan - Upto 3 Years;1019.5016;10-Jun-2022
+147951;INF761K01EU7;-;BOI AXA Overnight Fund Direct Plan Growth;1084.6407;12-Jun-2022
+147952;-;INF761K01EV5;BOI AXA Overnight Fund Direct Plan- Daily IDCW;1000.0000;12-Jun-2022
+147948;INF761K01EY9;INF761K01EX1;BOI AXA Overnight Fund Direct Plan- Monthly IDCW;1001.8414;12-Jun-2022
+147950;-;INF761K01EW3;BOI AXA Overnight Fund Direct Plan- Weekly IDCW;1000.7292;12-Jun-2022
+147936;INF761K01EZ6;-;BOI AXA Overnight Fund Regular Plan Growth;1082.5495;12-Jun-2022
+147949;INF761K01FD0;INF761K01FC2;BOI AXA Overnight Fund Regular Plan- Monthly IDCW;1001.8327;12-Jun-2022
+149412;-;-;BOI AXA Overnight Fund Unclaimed IDCW Plan - Greater than 3 Years;1000.0000;12-Jun-2022
+149414;-;-;BOI AXA Overnight Fund Unclaimed IDCW Plan - Up to 3 Years;1019.8353;12-Jun-2022
+149415;-;-;BOI AXA Overnight Fund Unclaimed Redemption Plan - Greater than 3 Years;1000.0000;12-Jun-2022
+149413;-;-;BOI AXA Overnight Fund Unclaimed Redemption Plan - Upto 3 Years;1019.7550;12-Jun-2022
 147532;-;INF760K01JN3;CANARA ROBECO OVERNIGHT FUND - DIRECT PLAN - DAILY IDCW (Reinvestment);1001.0009;12-Jun-2022
 147531;INF760K01JM5;-;CANARA ROBECO OVERNIGHT FUND - DIRECT PLAN - GROWTH OPTION;1108.9343;12-Jun-2022
 147533;-;INF760K01JP8;CANARA ROBECO OVERNIGHT FUND - REGULAR PLAN - DAILY IDCW (Reinvestment);1001.0000;12-Jun-2022
@@ -2697,12 +2697,12 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 147519;INF767K01QD4;-;LIC MF Overnight Fund-Regular Plan-Growth;1105.9522;10-Jun-2022
 147512;INF767K01PZ9;INF767K01QA0;LIC MF Overnight Fund-Regular Plan-IDCW;1106.4579;10-Jun-2022
 147518;-;INF767K01QC6;LIC MF Overnight Fund-Regular Plan-Weekly IDCW;1023.9676;10-Jun-2022
-147563;-;INF174V01846;Mahindra Manulife Overnight Fund - Direct Plan - Daily IDCW;1058.0616;11-Jun-2022
-147564;INF174V01838;-;Mahindra Manulife Overnight Fund - Direct Plan -Growth;1108.7500;11-Jun-2022
-147566;-;INF174V01820;Mahindra Manulife Overnight Fund - Regular Plan - Daily IDCW;1033.9033;11-Jun-2022
-147565;INF174V01812;-;Mahindra Manulife Overnight Fund - Regular Plan - Growth;1105.4943;11-Jun-2022
-149471;-;-;Mahindra Manulife Overnight Fund - Unclaimed Redemption/IDCW beyond 3 years;1000.0000;11-Jun-2022
-149470;-;-;Mahindra Manulife Overnight Fund - Unclaimed Redemption/IDCW upto 3 years;1016.6801;11-Jun-2022
+147563;-;INF174V01846;Mahindra Manulife Overnight Fund - Direct Plan - Daily IDCW;1058.1958;12-Jun-2022
+147564;INF174V01838;-;Mahindra Manulife Overnight Fund - Direct Plan -Growth;1108.8883;12-Jun-2022
+147566;-;INF174V01820;Mahindra Manulife Overnight Fund - Regular Plan - Daily IDCW;1034.0302;12-Jun-2022
+147565;INF174V01812;-;Mahindra Manulife Overnight Fund - Regular Plan - Growth;1105.6292;12-Jun-2022
+149471;-;-;Mahindra Manulife Overnight Fund - Unclaimed Redemption/IDCW beyond 3 years;1000.0000;12-Jun-2022
+149470;-;-;Mahindra Manulife Overnight Fund - Unclaimed Redemption/IDCW upto 3 years;1016.8070;12-Jun-2022
 147737;-;INF769K01FJ0;Mirae Asset Overnight Fund Direct Daily IDCW;1000.0007;10-Jun-2022
 147738;INF769K01FF8;INF769K01FI2;Mirae Asset Overnight Fund Direct Monthly IDCW;1001.9239;10-Jun-2022
 147736;INF769K01FG6;-;Mirae Asset Overnight Fund Direct Plan Growth;1097.6119;10-Jun-2022
@@ -2757,16 +2757,16 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 149797;INF0GCD01453;-;TRUST MF OVERNIGHT FUND-DIRECT PLAN-GROWTH;1014.5894;12-Jun-2022
 149798;-;INF0GCD01446;TRUST MF OVERNIGHT FUND-REGULAR PLAN-DAILY IDCW REINVESTMENT;1014.434;12-Jun-2022
 149795;INF0GCD01438;-;TRUST MF OVERNIGHT FUND-REGULAR-GROWTH;1014.3869;12-Jun-2022
-147002;-;INF582M01FB0;Union Overnight Fund - Direct Plan - Daily IDCW Option;1000.7630;10-Jun-2022
-147003;INF582M01FA2;-;Union Overnight Fund - Direct Plan - Growth Option;1127.6585;10-Jun-2022
-147006;INF582M01FG9;INF582M01FE4;Union Overnight Fund - Direct Plan - Monthly IDCW Option;1002.4401;10-Jun-2022
-146998;-;INF582M01FK1;Union Overnight Fund - Regular Plan - Daily IDCW Option;1000.7664;10-Jun-2022
-146997;INF582M01FJ3;-;Union Overnight Fund - Regular Plan - Growth Option;1124.0960;10-Jun-2022
-147000;INF582M01FP0;INF582M01FN5;Union Overnight Fund - Regular Plan - Monthly IDCW Option;1002.3865;10-Jun-2022
-149451;-;-;Union Overnight Fund - Unclaimed Amounts Plan - IDCW Beyond 3 years;1000.0000;10-Jun-2022
-149452;-;-;Union Overnight Fund - Unclaimed Amounts Plan - IDCW Upto 3 years;1016.6421;10-Jun-2022
-149453;-;-;Union Overnight Fund - Unclaimed Amounts Plan - Redemption Beyond 3 years;1000.0000;10-Jun-2022
-149454;-;-;Union Overnight Fund - Unclaimed Amounts Plan - Redemption Upto 3 years;1016.6311;10-Jun-2022
+147002;-;INF582M01FB0;Union Overnight Fund - Direct Plan - Daily IDCW Option;1000.7630;12-Jun-2022
+147003;INF582M01FA2;-;Union Overnight Fund - Direct Plan - Growth Option;1127.9361;12-Jun-2022
+147006;INF582M01FG9;INF582M01FE4;Union Overnight Fund - Direct Plan - Monthly IDCW Option;1002.6861;12-Jun-2022
+146998;-;INF582M01FK1;Union Overnight Fund - Regular Plan - Daily IDCW Option;1000.7675;12-Jun-2022
+146997;INF582M01FJ3;-;Union Overnight Fund - Regular Plan - Growth Option;1124.3665;12-Jun-2022
+147000;INF582M01FP0;INF582M01FN5;Union Overnight Fund - Regular Plan - Monthly IDCW Option;1002.6276;12-Jun-2022
+149451;-;-;Union Overnight Fund - Unclaimed Amounts Plan - IDCW Beyond 3 years;1000.0000;12-Jun-2022
+149452;-;-;Union Overnight Fund - Unclaimed Amounts Plan - IDCW Upto 3 years;1016.8931;12-Jun-2022
+149453;-;-;Union Overnight Fund - Unclaimed Amounts Plan - Redemption Beyond 3 years;1000.0000;12-Jun-2022
+149454;-;-;Union Overnight Fund - Unclaimed Amounts Plan - Redemption Upto 3 years;1016.8814;12-Jun-2022
 100814;INF789F01604;-;UTI - Overnight  Fund - Regular Plan - Growth Option;2904.6634;10-Jun-2022
 120785;INF789FB1S71;-;UTI - Overnight Fund - Direct Plan - Growth Option;2931.6852;10-Jun-2022
 124266;-;INF789FB1S89;UTI Overnight Fund - Direct Plan - Daily IDCW;1371.6621;10-Jun-2022
