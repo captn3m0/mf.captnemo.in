@@ -2749,7 +2749,7 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 149821;INF903JA1KZ9;-;Sundaram Overnight Fund Unclaimed IDCW upto three years;1014.5157;16-Jun-2022
 149819;INF903JA1KY2;-;Sundaram Overnight Fund Unclaimed Redemption  beyond three years;1000.0000;16-Jun-2022
 149818;INF903JA1LA0;-;Sundaram Overnight Fund Unclaimed Redemption upto three years;1014.5092;16-Jun-2022
-146978;-;INF277K019T3;TATA Overnight Fund Direct Plan - Daily Reinvestment of Income Distribution cum capital withdrawal option   ;999.9999;16-Jun-2022
+146978;-;INF277K019T3;TATA Overnight Fund Direct Plan - Daily Reinvestment of Income Distribution cum capital withdrawal option   ;1000.0000;16-Jun-2022
 146979;-;INF277K017T7;TATA Overnight Fund Regular Plan - Daily Reinvestment of Income Distribution cum capital withdrawal option   ;1000.0000;16-Jun-2022
 146980;INF277K018T5;-;Tata Overnight Fund-Direct Plan-Growth;1130.6322;16-Jun-2022
 146977;INF277K016T9;-;Tata Overnight Fund-Regular Plan-Growth;1126.8054;16-Jun-2022
@@ -3417,12 +3417,12 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 149699;INF173K01ES9;INF173K01ET7;Sundaram Dividend Yield Fund (Formerly Known as Principal Dividend Yield Fund)- Direct Plan - Half Yearly Income Distribution CUM Capital Withdrawal Option;44.6086;16-Jun-2022
 149698;INF173K01AD9;INF173K01AE7;Sundaram Dividend Yield Fund (Formerly Known as Principal Dividend Yield Fund)- Half Yearly Income Distribution CUM Capital Withdrawal Plan;27.6363;16-Jun-2022
 149697;INF173K01AC1;-;Sundaram Dividend Yield Fund (Formerly Known as Principal Dividend Yield Fund)-Growth Plan;76.5799;16-Jun-2022
-148947;INF277K015Z8;-;Tata Dividend Yield Fund-Direct Plan-Growth;9.9946;16-Jun-2022
-148952;INF277K017Z4;-;Tata Dividend Yield Fund-Direct Plan-IDCW Payout;9.9946;16-Jun-2022
-148951;-;INF277K016Z6;Tata Dividend Yield Fund-Direct Plan-IDCW Reinvestment;9.9946;16-Jun-2022
-148948;INF277K018Z2;-;Tata Dividend Yield Fund-Regular Plan-Growth;9.7984;16-Jun-2022
-148950;INF277KA1018;-;Tata Dividend Yield Fund-Regular Plan-IDCW Payout;9.7984;16-Jun-2022
-148949;-;INF277K019Z0;Tata Dividend Yield Fund-Regular Plan-IDCW Reinvestment;9.7984;16-Jun-2022
+148947;INF277K015Z8;-;Tata Dividend Yield Fund-Direct Plan-Growth;9.9929;16-Jun-2022
+148952;INF277K017Z4;-;Tata Dividend Yield Fund-Direct Plan-IDCW Payout;9.9929;16-Jun-2022
+148951;-;INF277K016Z6;Tata Dividend Yield Fund-Direct Plan-IDCW Reinvestment;9.9929;16-Jun-2022
+148948;INF277K018Z2;-;Tata Dividend Yield Fund-Regular Plan-Growth;9.7968;16-Jun-2022
+148950;INF277KA1018;-;Tata Dividend Yield Fund-Regular Plan-IDCW Payout;9.7968;16-Jun-2022
+148949;-;INF277K019Z0;Tata Dividend Yield Fund-Regular Plan-IDCW Reinvestment;9.7968;16-Jun-2022
 120750;INF789F01SU8;INF789F01SV6;UTI Dividend Yield Fund - Direct Plan - IDCW;22.2756;16-Jun-2022
 103025;INF789F01448;INF789F01455;UTI Dividend Yield Fund - Regular Plan - IDCW;19.1577;16-Jun-2022
 103026;INF789F01463;-;UTI-Dividend Yield Fund.-Growth;91.9253;16-Jun-2022
@@ -3743,10 +3743,10 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 120662;INF789F01TC4;-;UTI - Flexi Cap Fund-Growth Option - Direct;218.9955;16-Jun-2022
 120663;INF789F01TA8;INF789F01TB6;UTI Flexi Cap Fund - Direct Plan - IDCW;149.5094;16-Jun-2022
 100668;INF189A01053;INF789F01505;UTI Flexi Cap Fund - Regular Plan - IDCW;141.852;16-Jun-2022
-119564;INF209K01WE3;-;Aditya Birla Sun Life Focused Equity Fund - Growth - Direct Plan;89.102;15-Jun-2022
-119563;INF209K01Q71;INF209K01WF0;Aditya Birla Sun Life Focused Equity Fund -Direct - IDCW;41.615;15-Jun-2022
-103309;INF209K01462;-;Aditya Birla Sun Life Focused Equity Fund -Growth Option;81.4947;15-Jun-2022
-103308;INF209K01454;INF209K01CS5;Aditya Birla Sun Life Focused Equity Fund -Regular - IDCW;18.203;15-Jun-2022
+119564;INF209K01WE3;-;Aditya Birla Sun Life Focused Equity Fund - Growth - Direct Plan;87.431;16-Jun-2022
+119563;INF209K01Q71;INF209K01WF0;Aditya Birla Sun Life Focused Equity Fund -Direct - IDCW;40.8346;16-Jun-2022
+103309;INF209K01462;-;Aditya Birla Sun Life Focused Equity Fund -Growth Option;79.9641;16-Jun-2022
+103308;INF209K01454;INF209K01CS5;Aditya Birla Sun Life Focused Equity Fund -Regular - IDCW;17.8611;16-Jun-2022
 120468;INF846K01CQ8;-;Axis Focused 25 Fund - Direct Plan - Growth Option;40.57;16-Jun-2022
 120467;INF846K01CO3;INF846K01CP0;Axis Focused 25 Fund - Direct Plan - IDCW;29.77;16-Jun-2022
 117560;INF846K01CH7;-;Axis Focused 25 Fund - Regular Plan - Growth Option;36.21;16-Jun-2022
@@ -3873,10 +3873,10 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 118277;INF760K01EG8;INF760K01EH6;CANARA ROBECO EMERGING EQUITIES - DIRECT PLAN - IDCW (Payout/Reinvestment);78.8600;16-Jun-2022
 102920;INF760K01167;-;CANARA ROBECO EMERGING EQUITIES - REGULAR PLAN - GROWTH OPTION;140.4700;16-Jun-2022
 102921;INF760K01175;INF760K01183;CANARA ROBECO EMERGING EQUITIES - REGULAR PLAN - IDCW (Payout/Reinvestment);53.5800;16-Jun-2022
-119218;INF740K01PL6;-;DSP Equity Opportunities Fund - Direct Plan - Growth;338.623;15-Jun-2022
-119219;INF740K01PM4;INF740K01PN2;DSP Equity Opportunities Fund - Direct Plan - IDCW;70.748;15-Jun-2022
-103819;INF740K01094;-;DSP Equity Opportunities Fund-Regular Plan - Growth;312.514;15-Jun-2022
-103820;INF740K01078;INF740K01086;DSP Equity Opportunities Fund-Regular Plan - IDCW;25.562;15-Jun-2022
+119218;INF740K01PL6;-;DSP Equity Opportunities Fund - Direct Plan - Growth;332.120;16-Jun-2022
+119219;INF740K01PM4;INF740K01PN2;DSP Equity Opportunities Fund - Direct Plan - IDCW;69.389;16-Jun-2022
+103819;INF740K01094;-;DSP Equity Opportunities Fund-Regular Plan - Growth;306.504;16-Jun-2022
+103820;INF740K01078;INF740K01086;DSP Equity Opportunities Fund-Regular Plan - IDCW;25.070;16-Jun-2022
 140175;INF843K01AL0;-;Edelweiss Large & Mid Cap Fund - Direct Plan - Growth Option;51.078;16-Jun-2022
 140172;INF843K01047;-;Edelweiss Large & Mid Cap Fund - Regular Plan - Growth Option;45.485;16-Jun-2022
 140174;INF843K01AM8;INF843K01AN6;Edelweiss Large and Mid Cap Fund - Direct Plan - IDCW Option;19.812;16-Jun-2022
@@ -3970,10 +3970,10 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 100664;INF789F01869;-;UTI - Core Equity Fund - Regular Plan - Growth Option;86.585;16-Jun-2022
 120664;INF789F01UE8;INF789F01UF5;UTI Core Equity Fund - Direct Plan - IDCW;44.4815;16-Jun-2022
 100663;INF189A01046;INF789F01851;UTI Core Equity Fund - Regular Plan - IDCW;42.1803;16-Jun-2022
-119528;INF209K01YY7;-;Aditya Birla Sun Life Frontline Equity Fund - Growth - Direct Plan;329.73;15-Jun-2022
-119527;INF209K01YX9;INF209K01YW1;Aditya Birla Sun Life Frontline Equity Fund-DIRECT - IDCW;69.49;15-Jun-2022
-103174;INF209K01BR9;-;Aditya Birla Sun Life Frontline Equity Fund-Growth;304.61;15-Jun-2022
-103173;INF209K01BO6;INF209K01EC5;Aditya Birla Sun Life Frontline Equity Fund-Regular - IDCW;29.71;15-Jun-2022
+119528;INF209K01YY7;-;Aditya Birla Sun Life Frontline Equity Fund - Growth - Direct Plan;323.4;16-Jun-2022
+119527;INF209K01YX9;INF209K01YW1;Aditya Birla Sun Life Frontline Equity Fund-DIRECT - IDCW;68.16;16-Jun-2022
+103174;INF209K01BR9;-;Aditya Birla Sun Life Frontline Equity Fund-Growth;298.75;16-Jun-2022
+103173;INF209K01BO6;INF209K01EC5;Aditya Birla Sun Life Frontline Equity Fund-Regular - IDCW;29.14;16-Jun-2022
 120465;INF846K01DP8;-;Axis Bluechip Fund - Direct Plan - Growth;42.89;16-Jun-2022
 120466;INF846K01DN3;INF846K01DO1;Axis Bluechip Fund - Direct Plan - IDCW;19.05;16-Jun-2022
 112277;INF846K01164;-;Axis Bluechip Fund - Regular Plan - Growth;38.38;16-Jun-2022
@@ -4925,10 +4925,10 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 148619;INF789F1AUR9;-;UTI Small Cap Fund - Direct Plan - IDCW (Payout);13.7853;16-Jun-2022
 148617;INF789F1AUO6;-;UTI Small Cap Fund - Regular Plan - Growth Option;13.3868;16-Jun-2022
 148616;INF789F1AUP3;-;UTI Small Cap Fund - Regular Plan - IDCW (Payout);13.3867;16-Jun-2022
-119658;INF209K01WP9;-;Aditya Birla Sun Life Pure Value Fund - Direct - IDCW;48.3455;15-Jun-2022
-119659;INF209K01WQ7;-;Aditya Birla Sun Life Pure Value Fund - Growth - Direct Plan;69.2091;15-Jun-2022
-108167;INF209K01LF3;-;Aditya Birla Sun Life Pure Value Fund - Growth Option;63.1484;15-Jun-2022
-108166;INF209K01LE6;INF209K01LG1;Aditya Birla Sun Life Pure Value Fund - Regular - IDCW;27.2117;15-Jun-2022
+119658;INF209K01WP9;-;Aditya Birla Sun Life Pure Value Fund - Direct - IDCW;47.095;16-Jun-2022
+119659;INF209K01WQ7;-;Aditya Birla Sun Life Pure Value Fund - Growth - Direct Plan;67.419;16-Jun-2022
+108167;INF209K01LF3;-;Aditya Birla Sun Life Pure Value Fund - Growth Option;61.5135;16-Jun-2022
+108166;INF209K01LE6;INF209K01LG1;Aditya Birla Sun Life Pure Value Fund - Regular - IDCW;26.5072;16-Jun-2022
 149166;INF846K010C0;-;Axis Value Fund - Direct Plan - Growth;8.75;16-Jun-2022
 149168;INF846K011C8;INF846K012C6;Axis Value Fund - Direct Plan - IDCW;8.75;16-Jun-2022
 149167;INF846K013C4;-;Axis Value Fund - Regular Plan - Growth;8.65;16-Jun-2022
@@ -5227,10 +5227,10 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 120674;INF789F01SK9;-;UTI - Hybrid Equity Fund -Direct Plan - Growth;241.0323;16-Jun-2022
 120673;INF789F01SI3;INF789F01SJ1;UTI Hybrid Equity Fund - Direct Plan - IDCW;32.1119;16-Jun-2022
 100685;INF789F01307;INF789F01315;UTI Hybrid Equity Fund - Regular Plan - IDCW;29.8223;16-Jun-2022
-119526;INF209K01VP1;-;Aditya Birla Sun Life Arbitrage Fund - Growth - Direct Plan;22.9445;15-Jun-2022
-112088;INF209K01264;-;Aditya BIRLA SUN LIFE ARBITRAGE FUND - REGULAR PLAN - GROWTH;21.7483;15-Jun-2022
-119525;INF209K01P80;INF209K01VQ9;Aditya Birla Sun Life Arbitrage Fund-DIRECT - IDCW;11.2667;15-Jun-2022
-112087;INF209K01256;INF209K01CI6;Aditya Birla Sun Life Arbitrage Fund-Regular - IDCW;11.0838;15-Jun-2022
+119526;INF209K01VP1;-;Aditya Birla Sun Life Arbitrage Fund - Growth - Direct Plan;22.968;16-Jun-2022
+112088;INF209K01264;-;Aditya BIRLA SUN LIFE ARBITRAGE FUND - REGULAR PLAN - GROWTH;21.7702;16-Jun-2022
+119525;INF209K01P80;INF209K01VQ9;Aditya Birla Sun Life Arbitrage Fund-DIRECT - IDCW;11.2783;16-Jun-2022
+112087;INF209K01256;INF209K01CI6;Aditya Birla Sun Life Arbitrage Fund-Regular - IDCW;11.0949;16-Jun-2022
 130773;INF846K01PZ1;-;Axis Arbitrage Fund - Direct Plan - Growth;16.3519;16-Jun-2022
 130774;INF846K01QA2;INF846K01QB0;Axis Arbitrage Fund - Direct Plan - IDCW;11.4702;16-Jun-2022
 130771;INF846K01QC8;-;Axis Arbitrage Fund - Regular Plan - Growth;15.3740;16-Jun-2022
@@ -5300,11 +5300,11 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 140802;INF666M01BB0;INF666M01BC8;Indiabulls Arbitrage Fund- Regular Plan- Monthly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment);10.9637;16-Jun-2022
 140804;INF666M01CG7;INF666M01CH5;Indiabulls Arbitrage Fund- Regular Plan- Quarterly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment);11.8638;16-Jun-2022
 140808;INF666M01CI3;INF666M01CJ1;Indiabulls Arbitrage Fund- Regular Plan- Yearly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment);11.8566;16-Jun-2022
-130787;INF205K01P68;-;Invesco India Arbitrage Fund - Direct Plan - Annual Bonus;27.4911;15-Jun-2022
-120401;INF205K01KR8;-;Invesco India Arbitrage Fund - Direct Plan - Growth Option;27.4943;15-Jun-2022
-120400;INF205K01KP2;INF205K01KQ0;Invesco India Arbitrage Fund - Direct Plan - IDCW (Payout / Reinvestment);14.9298;15-Jun-2022
-105603;INF205K01122;-;Invesco India Arbitrage Fund - Growth Option;25.9486;15-Jun-2022
-105604;INF205K01148;INF205K01130;Invesco India Arbitrage Fund - IDCW (Payout / Reinvestment);13.8484;15-Jun-2022
+130787;INF205K01P68;-;Invesco India Arbitrage Fund - Direct Plan - Annual Bonus;27.509;16-Jun-2022
+120401;INF205K01KR8;-;Invesco India Arbitrage Fund - Direct Plan - Growth Option;27.5122;16-Jun-2022
+120400;INF205K01KP2;INF205K01KQ0;Invesco India Arbitrage Fund - Direct Plan - IDCW (Payout / Reinvestment);14.9395;16-Jun-2022
+105603;INF205K01122;-;Invesco India Arbitrage Fund - Growth Option;25.965;16-Jun-2022
+105604;INF205K01148;INF205K01130;Invesco India Arbitrage Fund - IDCW (Payout / Reinvestment);13.8571;16-Jun-2022
 147617;INF00XX01440;-;ITI Arbitrage Fund - Direct Plan - Growth Option;11.0554;16-Jun-2022
 147615;INF00XX01457;INF00XX01465;ITI Arbitrage Fund - Direct Plan - IDCW Option;11.0554;16-Jun-2022
 147618;INF00XX01416;-;ITI Arbitrage Fund - Regular Plan - Growth Option;10.8263;16-Jun-2022
@@ -5380,12 +5380,12 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 149551;INF173K01MY0;INF173K01NA8;Sundaram Arbitrage Fund (Formerly Known as Principal Arbitrage Fund)- Regular Plan - Monthly Income Distribution CUM Capital Withdrawal;10.5033;16-Jun-2022
 149550;INF173K01NF7;-;Sundaram Arbitrage Fund (Formerly Known as Prinicpal Arbitrage Fund) - Direct Plan - Growth;12.3479;16-Jun-2022
 149549;INF173K01NC4;INF173K01NE0;Sundaram Arbitrage Fund( Formerly Known as Principal Arbitrage Fund) - Direct Plan- Monthly Income Distribution CUM Capital Withdrawal;10.6778;16-Jun-2022
-145727;INF277K018Q1;-;TATA Arbitrage Fund Direct Plan - Monthly Payout of Income Distribution cum capital withdrawal option ;11.3968;16-Jun-2022
-145725;-;INF277K019Q9;TATA Arbitrage Fund Direct Plan - Monthly Reinvestment of Income Distribution cum capital withdrawal option;11.3968;16-Jun-2022
-145728;INF277K016Q5;-;TATA Arbitrage Fund Regular Plan - Monthly Payout of Income Distribution cum capital withdrawal option ;11.0666;16-Jun-2022
-145726;-;INF277K010R6;TATA Arbitrage Fund Regular Plan - Monthly Reinvestment of Income Distribution cum capital withdrawal option ;11.0666;16-Jun-2022
-145724;INF277K017Q3;-;Tata Arbitrage Fund-Direct Plan-Growth;11.8892;16-Jun-2022
-145723;INF277K015Q7;-;Tata Arbitrage Fund-Regular Plan-Growth;11.5764;16-Jun-2022
+145727;INF277K018Q1;-;TATA Arbitrage Fund Direct Plan - Monthly Payout of Income Distribution cum capital withdrawal option ;11.5960;16-Jun-2022
+145725;-;INF277K019Q9;TATA Arbitrage Fund Direct Plan - Monthly Reinvestment of Income Distribution cum capital withdrawal option;11.5960;16-Jun-2022
+145728;INF277K016Q5;-;TATA Arbitrage Fund Regular Plan - Monthly Payout of Income Distribution cum capital withdrawal option ;11.2600;16-Jun-2022
+145726;-;INF277K010R6;TATA Arbitrage Fund Regular Plan - Monthly Reinvestment of Income Distribution cum capital withdrawal option ;11.2600;16-Jun-2022
+145724;INF277K017Q3;-;Tata Arbitrage Fund-Direct Plan-Growth;12.0970;16-Jun-2022
+145723;INF277K015Q7;-;Tata Arbitrage Fund-Regular Plan-Growth;11.7787;16-Jun-2022
 146297;INF582M01ES7;-;Union Arbitrage Fund - Direct Plan - Growth Option;11.7314;16-Jun-2022
 146296;INF582M01EU3;INF582M01ET5;Union Arbitrage Fund - Direct Plan - IDCW Option;11.4529;16-Jun-2022
 146294;INF582M01EW9;-;Union Arbitrage Fund - Regular Plan - Growth Option;11.5368;16-Jun-2022
@@ -5557,10 +5557,10 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 120778;INF789F01UK5;INF789F01UL3;UTI Regular Savings Fund - Direct Plan - Monthly IDCW;16.3576;16-Jun-2022
 102534;INF789F01877;INF789F01885;UTI Regular Savings Fund - Regular Plan - Flexi IDCW;36.7683;16-Jun-2022
 102536;INF789F01901;INF789F01919;UTI Regular Savings Fund - Regular Plan - Monthly IDCW;15.0669;16-Jun-2022
-131670;INF084M01DJ5;-;Aditya Birla Sun Life Balanced Advantage Fund - Direct Plan - Growth Option;75.81;15-Jun-2022
-131666;INF084M01AB8;-;Aditya Birla Sun Life Balanced Advantage Fund - Regular Plan - Growth Option;69.21;15-Jun-2022
-131671;INF084M01DK3;INF084M01DL1;Aditya Birla Sun Life Balanced Advantage Fund -DIRECT - IDCW;23.66;15-Jun-2022
-131665;INF084M01AC6;INF084M01AD4;Aditya Birla Sun Life Balanced Advantage Fund -REGULAR - IDCW;21.57;15-Jun-2022
+131670;INF084M01DJ5;-;Aditya Birla Sun Life Balanced Advantage Fund - Direct Plan - Growth Option;75.07;16-Jun-2022
+131666;INF084M01AB8;-;Aditya Birla Sun Life Balanced Advantage Fund - Regular Plan - Growth Option;68.53;16-Jun-2022
+131671;INF084M01DK3;INF084M01DL1;Aditya Birla Sun Life Balanced Advantage Fund -DIRECT - IDCW;23.43;16-Jun-2022
+131665;INF084M01AC6;INF084M01AD4;Aditya Birla Sun Life Balanced Advantage Fund -REGULAR - IDCW;21.36;16-Jun-2022
 141642;INF846K01A29;-;Axis Balanced Advantage Fund - Direct Plan - Growth;14.19;16-Jun-2022
 141643;INF846K01A37;INF846K01A45;Axis Balanced Advantage Fund - Direct Plan - IDCW;11.41;16-Jun-2022
 141644;INF846K01A52;-;Axis Balanced Advantage Fund - Regular Plan - Growth;13.23;16-Jun-2022
@@ -5577,12 +5577,12 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 126391;INF740K01K99;INF740K01L07;DSP Dynamic Asset Allocation Fund - Direct Plan - IDCW - Monthly;12.371;16-Jun-2022
 126394;INF740K01K57;-;DSP Dynamic Asset Allocation Fund - Regular Plan - Growth;18.528;16-Jun-2022
 126392;INF740K01K65;INF740K01K73;DSP Dynamic Asset Allocation Fund - Regular Plan - IDCW - Monthly;11.113;16-Jun-2022
-141767;INF754K01IH0;INF754K01II8;Edelweiss Balanced Advantage Fund - Direct Plan - Monthly - IDCW Option;21.75;15-Jun-2022
-118614;INF754K01BP8;INF754K01BQ6;Edelweiss Balanced Advantage Fund - Direct Plan - Quarterly - IDCW Option;19.93;15-Jun-2022
-112117;INF754K01285;-;Edelweiss Balanced Advantage Fund - Regular Plan - Growth Option;33.53;15-Jun-2022
-141766;INF754K01IK4;INF754K01IL2;Edelweiss Balanced Advantage Fund - Regular Plan - Monthly - IDCW Option;19.15;15-Jun-2022
-112118;INF754K01251;INF754K01269;Edelweiss Balanced Advantage Fund - Regular Plan - Quarterly - IDCW Option;15.8;15-Jun-2022
-118615;INF754K01BS2;-;Edelweiss Balanced Advantage Fund -Direct Plan-Growth Option;36.72;15-Jun-2022
+141767;INF754K01IH0;INF754K01II8;Edelweiss Balanced Advantage Fund - Direct Plan - Monthly - IDCW Option;21.52;16-Jun-2022
+118614;INF754K01BP8;INF754K01BQ6;Edelweiss Balanced Advantage Fund - Direct Plan - Quarterly - IDCW Option;19.72;16-Jun-2022
+112117;INF754K01285;-;Edelweiss Balanced Advantage Fund - Regular Plan - Growth Option;33.18;16-Jun-2022
+141766;INF754K01IK4;INF754K01IL2;Edelweiss Balanced Advantage Fund - Regular Plan - Monthly - IDCW Option;18.96;16-Jun-2022
+112118;INF754K01251;INF754K01269;Edelweiss Balanced Advantage Fund - Regular Plan - Quarterly - IDCW Option;15.64;16-Jun-2022
+118615;INF754K01BS2;-;Edelweiss Balanced Advantage Fund -Direct Plan-Growth Option;36.34;16-Jun-2022
 100119;INF179K01830;-;HDFC Balanced Advantage Fund - Growth Plan;273.998;16-Jun-2022
 118968;INF179K01WA6;-;HDFC Balanced Advantage Fund - Growth Plan - Direct Plan;290.437;16-Jun-2022
 100120;INF179K01814;INF179K01822;HDFC Balanced Advantage Fund - IDCW Plan;27.096;16-Jun-2022
@@ -5653,22 +5653,22 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 149718;INF173K01FF3;INF173K01FG1;Sundaram Balanced Advantage Fund (Formerly Known as Principal Balanced Advantage Fund) - Direct Plan - Monthly Income Distribution CUM Capital Withdrawal Option;15.5769;16-Jun-2022
 149715;INF173K01585;-;Sundaram Balanced Advantage Fund (Formerly Known as Principal Balanced Advantage Fund) - Growth Option;23.6344;16-Jun-2022
 149716;INF173K01551;INF173K01569;Sundaram Balanced Advantage Fund (Formerly Known as Principal Balanced Advantage Fund) - Monthly Income Distribution CUM Capital Withdrawal Option;13.3347;16-Jun-2022
-146006;INF277K014S6;-;TATA Balanced Advantage Fund Direct Plan - Payout of Income Distribution cum capital withdrawal option ;14.6673;16-Jun-2022
-146008;-;INF277K015S3;TATA Balanced Advantage Fund Direct Plan - Reinvestment of Income Distribution cum capital withdrawal option ;14.6673;16-Jun-2022
-146005;INF277K011S2;-;TATA Balanced Advantage Fund Regular Plan - Payout of Income Distribution cum capital withdrawal option ;13.8264;16-Jun-2022
-146009;-;INF277K012S0;TATA Balanced Advantage Fund Regular Plan - Reinvestment of Income Distribution cum capital withdrawal option;13.8264;16-Jun-2022
-146010;INF277K013S8;-;Tata Balanced Advantage Fund-Direct Plan-Growth;14.6673;16-Jun-2022
-146007;INF277K010S4;-;Tata Balanced Advantage Fund-Regular Plan-Growth;13.8264;16-Jun-2022
+146006;INF277K014S6;-;TATA Balanced Advantage Fund Direct Plan - Payout of Income Distribution cum capital withdrawal option ;14.7131;16-Jun-2022
+146008;-;INF277K015S3;TATA Balanced Advantage Fund Direct Plan - Reinvestment of Income Distribution cum capital withdrawal option ;14.7131;16-Jun-2022
+146005;INF277K011S2;-;TATA Balanced Advantage Fund Regular Plan - Payout of Income Distribution cum capital withdrawal option ;13.8696;16-Jun-2022
+146009;-;INF277K012S0;TATA Balanced Advantage Fund Regular Plan - Reinvestment of Income Distribution cum capital withdrawal option;13.8696;16-Jun-2022
+146010;INF277K013S8;-;Tata Balanced Advantage Fund-Direct Plan-Growth;14.7131;16-Jun-2022
+146007;INF277K010S4;-;Tata Balanced Advantage Fund-Regular Plan-Growth;13.8696;16-Jun-2022
 142038;INF582M01DE9;-;Union Balanced Advantage Fund - Direct Plan - Growth Option;14.70;16-Jun-2022
 142037;INF582M01DG4;INF582M01DF6;Union Balanced Advantage Fund - Direct Plan - IDCW Option;14.70;16-Jun-2022
 142035;INF582M01DI0;-;Union Balanced Advantage Fund - Regular Plan - Growth Option;14.15;16-Jun-2022
 142036;INF582M01DK6;INF582M01DJ8;Union Balanced Advantage Fund - Regular Plan - IDCW Option;14.15;16-Jun-2022
 100646;-;-;UTI - Unit Linked Insurance Plan;30.3897;16-Jun-2022
 120784;-;-;UTI - Unit Linked Insurance Plan- Direct;32.1648;16-Jun-2022
-132996;INF209KA1TQ7;INF209KA1TR5;Aditya Birla Sun Life Equity Savings Fund - Direct - IDCW;14.08;15-Jun-2022
-132995;INF209KA1TP9;-;Aditya Birla Sun Life Equity Savings Fund - Direct Plan - Growth;17.63;15-Jun-2022
-132997;INF209KA1TT1;INF209KA1TU9;Aditya Birla Sun Life Equity Savings Fund - Regular - IDCW;12.23;15-Jun-2022
-132998;INF209KA1TS3;-;Aditya Birla Sun Life Equity Savings Fund - Regular Plan - Growth;16.27;15-Jun-2022
+132996;INF209KA1TQ7;INF209KA1TR5;Aditya Birla Sun Life Equity Savings Fund - Direct - IDCW;13.97;16-Jun-2022
+132995;INF209KA1TP9;-;Aditya Birla Sun Life Equity Savings Fund - Direct Plan - Growth;17.49;16-Jun-2022
+132997;INF209KA1TT1;INF209KA1TU9;Aditya Birla Sun Life Equity Savings Fund - Regular - IDCW;12.14;16-Jun-2022
+132998;INF209KA1TS3;-;Aditya Birla Sun Life Equity Savings Fund - Regular Plan - Growth;16.14;16-Jun-2022
 135120;INF846K01VJ3;-;Axis Equity Saver Fund - Direct Plan - Growth;17.12;16-Jun-2022
 135121;INF846K01VK1;INF846K01VL9;Axis Equity Saver Fund - Direct Plan - Monthly IDCW;12.18;16-Jun-2022
 135124;INF846K01VM7;INF846K01VN5;Axis Equity Saver Fund - Direct Plan - Quarterly IDCW;12.54;16-Jun-2022
@@ -5681,22 +5681,22 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 147498;-;INF955L01IN9;Baroda BNP Paribas Equity Savings Fund - Direct Plan - IDCW;11.3947;16-Jun-2022
 147494;INF955L01II9;-;Baroda BNP Paribas Equity Savings Fund - Regular Plan - Growth;11.7577;16-Jun-2022
 147495;-;INF955L01IK5;Baroda BNP Paribas Equity Savings Fund - Regular Plan - IDCW;11.0428;16-Jun-2022
-136567;INF740KA1504;-;DSP Equity Savings Fund - Direct Plan - Growth;17.111;15-Jun-2022
-136568;INF740KA1512;INF740KA1520;DSP Equity Savings Fund - Direct Plan - IDCW;12.554;15-Jun-2022
-136569;INF740KA1538;INF740KA1546;DSP Equity Savings Fund - Direct Plan - IDCW - Monthly;14.356;15-Jun-2022
-136570;INF740KA1553;INF740KA1561;DSP Equity Savings Fund - Direct Plan - IDCW - Quarterly;14.367;15-Jun-2022
-136563;INF740KA1439;-;DSP Equity Savings Fund - Regular Plan - Growth;15.671;15-Jun-2022
-136564;INF740KA1447;INF740KA1454;DSP Equity Savings Fund - Regular Plan - IDCW;11.776;15-Jun-2022
-136565;INF740KA1462;INF740KA1470;DSP Equity Savings Fund - Regular Plan - IDCW - Monthly;12.171;15-Jun-2022
-136566;INF740KA1488;INF740KA1496;DSP Equity Savings Fund - Regular Plan - IDCW - Quarterly;12.241;15-Jun-2022
-140350;INF843K01KD6;-;Edelweiss Equity Savings Fund - Direct Plan - Bonus Option;18.9181;15-Jun-2022
-140347;INF843K01KC8;-;Edelweiss Equity Savings Fund - Direct Plan - Growth Option;18.911;15-Jun-2022
-140348;INF843K01KE4;INF843K01KF1;Edelweiss Equity Savings Fund - Direct Plan - IDCW Option;13.7466;15-Jun-2022
-141933;INF754K01IN8;INF754K01IO6;Edelweiss Equity Savings Fund - Direct Plan - Monthly - IDCW Option;13.5707;15-Jun-2022
-140352;INF843K01KH7;-;Edelweiss Equity Savings Fund - Regular Plan - Bonus Option;17.7423;15-Jun-2022
-140351;INF843K01KG9;-;Edelweiss Equity Savings Fund - Regular Plan - Growth Option;17.7324;15-Jun-2022
-140349;INF843K01KI5;INF843K01KJ3;Edelweiss Equity Savings Fund - Regular Plan - IDCW Option;12.2554;15-Jun-2022
-141934;INF754K01IP3;INF754K01IQ1;Edelweiss Equity Savings Fund - Regular Plan - Monthly - IDCW Option;12.6574;15-Jun-2022
+136567;INF740KA1504;-;DSP Equity Savings Fund - Direct Plan - Growth;17.049;16-Jun-2022
+136568;INF740KA1512;INF740KA1520;DSP Equity Savings Fund - Direct Plan - IDCW;12.509;16-Jun-2022
+136569;INF740KA1538;INF740KA1546;DSP Equity Savings Fund - Direct Plan - IDCW - Monthly;14.305;16-Jun-2022
+136570;INF740KA1553;INF740KA1561;DSP Equity Savings Fund - Direct Plan - IDCW - Quarterly;14.316;16-Jun-2022
+136563;INF740KA1439;-;DSP Equity Savings Fund - Regular Plan - Growth;15.614;16-Jun-2022
+136564;INF740KA1447;INF740KA1454;DSP Equity Savings Fund - Regular Plan - IDCW;11.734;16-Jun-2022
+136565;INF740KA1462;INF740KA1470;DSP Equity Savings Fund - Regular Plan - IDCW - Monthly;12.127;16-Jun-2022
+136566;INF740KA1488;INF740KA1496;DSP Equity Savings Fund - Regular Plan - IDCW - Quarterly;12.197;16-Jun-2022
+140350;INF843K01KD6;-;Edelweiss Equity Savings Fund - Direct Plan - Bonus Option;18.8207;16-Jun-2022
+140347;INF843K01KC8;-;Edelweiss Equity Savings Fund - Direct Plan - Growth Option;18.8136;16-Jun-2022
+140348;INF843K01KE4;INF843K01KF1;Edelweiss Equity Savings Fund - Direct Plan - IDCW Option;13.6759;16-Jun-2022
+141933;INF754K01IN8;INF754K01IO6;Edelweiss Equity Savings Fund - Direct Plan - Monthly - IDCW Option;13.5009;16-Jun-2022
+140352;INF843K01KH7;-;Edelweiss Equity Savings Fund - Regular Plan - Bonus Option;17.6503;16-Jun-2022
+140351;INF843K01KG9;-;Edelweiss Equity Savings Fund - Regular Plan - Growth Option;17.6405;16-Jun-2022
+140349;INF843K01KI5;INF843K01KJ3;Edelweiss Equity Savings Fund - Regular Plan - IDCW Option;12.1919;16-Jun-2022
+141934;INF754K01IP3;INF754K01IQ1;Edelweiss Equity Savings Fund - Regular Plan - Monthly - IDCW Option;12.5917;16-Jun-2022
 144462;INF090I01PC9;INF090I01PB1;Franklin India Equity Savings Fund - Direct - IDCW ;12.4834;16-Jun-2022
 144465;INF090I01PH8;INF090I01PG0;Franklin India Equity Savings Fund - Direct - Monthly - IDCW;11.9370;16-Jun-2022
 144467;INF090I01PL0;INF090I01PK2;Franklin India Equity Savings Fund - Direct - Quarterly - IDCW;11.6546;16-Jun-2022
@@ -6063,26 +6063,26 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 139618;-;-;Taurus Investor Education Pool - Unclaimed Redemption - Growth;10.0000;16-Jun-2022
 139616;-;-;Taurus Unclaimed Dividend - Growth;14.3828;16-Jun-2022
 139617;-;-;Taurus Unclaimed Redemption - Growth;14.3840;16-Jun-2022
-131897;INF084M01DQ0;INF084M01DR8;Aditya Birla Sun Life Active Debt Multi Manager FoF Scheme - DIRECT - IDCW;19.7518;15-Jun-2022
-131898;INF084M01DP2;-;Aditya Birla Sun Life Active Debt Multi Manager FoF Scheme - Direct Plan - Growth Option;31.5434;15-Jun-2022
-131895;INF084M01AI3;INF084M01AJ1;Aditya Birla Sun Life Active Debt Multi Manager FoF Scheme - REGULAR - IDCW;18.919;15-Jun-2022
-131896;INF084M01AH5;-;Aditya Birla Sun Life Active Debt Multi Manager FoF Scheme - Regular Plan - Growth Option;30.1674;15-Jun-2022
-131865;INF084M01DM9;-;Aditya Birla Sun Life Asset Allocator FoF- Direct Plan - Growth Option;20.6895;15-Jun-2022
-131864;INF084M01AE2;-;Aditya Birla Sun Life Asset Allocator FoF- Regular Plan - Growth Option;40.5266;15-Jun-2022
-131866;INF084M01DN7;INF084M01DO5;Aditya Birla Sun Life Asset Allocator FoF-DIRECT - IDCW;19.7145;15-Jun-2022
-131863;INF084M01AF9;INF084M01AG7;Aditya Birla Sun Life Asset Allocator FoF-REGULAR - IDCW;37.3195;15-Jun-2022
-132187;INF084M01EX4;INF084M01EY2;Aditya Birla Sun Life Financial Planning Fund - Aggressive Plan - Direct - IDCW;30.726;15-Jun-2022
-132186;INF084M01EW6;-;Aditya Birla Sun Life Financial Planning Fund - Aggressive Plan - Direct Plan - Growth Option;33.5505;15-Jun-2022
-132180;INF084M01101;-;Aditya Birla Sun Life Financial Planning Fund - Aggressive Plan - Regular Plan - Growth Option;31.2978;15-Jun-2022
-132181;INF084M01119;INF084M01127;Aditya Birla Sun Life Financial Planning Fund - Aggressive Plan -Regular - IDCW;28.6478;15-Jun-2022
-132183;INF084M01EQ8;-;Aditya Birla Sun Life Financial Planning Fund - Conservative Plan - Direct Plan - Growth Option;24.6718;15-Jun-2022
-132178;INF084M01044;-;Aditya Birla Sun life Financial Planning Fund - Conservative Plan - Regular Plan - Growth Option;23.4959;15-Jun-2022
-132184;INF084M01ER6;INF084M01ES4;Aditya Birla Sun Life Financial Planning Fund - Conservative Plan -Direct - IDCW;16.7516;15-Jun-2022
-132179;INF084M01051;INF084M01069;Aditya Birla Sun Life Financial Planning Fund - Conservative Plan -Regular - IDCW;21.3764;15-Jun-2022
-132185;INF084M01ET2;-;Aditya Birla Sun Life Financial Planning Fund - Moderate Plan - Direct Plan - Growth Option;28.1873;15-Jun-2022
-132174;INF084M01077;-;Aditya Birla Sun Life Financial Planning Fund - Moderate Plan - Regular Plan - Growth Option;26.7999;15-Jun-2022
-132175;INF084M01085;INF084M01093;Aditya Birla Sun Life Financial Planning Fund -Moderate  Plan -  Regular -  IDCW;24.0377;15-Jun-2022
-132189;INF084M01EU0;INF084M01EV8;Aditya Birla Sun Life Financial Planning Fund -Moderate  Plan - Direct - IDCW;25.558;15-Jun-2022
+131897;INF084M01DQ0;INF084M01DR8;Aditya Birla Sun Life Active Debt Multi Manager FoF Scheme - DIRECT - IDCW;19.752;16-Jun-2022
+131898;INF084M01DP2;-;Aditya Birla Sun Life Active Debt Multi Manager FoF Scheme - Direct Plan - Growth Option;31.5437;16-Jun-2022
+131895;INF084M01AI3;INF084M01AJ1;Aditya Birla Sun Life Active Debt Multi Manager FoF Scheme - REGULAR - IDCW;18.9189;16-Jun-2022
+131896;INF084M01AH5;-;Aditya Birla Sun Life Active Debt Multi Manager FoF Scheme - Regular Plan - Growth Option;30.1672;16-Jun-2022
+131865;INF084M01DM9;-;Aditya Birla Sun Life Asset Allocator FoF- Direct Plan - Growth Option;20.5273;16-Jun-2022
+131864;INF084M01AE2;-;Aditya Birla Sun Life Asset Allocator FoF- Regular Plan - Growth Option;40.2078;16-Jun-2022
+131866;INF084M01DN7;INF084M01DO5;Aditya Birla Sun Life Asset Allocator FoF-DIRECT - IDCW;19.56;16-Jun-2022
+131863;INF084M01AF9;INF084M01AG7;Aditya Birla Sun Life Asset Allocator FoF-REGULAR - IDCW;37.0259;16-Jun-2022
+132187;INF084M01EX4;INF084M01EY2;Aditya Birla Sun Life Financial Planning Fund - Aggressive Plan - Direct - IDCW;30.2609;16-Jun-2022
+132186;INF084M01EW6;-;Aditya Birla Sun Life Financial Planning Fund - Aggressive Plan - Direct Plan - Growth Option;33.0427;16-Jun-2022
+132180;INF084M01101;-;Aditya Birla Sun Life Financial Planning Fund - Aggressive Plan - Regular Plan - Growth Option;30.8234;16-Jun-2022
+132181;INF084M01119;INF084M01127;Aditya Birla Sun Life Financial Planning Fund - Aggressive Plan -Regular - IDCW;28.2135;16-Jun-2022
+132183;INF084M01EQ8;-;Aditya Birla Sun Life Financial Planning Fund - Conservative Plan - Direct Plan - Growth Option;24.5485;16-Jun-2022
+132178;INF084M01044;-;Aditya Birla Sun life Financial Planning Fund - Conservative Plan - Regular Plan - Growth Option;23.3781;16-Jun-2022
+132184;INF084M01ER6;INF084M01ES4;Aditya Birla Sun Life Financial Planning Fund - Conservative Plan -Direct - IDCW;16.6679;16-Jun-2022
+132179;INF084M01051;INF084M01069;Aditya Birla Sun Life Financial Planning Fund - Conservative Plan -Regular - IDCW;21.2692;16-Jun-2022
+132185;INF084M01ET2;-;Aditya Birla Sun Life Financial Planning Fund - Moderate Plan - Direct Plan - Growth Option;27.9254;16-Jun-2022
+132174;INF084M01077;-;Aditya Birla Sun Life Financial Planning Fund - Moderate Plan - Regular Plan - Growth Option;26.5504;16-Jun-2022
+132175;INF084M01085;INF084M01093;Aditya Birla Sun Life Financial Planning Fund -Moderate  Plan -  Regular -  IDCW;23.8139;16-Jun-2022
+132189;INF084M01EU0;INF084M01EV8;Aditya Birla Sun Life Financial Planning Fund -Moderate  Plan - Direct - IDCW;25.3205;16-Jun-2022
 120546;INF209K01YU5;-;Aditya Birla Sun Life Gold Fund - Growth - Direct Plan;15.9151;16-Jun-2022
 120545;INF209K01YT7;-;Aditya Birla Sun Life Gold Fund-DIRECT - IDCW;15.9172;16-Jun-2022
 116796;INF209K01PF4;-;Aditya Birla Sun Life Gold Fund-Growth;15.4792;16-Jun-2022
@@ -6095,18 +6095,18 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 149244;INF846K018C3;INF846K019C1;Axis AAA Bond Plus SDL ETF - 2026 Maturity Fund of Fund - Direct Plan - IDCW Option;9.8618;16-Jun-2022
 149242;INF846K010D8;-;Axis AAA Bond Plus SDL ETF - 2026 Maturity Fund of Fund - Regular Plan - Growth Option;9.8521;16-Jun-2022
 149245;INF846K011D6;INF846K012D4;Axis AAA Bond Plus SDL ETF - 2026 Maturity Fund of Fund - Regular Plan - IDCW Option;9.8521;16-Jun-2022
-147905;INF846K01V73;INF846K01V65;Axis All Seasons Debt Fund of Fund - Regular Plan - Quarterly IDCW;11.1757;15-Jun-2022
-147895;INF846K01U25;INF846K01U17;Axis All Seasons Debt Fund of Funds - Direct Plan - Annual IDCW;11.2703;15-Jun-2022
-147889;INF846K01U09;-;Axis All Seasons Debt Fund of Funds - Direct Plan - Growth Option;11.5123;15-Jun-2022
-147894;INF846K01U74;INF846K01U82;Axis All Seasons Debt Fund of Funds - Direct Plan - Half Yearly Dividend Option;10.1925;15-Jun-2022
-147891;INF846K01U90;INF846K01V08;Axis All Seasons Debt Fund of Funds - Direct Plan - IDCW;11.5187;15-Jun-2022
-147892;INF846K01U41;INF846K01U33;Axis All Seasons Debt Fund of Funds - Direct Plan - Monthly IDCW;11.5220;15-Jun-2022
-147893;INF846K01U66;INF846K01U58;Axis All Seasons Debt Fund of Funds - Direct Plan - Quarterly IDCW;11.2675;15-Jun-2022
-147898;INF846K01V32;INF846K01V24;Axis All Seasons Debt Fund of Funds - Regular Plan - Annual IDCW;11.2045;15-Jun-2022
-147890;INF846K01V16;-;Axis All Seasons Debt Fund of Funds - Regular Plan - Growth Option;11.4233;15-Jun-2022
-147897;INF846K01V81;INF846K01V99;Axis All Seasons Debt Fund of Funds - Regular Plan - Half Yearly IDCW;12.0591;15-Jun-2022
-147888;INF846K01W07;INF846K01W15;Axis All Seasons Debt Fund of Funds - Regular Plan - IDCW;11.4232;15-Jun-2022
-147896;INF846K01V57;INF846K01V40;Axis All Seasons Debt Fund of Funds - Regular Plan - Monthly IDCW;11.4227;15-Jun-2022
+147905;INF846K01V73;INF846K01V65;Axis All Seasons Debt Fund of Fund - Regular Plan - Quarterly IDCW;11.1783;16-Jun-2022
+147895;INF846K01U25;INF846K01U17;Axis All Seasons Debt Fund of Funds - Direct Plan - Annual IDCW;11.2731;16-Jun-2022
+147889;INF846K01U09;-;Axis All Seasons Debt Fund of Funds - Direct Plan - Growth Option;11.5152;16-Jun-2022
+147894;INF846K01U74;INF846K01U82;Axis All Seasons Debt Fund of Funds - Direct Plan - Half Yearly Dividend Option;10.1951;16-Jun-2022
+147891;INF846K01U90;INF846K01V08;Axis All Seasons Debt Fund of Funds - Direct Plan - IDCW;11.5216;16-Jun-2022
+147892;INF846K01U41;INF846K01U33;Axis All Seasons Debt Fund of Funds - Direct Plan - Monthly IDCW;11.5249;16-Jun-2022
+147893;INF846K01U66;INF846K01U58;Axis All Seasons Debt Fund of Funds - Direct Plan - Quarterly IDCW;11.2703;16-Jun-2022
+147898;INF846K01V32;INF846K01V24;Axis All Seasons Debt Fund of Funds - Regular Plan - Annual IDCW;11.2072;16-Jun-2022
+147890;INF846K01V16;-;Axis All Seasons Debt Fund of Funds - Regular Plan - Growth Option;11.4261;16-Jun-2022
+147897;INF846K01V81;INF846K01V99;Axis All Seasons Debt Fund of Funds - Regular Plan - Half Yearly IDCW;12.0620;16-Jun-2022
+147888;INF846K01W07;INF846K01W15;Axis All Seasons Debt Fund of Funds - Regular Plan - IDCW;11.4260;16-Jun-2022
+147896;INF846K01V57;INF846K01V40;Axis All Seasons Debt Fund of Funds - Regular Plan - Monthly IDCW;11.4254;16-Jun-2022
 149847;INF846K011G9;-;Axis Equity ETFs FOF - Direct Plan - Growth Option;9.1403;16-Jun-2022
 149846;INF846K012G7;INF846K013G5;Axis Equity ETFs FOF - Direct Plan - IDCW;9.1403;16-Jun-2022
 149844;INF846K014G3;-;Axis Equity ETFs FOF - Regular Plan - Growth Option;9.1358;16-Jun-2022
@@ -6342,8 +6342,8 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 150341;-;INF277KA1455;Tata Nifty India Digital ETF Fund of Fund-Direct Plan- IDCW Reinvestment;8.1560;16-Jun-2022
 150344;INF277KA1430;-;Tata Nifty India Digital ETF Fund of Fund-Direct Plan-Growth;8.1560;16-Jun-2022
 150340;INF277KA1448;-;Tata Nifty India Digital ETF Fund of Fund-Direct Plan-IDCW Payout;8.1560;16-Jun-2022
-150342;INF277KA1471;-;Tata Nifty India Digital ETF Fund of Fund-Regular Plan-IDCW Payout;8.1488;16-Jun-2022
-150343;-;INF277KA1489;Tata Nifty India Digital ETF Fund of Fund-Regular Plan-IDCW Reinvestment;8.1488;16-Jun-2022
+150342;INF277KA1471;-;Tata Nifty India Digital ETF Fund of Fund-Regular Plan-IDCW Payout;8.1487;16-Jun-2022
+150343;-;INF277KA1489;Tata Nifty India Digital ETF Fund of Fund-Regular Plan-IDCW Reinvestment;8.1487;16-Jun-2022
 132141;INF084M01EC8;INF084M01ED6;Aditya Birla Sun Life Global Emerging Opportunities Fund - Direct - IDCW;16.3166;16-Jun-2022
 132140;INF084M01EB0;-;Aditya Birla Sun Life Global Emerging Opportunities Fund - Direct plan - Growth Option;18.4483;16-Jun-2022
 132139;INF084M01AU8;INF084M01AV6;Aditya Birla Sun Life Global Emerging Opportunities Fund - Regular - IDCW;17.9133;16-Jun-2022
@@ -6356,18 +6356,18 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 149291;INF209KB18C5;-;Aditya Birla Sun Life Nasdaq 100 FOF-Direct-Growth;7.4333;16-Jun-2022
 149290;INF209KB15C1;-;Aditya Birla Sun Life Nasdaq 100 FOF-Regular Growth;7.4097;16-Jun-2022
 149292;INF209KB16C9;INF209KB17C7;Aditya Birla Sun Life Nasdaq 100 FOF-Regular IDCW;7.4093;16-Jun-2022
-148485;INF846K01X06;-;Axis Global Equity Alpha Fund of Fund - Direct Plan - Growth Option;11.5585;15-Jun-2022
-148487;INF846K01X14;INF846K01X22;Axis Global Equity Alpha Fund of Fund - Direct Plan - IDCW;11.5583;15-Jun-2022
-148486;INF846K01X30;-;Axis Global Equity Alpha Fund of Fund - Regular Plan - Growth Option;11.3137;15-Jun-2022
-148488;INF846K01X48;INF846K01X55;Axis Global Equity Alpha Fund of Fund - Regular Plan - IDCW;11.3137;15-Jun-2022
-148954;INF846K01Z20;-;Axis Global Innovation Fund of Fund - Direct Plan - Growth;8.19;15-Jun-2022
-148955;INF846K01Z38;INF846K01Z46;Axis Global Innovation Fund of Fund - Direct Plan - IDCW;8.19;15-Jun-2022
-148953;INF846K01Z53;-;Axis Global Innovation Fund of Fund - Regular Plan - Growth;8.08;15-Jun-2022
-148956;INF846K01Z61;INF846K01Z79;Axis Global Innovation Fund of Fund - Regular Plan - IDCW;8.08;15-Jun-2022
-148699;INF846K01Y39;-;Axis Greater China Equity Fund of Fund - Direct Plan - Growth Option;7.53;15-Jun-2022
-148700;INF846K01Y47;INF846K01Y54;Axis Greater China Equity Fund of Fund - Direct Plan - IDCW;7.53;15-Jun-2022
-148701;INF846K01Y62;-;Axis Greater China Equity Fund of Fund - Regular Plan - Growth Option;7.41;15-Jun-2022
-148702;INF846K01Y70;INF846K01Y88;Axis Greater China Equity Fund of Fund - Regular Plan - IDCW;7.41;15-Jun-2022
+148485;INF846K01X06;-;Axis Global Equity Alpha Fund of Fund - Direct Plan - Growth Option;11.3697;16-Jun-2022
+148487;INF846K01X14;INF846K01X22;Axis Global Equity Alpha Fund of Fund - Direct Plan - IDCW;11.3695;16-Jun-2022
+148486;INF846K01X30;-;Axis Global Equity Alpha Fund of Fund - Regular Plan - Growth Option;11.1285;16-Jun-2022
+148488;INF846K01X48;INF846K01X55;Axis Global Equity Alpha Fund of Fund - Regular Plan - IDCW;11.1285;16-Jun-2022
+148954;INF846K01Z20;-;Axis Global Innovation Fund of Fund - Direct Plan - Growth;8.06;16-Jun-2022
+148955;INF846K01Z38;INF846K01Z46;Axis Global Innovation Fund of Fund - Direct Plan - IDCW;8.06;16-Jun-2022
+148953;INF846K01Z53;-;Axis Global Innovation Fund of Fund - Regular Plan - Growth;7.95;16-Jun-2022
+148956;INF846K01Z61;INF846K01Z79;Axis Global Innovation Fund of Fund - Regular Plan - IDCW;7.95;16-Jun-2022
+148699;INF846K01Y39;-;Axis Greater China Equity Fund of Fund - Direct Plan - Growth Option;7.46;16-Jun-2022
+148700;INF846K01Y47;INF846K01Y54;Axis Greater China Equity Fund of Fund - Direct Plan - IDCW;7.46;16-Jun-2022
+148701;INF846K01Y62;-;Axis Greater China Equity Fund of Fund - Regular Plan - Growth Option;7.34;16-Jun-2022
+148702;INF846K01Y70;INF846K01Y88;Axis Greater China Equity Fund of Fund - Regular Plan - IDCW;7.34;16-Jun-2022
 150285;INF251K01QT5;-;Baroda BNP Paribas Funds Aqua Fund of Fund - Direct Plan - Growth Option;8.7361;15-Jun-2022
 150287;INF251K01QU3;INF251K01QV1;Baroda BNP Paribas Funds Aqua Fund of Fund - Direct Plan - IDCW Option;8.7361;15-Jun-2022
 150286;INF251K01QR9;INF251K01QS7;Baroda BNP Paribas Funds Aqua Fund of Fund - Regular Plan - IDCW Option;8.6263;15-Jun-2022
@@ -10131,9 +10131,9 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 146790;INF769K01EO3;-;Mirae Asset Fixed Maturity Plan - Series III -1122 Regular IDCW;10.0000;12-Apr-2022
 146789;INF769K01EN5;-;Mirae Asset Fixed Maturity Plan Series III 1122 Days Regular Plan Growth;12.4756;12-Apr-2022
 146787;INF769K01EP0;-;Mirae Asset Fixed Maturity Plan Series III Direct Plan Growth;12.5521;12-Apr-2022
-148180;INF204KB10O8;-;Nippon India Capital Protection Oriented Fund  II - Plan A - Regular Plan - Growth Option;15.8975;15-Jun-2022
-148178;INF204KB12O4;-;Nippon India Capital Protection Oriented Fund II - Plan A - Direct Plan - Growth Option;16.1471;15-Jun-2022
-148181;INF204KB11O6;-;NIPPON INDIA CAPITAL PROTECTION ORIENTED FUND II - PLAN A - IDCW Option;15.8975;15-Jun-2022
+148180;INF204KB10O8;-;Nippon India Capital Protection Oriented Fund  II - Plan A - Regular Plan - Growth Option;15.6061;16-Jun-2022
+148178;INF204KB12O4;-;Nippon India Capital Protection Oriented Fund II - Plan A - Direct Plan - Growth Option;15.8515;16-Jun-2022
+148181;INF204KB11O6;-;NIPPON INDIA CAPITAL PROTECTION ORIENTED FUND II - PLAN A - IDCW Option;15.6061;16-Jun-2022
 139338;INF204KB1403;-;Nippon India Dual Advantage Fixed Tenure Fund IX- Plan D- Direct Plan-Dividend Payout Option;10.0000;23-Dec-2019
 139337;INF204KB1411;-;Nippon India Dual Advantage Fixed Tenure Fund IX- Plan D- Direct Plan-Growth Option;13.4753;23-Dec-2019
 139336;INF204KB1429;-;Nippon India Dual Advantage Fixed Tenure Fund IX- Plan D- Dividend Payout Option;10.0000;23-Dec-2019
