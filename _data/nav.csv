@@ -1205,18 +1205,18 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 100043;INF209K01RT1;-;Aditya Birla Sun Life Liquid Fund-Institutional (Growth);571.4488;17-Jun-2022
 100042;INF209K01ME4;-;Aditya Birla Sun Life Liquid Fund-Retail (Growth);556.8554;17-Jun-2022
 128954;INF846K01NH4;-;Axis Liquid Fund - Direct plan - Bonus Option;2215.5705;05-May-2020
-120388;-;INF846K01DA0;Axis Liquid Fund - Direct Plan - Daily IDCW;1000.9560;17-Jun-2022
-120389;INF846K01CX4;-;Axis Liquid Fund - Direct Plan - Growth Option;2383.7593;17-Jun-2022
-120391;INF846K01CY2;INF846K01CZ9;Axis Liquid Fund - Direct Plan - Monthly IDCW;1003.5385;17-Jun-2022
-120390;INF846K01DB8;INF846K01DC6;Axis Liquid Fund - Direct Plan - Weekly IDCW;1002.4885;17-Jun-2022
-112211;-;INF846K01420;Axis Liquid Fund - Regular Plan - Daily IDCW;1001.3998;17-Jun-2022
-112210;INF846K01412;-;Axis Liquid Fund - Regular Plan - Growth Option;2369.1349;17-Jun-2022
-112213;INF846K01453;INF846K01461;Axis Liquid Fund - Regular Plan - Monthly IDCW;1004.0861;17-Jun-2022
-112212;INF846K01438;INF846K01446;Axis Liquid Fund - Regular Plan - Weekly IDCW;1002.4808;17-Jun-2022
-112712;-;INF846K01362;Axis Liquid Fund - Retail Plan - Daily IDCW;1000.9559;17-Jun-2022
-112713;INF846K01354;-;Axis Liquid Fund - Retail Plan - Growth Option;2202.5567;17-Jun-2022
-112714;INF846K01396;INF846K01404;Axis Liquid Fund - Retail Plan - Monthly IDCW;1003.2010;17-Jun-2022
-112715;INF846K01370;INF846K01388;Axis Liquid Fund - Retail Plan - Weekly IDCW;1001.0170;17-Jun-2022
+120388;-;INF846K01DA0;Axis Liquid Fund - Direct Plan - Daily IDCW;1000.9560;19-Jun-2022
+120389;INF846K01CX4;-;Axis Liquid Fund - Direct Plan - Growth Option;2384.4043;19-Jun-2022
+120391;INF846K01CY2;INF846K01CZ9;Axis Liquid Fund - Direct Plan - Monthly IDCW;1003.8100;19-Jun-2022
+120390;INF846K01DB8;INF846K01DC6;Axis Liquid Fund - Direct Plan - Weekly IDCW;1002.7597;19-Jun-2022
+112211;-;INF846K01420;Axis Liquid Fund - Regular Plan - Daily IDCW;1001.3998;19-Jun-2022
+112210;INF846K01412;-;Axis Liquid Fund - Regular Plan - Growth Option;2369.7668;19-Jun-2022
+112213;INF846K01453;INF846K01461;Axis Liquid Fund - Regular Plan - Monthly IDCW;1004.3539;19-Jun-2022
+112212;INF846K01438;INF846K01446;Axis Liquid Fund - Regular Plan - Weekly IDCW;1002.7481;19-Jun-2022
+112712;-;INF846K01362;Axis Liquid Fund - Retail Plan - Daily IDCW;1000.9559;19-Jun-2022
+112713;INF846K01354;-;Axis Liquid Fund - Retail Plan - Growth Option;2203.0838;19-Jun-2022
+112714;INF846K01396;INF846K01404;Axis Liquid Fund - Retail Plan - Monthly IDCW;1003.4445;19-Jun-2022
+112715;INF846K01370;INF846K01388;Axis Liquid Fund - Retail Plan - Weekly IDCW;1001.2567;19-Jun-2022
 141887;-;-;BANK OF INDIA Liquid Fund  Unclaimed Dividend greater than  3 years;1000.0000;30-Nov-2021
 141889;-;-;BANK OF INDIA Liquid Fund  Unclaimed Dividend Upto 3 years;1226.9964;30-Nov-2021
 141888;-;-;BANK OF INDIA Liquid Fund  Unclaimed Redemption greater than  3 years;1000.0000;30-Nov-2021
@@ -1414,18 +1414,18 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 139388;-;-;Invesco India Liquid Fund - Unclaimed Redemption Plan - Above 3 Years;1000;19-Jun-2022
 139387;-;-;Invesco India Liquid Fund - Unclaimed Redemption Plan - Below 3 years;1397.1224;19-Jun-2022
 104485;-;INF205K01HO1;Invesco India Liquid Fund - Weekly IDCW (Reinvestment);1003.8351;19-Jun-2022
-147161;INF00XX01366;INF00XX01333;ITI Liquid Fund - Direct Plan - Annually IDCW Option;1125.2811;17-Jun-2022
-147158;-;INF00XX01291;ITI Liquid Fund - Direct Plan - Daily IDCW Option;1001.0000;17-Jun-2022
-147160;INF00XX01341;INF00XX01317;ITI Liquid Fund - Direct Plan - Fortnightly IDCW Option;1001.6604;17-Jun-2022
-147157;INF00XX01283;-;ITI Liquid Fund - Direct Plan - Growth Option;1124.6202;17-Jun-2022
-147163;INF00XX01358;INF00XX01325;ITI Liquid Fund - Direct Plan - Monthly IDCW Option;1003.6602;17-Jun-2022
-147159;-;INF00XX01309;ITI Liquid Fund - Direct Plan - Weekly IDCW Option;1001.2633;17-Jun-2022
-147162;INF00XX01275;INF00XX01242;ITI Liquid Fund - Regular Plan - Annually IDCW Option;1122.7026;17-Jun-2022
-147154;-;INF00XX01200;ITI Liquid Fund - Regular Plan - Daily IDCW Option;1001.0000;17-Jun-2022
-147155;INF00XX01259;INF00XX01226;ITI Liquid Fund - Regular Plan - Fortnightly Income Distribution cum capital withdrawal option Option;1001.6354;17-Jun-2022
-147153;INF00XX01192;-;ITI Liquid Fund - Regular Plan - Growth Option;1120.5264;17-Jun-2022
-147156;INF00XX01267;INF00XX01234;ITI Liquid Fund - Regular Plan - Monthly IDCW Option;1003.5819;17-Jun-2022
-147164;-;INF00XX01218;ITI Liquid Fund - Regular Plan - Weekly IDCW Option;1001.2500;17-Jun-2022
+147161;INF00XX01366;INF00XX01333;ITI Liquid Fund - Direct Plan - Annually IDCW Option;1125.4302;18-Jun-2022
+147158;-;INF00XX01291;ITI Liquid Fund - Direct Plan - Daily IDCW Option;1001.0000;18-Jun-2022
+147160;INF00XX01341;INF00XX01317;ITI Liquid Fund - Direct Plan - Fortnightly IDCW Option;1001.7909;18-Jun-2022
+147157;INF00XX01283;-;ITI Liquid Fund - Direct Plan - Growth Option;1124.7674;18-Jun-2022
+147163;INF00XX01358;INF00XX01325;ITI Liquid Fund - Direct Plan - Monthly IDCW Option;1003.7917;18-Jun-2022
+147159;-;INF00XX01309;ITI Liquid Fund - Direct Plan - Weekly IDCW Option;1001.3940;18-Jun-2022
+147162;INF00XX01275;INF00XX01242;ITI Liquid Fund - Regular Plan - Annually IDCW Option;1122.8443;18-Jun-2022
+147154;-;INF00XX01200;ITI Liquid Fund - Regular Plan - Daily IDCW Option;1001.0000;18-Jun-2022
+147155;INF00XX01259;INF00XX01226;ITI Liquid Fund - Regular Plan - Fortnightly Income Distribution cum capital withdrawal option Option;1001.7622;18-Jun-2022
+147153;INF00XX01192;-;ITI Liquid Fund - Regular Plan - Growth Option;1120.6682;18-Jun-2022
+147156;INF00XX01267;INF00XX01234;ITI Liquid Fund - Regular Plan - Monthly IDCW Option;1003.7115;18-Jun-2022
+147164;-;INF00XX01218;ITI Liquid Fund - Regular Plan - Weekly IDCW Option;1001.3767;18-Jun-2022
 120410;INF192K01CN4;-;JM Liquid Fund (Direct) - Bonus Option - Bonus Option - Principal units;18.8905;19-Jun-2022
 120411;-;INF192K01CH6;JM Liquid Fund (Direct) - Daily IDCW;10.4302;19-Jun-2022
 120406;INF192K01CM6;-;JM Liquid Fund (Direct) - Growth Option;58.7149;19-Jun-2022
@@ -1454,13 +1454,13 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 100828;-;INF174K01FY2;Kotak Liquid-Regular (Dividend);1002.9403;21-Oct-2016
 100829;INF174K01NM1;-;Kotak Liquid-Regular (Growth);2893.5255;21-Oct-2016
 129923;INF917K01QI4;-;L&T Liquid Fund - Direct Plan - Bonus;1877.9353;30-Dec-2014
-122235;-;INF917K01HE2;L&T Liquid Fund - Direct Plan - Weekly IDCW;1001.3545;17-Jun-2022
-119791;INF917K01HG7;-;L&T Liquid Fund - Direct Plan -Daily IDCW;1014.3496;17-Jun-2022
-119790;INF917K01HF9;-;L&T Liquid Fund - Direct Plan -Growth;2939.3205;17-Jun-2022
-112458;INF917K01BK2;INF917K01JG3;L&T Liquid Fund - Regular Plan - Weekly IDCW;1003.1185;17-Jun-2022
+122235;-;INF917K01HE2;L&T Liquid Fund - Direct Plan - Weekly IDCW;1001.6214;19-Jun-2022
+119791;INF917K01HG7;-;L&T Liquid Fund - Direct Plan -Daily IDCW;1014.3496;19-Jun-2022
+119790;INF917K01HF9;-;L&T Liquid Fund - Direct Plan -Growth;2940.1039;19-Jun-2022
+112458;INF917K01BK2;INF917K01JG3;L&T Liquid Fund - Regular Plan - Weekly IDCW;1003.3825;19-Jun-2022
 129924;INF917K01QH6;-;L&T Liquid Fund -Regular Plan - Bonus;2318.6887;20-Nov-2017
-112445;INF917K01JB4;-;L&T Liquid Fund -Regular Plan - Daily IDCW;1011.7794;17-Jun-2022
-112457;INF917K01JH1;-;L&T Liquid Fund -Regular Plan - Growth;2924.0362;17-Jun-2022
+112445;INF917K01JB4;-;L&T Liquid Fund -Regular Plan - Daily IDCW;1011.7794;19-Jun-2022
+112457;INF917K01JH1;-;L&T Liquid Fund -Regular Plan - Growth;2924.8058;19-Jun-2022
 120248;INF767K01DL5;INF767K01DM3;LIC MF Liquid Fund-Direct Plan-Daily IDCW;1013.6;19-Jun-2022
 120249;INF767K01DN1;-;LIC MF Liquid Fund-Direct Plan-Growth;3899.2547;19-Jun-2022
 101184;INF767K01IQ3;INF767K01IR1;LIC MF Liquid Fund-Regular Plan-Daily IDCW;1000.1;19-Jun-2022
@@ -1473,14 +1473,14 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 139541;-;INF174V01036;Mahindra Manulife Liquid Fund - Regular Plan - Weekly IDCW;1009.8467;19-Jun-2022
 139540;-;-;Mahindra Manulife Liquid Fund - Unclaimed Redemption / IDCW Beyond 3 years;1000.0000;30-Nov-2021
 139539;-;-;Mahindra Manulife Liquid Fund - Unclaimed Redemption / IDCW Upto three years;1218.6343;30-Nov-2021
-118859;INF769K01CM1;-;Mirae Asset Cash Management Fund - Direct Plan - Growth;2266.0735;17-Jun-2022
-111646;INF769K01788;-;Mirae Asset Cash Management Fund - Growth;2234.6189;17-Jun-2022
-118861;-;INF769K01CO7;Mirae Asset Cash Management Fund Direct  Daily IDCW;1075.8332;17-Jun-2022
-118860;INF769K01CN9;INF769K01CQ2;Mirae Asset Cash Management Fund Direct Monthly IDCW;1137.9654;17-Jun-2022
-118862;-;INF769K01CP4;Mirae Asset Cash Management Fund Direct Weekly IDCW;1216.4250;17-Jun-2022
-111645;INF769K01838;INF769K01820;Mirae Asset Cash Management Fund Regular Monthly IDCW;1155.5936;17-Jun-2022
-111644;-;INF769K01812;Mirae Asset Cash Management Fund Regular Weekly IDCW;1152.7505;17-Jun-2022
-111647;-;INF769K01804;Mirae Asset Cash Management Fund RegularDaily IDCW ;1066.4347;17-Jun-2022
+118859;INF769K01CM1;-;Mirae Asset Cash Management Fund - Direct Plan - Growth;2266.6732;19-Jun-2022
+111646;INF769K01788;-;Mirae Asset Cash Management Fund - Growth;2235.1982;19-Jun-2022
+118861;-;INF769K01CO7;Mirae Asset Cash Management Fund Direct  Daily IDCW;1075.8332;19-Jun-2022
+118860;INF769K01CN9;INF769K01CQ2;Mirae Asset Cash Management Fund Direct Monthly IDCW;1138.2662;19-Jun-2022
+118862;-;INF769K01CP4;Mirae Asset Cash Management Fund Direct Weekly IDCW;1216.7467;19-Jun-2022
+111645;INF769K01838;INF769K01820;Mirae Asset Cash Management Fund Regular Monthly IDCW;1155.8932;19-Jun-2022
+111644;-;INF769K01812;Mirae Asset Cash Management Fund Regular Weekly IDCW;1153.0493;19-Jun-2022
+111647;-;INF769K01804;Mirae Asset Cash Management Fund RegularDaily IDCW ;1066.4347;19-Jun-2022
 145834;INF247L01734;-;Motilal Oswal Liquid Fund - Direct Growth;11.4814;19-Jun-2022
 145946;INF247L01726;-;Motilal Oswal Liquid Fund - Regular Growth;11.4212;19-Jun-2022
 147441;-;-;Motilal Oswal Liquid Fund - Unclaimed Dividend- Upto 3 years;11.1553;19-Jun-2022
@@ -1631,27 +1631,27 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 142343;-;-;Union Liquid Fund - Unclaimed Amounts Plan - Redemption Beyond 3 years;1000.0000;30-Nov-2021
 142342;-;-;Union Liquid Fund - Unclaimed Amounts Plan - Redemption Upto 3 years;1167.3290;30-Nov-2021
 115402;-;INF582M01039;Union Liquid Fund - Weekly IDCW Option;1001.4911;19-Jun-2022
-134427;INF789FA1K63;INF789FA1K71;UTI Liquid Cash Plan - Direct Plan - Annual IDCW;1546.8469;18-Jun-2022
-120558;-;INF789F01XP8;UTI Liquid Cash Plan - Direct Plan - Daily IDCW (Reinvestment);1045.8914;18-Jun-2022
-141768;INF789FA1K89;INF789FA1K97;UTI Liquid Cash Plan - Direct Plan - Flexi IDCW;1274.0526;18-Jun-2022
-140913;INF789FA1K06;INF789FA1K14;UTI Liquid Cash Plan - Direct Plan - Fortnightly IDCW;1155.8619;18-Jun-2022
-140504;INF789FA1K48;INF789FA1K55;UTI Liquid Cash Plan - Direct Plan - Half-Yearly IDCW;1208.291;18-Jun-2022
-120794;INF789F01XR4;INF789F01XS2;UTI Liquid Cash Plan - Direct Plan - Monthly IDCW;1047.6568;18-Jun-2022
-140024;INF789FA1K22;INF789FA1K30;UTI Liquid Cash Plan - Direct Plan - Quarterly IDCW;1460.8909;18-Jun-2022
-120777;-;INF789F01XT0;UTI Liquid Cash Plan - Direct Plan - Weekly IDCW;1092.2212;18-Jun-2022
-133973;INF789FA1J66;INF789FA1J74;UTI Liquid Cash Plan - Regular Plan - Annual IDCW;1541.108;18-Jun-2022
-102010;-;INF789F01PG3;UTI Liquid Cash Plan - Regular Plan - Daily IDCW (Reinvestment);1090.0354;18-Jun-2022
-140517;INF789FA1J82;INF789FA1J90;UTI Liquid Cash Plan - Regular Plan - Flexi IDCW;1270.1461;18-Jun-2022
-139838;INF789FA1J09;INF789FA1J17;UTI Liquid Cash Plan - Regular Plan - Fortnightly IDCW;1155.02;18-Jun-2022
-144475;INF789FA1J41;INF789FA1J58;UTI Liquid Cash Plan - Regular Plan - Half-Yearly IDCW;1073.0405;18-Jun-2022
-102011;INF789F01PI9;INF789F01PJ7;UTI Liquid Cash Plan - Regular Plan - Monthly IDCW;1036.7699;18-Jun-2022
-135721;INF789FA1J33;-;UTI Liquid Cash Plan - Regular Plan - Quarterly IDCW;1455.1482;18-Jun-2022
-102013;-;INF789F01PK5;UTI Liquid Cash Plan - Regular Plan - Weekly IDCW;1053.1727;18-Jun-2022
-120304;INF789F01XQ6;-;UTI-  Liquid Cash Plan - Direct Plan - Growth Option;3517.2616;18-Jun-2022
-102012;INF789F01PH1;-;UTI-  Liquid Cash Plan - Regular Plan - Growth Option;3495.0397;18-Jun-2022
-102008;INF789F01BC2;INF789F01BA6;UTI-  Liquid Cash Plan- Discontinued - Regular Plan - Monthly Dividend Option;1086.7797;18-Jun-2022
-102009;INF789F01BB4;-;UTI-  Liquid Cash Plan- Discontinued - Regular Plan -Growth;3210.8588;18-Jun-2022
-102007;-;INF789F01AZ5;UTI-  Liquid Cash Plan- Discontinued -Regular Plan Periodic Dividend Option;1133.659;18-Jun-2022
+134427;INF789FA1K63;INF789FA1K71;UTI Liquid Cash Plan - Direct Plan - Annual IDCW;1547.053;19-Jun-2022
+120558;-;INF789F01XP8;UTI Liquid Cash Plan - Direct Plan - Daily IDCW (Reinvestment);1046.0308;19-Jun-2022
+141768;INF789FA1K89;INF789FA1K97;UTI Liquid Cash Plan - Direct Plan - Flexi IDCW;1274.2224;19-Jun-2022
+140913;INF789FA1K06;INF789FA1K14;UTI Liquid Cash Plan - Direct Plan - Fortnightly IDCW;1156.016;19-Jun-2022
+140504;INF789FA1K48;INF789FA1K55;UTI Liquid Cash Plan - Direct Plan - Half-Yearly IDCW;1208.452;19-Jun-2022
+120794;INF789F01XR4;INF789F01XS2;UTI Liquid Cash Plan - Direct Plan - Monthly IDCW;1047.7964;19-Jun-2022
+140024;INF789FA1K22;INF789FA1K30;UTI Liquid Cash Plan - Direct Plan - Quarterly IDCW;1461.0856;19-Jun-2022
+120777;-;INF789F01XT0;UTI Liquid Cash Plan - Direct Plan - Weekly IDCW;1092.3667;19-Jun-2022
+133973;INF789FA1J66;INF789FA1J74;UTI Liquid Cash Plan - Regular Plan - Annual IDCW;1541.3096;19-Jun-2022
+102010;-;INF789F01PG3;UTI Liquid Cash Plan - Regular Plan - Daily IDCW (Reinvestment);1090.1779;19-Jun-2022
+140517;INF789FA1J82;INF789FA1J90;UTI Liquid Cash Plan - Regular Plan - Flexi IDCW;1270.3122;19-Jun-2022
+139838;INF789FA1J09;INF789FA1J17;UTI Liquid Cash Plan - Regular Plan - Fortnightly IDCW;1155.171;19-Jun-2022
+144475;INF789FA1J41;INF789FA1J58;UTI Liquid Cash Plan - Regular Plan - Half-Yearly IDCW;1073.181;19-Jun-2022
+102011;INF789F01PI9;INF789F01PJ7;UTI Liquid Cash Plan - Regular Plan - Monthly IDCW;1036.9055;19-Jun-2022
+135721;INF789FA1J33;-;UTI Liquid Cash Plan - Regular Plan - Quarterly IDCW;1455.3384;19-Jun-2022
+102013;-;INF789F01PK5;UTI Liquid Cash Plan - Regular Plan - Weekly IDCW;1053.3105;19-Jun-2022
+120304;INF789F01XQ6;-;UTI-  Liquid Cash Plan - Direct Plan - Growth Option;3517.7303;19-Jun-2022
+102012;INF789F01PH1;-;UTI-  Liquid Cash Plan - Regular Plan - Growth Option;3495.4968;19-Jun-2022
+102008;INF789F01BC2;INF789F01BA6;UTI-  Liquid Cash Plan- Discontinued - Regular Plan - Monthly Dividend Option;1086.9059;19-Jun-2022
+102009;INF789F01BB4;-;UTI-  Liquid Cash Plan- Discontinued - Regular Plan -Growth;3211.2316;19-Jun-2022
+102007;-;INF789F01AZ5;UTI-  Liquid Cash Plan- Discontinued -Regular Plan Periodic Dividend Option;1133.7906;19-Jun-2022
 145969;-;INF03VN01019;WhiteOak Capital Liquid Fund- Direct plan-Daily Reinvestment of Income Distribution cum capital withdrawal option (IDCW);1000.9670;19-Jun-2022
 145966;INF03VN01027;INF03VN01035;WhiteOak Capital Liquid Fund- Direct plan-Fortnightly Payout/ Reinvestment of Income Distribution cum capital withdrawal option (IDCW);1002.4071;19-Jun-2022
 145971;INF03VN01043;-;WhiteOak Capital Liquid Fund- Direct plan-Growth Option;1154.8193;19-Jun-2022
@@ -2522,14 +2522,14 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 145485;INF209KB1ZG4;-;ADITYA BIRLA SUN LIFE OVERNIGHT FUND- Regular- Monthly Payout of IDCW option;1002.3842;17-Jun-2022
 145486;INF209KB1ZH2;-;ADITYA BIRLA SUN LIFE OVERNIGHT FUND-DIRECT PLAN-GROWTH;1159.2642;17-Jun-2022
 145481;INF209KB1ZC3;-;ADITYA BIRLA SUNLIFE OVERNIGHT FUND-REGULAR PLAN-GROWTH;1154.1221;17-Jun-2022
-146679;-;INF846K01N99;Axis Overnight Fund - Direct Plan - Daily IDCW;1000.5073;17-Jun-2022
-146675;INF846K01N65;-;Axis Overnight Fund - Direct Plan - Growth Option;1133.2650;17-Jun-2022
-146677;INF846K01N73;INF846K01N81;Axis Overnight Fund - Direct Plan - Monthly IDCW;1003.5286;17-Jun-2022
-146676;INF846K01N40;INF846K01N57;Axis Overnight Fund - Direct Plan - Weekly IDCW;1001.1986;17-Jun-2022
-146682;-;INF846K01O56;Axis Overnight Fund - Regular Plan - Daily IDCW;1000.5032;17-Jun-2022
-146678;INF846K01O23;-;Axis Overnight Fund - Regular Plan - Growth Option;1131.0753;17-Jun-2022
-146681;INF846K01O31;INF846K01O49;Axis Overnight Fund - Regular Plan - Monthly IDCW;1003.4824;17-Jun-2022
-146680;INF846K01O07;INF846K01O15;Axis Overnight Fund - Regular Plan - Weekly IDCW;1001.1610;17-Jun-2022
+146679;-;INF846K01N99;Axis Overnight Fund - Direct Plan - Daily IDCW;1000.5073;19-Jun-2022
+146675;INF846K01N65;-;Axis Overnight Fund - Direct Plan - Growth Option;1133.5531;19-Jun-2022
+146677;INF846K01N73;INF846K01N81;Axis Overnight Fund - Direct Plan - Monthly IDCW;1003.7836;19-Jun-2022
+146676;INF846K01N40;INF846K01N57;Axis Overnight Fund - Direct Plan - Weekly IDCW;1001.4531;19-Jun-2022
+146682;-;INF846K01O56;Axis Overnight Fund - Regular Plan - Daily IDCW;1000.5032;19-Jun-2022
+146678;INF846K01O23;-;Axis Overnight Fund - Regular Plan - Growth Option;1131.3591;19-Jun-2022
+146681;INF846K01O31;INF846K01O49;Axis Overnight Fund - Regular Plan - Monthly IDCW;1003.7341;19-Jun-2022
+146680;INF846K01O07;INF846K01O15;Axis Overnight Fund - Regular Plan - Weekly IDCW;1001.4122;19-Jun-2022
 147951;INF761K01EU7;-;BANK OF INDIA Overnight Fund Direct Plan Growth;1085.5868;19-Jun-2022
 147952;-;INF761K01EV5;BANK OF INDIA Overnight Fund Direct Plan- Daily IDCW;1000.0000;19-Jun-2022
 147948;INF761K01EY9;INF761K01EX1;BANK OF INDIA Overnight Fund Direct Plan- Monthly IDCW;1002.7122;19-Jun-2022
@@ -2655,18 +2655,18 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 147878;INF205KA1114;-;Invesco India Overnight Fund - Regular Plan - Growth;1081.9745;19-Jun-2022
 147879;INF205KA1106;INF205KA1098;Invesco India Overnight Fund - Regular Plan - Monthly IDCW (Payout / Reinvestment);1002.3134;19-Jun-2022
 147881;-;INF205KA1080;Invesco India Overnight Fund - Regular Plan - Weekly IDCW (Reinvestment);1000.7446;19-Jun-2022
-147707;INF00XX01648;INF00XX01614;ITI Overnight Fund - Direct Plan - Annual IDCW Option;1086.2609;17-Jun-2022
-147708;-;INF00XX01572;ITI Overnight Fund - Direct Plan - Daily IDCW Option;1001.0000;17-Jun-2022
-147710;INF00XX01622;INF00XX01598;ITI Overnight Fund - Direct Plan - Fortnightly IDCW Option;1001.7049;17-Jun-2022
-147713;INF00XX01564;-;ITI Overnight Fund - Direct Plan - Growth Option;1093.3333;17-Jun-2022
-147717;INF00XX01630;INF00XX01606;ITI Overnight Fund - Direct Plan - Monthly IDCW Option;1003.4420;17-Jun-2022
-147711;-;INF00XX01580;ITI Overnight Fund - Direct Plan - Weekly IDCW option;1001.3576;17-Jun-2022
-147715;INF00XX01556;INF00XX01523;ITI Overnight Fund - Regular Plan - Annual IDCW Option;1022.3353;17-Jun-2022
-147709;-;INF00XX01481;ITI Overnight Fund - Regular Plan - Daily IDCW Option;1001.0000;17-Jun-2022
-147716;INF00XX01531;INF00XX01507;ITI Overnight Fund - Regular Plan - Fortnightly IDCW Option;1001.7228;17-Jun-2022
-147714;INF00XX01473;-;ITI Overnight Fund - Regular Plan - Growth Option;1090.3345;17-Jun-2022
-147718;INF00XX01549;INF00XX01515;ITI Overnight Fund - Regular Plan - Monthly IDCW Option;1003.3678;17-Jun-2022
-147712;-;INF00XX01499;ITI Overnight Fund - Regular Plan - Weekly IDCW Option;1001.3502;17-Jun-2022
+147707;INF00XX01648;INF00XX01614;ITI Overnight Fund - Direct Plan - Annual IDCW Option;1086.3965;18-Jun-2022
+147708;-;INF00XX01572;ITI Overnight Fund - Direct Plan - Daily IDCW Option;1001.0000;18-Jun-2022
+147710;INF00XX01622;INF00XX01598;ITI Overnight Fund - Direct Plan - Fortnightly IDCW Option;1001.8288;18-Jun-2022
+147713;INF00XX01564;-;ITI Overnight Fund - Direct Plan - Growth Option;1093.4682;18-Jun-2022
+147717;INF00XX01630;INF00XX01606;ITI Overnight Fund - Direct Plan - Monthly IDCW Option;1003.5668;18-Jun-2022
+147711;-;INF00XX01580;ITI Overnight Fund - Direct Plan - Weekly IDCW option;1001.4811;18-Jun-2022
+147715;INF00XX01556;INF00XX01523;ITI Overnight Fund - Regular Plan - Annual IDCW Option;1022.4585;18-Jun-2022
+147709;-;INF00XX01481;ITI Overnight Fund - Regular Plan - Daily IDCW Option;1001.0000;18-Jun-2022
+147716;INF00XX01531;INF00XX01507;ITI Overnight Fund - Regular Plan - Fortnightly IDCW Option;1001.8515;18-Jun-2022
+147714;INF00XX01473;-;ITI Overnight Fund - Regular Plan - Growth Option;1090.4661;18-Jun-2022
+147718;INF00XX01549;INF00XX01515;ITI Overnight Fund - Regular Plan - Monthly IDCW Option;1003.4891;18-Jun-2022
+147712;-;INF00XX01499;ITI Overnight Fund - Regular Plan - Weekly IDCW Option;1001.4716;18-Jun-2022
 147838;-;INF192K01LY2;JM Overnight Fund (Direct) - Daily IDCW;1000.0000;19-Jun-2022
 147835;INF192K01LZ9;INF192K01MA0;JM Overnight Fund (Direct) - Weekly IDCW;1000.6264;19-Jun-2022
 147839;-;INF192K01LU0;JM Overnight Fund (Regular) - Daily IDCW;1000.0000;19-Jun-2022
@@ -2681,14 +2681,14 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 146142;INF174KA1BC6;-;Kotak Overnight Fund -Regular plan-Growth Option;1140.0068;17-Jun-2022
 146140;-;INF174KA1BE2;Kotak Overnight Fund-Direct Plan- Daily Reinvestment of Income Distribution cum capital withdrawal option;1003.6055;17-Jun-2022
 146138;-;INF174KA1BB8;Kotak Overnight Fund-Regular Plan- Daily Reinvestment of Income Distribution cum capital withdrawal option;1004.7568;17-Jun-2022
-118066;INF917K01EL4;INF917K01EM2;L&T Overnight Fund  - Regular Plan - Monthly IDCW;1012.5686;17-Jun-2022
-119283;INF917K01EN0;-;L&T Overnight Fund - Direct Plan - Growth;1672.0982;17-Jun-2022
-119284;-;INF917K01EO8;L&T Overnight Fund - Direct Plan- Daily IDCW;1023.3;17-Jun-2022
-119282;INF917K01ER1;-;L&T Overnight Fund - Direct Plan- Monthly IDCW;1069.2458;17-Jun-2022
-119285;-;INF917K01EP5;L&T Overnight Fund - Direct Plan- Weekly IDCW;1001.9133;17-Jun-2022
-118056;-;INF917K01EJ8;L&T Overnight Fund - Regular Plan - Daily IDCW;1023.3;17-Jun-2022
-118058;INF917K01EI0;-;L&T Overnight Fund - Regular Plan - Growth;1590.6677;17-Jun-2022
-118065;-;INF917K01EK6;L&T Overnight Fund - Regular Plan - Weekly IDCW;1000.509;17-Jun-2022
+118066;INF917K01EL4;INF917K01EM2;L&T Overnight Fund  - Regular Plan - Monthly IDCW;1012.8167;19-Jun-2022
+119283;INF917K01EN0;-;L&T Overnight Fund - Direct Plan - Growth;1672.517;19-Jun-2022
+119284;-;INF917K01EO8;L&T Overnight Fund - Direct Plan- Daily IDCW;1023.3;19-Jun-2022
+119282;INF917K01ER1;-;L&T Overnight Fund - Direct Plan- Monthly IDCW;1069.5136;19-Jun-2022
+119285;-;INF917K01EP5;L&T Overnight Fund - Direct Plan- Weekly IDCW;1002.1642;19-Jun-2022
+118056;-;INF917K01EJ8;L&T Overnight Fund - Regular Plan - Daily IDCW;1023.3;19-Jun-2022
+118058;INF917K01EI0;-;L&T Overnight Fund - Regular Plan - Growth;1591.0574;19-Jun-2022
+118065;-;INF917K01EK6;L&T Overnight Fund - Regular Plan - Weekly IDCW;1000.7541;19-Jun-2022
 147516;-;INF767K01QG7;LIC MF Overnight Fund-Direct Plan-Daily IDCW;1029.2226;19-Jun-2022
 147515;INF767K01QI3;-;LIC MF Overnight Fund-Direct Plan-Growth;1111.3601;19-Jun-2022
 147513;INF767K01QE2;INF767K01QF9;LIC MF Overnight Fund-Direct Plan-IDCW;1111.098;19-Jun-2022
@@ -2703,14 +2703,14 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 147565;INF174V01812;-;Mahindra Manulife Overnight Fund - Regular Plan - Growth;1106.5672;19-Jun-2022
 149471;-;-;Mahindra Manulife Overnight Fund - Unclaimed Redemption/IDCW beyond 3 years;1000.0000;19-Jun-2022
 149470;-;-;Mahindra Manulife Overnight Fund - Unclaimed Redemption/IDCW upto 3 years;1017.6893;19-Jun-2022
-147737;-;INF769K01FJ0;Mirae Asset Overnight Fund Direct Daily IDCW;1000.0007;17-Jun-2022
-147738;INF769K01FF8;INF769K01FI2;Mirae Asset Overnight Fund Direct Monthly IDCW;1002.7847;17-Jun-2022
-147736;INF769K01FG6;-;Mirae Asset Overnight Fund Direct Plan Growth;1098.5548;17-Jun-2022
-147740;-;INF769K01FK8;Mirae Asset Overnight Fund Direct Weekly IDCW;1000.2498;17-Jun-2022
-147743;-;INF769K01FL6;Mirae Asset Overnight Fund Regular Daily  IDCW ;1000.0000;17-Jun-2022
-147742;INF769K01FD3;INF769K01FH4;Mirae Asset Overnight Fund Regular Monthly IDCW;1002.7214;17-Jun-2022
-147739;INF769K01FE1;-;Mirae Asset Overnight Fund Regular Plan Growth;1095.7773;17-Jun-2022
-147741;-;INF769K01FM4;Mirae Asset Overnight Fund Regular Weekly IDCW;1000.2423;17-Jun-2022
+147737;-;INF769K01FJ0;Mirae Asset Overnight Fund Direct Daily IDCW;1000.0007;19-Jun-2022
+147738;INF769K01FF8;INF769K01FI2;Mirae Asset Overnight Fund Direct Monthly IDCW;1003.0386;19-Jun-2022
+147736;INF769K01FG6;-;Mirae Asset Overnight Fund Direct Plan Growth;1098.8328;19-Jun-2022
+147740;-;INF769K01FK8;Mirae Asset Overnight Fund Direct Weekly IDCW;1000.5031;19-Jun-2022
+147743;-;INF769K01FL6;Mirae Asset Overnight Fund Regular Daily  IDCW ;1000.0000;19-Jun-2022
+147742;INF769K01FD3;INF769K01FH4;Mirae Asset Overnight Fund Regular Monthly IDCW;1002.9700;19-Jun-2022
+147739;INF769K01FE1;-;Mirae Asset Overnight Fund Regular Plan Growth;1096.0489;19-Jun-2022
+147741;-;INF769K01FM4;Mirae Asset Overnight Fund Regular Weekly IDCW;1000.4899;19-Jun-2022
 145830;-;INF204KB1Q73;NIPPON INDIA OVERNIGHT FUND - DAILY IDCW Option;100.0050;17-Jun-2022
 145812;-;INF204KB1R49;NIPPON INDIA OVERNIGHT FUND - DIRECT Plan - DAILY IDCW Option;100.0050;17-Jun-2022
 145810;INF204KB1R31;-;Nippon India Overnight Fund - Direct Plan - Growth Option;115.0693;17-Jun-2022
@@ -2767,12 +2767,12 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 149452;-;-;Union Overnight Fund - Unclaimed Amounts Plan - IDCW Upto 3 years;1017.7665;19-Jun-2022
 149453;-;-;Union Overnight Fund - Unclaimed Amounts Plan - Redemption Beyond 3 years;1000.0000;19-Jun-2022
 149454;-;-;Union Overnight Fund - Unclaimed Amounts Plan - Redemption Upto 3 years;1017.7527;19-Jun-2022
-100814;INF789F01604;-;UTI - Overnight  Fund - Regular Plan - Growth Option;2907.4795;18-Jun-2022
-120785;INF789FB1S71;-;UTI - Overnight Fund - Direct Plan - Growth Option;2934.5645;18-Jun-2022
-124266;-;INF789FB1S89;UTI Overnight Fund - Direct Plan - Daily IDCW;1371.6621;18-Jun-2022
-120786;INF789FB1T05;INF789FB1S97;UTI Overnight Fund - Direct Plan - Periodic IDCW;1540.102;18-Jun-2022
-124265;-;INF789FB1T13;UTI Overnight Fund - Regular Plan - Daily IDCW;1370.8617;18-Jun-2022
-100813;INF789F01588;INF789F01596;UTI Overnight Fund - Regular Plan - Periodic IDCW;1497.8318;18-Jun-2022
+100814;INF789F01604;-;UTI - Overnight  Fund - Regular Plan - Growth Option;2907.8408;19-Jun-2022
+120785;INF789FB1S71;-;UTI - Overnight Fund - Direct Plan - Growth Option;2934.9332;19-Jun-2022
+124266;-;INF789FB1S89;UTI Overnight Fund - Direct Plan - Daily IDCW;1371.6621;19-Jun-2022
+120786;INF789FB1T05;INF789FB1S97;UTI Overnight Fund - Direct Plan - Periodic IDCW;1540.2955;19-Jun-2022
+124265;-;INF789FB1T13;UTI Overnight Fund - Regular Plan - Daily IDCW;1370.8617;19-Jun-2022
+100813;INF789F01588;INF789F01596;UTI Overnight Fund - Regular Plan - Periodic IDCW;1498.0179;19-Jun-2022
 147591;-;INF03VN01332;WhiteOak Capital Overnight Fund- Direct plan-Daily Reinvestment of Income Distribution cum capital withdrawal option (IDCW);1000.3902;19-Jun-2022
 147595;INF03VN01340;INF03VN01357;WhiteOak Capital Overnight Fund- Direct plan-Fortnightly  Payout/ Reinvestment of Income Distribution cum capital withdrawal option (IDCW);1006.7658;19-Jun-2022
 147593;INF03VN01365;-;WhiteOak Capital Overnight Fund- Direct plan-Growth Option;1101.4447;19-Jun-2022
