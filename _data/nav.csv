@@ -504,16 +504,16 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 133147;INF179KA1I61;INF179KA1I53;HDFC Credit Risk Debt Fund - IDCW Option - Direct Plan;17.9368;22-Jun-2022
 128050;INF179KA1GA4;INF179KA1GB2;HDFC Credit Risk Debt Fund - Quarterly IDCW - Direct Plan;10.5384;22-Jun-2022
 128052;INF179KA1GD8;INF179KA1GE6;HDFC Credit Risk Debt Fund - Quarterly IDCW Option;10.2184;22-Jun-2022
-134342;INF109KB1AF0;INF109KB1AG8;ICICI Prudential Credit Risk Fund - Annual IDCW;10.1054;21-Jun-2022
+134342;INF109KB1AF0;INF109KB1AG8;ICICI Prudential Credit Risk Fund - Annual IDCW;10.0885;22-Jun-2022
 130943;INF109KA1I27;-;ICICI Prudential Credit Risk Fund - Bonus;15.7498;24-Apr-2020
-134341;INF109KB1AD5;INF109KB1AE3;ICICI Prudential Credit Risk Fund - Direct Plan - Annual IDCW;10.2668;21-Jun-2022
-120711;INF109K01V00;-;ICICI Prudential Credit Risk Fund - Direct Plan - Growth;27.1422;21-Jun-2022
-120710;INF109K01V18;INF109K01V26;ICICI Prudential Credit Risk Fund - Direct Plan - Half Yearly IDCW;10.7470;21-Jun-2022
-120709;INF109K01V34;INF109K01V42;ICICI Prudential Credit Risk Fund - Direct Plan - Quarterly IDCW;11.4312;21-Jun-2022
+134341;INF109KB1AD5;INF109KB1AE3;ICICI Prudential Credit Risk Fund - Direct Plan - Annual IDCW;10.2499;22-Jun-2022
+120711;INF109K01V00;-;ICICI Prudential Credit Risk Fund - Direct Plan - Growth;27.0976;22-Jun-2022
+120710;INF109K01V18;INF109K01V26;ICICI Prudential Credit Risk Fund - Direct Plan - Half Yearly IDCW;10.7293;22-Jun-2022
+120709;INF109K01V34;INF109K01V42;ICICI Prudential Credit Risk Fund - Direct Plan - Quarterly IDCW;11.4124;22-Jun-2022
 130944;INF109KA1I19;-;ICICI Prudential Credit Risk Fund - Direct Plan Bonus;14.6853;06-Feb-2019
-114239;INF109K01GU4;-;ICICI Prudential Credit Risk Fund - Growth;25.1292;21-Jun-2022
-114241;INF109K01GX8;INF109K01GY6;ICICI Prudential Credit Risk Fund - Half Yearly IDCW;10.3856;21-Jun-2022
-114240;INF109K01GV2;INF109K01GW0;ICICI Prudential Credit Risk Fund - Quarterly IDCW;10.7950;21-Jun-2022
+114239;INF109K01GU4;-;ICICI Prudential Credit Risk Fund - Growth;25.0873;22-Jun-2022
+114241;INF109K01GX8;INF109K01GY6;ICICI Prudential Credit Risk Fund - Half Yearly IDCW;10.3683;22-Jun-2022
+114240;INF109K01GV2;INF109K01GW0;ICICI Prudential Credit Risk Fund - Quarterly IDCW;10.777;22-Jun-2022
 128337;INF397L01GD9;-;IDBI Credit Risk Fund Annual IDCW - Direct Plan;12.4387;22-Jun-2022
 128332;INF397L01FX9;-;IDBI Credit Risk Fund Annual IDCW - Regular Plan;11.3400;22-Jun-2022
 127181;INF397L01GG2;-;IDBI Credit Risk Fund Growth Direct;16.2530;22-Jun-2022
@@ -5834,10 +5834,10 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 119131;INF179K01XW8;-;HDFC Multi-Asset Fund - Growth Option - Direct Plan;48.384;22-Jun-2022
 103130;INF179K01AN5;INF179K01AO3;HDFC Multi-Asset Fund - IDCW Option;13.74;22-Jun-2022
 119130;INF179K01XU2;INF179K01XV0;HDFC Multi-Asset Fund - IDCW Option - Direct Plan;15.752;22-Jun-2022
-120334;INF109K015K4;-;ICICI Prudential Multi-Asset Fund - Direct Plan - Growth;441.1864;22-Jun-2022
-120335;INF109K013K9;INF109K014K7;ICICI Prudential Multi-Asset Fund - Direct Plan - IDCW;34.4029;22-Jun-2022
-101144;INF109K01761;-;ICICI Prudential Multi-Asset Fund - Growth;409.9274;22-Jun-2022
-101143;INF109K01ED5;INF109K01779;ICICI Prudential Multi-Asset Fund - IDCW;22.7334;22-Jun-2022
+120334;INF109K015K4;-;ICICI Prudential Multi-Asset Fund - Direct Plan - Growth;441.2145;22-Jun-2022
+120335;INF109K013K9;INF109K014K7;ICICI Prudential Multi-Asset Fund - Direct Plan - IDCW;34.405;22-Jun-2022
+101144;INF109K01761;-;ICICI Prudential Multi-Asset Fund - Growth;409.9535;22-Jun-2022
+101143;INF109K01ED5;INF109K01779;ICICI Prudential Multi-Asset Fund - IDCW;22.7348;22-Jun-2022
 115269;INF109K01TN2;-;ICICI Prudential Multi-Asset Fund- Institutional Growth Option;22.849;24-Apr-2020
 104898;INF109K01787;-;ICICI Prudential Multi-Asset Fund-Institutional Option - I;43.0129;18-Jun-2018
 148454;INF247L01AI8;-;Motilal Oswal Multi Asset Fund - Direct Plan - Growth Option;10.6181;22-Jun-2022
@@ -6063,26 +6063,26 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 139618;-;-;Taurus Investor Education Pool - Unclaimed Redemption - Growth;10.0000;22-Jun-2022
 139616;-;-;Taurus Unclaimed Dividend - Growth;14.3915;22-Jun-2022
 139617;-;-;Taurus Unclaimed Redemption - Growth;14.3927;22-Jun-2022
-131897;INF084M01DQ0;INF084M01DR8;Aditya Birla Sun Life Active Debt Multi Manager FoF Scheme - DIRECT - IDCW;19.7723;21-Jun-2022
-131898;INF084M01DP2;-;Aditya Birla Sun Life Active Debt Multi Manager FoF Scheme - Direct Plan - Growth Option;31.5761;21-Jun-2022
-131895;INF084M01AI3;INF084M01AJ1;Aditya Birla Sun Life Active Debt Multi Manager FoF Scheme - REGULAR - IDCW;18.9371;21-Jun-2022
-131896;INF084M01AH5;-;Aditya Birla Sun Life Active Debt Multi Manager FoF Scheme - Regular Plan - Growth Option;30.1962;21-Jun-2022
-131865;INF084M01DM9;-;Aditya Birla Sun Life Asset Allocator FoF- Direct Plan - Growth Option;20.609;21-Jun-2022
-131864;INF084M01AE2;-;Aditya Birla Sun Life Asset Allocator FoF- Regular Plan - Growth Option;40.3617;21-Jun-2022
-131866;INF084M01DN7;INF084M01DO5;Aditya Birla Sun Life Asset Allocator FoF-DIRECT - IDCW;19.6378;21-Jun-2022
-131863;INF084M01AF9;INF084M01AG7;Aditya Birla Sun Life Asset Allocator FoF-REGULAR - IDCW;37.1676;21-Jun-2022
-132187;INF084M01EX4;INF084M01EY2;Aditya Birla Sun Life Financial Planning Fund - Aggressive Plan - Direct - IDCW;30.4157;21-Jun-2022
-132186;INF084M01EW6;-;Aditya Birla Sun Life Financial Planning Fund - Aggressive Plan - Direct Plan - Growth Option;33.2119;21-Jun-2022
-132180;INF084M01101;-;Aditya Birla Sun Life Financial Planning Fund - Aggressive Plan - Regular Plan - Growth Option;30.9777;21-Jun-2022
-132181;INF084M01119;INF084M01127;Aditya Birla Sun Life Financial Planning Fund - Aggressive Plan -Regular - IDCW;28.3547;21-Jun-2022
-132183;INF084M01EQ8;-;Aditya Birla Sun Life Financial Planning Fund - Conservative Plan - Direct Plan - Growth Option;24.6039;21-Jun-2022
-132178;INF084M01044;-;Aditya Birla Sun life Financial Planning Fund - Conservative Plan - Regular Plan - Growth Option;23.4289;21-Jun-2022
-132184;INF084M01ER6;INF084M01ES4;Aditya Birla Sun Life Financial Planning Fund - Conservative Plan -Direct - IDCW;16.7054;21-Jun-2022
-132179;INF084M01051;INF084M01069;Aditya Birla Sun Life Financial Planning Fund - Conservative Plan -Regular - IDCW;21.3154;21-Jun-2022
-132185;INF084M01ET2;-;Aditya Birla Sun Life Financial Planning Fund - Moderate Plan - Direct Plan - Growth Option;28.0185;21-Jun-2022
-132174;INF084M01077;-;Aditya Birla Sun Life Financial Planning Fund - Moderate Plan - Regular Plan - Growth Option;26.6364;21-Jun-2022
-132175;INF084M01085;INF084M01093;Aditya Birla Sun Life Financial Planning Fund -Moderate  Plan -  Regular -  IDCW;23.891;21-Jun-2022
-132189;INF084M01EU0;INF084M01EV8;Aditya Birla Sun Life Financial Planning Fund -Moderate  Plan - Direct - IDCW;25.4049;21-Jun-2022
+131897;INF084M01DQ0;INF084M01DR8;Aditya Birla Sun Life Active Debt Multi Manager FoF Scheme - DIRECT - IDCW;19.7818;22-Jun-2022
+131898;INF084M01DP2;-;Aditya Birla Sun Life Active Debt Multi Manager FoF Scheme - Direct Plan - Growth Option;31.5912;22-Jun-2022
+131895;INF084M01AI3;INF084M01AJ1;Aditya Birla Sun Life Active Debt Multi Manager FoF Scheme - REGULAR - IDCW;18.9459;22-Jun-2022
+131896;INF084M01AH5;-;Aditya Birla Sun Life Active Debt Multi Manager FoF Scheme - Regular Plan - Growth Option;30.2103;22-Jun-2022
+131865;INF084M01DM9;-;Aditya Birla Sun Life Asset Allocator FoF- Direct Plan - Growth Option;20.5126;22-Jun-2022
+131864;INF084M01AE2;-;Aditya Birla Sun Life Asset Allocator FoF- Regular Plan - Growth Option;40.1716;22-Jun-2022
+131866;INF084M01DN7;INF084M01DO5;Aditya Birla Sun Life Asset Allocator FoF-DIRECT - IDCW;19.5459;22-Jun-2022
+131863;INF084M01AF9;INF084M01AG7;Aditya Birla Sun Life Asset Allocator FoF-REGULAR - IDCW;36.9926;22-Jun-2022
+132187;INF084M01EX4;INF084M01EY2;Aditya Birla Sun Life Financial Planning Fund - Aggressive Plan - Direct - IDCW;30.1521;22-Jun-2022
+132186;INF084M01EW6;-;Aditya Birla Sun Life Financial Planning Fund - Aggressive Plan - Direct Plan - Growth Option;32.9242;22-Jun-2022
+132180;INF084M01101;-;Aditya Birla Sun Life Financial Planning Fund - Aggressive Plan - Regular Plan - Growth Option;30.7096;22-Jun-2022
+132181;INF084M01119;INF084M01127;Aditya Birla Sun Life Financial Planning Fund - Aggressive Plan -Regular - IDCW;28.1094;22-Jun-2022
+132183;INF084M01EQ8;-;Aditya Birla Sun Life Financial Planning Fund - Conservative Plan - Direct Plan - Growth Option;24.527;22-Jun-2022
+132178;INF084M01044;-;Aditya Birla Sun life Financial Planning Fund - Conservative Plan - Regular Plan - Growth Option;23.3555;22-Jun-2022
+132184;INF084M01ER6;INF084M01ES4;Aditya Birla Sun Life Financial Planning Fund - Conservative Plan -Direct - IDCW;16.6533;22-Jun-2022
+132179;INF084M01051;INF084M01069;Aditya Birla Sun Life Financial Planning Fund - Conservative Plan -Regular - IDCW;21.2487;22-Jun-2022
+132185;INF084M01ET2;-;Aditya Birla Sun Life Financial Planning Fund - Moderate Plan - Direct Plan - Growth Option;27.865;22-Jun-2022
+132174;INF084M01077;-;Aditya Birla Sun Life Financial Planning Fund - Moderate Plan - Regular Plan - Growth Option;26.4902;22-Jun-2022
+132175;INF084M01085;INF084M01093;Aditya Birla Sun Life Financial Planning Fund -Moderate  Plan -  Regular -  IDCW;23.7598;22-Jun-2022
+132189;INF084M01EU0;INF084M01EV8;Aditya Birla Sun Life Financial Planning Fund -Moderate  Plan - Direct - IDCW;25.2657;22-Jun-2022
 120546;INF209K01YU5;-;Aditya Birla Sun Life Gold Fund - Growth - Direct Plan;15.8803;22-Jun-2022
 120545;INF209K01YT7;-;Aditya Birla Sun Life Gold Fund-DIRECT - IDCW;15.8824;22-Jun-2022
 116796;INF209K01PF4;-;Aditya Birla Sun Life Gold Fund-Growth;15.4446;22-Jun-2022
@@ -6189,16 +6189,16 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 149160;INF109KC1S05;INF109KC1R97;ICICI Prudential Alpha Low Vol 30 ETF FOF - Direct Plan - IDCW;8.2625;22-Jun-2022
 149157;INF109KC1R55;-;ICICI Prudential Alpha Low Vol 30 ETF FOF - Growth;8.2256;22-Jun-2022
 149159;INF109KC1R71;INF109KC1R63;ICICI Prudential Alpha Low Vol 30 ETF FOF - IDCW;8.2256;22-Jun-2022
-120679;INF109K01X16;-;ICICI Prudential Asset Allocator Fund (FOF) - Direct Plan - Growth;82.3521;22-Jun-2022
-120680;INF109K01W90;INF109K01X08;ICICI Prudential Asset Allocator Fund (FOF) - Direct Plan - IDCW;75.4265;22-Jun-2022
-102137;INF109K01837;-;ICICI Prudential Asset Allocator Fund (FOF) - Growth;77.0841;22-Jun-2022
-102138;INF109K01FJ9;INF109K01845;ICICI Prudential Asset Allocator Fund (FOF) - IDCW;70.2258;22-Jun-2022
+120679;INF109K01X16;-;ICICI Prudential Asset Allocator Fund (FOF) - Direct Plan - Growth;82.3507;22-Jun-2022
+120680;INF109K01W90;INF109K01X08;ICICI Prudential Asset Allocator Fund (FOF) - Direct Plan - IDCW;75.4253;22-Jun-2022
+102137;INF109K01837;-;ICICI Prudential Asset Allocator Fund (FOF) - Growth;77.0828;22-Jun-2022
+102138;INF109K01FJ9;INF109K01845;ICICI Prudential Asset Allocator Fund (FOF) - IDCW;70.2246;22-Jun-2022
 143904;INF109KC1FW3;-;ICICI Prudential BHARAT 22 FOF - Cumulative Option;13.1067;22-Jun-2022
 143903;INF109KC1FX1;-;ICICI Prudential BHARAT 22 FOF - Direct Plan Cumulative Option;13.1076;22-Jun-2022
-120703;INF109K01X57;INF109K01X65;ICICI Prudential Debt Management Fund (FOF) - Direct Plan -  IDCW;35.0760;22-Jun-2022
-120702;INF109K01X73;-;ICICI Prudential Debt Management Fund (FOF) - Direct Plan - Growth;36.4307;22-Jun-2022
-102141;INF109K01878;-;ICICI Prudential Debt Management Fund (FOF) - Growth;35.2341;22-Jun-2022
-102143;INF109K01FS0;INF109K01886;ICICI Prudential Debt Management Fund (FOF ) - IDCW;33.7456;22-Jun-2022
+120703;INF109K01X57;INF109K01X65;ICICI Prudential Debt Management Fund (FOF) - Direct Plan -  IDCW;35.3173;22-Jun-2022
+120702;INF109K01X73;-;ICICI Prudential Debt Management Fund (FOF) - Direct Plan - Growth;36.6814;22-Jun-2022
+102141;INF109K01878;-;ICICI Prudential Debt Management Fund (FOF) - Growth;35.4765;22-Jun-2022
+102143;INF109K01FS0;INF109K01886;ICICI Prudential Debt Management Fund (FOF ) - IDCW;33.9778;22-Jun-2022
 147648;INF109KC1F34;-;ICICI Prudential Global Advantage Fund (FOF) - Direct Plan - Growth Option;12.1209;21-Jun-2022
 147645;INF109KC1F42;-;ICICI Prudential Global Advantage Fund (FOF) - Direct Plan - IDCW;12.1209;21-Jun-2022
 147647;INF109KC1F00;-;ICICI Prudential Global Advantage Fund (FOF) - Growth Option;11.9183;21-Jun-2022
@@ -6207,10 +6207,10 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 120314;INF109K01W66;INF109K01W74;ICICI Prudential Income Optimizer Fund (FOF) - Direct Plan - IDCW;41.8683;22-Jun-2022
 102139;INF109K01811;-;ICICI Prudential Income Optimizer Fund (FOF) - Growth;43.6047;22-Jun-2022
 102140;INF109K01EB9;INF109K01829;ICICI Prudential Income Optimizer Fund (FOF) - IDCW;39.9048;22-Jun-2022
-148035;INF109KC1I49;-;ICICI Prudential India Equity FOF - Direct Plan - Growth;15.6417;22-Jun-2022
-148036;INF109KC1I64;INF109KC1I56;ICICI Prudential India Equity FOF - Direct Plan - IDCW;14.3051;22-Jun-2022
-148033;INF109KC1I15;-;ICICI Prudential India Equity FOF - Growth;15.3117;22-Jun-2022
-148034;INF109KC1I31;INF109KC1I23;ICICI Prudential India Equity FOF - IDCW;13.9774;22-Jun-2022
+148035;INF109KC1I49;-;ICICI Prudential India Equity FOF - Direct Plan - Growth;15.6717;22-Jun-2022
+148036;INF109KC1I64;INF109KC1I56;ICICI Prudential India Equity FOF - Direct Plan - IDCW;14.3325;22-Jun-2022
+148033;INF109KC1I15;-;ICICI Prudential India Equity FOF - Growth;15.341;22-Jun-2022
+148034;INF109KC1I31;INF109KC1I23;ICICI Prudential India Equity FOF - IDCW;14.0042;22-Jun-2022
 148822;INF109KC1P81;-;ICICI Prudential Nifty Low Vol 30 ETF FOF - Direct Plan - Growth;10.5777;22-Jun-2022
 148823;INF109KC1Q07;INF109KC1P99;ICICI Prudential Nifty Low Vol 30 ETF FOF - Direct Plan - IDCW;10.5778;22-Jun-2022
 148821;INF109KC1P57;-;ICICI Prudential Nifty Low Vol 30 ETF FOF - Growth;10.5066;22-Jun-2022
@@ -6235,9 +6235,9 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 149776;INF109KC1Z06;INF109KC1Z14;ICICI PRUDENTIAL SILVER ETF FUND OF FUND - Direct Plan - IDCW;9.7866;22-Jun-2022
 149777;INF109KC1Y64;-;ICICI PRUDENTIAL SILVER ETF FUND OF FUND - Growth;9.7621;22-Jun-2022
 149778;INF109KC1Y72;INF109KC1Y80;ICICI PRUDENTIAL SILVER ETF FUND OF FUND - IDCW;9.7622;22-Jun-2022
-120700;INF109K01X40;-;ICICI Prudential Thematic Advantage Fund (FOF) - Direct Plan - Growth;120.4286;22-Jun-2022
-102135;INF109K01852;-;ICICI Prudential Thematic Advantage Fund (FOF) - Growth;116.9423;22-Jun-2022
-102136;INF109K01FR2;INF109K01860;ICICI Prudential Thematic Advantage Fund (FOF) - IDCW;106.6665;22-Jun-2022
+120700;INF109K01X40;-;ICICI Prudential Thematic Advantage Fund (FOF) - Direct Plan - Growth;120.4572;22-Jun-2022
+102135;INF109K01852;-;ICICI Prudential Thematic Advantage Fund (FOF) - Growth;116.9701;22-Jun-2022
+102136;INF109K01FR2;INF109K01860;ICICI Prudential Thematic Advantage Fund (FOF) - IDCW;106.6919;22-Jun-2022
 117714;INF397L01992;-;IDBI GOLD FUND;13.8034;22-Jun-2022
 118343;INF397L01BU4;-;IDBI GOLD FUND Direct;14.3666;22-Jun-2022
 118412;-;INF194K01V71;IDFC ALL SEASONS BOND FUND - DIRECT PLAN-WEEKLY IDCW;11.7428;22-Jun-2022
