@@ -6605,10 +6605,10 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 149339;INF754K01NS7;-;Edelweiss Large & Midcap Index Fund - Direct Plan Payout;9.1067;06-Jul-2022
 149341;INF754K01NN8;-;Edelweiss Large & Midcap Index Fund - Regular Plan Growth;9.0709;06-Jul-2022
 149342;INF754K01NO6;-;Edelweiss Large & Midcap Index Fund - Regular Plan Payout;9.0705;06-Jul-2022
-148556;INF754K01LW3;INF754K01LX1;Edelweiss MSCI India Domestic & World Healthcare 45 Index Fund - Direct Plan - IDCW Option;11.6979;06-Jul-2022
-148558;INF754K01LS1;INF754K01LT9;Edelweiss MSCI India Domestic & World Healthcare 45 Index Fund - Regular Plan - IDCW Option;11.5794;06-Jul-2022
-148555;INF754K01LV5;-;Edelweiss MSCI India Domestic & World Healthcare 45 Index Fund Direct Plan - Growth;11.6979;06-Jul-2022
-148557;INF754K01LR3;-;Edelweiss MSCI India Domestic & World Healthcare 45 index Fund Regular Plan - Growth;11.5794;06-Jul-2022
+148556;INF754K01LW3;INF754K01LX1;Edelweiss MSCI India Domestic & World Healthcare 45 Index Fund - Direct Plan - IDCW Option;11.6983;06-Jul-2022
+148558;INF754K01LS1;INF754K01LT9;Edelweiss MSCI India Domestic & World Healthcare 45 Index Fund - Regular Plan - IDCW Option;11.5798;06-Jul-2022
+148555;INF754K01LV5;-;Edelweiss MSCI India Domestic & World Healthcare 45 Index Fund Direct Plan - Growth;11.6983;06-Jul-2022
+148557;INF754K01LR3;-;Edelweiss MSCI India Domestic & World Healthcare 45 index Fund Regular Plan - Growth;11.5798;06-Jul-2022
 149254;INF754K01NJ6;-;Edelweiss Nifty 100 Quality 30 Index Fund Direct Plan Growth;9.1312;06-Jul-2022
 149255;INF754K01NK4;INF754K01NL2;Edelweiss Nifty 100 Quality 30 Index Fund Direct Plan IDCW;9.0035;06-Jul-2022
 149256;INF754K01NF4;-;Edelweiss Nifty 100 Quality 30 Index Fund Regular Plan Growth;9.0891;06-Jul-2022
@@ -6922,12 +6922,12 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 147906;INF769K01FN2;-;Mirae Asset Nifty Next 50 ETF (MANxt50ETF);382.219;06-Jul-2022
 148927;INF769K01HF4;-;Mirae Asset NYSE FANG + ETF;40.731;06-Jul-2022
 149169;INF769K01HP3;-;Mirae Asset S&P 500 Top 50 ETF;25.974;06-Jul-2022
-148620;INF247L01AK4;-;Motilal Oswal 5 Year G-sec ETF;48.9484;06-Jul-2022
-113069;INF247L01536;-;Motilal Oswal M50 ETF (MOFM50);160.0220;06-Jul-2022
-114456;INF247L01023;-;Motilal Oswal Midcap 100 ETF (MOFM100);28.8212;06-Jul-2022
 114984;INF247L01AP3;-;Motilal Oswal Nasdaq 100 ETF (MOFN100);91.3444;06-Jul-2022
 149438;INF247L01AU3;-;Motilal Oswal Nasdaq Q50 ETF;47.4213;06-Jul-2022
 149801;INF247L01AX7;-;Motilal Oswal Nifty 200 Momentum 30 ETF;164.1750;06-Jul-2022
+148620;INF247L01AK4;-;Motilal Oswal 5 Year G-sec ETF;48.9484;06-Jul-2022
+113069;INF247L01536;-;Motilal Oswal M50 ETF (MOFM50);160.0220;06-Jul-2022
+114456;INF247L01023;-;Motilal Oswal Midcap 100 ETF (MOFM100);28.8212;06-Jul-2022
 149921;INF247L01BA3;-;Motilal Oswal S&P BSE Low Volatility ETF;114.1436;06-Jul-2022
 140107;INF457M01133;-;CPSE ETF;30.9405;06-Jul-2022
 140095;INF204KB19I1;-;Nippon India ETF Hang Seng BeES;289.4436;06-Jul-2022
