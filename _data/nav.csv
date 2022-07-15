@@ -1456,12 +1456,12 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 120249;INF767K01DN1;-;LIC MF Liquid Fund-Direct Plan-Growth;3913.4448;15-Jul-2022
 101184;INF767K01IQ3;INF767K01IR1;LIC MF Liquid Fund-Regular Plan-Daily IDCW;1000.1;15-Jul-2022
 101185;INF767K01IS9;-;LIC MF Liquid Fund-Regular Plan-Growth;3870.8232;15-Jul-2022
-139535;-;INF174V01051;Mahindra Manulife Liquid Fund - Direct Plan - Daily IDCW;1004.8301;15-Jul-2022
-139536;-;INF174V01069;Mahindra Manulife Liquid Fund - Direct Plan - Weekly IDCW;1003.1589;15-Jul-2022
-139538;INF174V01044;-;Mahindra Manulife Liquid Fund - Direct Plan -Growth;1401.4657;15-Jul-2022
-139534;-;INF174V01028;Mahindra Manulife Liquid Fund - Regular Plan - Daily IDCW;1000.3545;15-Jul-2022
-139537;INF174V01010;-;Mahindra Manulife Liquid Fund - Regular Plan - Growth;1391.1578;15-Jul-2022
-139541;-;INF174V01036;Mahindra Manulife Liquid Fund - Regular Plan - Weekly IDCW;1010.5086;15-Jul-2022
+139535;-;INF174V01051;Mahindra Manulife Liquid Fund - Direct Plan - Daily IDCW;1004.8301;16-Jul-2022
+139536;-;INF174V01069;Mahindra Manulife Liquid Fund - Direct Plan - Weekly IDCW;1003.2968;16-Jul-2022
+139538;INF174V01044;-;Mahindra Manulife Liquid Fund - Direct Plan -Growth;1401.6582;16-Jul-2022
+139534;-;INF174V01028;Mahindra Manulife Liquid Fund - Regular Plan - Daily IDCW;1000.3545;16-Jul-2022
+139537;INF174V01010;-;Mahindra Manulife Liquid Fund - Regular Plan - Growth;1391.3447;16-Jul-2022
+139541;-;INF174V01036;Mahindra Manulife Liquid Fund - Regular Plan - Weekly IDCW;1010.6445;16-Jul-2022
 139540;-;-;Mahindra Manulife Liquid Fund - Unclaimed Redemption / IDCW Beyond 3 years;1000.0000;30-Nov-2021
 139539;-;-;Mahindra Manulife Liquid Fund - Unclaimed Redemption / IDCW Upto three years;1218.6343;30-Nov-2021
 118859;INF769K01CM1;-;Mirae Asset Cash Management Fund - Direct Plan - Growth;2274.9041;15-Jul-2022
@@ -1608,20 +1608,20 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 148833;INF0GCD01198;-;TRUSTMF Liquid Fund-Regular Plan-Growth;1042.5849;15-Jul-2022
 148843;INF0GCD01248;INF0GCD01230;TRUSTMF Liquid Fund-Regular Plan-Monthly Income Distribution cum Capital Withdrawal;1016.5179;15-Jul-2022
 148836;INF0GCD01214;INF0GCD01222;TRUSTMF Liquid Fund-Regular Plan-Weekly Income Distribution cum Capital Withdrawal;1012.9195;15-Jul-2022
-115401;-;INF582M01021;Union Liquid Fund - Daily IDCW Option;1000.7927;16-Jul-2022
-119301;-;INF582M01682;Union Liquid Fund - Direct Plan - Daily IDCW Option;1000.7927;16-Jul-2022
-119305;INF582M01724;INF582M01708;Union Liquid Fund - Direct Plan - Fortnightly IDCW Option;1001.2111;16-Jul-2022
-119303;INF582M01674;-;Union Liquid Fund - Direct Plan - Growth Option;2076.4467;16-Jul-2022
-119302;INF582M01732;INF582M01716;Union Liquid Fund - Direct Plan - Monthly IDCW Option;1003.2399;16-Jul-2022
-119304;-;INF582M01690;Union Liquid Fund - Direct Plan - Weekly IDCW Option;1001.3072;16-Jul-2022
-115399;INF582M01062;INF582M01047;Union Liquid Fund - Fortnightly IDCW Option;1001.2073;16-Jul-2022
-115398;INF582M01013;-;Union Liquid Fund - Growth Option;2057.2424;16-Jul-2022
-115400;INF582M01070;INF582M01054;Union Liquid Fund - Monthly IDCW Option;1003.1914;16-Jul-2022
+115401;-;INF582M01021;Union Liquid Fund - Daily IDCW Option;1000.7927;17-Jul-2022
+119301;-;INF582M01682;Union Liquid Fund - Direct Plan - Daily IDCW Option;1000.7927;17-Jul-2022
+119305;INF582M01724;INF582M01708;Union Liquid Fund - Direct Plan - Fortnightly IDCW Option;1001.3472;17-Jul-2022
+119303;INF582M01674;-;Union Liquid Fund - Direct Plan - Growth Option;2076.7291;17-Jul-2022
+119302;INF582M01732;INF582M01716;Union Liquid Fund - Direct Plan - Monthly IDCW Option;1003.3763;17-Jul-2022
+119304;-;INF582M01690;Union Liquid Fund - Direct Plan - Weekly IDCW Option;1001.4439;17-Jul-2022
+115399;INF582M01062;INF582M01047;Union Liquid Fund - Fortnightly IDCW Option;1001.3407;17-Jul-2022
+115398;INF582M01013;-;Union Liquid Fund - Growth Option;2057.5165;17-Jul-2022
+115400;INF582M01070;INF582M01054;Union Liquid Fund - Monthly IDCW Option;1003.3251;17-Jul-2022
 142345;-;-;Union Liquid Fund - Unclaimed Amounts Plan - IDCW Beyond 3 years;1000.0000;30-Nov-2021
 142344;-;-;Union Liquid Fund - Unclaimed Amounts Plan - IDCW Upto 3 years;1167.6169;30-Nov-2021
 142343;-;-;Union Liquid Fund - Unclaimed Amounts Plan - Redemption Beyond 3 years;1000.0000;30-Nov-2021
 142342;-;-;Union Liquid Fund - Unclaimed Amounts Plan - Redemption Upto 3 years;1167.3290;30-Nov-2021
-115402;-;INF582M01039;Union Liquid Fund - Weekly IDCW Option;1001.4904;16-Jul-2022
+115402;-;INF582M01039;Union Liquid Fund - Weekly IDCW Option;1001.6238;17-Jul-2022
 134427;INF789FA1K63;INF789FA1K71;UTI Liquid Cash Plan - Direct Plan - Annual IDCW;1552.7292;15-Jul-2022
 120558;-;INF789F01XP8;UTI Liquid Cash Plan - Direct Plan - Daily IDCW (Reinvestment);1048.7091;15-Jul-2022
 141768;INF789FA1K89;INF789FA1K97;UTI Liquid Cash Plan - Direct Plan - Flexi IDCW;1278.8976;15-Jul-2022
@@ -2685,12 +2685,12 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 147519;INF767K01QD4;-;LIC MF Overnight Fund-Regular Plan-Growth;1110.8112;15-Jul-2022
 147512;INF767K01PZ9;INF767K01QA0;LIC MF Overnight Fund-Regular Plan-IDCW;1111.362;15-Jul-2022
 147518;-;INF767K01QC6;LIC MF Overnight Fund-Regular Plan-Weekly IDCW;1028.4528;15-Jul-2022
-147563;-;INF174V01846;Mahindra Manulife Overnight Fund - Direct Plan - Daily IDCW;1062.6914;15-Jul-2022
-147564;INF174V01838;-;Mahindra Manulife Overnight Fund - Direct Plan -Growth;1113.5460;15-Jul-2022
-147566;-;INF174V01820;Mahindra Manulife Overnight Fund - Regular Plan - Daily IDCW;1038.3142;15-Jul-2022
-147565;INF174V01812;-;Mahindra Manulife Overnight Fund - Regular Plan - Growth;1110.1711;15-Jul-2022
-149471;-;-;Mahindra Manulife Overnight Fund - Unclaimed Redemption/IDCW beyond 3 years;1000.0000;15-Jul-2022
-149470;-;-;Mahindra Manulife Overnight Fund - Unclaimed Redemption/IDCW upto 3 years;1021.1713;15-Jul-2022
+147563;-;INF174V01846;Mahindra Manulife Overnight Fund - Direct Plan - Daily IDCW;1062.8280;16-Jul-2022
+147564;INF174V01838;-;Mahindra Manulife Overnight Fund - Direct Plan -Growth;1113.6897;16-Jul-2022
+147566;-;INF174V01820;Mahindra Manulife Overnight Fund - Regular Plan - Daily IDCW;1038.4460;16-Jul-2022
+147565;INF174V01812;-;Mahindra Manulife Overnight Fund - Regular Plan - Growth;1110.3114;16-Jul-2022
+149471;-;-;Mahindra Manulife Overnight Fund - Unclaimed Redemption/IDCW beyond 3 years;1000.0000;16-Jul-2022
+149470;-;-;Mahindra Manulife Overnight Fund - Unclaimed Redemption/IDCW upto 3 years;1021.3031;16-Jul-2022
 147737;-;INF769K01FJ0;Mirae Asset Overnight Fund Direct Daily IDCW;1000.0007;15-Jul-2022
 147738;INF769K01FF8;INF769K01FI2;Mirae Asset Overnight Fund Direct Monthly IDCW;1002.6692;15-Jul-2022
 147736;INF769K01FG6;-;Mirae Asset Overnight Fund Direct Plan Growth;1102.4671;15-Jul-2022
@@ -2745,16 +2745,16 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 149797;INF0GCD01453;-;TRUST MF OVERNIGHT FUND-DIRECT PLAN-GROWTH;1018.8132;15-Jul-2022
 149798;-;INF0GCD01446;TRUST MF OVERNIGHT FUND-REGULAR PLAN-DAILY IDCW REINVESTMENT;1018.623;15-Jul-2022
 149795;INF0GCD01438;-;TRUST MF OVERNIGHT FUND-REGULAR-GROWTH;1018.5638;15-Jul-2022
-147002;-;INF582M01FB0;Union Overnight Fund - Direct Plan - Daily IDCW Option;1000.7630;16-Jul-2022
-147003;INF582M01FA2;-;Union Overnight Fund - Direct Plan - Growth Option;1132.7781;16-Jul-2022
-147006;INF582M01FG9;INF582M01FE4;Union Overnight Fund - Direct Plan - Monthly IDCW Option;1003.0617;16-Jul-2022
-146998;-;INF582M01FK1;Union Overnight Fund - Regular Plan - Daily IDCW Option;1000.7907;16-Jul-2022
-146997;INF582M01FJ3;-;Union Overnight Fund - Regular Plan - Growth Option;1129.0887;16-Jul-2022
-147000;INF582M01FP0;INF582M01FN5;Union Overnight Fund - Regular Plan - Monthly IDCW Option;1002.9882;16-Jul-2022
-149451;-;-;Union Overnight Fund - Unclaimed Amounts Plan - IDCW Beyond 3 years;1000.0000;16-Jul-2022
-149452;-;-;Union Overnight Fund - Unclaimed Amounts Plan - IDCW Upto 3 years;1021.2650;16-Jul-2022
-149453;-;-;Union Overnight Fund - Unclaimed Amounts Plan - Redemption Beyond 3 years;1000.0000;16-Jul-2022
-149454;-;-;Union Overnight Fund - Unclaimed Amounts Plan - Redemption Upto 3 years;1021.2468;16-Jul-2022
+147002;-;INF582M01FB0;Union Overnight Fund - Direct Plan - Daily IDCW Option;1000.7630;17-Jul-2022
+147003;INF582M01FA2;-;Union Overnight Fund - Direct Plan - Growth Option;1132.9271;17-Jul-2022
+147006;INF582M01FG9;INF582M01FE4;Union Overnight Fund - Direct Plan - Monthly IDCW Option;1003.1947;17-Jul-2022
+146998;-;INF582M01FK1;Union Overnight Fund - Regular Plan - Daily IDCW Option;1000.7923;17-Jul-2022
+146997;INF582M01FJ3;-;Union Overnight Fund - Regular Plan - Growth Option;1129.2342;17-Jul-2022
+147000;INF582M01FP0;INF582M01FN5;Union Overnight Fund - Regular Plan - Monthly IDCW Option;1003.1174;17-Jul-2022
+149451;-;-;Union Overnight Fund - Unclaimed Amounts Plan - IDCW Beyond 3 years;1000.0000;17-Jul-2022
+149452;-;-;Union Overnight Fund - Unclaimed Amounts Plan - IDCW Upto 3 years;1021.3996;17-Jul-2022
+149453;-;-;Union Overnight Fund - Unclaimed Amounts Plan - Redemption Beyond 3 years;1000.0000;17-Jul-2022
+149454;-;-;Union Overnight Fund - Unclaimed Amounts Plan - Redemption Upto 3 years;1021.3812;17-Jul-2022
 100814;INF789F01604;-;UTI - Overnight  Fund - Regular Plan - Growth Option;2917.4807;15-Jul-2022
 120785;INF789FB1S71;-;UTI - Overnight Fund - Direct Plan - Growth Option;2944.7677;15-Jul-2022
 124266;-;INF789FB1S89;UTI Overnight Fund - Direct Plan - Daily IDCW;1371.6621;15-Jul-2022
@@ -6071,18 +6071,18 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 149781;INF209KB17F0;INF209KB18F8;Aditya Birla Sun Life Silver ETF FOF-Direct IDCW;9.0002;15-Jul-2022
 149783;INF209KB13F9;-;Aditya Birla Sun Life Silver ETF FOF-Regular Growth;8.9781;15-Jul-2022
 149784;INF209KB14F7;INF209KB15F4;Aditya Birla Sun Life Silver ETF FOF-Regular IDCW;8.9781;15-Jul-2022
-147905;INF846K01V73;INF846K01V65;Axis All Seasons Debt Fund of Fund - Regular Plan - Quarterly IDCW;11.0330;14-Jul-2022
-147895;INF846K01U25;INF846K01U17;Axis All Seasons Debt Fund of Funds - Direct Plan - Annual IDCW;11.3840;14-Jul-2022
-147889;INF846K01U09;-;Axis All Seasons Debt Fund of Funds - Direct Plan - Growth Option;11.6284;14-Jul-2022
-147894;INF846K01U74;INF846K01U82;Axis All Seasons Debt Fund of Funds - Direct Plan - Half Yearly Dividend Option;10.2956;14-Jul-2022
-147891;INF846K01U90;INF846K01V08;Axis All Seasons Debt Fund of Funds - Direct Plan - IDCW;11.6349;14-Jul-2022
-147892;INF846K01U41;INF846K01U33;Axis All Seasons Debt Fund of Funds - Direct Plan - Monthly IDCW;11.6382;14-Jul-2022
-147893;INF846K01U66;INF846K01U58;Axis All Seasons Debt Fund of Funds - Direct Plan - Quarterly IDCW;11.1293;14-Jul-2022
-147898;INF846K01V32;INF846K01V24;Axis All Seasons Debt Fund of Funds - Regular Plan - Annual IDCW;11.3139;14-Jul-2022
-147890;INF846K01V16;-;Axis All Seasons Debt Fund of Funds - Regular Plan - Growth Option;11.5349;14-Jul-2022
-147897;INF846K01V81;INF846K01V99;Axis All Seasons Debt Fund of Funds - Regular Plan - Half Yearly IDCW;12.1771;14-Jul-2022
-147888;INF846K01W07;INF846K01W15;Axis All Seasons Debt Fund of Funds - Regular Plan - IDCW;11.5348;14-Jul-2022
-147896;INF846K01V57;INF846K01V40;Axis All Seasons Debt Fund of Funds - Regular Plan - Monthly IDCW;11.5342;14-Jul-2022
+147905;INF846K01V73;INF846K01V65;Axis All Seasons Debt Fund of Fund - Regular Plan - Quarterly IDCW;11.0255;15-Jul-2022
+147895;INF846K01U25;INF846K01U17;Axis All Seasons Debt Fund of Funds - Direct Plan - Annual IDCW;11.3765;15-Jul-2022
+147889;INF846K01U09;-;Axis All Seasons Debt Fund of Funds - Direct Plan - Growth Option;11.6206;15-Jul-2022
+147894;INF846K01U74;INF846K01U82;Axis All Seasons Debt Fund of Funds - Direct Plan - Half Yearly Dividend Option;10.2887;15-Jul-2022
+147891;INF846K01U90;INF846K01V08;Axis All Seasons Debt Fund of Funds - Direct Plan - IDCW;11.6272;15-Jul-2022
+147892;INF846K01U41;INF846K01U33;Axis All Seasons Debt Fund of Funds - Direct Plan - Monthly IDCW;11.6305;15-Jul-2022
+147893;INF846K01U66;INF846K01U58;Axis All Seasons Debt Fund of Funds - Direct Plan - Quarterly IDCW;11.1219;15-Jul-2022
+147898;INF846K01V32;INF846K01V24;Axis All Seasons Debt Fund of Funds - Regular Plan - Annual IDCW;11.3062;15-Jul-2022
+147890;INF846K01V16;-;Axis All Seasons Debt Fund of Funds - Regular Plan - Growth Option;11.5271;15-Jul-2022
+147897;INF846K01V81;INF846K01V99;Axis All Seasons Debt Fund of Funds - Regular Plan - Half Yearly IDCW;12.1689;15-Jul-2022
+147888;INF846K01W07;INF846K01W15;Axis All Seasons Debt Fund of Funds - Regular Plan - IDCW;11.5270;15-Jul-2022
+147896;INF846K01V57;INF846K01V40;Axis All Seasons Debt Fund of Funds - Regular Plan - Monthly IDCW;11.5264;15-Jul-2022
 149847;INF846K011G9;-;Axis Equity ETFs FOF - Direct Plan - Growth Option;9.6128;15-Jul-2022
 149846;INF846K012G7;INF846K013G5;Axis Equity ETFs FOF - Direct Plan - IDCW;9.6128;15-Jul-2022
 149844;INF846K014G3;-;Axis Equity ETFs FOF - Regular Plan - Growth Option;9.6068;15-Jul-2022
@@ -6336,18 +6336,18 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 149291;INF209KB18C5;-;Aditya Birla Sun Life Nasdaq 100 FOF-Direct-Growth;7.6913;15-Jul-2022
 149290;INF209KB15C1;-;Aditya Birla Sun Life Nasdaq 100 FOF-Regular Growth;7.664;15-Jul-2022
 149292;INF209KB16C9;INF209KB17C7;Aditya Birla Sun Life Nasdaq 100 FOF-Regular IDCW;7.6634;15-Jul-2022
-148485;INF846K01X06;-;Axis Global Equity Alpha Fund of Fund - Direct Plan - Growth Option;11.4911;14-Jul-2022
-148487;INF846K01X14;INF846K01X22;Axis Global Equity Alpha Fund of Fund - Direct Plan - IDCW;11.4908;14-Jul-2022
-148486;INF846K01X30;-;Axis Global Equity Alpha Fund of Fund - Regular Plan - Growth Option;11.2368;14-Jul-2022
-148488;INF846K01X48;INF846K01X55;Axis Global Equity Alpha Fund of Fund - Regular Plan - IDCW;11.2368;14-Jul-2022
-148954;INF846K01Z20;-;Axis Global Innovation Fund of Fund - Direct Plan - Growth;8.24;14-Jul-2022
-148955;INF846K01Z38;INF846K01Z46;Axis Global Innovation Fund of Fund - Direct Plan - IDCW;8.24;14-Jul-2022
-148953;INF846K01Z53;-;Axis Global Innovation Fund of Fund - Regular Plan - Growth;8.12;14-Jul-2022
-148956;INF846K01Z61;INF846K01Z79;Axis Global Innovation Fund of Fund - Regular Plan - IDCW;8.12;14-Jul-2022
-148699;INF846K01Y39;-;Axis Greater China Equity Fund of Fund - Direct Plan - Growth Option;7.65;14-Jul-2022
-148700;INF846K01Y47;INF846K01Y54;Axis Greater China Equity Fund of Fund - Direct Plan - IDCW;7.65;14-Jul-2022
-148701;INF846K01Y62;-;Axis Greater China Equity Fund of Fund - Regular Plan - Growth Option;7.52;14-Jul-2022
-148702;INF846K01Y70;INF846K01Y88;Axis Greater China Equity Fund of Fund - Regular Plan - IDCW;7.52;14-Jul-2022
+148485;INF846K01X06;-;Axis Global Equity Alpha Fund of Fund - Direct Plan - Growth Option;11.6748;15-Jul-2022
+148487;INF846K01X14;INF846K01X22;Axis Global Equity Alpha Fund of Fund - Direct Plan - IDCW;11.6745;15-Jul-2022
+148486;INF846K01X30;-;Axis Global Equity Alpha Fund of Fund - Regular Plan - Growth Option;11.4161;15-Jul-2022
+148488;INF846K01X48;INF846K01X55;Axis Global Equity Alpha Fund of Fund - Regular Plan - IDCW;11.4161;15-Jul-2022
+148954;INF846K01Z20;-;Axis Global Innovation Fund of Fund - Direct Plan - Growth;8.41;15-Jul-2022
+148955;INF846K01Z38;INF846K01Z46;Axis Global Innovation Fund of Fund - Direct Plan - IDCW;8.41;15-Jul-2022
+148953;INF846K01Z53;-;Axis Global Innovation Fund of Fund - Regular Plan - Growth;8.29;15-Jul-2022
+148956;INF846K01Z61;INF846K01Z79;Axis Global Innovation Fund of Fund - Regular Plan - IDCW;8.29;15-Jul-2022
+148699;INF846K01Y39;-;Axis Greater China Equity Fund of Fund - Direct Plan - Growth Option;7.56;15-Jul-2022
+148700;INF846K01Y47;INF846K01Y54;Axis Greater China Equity Fund of Fund - Direct Plan - IDCW;7.55;15-Jul-2022
+148701;INF846K01Y62;-;Axis Greater China Equity Fund of Fund - Regular Plan - Growth Option;7.42;15-Jul-2022
+148702;INF846K01Y70;INF846K01Y88;Axis Greater China Equity Fund of Fund - Regular Plan - IDCW;7.42;15-Jul-2022
 150285;INF251K01QT5;-;Baroda BNP Paribas Funds Aqua Fund of Fund - Direct Plan - Growth Option;8.7358;14-Jul-2022
 150287;INF251K01QU3;INF251K01QV1;Baroda BNP Paribas Funds Aqua Fund of Fund - Direct Plan - IDCW Option;8.7358;14-Jul-2022
 150286;INF251K01QR9;INF251K01QS7;Baroda BNP Paribas Funds Aqua Fund of Fund - Regular Plan - IDCW Option;8.6186;14-Jul-2022
