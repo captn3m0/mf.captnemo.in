@@ -1561,12 +1561,12 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 148510;-;-;quant Liquid Fund-Unclaimed Dividend-Growth Option;10.8043;15-Jul-2022
 148511;-;-;quant Liquid Fund-Unclaimed Redemption Investor Education Plan-Growth Option;10.8036;15-Jul-2022
 148512;-;-;quant Liquid Fund-Unclaimed Redemption Plan-Growth Option;10.8087;15-Jul-2022
-103736;-;INF082J01135;Quantum Liquid Fund - Direct Plan Daily IDCW;10.0090;16-Jul-2022
-103734;INF082J01127;-;Quantum Liquid Fund - Direct Plan Growth Option;29.0407;16-Jul-2022
-103735;INF082J01143;INF082J01200;Quantum Liquid Fund - Direct Plan Monthly IDCW;10.0369;16-Jul-2022
-141065;-;INF082J01317;Quantum Liquid Fund - Regular Plan Daily IDCW;10.0007;16-Jul-2022
-141066;INF082J01309;-;Quantum Liquid Fund - Regular Plan Growth Option;28.9234;16-Jul-2022
-141067;INF082J01325;INF082J01333;Quantum Liquid Fund - Regular Plan Monthly IDCW;10.0309;16-Jul-2022
+103736;-;INF082J01135;Quantum Liquid Fund - Direct Plan Daily IDCW;10.0090;17-Jul-2022
+103734;INF082J01127;-;Quantum Liquid Fund - Direct Plan Growth Option;29.0445;17-Jul-2022
+103735;INF082J01143;INF082J01200;Quantum Liquid Fund - Direct Plan Monthly IDCW;10.0382;17-Jul-2022
+141065;-;INF082J01317;Quantum Liquid Fund - Regular Plan Daily IDCW;10.0007;17-Jul-2022
+141066;INF082J01309;-;Quantum Liquid Fund - Regular Plan Growth Option;28.9271;17-Jul-2022
+141067;INF082J01325;INF082J01333;Quantum Liquid Fund - Regular Plan Monthly IDCW;10.0322;17-Jul-2022
 119804;INF200K01UR8;INF200K01US6;SBI Liquid Fund - Direct Paln - Fortnightly Income Distribution cum Capital Withdrawal Option (IDCW);1101.4616;15-Jul-2022
 119805;-;INF200K01UQ0;SBI Liquid Fund - Direct Plan - Daily Income Distribution cum Capital Withdrawal Option (IDCW);1088.4401;15-Jul-2022
 119799;INF200K01UU2;INF200K01UV0;SBI Liquid Fund - Direct Plan - Weekly Income Distribution cum Capital Withdrawal Option (IDCW);1152.0185;15-Jul-2022
@@ -3250,14 +3250,6 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 124315;INF247L01320;INF247L01304;Motilal Oswal Ultra Short Term Fund Regular - IDCW Monthly Payout/Reinvestment;10.1529;15-Jul-2022
 124305;INF247L01338;INF247L01312;Motilal Oswal Ultra Short Term Fund Regular - IDCW Quarterly Payout/Reinvestment;10.2992;15-Jul-2022
 124310;-;INF247L01288;Motilal Oswal Ultra Short Term Fund Regular - IDCW Weekly Reinvestment;10.1561;15-Jul-2022
-119185;-;INF959L01BL0;Navi Ultra Short Term Fund - Direct Plan Daily IDCW - ReInvestment;1006.8853;15-Jul-2022
-119187;INF959L01BF2;INF959L01BG0;Navi Ultra Short Term Fund - Direct Plan Monthly IDCW Payout;1019.7925;15-Jul-2022
-119188;INF959L01BI6;INF959L01BJ4;Navi Ultra Short Term Fund - Direct Plan Weekly IDCW - Payout;1004.5875;15-Jul-2022
-119186;INF959L01BC9;-;Navi Ultra Short Term Fund - Direct Plan-Growth Option;2401.2479;15-Jul-2022
-112648;-;INF959L01BM8;Navi Ultra Short Term Fund - Regular Plan Daily IDCW;1015.6219;15-Jul-2022
-112649;INF959L01BN6;INF959L01BP1;Navi Ultra Short Term Fund - Regular Plan Monthly IDCW;1004.7144;15-Jul-2022
-112658;INF959L01BQ9;INF959L01AY5;Navi Ultra Short Term Fund - Regular Plan Weekly IDCW;1005;15-Jul-2022
-112408;INF959L01BH8;-;Navi Ultra Short Term Fund - Regular Plan-Growth Option;2251.9395;15-Jul-2022
 143498;-;INF204K01UC2;NIPPON INDIA ULTRA SHORT DURATION FUND - DAILY IDCW OPTION;1114.1500;15-Jul-2022
 143500;-;INF204K01YF7;NIPPON INDIA ULTRA SHORT DURATION FUND - DIRECT Plan - DAILY IDCW OPTION;1114.1500;15-Jul-2022
 143497;INF204K01YI1;INF204K01YJ9;NIPPON INDIA ULTRA SHORT DURATION FUND - DIRECT Plan - MONTHLY IDCW Option;1022.8602;15-Jul-2022
@@ -4057,16 +4049,6 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 107578;INF769K01010;-;Mirae Asset Large Cap Fund - Growth Plan;72.749;15-Jul-2022
 118826;INF769K01AY0;INF769K01AZ7;Mirae Asset Large Cap Fund Direct IDCW;49.014;15-Jul-2022
 107579;INF769K01036;INF769K01028;Mirae Asset Large Cap Fund Regular IDCW;21.960;15-Jul-2022
-135660;INF959L01CB9;INF959L01CC7;Navi Large Cap Equity Fund - Annual IDCW Payout;21.1846;15-Jul-2022
-135659;INF959L01BV9;INF959L01BW7;Navi Large Cap Equity Fund - Direct Plan Annual IDCW;24.7664;15-Jul-2022
-135658;INF959L01BT3;INF959L01BU1;Navi Large Cap Equity Fund - Direct Plan Half Yearly IDCW;24.0765;15-Jul-2022
-119149;INF959L01601;INF959L01619;Navi Large Cap Equity Fund - Direct Plan Normal IDCW Payout;21.804;15-Jul-2022
-135656;INF959L01BK2;INF959L01BO4;Navi Large Cap Equity Fund - Direct Plan Quarterly IDCW;22.776;15-Jul-2022
-115790;INF959L01080;-;Navi Large Cap Equity Fund - Growth Option;30.7626;15-Jul-2022
-135657;INF959L01BZ0;INF959L01CA1;Navi Large Cap Equity Fund - Half Yearly IDCW Payout;19.797;15-Jul-2022
-115788;INF959L01064;INF959L01072;Navi Large Cap Equity Fund - Normal IDCW Payout;19.3792;15-Jul-2022
-135661;INF959L01BX5;INF959L01BY3;Navi Large Cap Equity Fund - Quarterly IDCW;21.4907;15-Jul-2022
-119148;INF959L01593;-;Navi Large Cap Equity Fund-Direct Plan-Growth Option;35.4395;15-Jul-2022
 106235;INF204K01562;-;Nippon India Large Cap  Fund- Growth Plan -Growth Option;48.2492;15-Jul-2022
 118634;INF204K01XG7;INF204K01XH5;NIPPON INDIA LARGE CAP FUND - DIRECT Plan - IDCW Option;26.1113;15-Jul-2022
 118633;INF204K01D30;-;Nippon India Large Cap Fund - Direct Plan Growth Plan - Bonus Option;52.4560;15-Jul-2022
@@ -4499,10 +4481,10 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 120595;INF109K01Z22;INF109K01Z30;ICICI Prudential Technology Fund - Direct Plan -  IDCW;99.20;15-Jul-2022
 100363;INF109K01506;-;ICICI Prudential Technology Fund - Growth;124.46;15-Jul-2022
 115294;INF109K01FO9;INF109K01514;ICICI Prudential Technology Fund - IDCW;55.98;15-Jul-2022
-120186;INF109K01Z71;-;ICICI Prudential US Bluechip Equity Fund - Direct Plan -  Growth;44.41;14-Jul-2022
-120185;INF109K01Z55;INF109K01Z63;ICICI Prudential US Bluechip Equity Fund - Direct Plan -  IDCW;44.40;14-Jul-2022
-117620;INF109K01E35;-;ICICI Prudential US Bluechip Equity Fund - Growth;40.84;14-Jul-2022
-117619;INF109K01E43;INF109K01E50;ICICI Prudential US Bluechip Equity Fund - IDCW;40.84;14-Jul-2022
+120186;INF109K01Z71;-;ICICI Prudential US Bluechip Equity Fund - Direct Plan -  Growth;45.38;15-Jul-2022
+120185;INF109K01Z55;INF109K01Z63;ICICI Prudential US Bluechip Equity Fund - Direct Plan -  IDCW;45.38;15-Jul-2022
+117620;INF109K01E35;-;ICICI Prudential US Bluechip Equity Fund - Growth;41.74;15-Jul-2022
+117619;INF109K01E43;INF109K01E50;ICICI Prudential US Bluechip Equity Fund - IDCW;41.74;15-Jul-2022
 143353;INF397L01KM2;-;IDBI Banking & Financial Services Fund - Direct Plan (Growth);12.69;15-Jul-2022
 143352;INF397L01KJ8;INF397L01KK6;IDBI Banking & Financial Services Fund - Direct Plan (IDCW);12.69;15-Jul-2022
 143351;INF397L01KI0;-;IDBI Banking & Financial Services Fund - Regular Plan (Growth);12.00;15-Jul-2022
@@ -5822,17 +5804,6 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 104898;INF109K01787;-;ICICI Prudential Multi-Asset Fund-Institutional Option - I;43.0129;18-Jun-2018
 148454;INF247L01AI8;-;Motilal Oswal Multi Asset Fund - Direct Plan - Growth Option;10.7758;15-Jul-2022
 148455;INF247L01AJ6;-;Motilal Oswal Multi Asset Fund - Regular Plan - Growth Option;10.4791;15-Jul-2022
-146436;INF959L01FH9;INF959L01FI7;Navi 3 in 1 Fund - Direct Plan - Annual IDCW;23.5931;15-Jul-2022
-146437;INF959L01FD8;INF959L01FE6;Navi 3 in 1 Fund - Direct Plan - Normal IDCW;22.5814;15-Jul-2022
-119174;INF959L01551;INF959L01569;Navi 3 IN 1 FUND - Direct Plan Monthly IDCW Payout;22.5027;15-Jul-2022
-119175;INF959L01577;INF959L01585;Navi 3 IN 1 FUND - Direct Plan Quarterly IDCW Payout;23.2899;15-Jul-2022
-114854;INF959L01023;INF959L01049;Navi 3 IN 1 FUND - MONTHLY IDCW Payout;21.3042;15-Jul-2022
-115101;INF959L01031;INF959L01056;Navi 3 IN 1 FUND - QUARTERLY IDCW Payout;21.1147;15-Jul-2022
-146440;INF959L01FN7;INF959L01FO5;Navi 3 in 1 Fund - Regular Plan - Annual IDCW;22.8277;15-Jul-2022
-146438;INF959L01FL1;INF959L01FM9;Navi 3 in 1 Fund - Regular Plan - Half Yearly IDCW;21.3762;15-Jul-2022
-146439;INF959L01FJ5;INF959L01FK3;Navi 3 in 1 Fund - Regular Plan - Normal IDCW;22.8304;15-Jul-2022
-119176;INF959L01544;-;Navi 3 in 1 Fund-Direct Plan-Growth Option;26.8438;15-Jul-2022
-114855;INF959L01015;-;Navi 3 in 1 Fund-Growth;23.6718;15-Jul-2022
 148457;INF204KB19V4;-;Nippon India Multi Asset Fund - Direct Plan - Growth Option;12.9972;15-Jul-2022
 148458;INF204KB10W1;INF204KB11W9;NIPPON INDIA MULTI ASSET FUND - DIRECT Plan - IDCW Option;12.9972;15-Jul-2022
 148460;INF204KB17V8;INF204KB18V6;NIPPON INDIA MULTI ASSET FUND - IDCW Option;12.6405;15-Jul-2022
@@ -6153,18 +6124,18 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 130547;INF179KA1SD3;-;HDFC Dynamic PE Ratio Fund of Funds - IDCW Option - Direct Plan;24.5019;15-Jul-2022
 119132;INF179K01VX0;-;HDFC Gold Fund - Direct Plan;16.3451;15-Jul-2022
 115934;INF179K01LC5;-;HDFC Gold Fund - Growth Option;15.7617;15-Jul-2022
-129195;INF336L01IM4;-;HSBC Managed Solutions - Conservative - Growth;17.2299;14-Jul-2022
-129197;INF336L01IP7;-;HSBC Managed Solutions - Conservative - Growth Direct;17.8719;14-Jul-2022
+129195;INF336L01IM4;-;HSBC Managed Solutions - Conservative - Growth;17.2335;15-Jul-2022
+129197;INF336L01IP7;-;HSBC Managed Solutions - Conservative - Growth Direct;17.8760;15-Jul-2022
 129198;INF336L01IO0;-;HSBC Managed Solutions India Conservative Fund Direct Plan IDCW;17.1673;04-Feb-2021
-129196;INF336L01IL6;-;HSBC Managed Solutions India Conservative Fund IDCW;17.2299;14-Jul-2022
-129199;INF336L01HZ8;-;HSBC Managed Solutions - Growth - Dividend;24.5617;14-Jul-2022
-129201;INF336L01IC5;-;HSBC Managed Solutions - Growth - Dividend Direct;25.1787;14-Jul-2022
-129065;INF336L01IA9;-;HSBC Managed Solutions - Growth - Growth;24.5617;14-Jul-2022
-129200;INF336L01ID3;-;HSBC Managed Solutions - Growth - Growth Direct;25.1787;14-Jul-2022
-129191;INF336L01IG6;-;HSBC Managed Solutions - Moderate - Growth;22.7560;14-Jul-2022
-129193;INF336L01IJ0;-;HSBC Managed Solutions - Moderate - Growth Direct;23.4959;14-Jul-2022
-129194;INF336L01II2;-;HSBC Managed Solutions India Moderate Fund Direct Plan IDCW;13.7725;14-Jul-2022
-129192;INF336L01IF8;-;HSBC Managed Solutions India Moderate Fund IDCW;22.7560;14-Jul-2022
+129196;INF336L01IL6;-;HSBC Managed Solutions India Conservative Fund IDCW;17.2335;15-Jul-2022
+129199;INF336L01HZ8;-;HSBC Managed Solutions - Growth - Dividend;24.7120;15-Jul-2022
+129201;INF336L01IC5;-;HSBC Managed Solutions - Growth - Dividend Direct;25.3330;15-Jul-2022
+129065;INF336L01IA9;-;HSBC Managed Solutions - Growth - Growth;24.7120;15-Jul-2022
+129200;INF336L01ID3;-;HSBC Managed Solutions - Growth - Growth Direct;25.3330;15-Jul-2022
+129191;INF336L01IG6;-;HSBC Managed Solutions - Moderate - Growth;22.8665;15-Jul-2022
+129193;INF336L01IJ0;-;HSBC Managed Solutions - Moderate - Growth Direct;23.6104;15-Jul-2022
+129194;INF336L01II2;-;HSBC Managed Solutions India Moderate Fund Direct Plan IDCW;13.8396;15-Jul-2022
+129192;INF336L01IF8;-;HSBC Managed Solutions India Moderate Fund IDCW;22.8665;15-Jul-2022
 120679;INF109K01X16;-;ICICI Prudential Asset Allocator Fund (FOF) - Direct Plan - Growth;83.9447;15-Jul-2022
 120680;INF109K01W90;INF109K01X08;ICICI Prudential Asset Allocator Fund (FOF) - Direct Plan - IDCW;76.8852;15-Jul-2022
 102137;INF109K01837;-;ICICI Prudential Asset Allocator Fund (FOF) - Growth;78.5086;15-Jul-2022
@@ -6175,10 +6146,10 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 120702;INF109K01X73;-;ICICI Prudential Debt Management Fund (FOF) - Direct Plan - Growth;36.9183;15-Jul-2022
 102141;INF109K01878;-;ICICI Prudential Debt Management Fund (FOF) - Growth;35.6982;15-Jul-2022
 102143;INF109K01FS0;INF109K01886;ICICI Prudential Debt Management Fund (FOF ) - IDCW;34.1901;15-Jul-2022
-147648;INF109KC1F34;-;ICICI Prudential Global Advantage Fund (FOF) - Direct Plan - Growth Option;12.0569;14-Jul-2022
-147645;INF109KC1F42;-;ICICI Prudential Global Advantage Fund (FOF) - Direct Plan - IDCW;12.0568;14-Jul-2022
-147647;INF109KC1F00;-;ICICI Prudential Global Advantage Fund (FOF) - Growth Option;11.8489;14-Jul-2022
-147646;INF109KC1F18;-;ICICI Prudential Global Advantage Fund (FOF) - IDCW;11.8486;14-Jul-2022
+147648;INF109KC1F34;-;ICICI Prudential Global Advantage Fund (FOF) - Direct Plan - Growth Option;12.0917;15-Jul-2022
+147645;INF109KC1F42;-;ICICI Prudential Global Advantage Fund (FOF) - Direct Plan - IDCW;12.0916;15-Jul-2022
+147647;INF109KC1F00;-;ICICI Prudential Global Advantage Fund (FOF) - Growth Option;11.8829;15-Jul-2022
+147646;INF109KC1F18;-;ICICI Prudential Global Advantage Fund (FOF) - IDCW;11.8825;15-Jul-2022
 120313;INF109K01W82;-;ICICI Prudential Income Optimizer Fund (FOF) - Direct Plan - Growth;46.5744;15-Jul-2022
 120314;INF109K01W66;INF109K01W74;ICICI Prudential Income Optimizer Fund (FOF) - Direct Plan - IDCW;42.4895;15-Jul-2022
 102139;INF109K01811;-;ICICI Prudential Income Optimizer Fund (FOF) - Growth;44.2188;15-Jul-2022
@@ -6195,10 +6166,10 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 149160;INF109KC1S05;INF109KC1R97;ICICI Prudential Nifty Alpha Low - Volatility 30 ETF FOF - Direct Plan - IDCW;8.7361;15-Jul-2022
 149157;INF109KC1R55;-;ICICI Prudential Nifty Alpha Low - Volatility 30 ETF FOF - Growth;8.6938;15-Jul-2022
 149159;INF109KC1R71;INF109KC1R63;ICICI Prudential Nifty Alpha Low - Volatility 30 ETF FOF - IDCW;8.6939;15-Jul-2022
-149441;INF109KC1Y15;-;ICICI Prudential Passive Multi-Asset Fund of Funds - Direct Plan - Growth;9.6616;14-Jul-2022
-149442;INF109KC1Y23;INF109KC1Y31;ICICI Prudential Passive Multi-Asset Fund of Funds - Direct Plan - IDCW;9.6683;14-Jul-2022
-149439;INF109KC1X81;-;ICICI Prudential Passive Multi-Asset Fund of Funds - Growth;9.6416;14-Jul-2022
-149440;INF109KC1X99;INF109KC1Y07;ICICI Prudential Passive Multi-Asset Fund of Funds - IDCW;9.6416;14-Jul-2022
+149441;INF109KC1Y15;-;ICICI Prudential Passive Multi-Asset Fund of Funds - Direct Plan - Growth;9.6921;15-Jul-2022
+149442;INF109KC1Y23;INF109KC1Y31;ICICI Prudential Passive Multi-Asset Fund of Funds - Direct Plan - IDCW;9.6988;15-Jul-2022
+149439;INF109KC1X81;-;ICICI Prudential Passive Multi-Asset Fund of Funds - Growth;9.6719;15-Jul-2022
+149440;INF109KC1X99;INF109KC1Y07;ICICI Prudential Passive Multi-Asset Fund of Funds - IDCW;9.6719;15-Jul-2022
 102134;INF109K01DW7;INF109K01803;ICICI Prudential Passive Strategy Fund (FOF) - IDCW;82.4148;15-Jul-2022
 120243;INF109K01W33;INF109K01W41;ICICI Prudential Passive Strategy Fund (FOF) - Direct Plan -  IDCW;85.8505;15-Jul-2022
 120242;INF109K01W58;-;ICICI Prudential Passive Strategy Fund (FOF) - Direct Plan - Growth;94.0061;15-Jul-2022
@@ -6284,8 +6255,8 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 148748;INF247L01AM0;-;Motilal Oswal Asset Allocation FOF- A- Regular Growth;10.7450;15-Jul-2022
 148750;INF247L01AN8;-;Motilal Oswal Asset Allocation FOF- C- Direct Growth;10.6908;15-Jul-2022
 148749;INF247L01AO6;-;Motilal Oswal Asset Allocation FOF- C- Regular Growth;10.6050;15-Jul-2022
-145552;INF247L01718;-;Motilal Oswal Nasdaq 100 Fund of Fund- Direct Plan Growth;19.6210;14-Jul-2022
-145551;INF247L01700;-;Motilal Oswal Nasdaq 100 Fund of Fund- Regular Plan Growth;19.3384;14-Jul-2022
+145552;INF247L01718;-;Motilal Oswal Nasdaq 100 Fund of Fund- Direct Plan Growth;20.0247;15-Jul-2022
+145551;INF247L01700;-;Motilal Oswal Nasdaq 100 Fund of Fund- Regular Plan Growth;19.7360;15-Jul-2022
 148666;INF204KB16Y4;-;Nippon India Asset Allocator FoF - Direct Plan - Growth Option;12.0903;15-Jul-2022
 148664;INF204KB17Y2;INF204KB18Y0;NIPPON INDIA ASSET ALLOCATOR FOF - DIRECT Plan - IDCW Option;12.0903;15-Jul-2022
 148665;INF204KB14Y9;INF204KB15Y6;NIPPON INDIA ASSET ALLOCATOR FOF - IDCW Option;11.9139;15-Jul-2022
@@ -6402,30 +6373,30 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 129439;INF090I01KV0;INF090I01KW8;Franklin India Feeder - Templeton European Opportunities Fund - IDCW ;8.2109;14-Jul-2022
 149180;INF179KC1BO4;-;HDFC Developed World Indexes Fund of Funds - Direct Plan - Growth Option;8.98;15-Jul-2022
 149181;INF179KC1BP1;-;HDFC Developed World Indexes Fund of Funds - Growth Option;8.936;15-Jul-2022
-127073;INF336L01HC7;-;HSBC Asia Pacific (Ex Japan) Dividend Yield Fund - Growth;16.8941;14-Jul-2022
-127071;INF336L01HF0;-;HSBC Asia Pacific (Ex Japan) Dividend Yield Fund - Growth Direct;17.9511;14-Jul-2022
-127072;INF336L01HG8;INF336L01HH6;HSBC Asia Pacific IDCW Yield Fund Direct Plan IDCW;16.5941;14-Jul-2022
-127070;INF336L01HD5;INF336L01HE3;HSBC Asia Pacific IDCW Yield Fund IDCW;16.8941;14-Jul-2022
-120035;INF336L01BY4;-;HSBC Brazil Fund - Growth Direct;5.9535;14-Jul-2022
-115117;INF336L01172;INF336L01180;HSBC Brazil Fund - IDCW;5.5468;14-Jul-2022
-120036;INF336L01BW8;INF336L01BX6;HSBC Brazil Fund - IDCW Direct Plan;5.9487;14-Jul-2022
-115116;INF336L01164;-;HSBC Brazil Fund-Growth;5.5468;14-Jul-2022
-120043;INF336L01CJ3;-;HSBC Global Emerging Market Fund - Growth Direct;18.1389;14-Jul-2022
-107988;INF336L01446;-;HSBC Global Emerging Markets Fund - Growth;16.9365;14-Jul-2022
-107989;INF336L01438;INF336L01420;HSBC Global Emerging Markets Fund - IDCW;15.0536;14-Jul-2022
-120044;INF336L01CH7;INF336L01CI5;HSBC Global Emerging Markets Fund - IDCW Direct Plan;16.1057;14-Jul-2022
-148738;INF336L01PW8;INF336L01PX6;HSBC Global Equity  Climate Change Fund of Fund Direct Plan IDCW;7.8517;14-Jul-2022
-148737;INF336L01PV0;-;HSBC Global Equity Climate Change Fund of Fund - Direct - Growth;7.8517;14-Jul-2022
-148735;INF336L01PY4;-;HSBC Global Equity Climate Change Fund of Fund - Regular - Growth;7.7698;14-Jul-2022
-148736;INF336L01PZ1;INF336L01QA2;HSBC Global Equity Climate Change Fund of Fund IDCW;7.7698;14-Jul-2022
-123654;INF109KA1CE0;-;ICICI Prudential Global Stable Equity Fund (FOF) - Direct - Growth;21.24;14-Jul-2022
-123652;INF109KA1CG5;INF109KA1CF7;ICICI Prudential Global Stable Equity Fund (FOF) - Direct - IDCW;21.24;14-Jul-2022
-123651;INF109KA1CB6;-;ICICI Prudential Global Stable Equity Fund (FOF) - Growth;19.97;14-Jul-2022
-123653;INF109KA1CD2;INF109KA1CC4;ICICI Prudential Global Stable Equity Fund (FOF) - IDCW;19.97;14-Jul-2022
-149455;INF109KC1Z55;-;ICICI Prudential Strategic Metal and Energy Equity Fund of Fund - Direct Plan Growth;10.5735;14-Jul-2022
-149458;INF109KC1Z63;INF109KC1Z71;ICICI Prudential Strategic Metal and Energy Equity Fund of Fund - Direct Plan IDCW;10.5738;14-Jul-2022
-149456;INF109KC1Z22;-;ICICI Prudential Strategic Metal and Energy Equity Fund of Fund - Growth;10.5238;14-Jul-2022
-149457;INF109KC1Z30;INF109KC1Z48;ICICI Prudential Strategic Metal and Energy Equity Fund of Fund - IDCW;10.5237;14-Jul-2022
+127073;INF336L01HC7;-;HSBC Asia Pacific (Ex Japan) Dividend Yield Fund - Growth;16.7591;15-Jul-2022
+127071;INF336L01HF0;-;HSBC Asia Pacific (Ex Japan) Dividend Yield Fund - Growth Direct;17.8080;15-Jul-2022
+127072;INF336L01HG8;INF336L01HH6;HSBC Asia Pacific IDCW Yield Fund Direct Plan IDCW;16.4618;15-Jul-2022
+127070;INF336L01HD5;INF336L01HE3;HSBC Asia Pacific IDCW Yield Fund IDCW;16.7591;15-Jul-2022
+120035;INF336L01BY4;-;HSBC Brazil Fund - Growth Direct;6.0624;15-Jul-2022
+115117;INF336L01172;INF336L01180;HSBC Brazil Fund - IDCW;5.6482;15-Jul-2022
+120036;INF336L01BW8;INF336L01BX6;HSBC Brazil Fund - IDCW Direct Plan;6.0576;15-Jul-2022
+115116;INF336L01164;-;HSBC Brazil Fund-Growth;5.6482;15-Jul-2022
+120043;INF336L01CJ3;-;HSBC Global Emerging Market Fund - Growth Direct;18.0312;15-Jul-2022
+107988;INF336L01446;-;HSBC Global Emerging Markets Fund - Growth;16.8356;15-Jul-2022
+107989;INF336L01438;INF336L01420;HSBC Global Emerging Markets Fund - IDCW;14.9639;15-Jul-2022
+120044;INF336L01CH7;INF336L01CI5;HSBC Global Emerging Markets Fund - IDCW Direct Plan;16.0100;15-Jul-2022
+148738;INF336L01PW8;INF336L01PX6;HSBC Global Equity  Climate Change Fund of Fund Direct Plan IDCW;8.0482;15-Jul-2022
+148737;INF336L01PV0;-;HSBC Global Equity Climate Change Fund of Fund - Direct - Growth;8.0482;15-Jul-2022
+148735;INF336L01PY4;-;HSBC Global Equity Climate Change Fund of Fund - Regular - Growth;7.9642;15-Jul-2022
+148736;INF336L01PZ1;INF336L01QA2;HSBC Global Equity Climate Change Fund of Fund IDCW;7.9642;15-Jul-2022
+123654;INF109KA1CE0;-;ICICI Prudential Global Stable Equity Fund (FOF) - Direct - Growth;21.57;15-Jul-2022
+123652;INF109KA1CG5;INF109KA1CF7;ICICI Prudential Global Stable Equity Fund (FOF) - Direct - IDCW;21.57;15-Jul-2022
+123651;INF109KA1CB6;-;ICICI Prudential Global Stable Equity Fund (FOF) - Growth;20.28;15-Jul-2022
+123653;INF109KA1CD2;INF109KA1CC4;ICICI Prudential Global Stable Equity Fund (FOF) - IDCW;20.28;15-Jul-2022
+149455;INF109KC1Z55;-;ICICI Prudential Strategic Metal and Energy Equity Fund of Fund - Direct Plan Growth;10.7130;15-Jul-2022
+149458;INF109KC1Z63;INF109KC1Z71;ICICI Prudential Strategic Metal and Energy Equity Fund of Fund - Direct Plan IDCW;10.7133;15-Jul-2022
+149456;INF109KC1Z22;-;ICICI Prudential Strategic Metal and Energy Equity Fund of Fund - Growth;10.6623;15-Jul-2022
+149457;INF109KC1Z30;INF109KC1Z48;ICICI Prudential Strategic Metal and Energy Equity Fund of Fund - IDCW;10.6622;15-Jul-2022
 149098;INF194KB1CF2;-;IDFC US EQUITY FUND OF FUND - GROWTH - DIRECT PLAN;8.38;15-Jul-2022
 149100;INF194KB1CC9;-;IDFC US EQUITY FUND OF FUND - GROWTH - REGULAR PLAN;8.29;15-Jul-2022
 149099;INF194KB1CG0;-;IDFC US EQUITY FUND OF FUND - IDCW - DIRECT PLAN;8.38;15-Jul-2022
@@ -6470,10 +6441,10 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 149231;INF174V01BA8;INF174V01AZ7;Mahindra Manulife Asia Pacific REITs FOF - Direct Plan - IDCW;8.8632;15-Jul-2022
 149228;INF174V01AV6;-;Mahindra Manulife Asia Pacific REITs FOF - Regular Plan - Growth;8.7944;15-Jul-2022
 149229;INF174V01AX2;INF174V01AW4;Mahindra Manulife Asia Pacific REITs FOF - Regular Plan - IDCW;8.7945;15-Jul-2022
-149910;-;-;Navi NASDAQ 100 Fund of Fund- Direct- Growth;8.3176;14-Jul-2022
-149911;-;-;Navi NASDAQ 100 Fund of Fund- Regular- Growth;8.3128;14-Jul-2022
-149830;INF959L01FV0;-;Navi US Total Stock Market Fund of Fund- Direct Plan- Growth;9.2856;14-Jul-2022
-149831;INF959L01FW8;-;Navi US Total Stock Market Fund of Fund- Regular Plan- Growth;9.2854;14-Jul-2022
+149910;-;-;Navi NASDAQ 100 Fund of Fund- Direct- Growth;8.4623;15-Jul-2022
+149911;-;-;Navi NASDAQ 100 Fund of Fund- Regular- Growth;8.4574;15-Jul-2022
+149830;INF959L01FV0;-;Navi US Total Stock Market Fund of Fund- Direct Plan- Growth;9.4663;15-Jul-2022
+149831;INF959L01FW8;-;Navi US Total Stock Market Fund of Fund- Regular Plan- Growth;9.466;15-Jul-2022
 138457;INF223J01NJ4;-;PGIM India Emerging Markets Equity Fund - Direct Plan - Dividend;9.16;15-Jul-2022
 138456;INF223J01NL0;-;PGIM India Emerging Markets Equity Fund - Direct Plan - Growth;13.31;15-Jul-2022
 138454;INF223J01AW4;INF223J01AX2;PGIM India Emerging Markets Equity Fund - Dividend;11.08;15-Jul-2022
@@ -6638,10 +6609,10 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 149962;INF336L01QI5;-;HSBC CRISIL IBX 50:50 Gilt Plus SDL Apr 2028 Index Fund - Direct - Payout of IDCW;9.9300;15-Jul-2022
 149963;INF336L01QK1;INF336L01QM7;HSBC CRISIL IBX 50:50 Gilt Plus SDL Apr 2028 Index Fund - Regular - Growth;9.9242;15-Jul-2022
 149964;INF336L01QL9;-;HSBC CRISIL IBX 50:50 Gilt Plus SDL Apr 2028 Index Fund - Regular - payout of IDCW;9.9242;15-Jul-2022
-149219;INF109KC1U50;-;ICICI Prudential NASDAQ 100 Index Fund - Direct Plan - Growth;8.1811;14-Jul-2022
-149221;INF109KC1U68;INF109KC1U76;ICICI Prudential NASDAQ 100 Index Fund - Direct Plan - IDCW;8.1805;14-Jul-2022
-149218;INF109KC1U27;-;ICICI Prudential NASDAQ 100 Index Fund - Growth;8.1506;14-Jul-2022
-149220;INF109KC1U35;INF109KC1U43;ICICI Prudential NASDAQ 100 Index Fund - IDCW;8.1502;14-Jul-2022
+149219;INF109KC1U50;-;ICICI Prudential NASDAQ 100 Index Fund - Direct Plan - Growth;8.3306;15-Jul-2022
+149221;INF109KC1U68;INF109KC1U76;ICICI Prudential NASDAQ 100 Index Fund - Direct Plan - IDCW;8.3300;15-Jul-2022
+149218;INF109KC1U27;-;ICICI Prudential NASDAQ 100 Index Fund - Growth;8.2994;15-Jul-2022
+149220;INF109KC1U35;INF109KC1U43;ICICI Prudential NASDAQ 100 Index Fund - IDCW;8.2990;15-Jul-2022
 101349;INF109K01PI0;-;ICICI Prudential Nifty 50 Index Fund - Cumulative Option;157.8708;15-Jul-2022
 120620;INF109K012M7;-;ICICI Prudential Nifty 50 Index Fund - Direct Plan Cumulative Option;163.6327;15-Jul-2022
 135391;INF109KB1NL1;INF109KB1NM9;ICICI Prudential Nifty 50 Index Fund - Direct Plan IDCW Option;22.0042;15-Jul-2022
