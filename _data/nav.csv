@@ -4379,10 +4379,10 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 119248;INF740K01PV5;INF740K01PW3;DSP India T.I.G.E.R. Fund - Direct Plan - IDCW;32.446;02-Aug-2022
 102434;INF740K01151;-;DSP India T.I.G.E.R. Fund - Regular Plan - Growth;149.487;02-Aug-2022
 102435;INF740K01136;INF740K01144;DSP India T.I.G.E.R. Fund - Regular Plan - IDCW;18.102;02-Aug-2022
-119028;INF740K01QA7;-;DSP Natural Resources and New Energy Fund - Direct Plan - Growth;55.416;01-Aug-2022
-119029;INF740K01QB5;INF740K01QC3;DSP Natural Resources and New Energy Fund - Direct Plan - IDCW;24.441;01-Aug-2022
-108202;INF740K01060;-;DSP Natural Resources And New Energy Fund - Regular - Growth;51.468;01-Aug-2022
-108203;INF740K01045;INF740K01052;DSP Natural Resources And New Energy Fund - Regular Plan - IDCW;21.041;01-Aug-2022
+119028;INF740K01QA7;-;DSP Natural Resources and New Energy Fund - Direct Plan - Growth;54.937;02-Aug-2022
+119029;INF740K01QB5;INF740K01QC3;DSP Natural Resources and New Energy Fund - Direct Plan - IDCW;24.230;02-Aug-2022
+108202;INF740K01060;-;DSP Natural Resources And New Energy Fund - Regular - Growth;51.022;02-Aug-2022
+108203;INF740K01045;INF740K01052;DSP Natural Resources And New Energy Fund - Regular Plan - IDCW;20.859;02-Aug-2022
 147306;INF740KA1NQ6;-;DSP Quant Fund - Direct Plan - Growth;16.143;02-Aug-2022
 147304;INF740KA1NR4;INF740KA1NS2;DSP Quant Fund - Direct Plan - IDCW;16.143;02-Aug-2022
 147303;INF740KA1NN3;-;DSP Quant Fund - Regular Plan - Growth;15.767;02-Aug-2022
@@ -4483,10 +4483,10 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 120595;INF109K01Z22;INF109K01Z30;ICICI Prudential Technology Fund - Direct Plan -  IDCW;106.87;02-Aug-2022
 100363;INF109K01506;-;ICICI Prudential Technology Fund - Growth;134.01;02-Aug-2022
 115294;INF109K01FO9;INF109K01514;ICICI Prudential Technology Fund - IDCW;60.27;02-Aug-2022
-120186;INF109K01Z71;-;ICICI Prudential US Bluechip Equity Fund - Direct Plan -  Growth;48.34;01-Aug-2022
-120185;INF109K01Z55;INF109K01Z63;ICICI Prudential US Bluechip Equity Fund - Direct Plan -  IDCW;48.33;01-Aug-2022
-117620;INF109K01E35;-;ICICI Prudential US Bluechip Equity Fund - Growth;44.43;01-Aug-2022
-117619;INF109K01E43;INF109K01E50;ICICI Prudential US Bluechip Equity Fund - IDCW;44.43;01-Aug-2022
+120186;INF109K01Z71;-;ICICI Prudential US Bluechip Equity Fund - Direct Plan -  Growth;47.71;02-Aug-2022
+120185;INF109K01Z55;INF109K01Z63;ICICI Prudential US Bluechip Equity Fund - Direct Plan -  IDCW;47.71;02-Aug-2022
+117620;INF109K01E35;-;ICICI Prudential US Bluechip Equity Fund - Growth;43.86;02-Aug-2022
+117619;INF109K01E43;INF109K01E50;ICICI Prudential US Bluechip Equity Fund - IDCW;43.86;02-Aug-2022
 143353;INF397L01KM2;-;IDBI Banking & Financial Services Fund - Direct Plan (Growth);13.97;02-Aug-2022
 143352;INF397L01KJ8;INF397L01KK6;IDBI Banking & Financial Services Fund - Direct Plan (IDCW);13.97;02-Aug-2022
 143351;INF397L01KI0;-;IDBI Banking & Financial Services Fund - Regular Plan (Growth);13.21;02-Aug-2022
@@ -6018,34 +6018,34 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 139618;-;-;Taurus Investor Education Pool - Unclaimed Redemption - Growth;10.0000;02-Aug-2022
 139616;-;-;Taurus Unclaimed Dividend - Growth;14.4722;02-Aug-2022
 139617;-;-;Taurus Unclaimed Redemption - Growth;14.4734;02-Aug-2022
-131897;INF084M01DQ0;INF084M01DR8;Aditya Birla Sun Life Active Debt Multi Manager FoF Scheme - DIRECT - IDCW;19.957;01-Aug-2022
-131898;INF084M01DP2;-;Aditya Birla Sun Life Active Debt Multi Manager FoF Scheme - Direct Plan - Growth Option;31.871;01-Aug-2022
-131895;INF084M01AI3;INF084M01AJ1;Aditya Birla Sun Life Active Debt Multi Manager FoF Scheme - REGULAR - IDCW;19.1035;01-Aug-2022
-131896;INF084M01AH5;-;Aditya Birla Sun Life Active Debt Multi Manager FoF Scheme - Regular Plan - Growth Option;30.4615;01-Aug-2022
-131865;INF084M01DM9;-;Aditya Birla Sun Life Asset Allocator FoF- Direct Plan - Growth Option;21.9141;01-Aug-2022
-131864;INF084M01AE2;-;Aditya Birla Sun Life Asset Allocator FoF- Regular Plan - Growth Option;42.865;01-Aug-2022
-131866;INF084M01DN7;INF084M01DO5;Aditya Birla Sun Life Asset Allocator FoF-DIRECT - IDCW;20.8814;01-Aug-2022
-131863;INF084M01AF9;INF084M01AG7;Aditya Birla Sun Life Asset Allocator FoF-REGULAR - IDCW;39.4728;01-Aug-2022
-132187;INF084M01EX4;INF084M01EY2;Aditya Birla Sun Life Financial Planning Fund - Aggressive Plan - Direct - IDCW;33.0597;01-Aug-2022
-132186;INF084M01EW6;-;Aditya Birla Sun Life Financial Planning Fund - Aggressive Plan - Direct Plan - Growth Option;36.0991;01-Aug-2022
-132180;INF084M01101;-;Aditya Birla Sun Life Financial Planning Fund - Aggressive Plan - Regular Plan - Growth Option;33.6409;01-Aug-2022
-132181;INF084M01119;INF084M01127;Aditya Birla Sun Life Financial Planning Fund - Aggressive Plan -Regular - IDCW;30.7922;01-Aug-2022
-132183;INF084M01EQ8;-;Aditya Birla Sun Life Financial Planning Fund - Conservative Plan - Direct Plan - Growth Option;25.4822;01-Aug-2022
-132178;INF084M01044;-;Aditya Birla Sun life Financial Planning Fund - Conservative Plan - Regular Plan - Growth Option;24.2492;01-Aug-2022
-132184;INF084M01ER6;INF084M01ES4;Aditya Birla Sun Life Financial Planning Fund - Conservative Plan -Direct - IDCW;17.3018;01-Aug-2022
-132179;INF084M01051;INF084M01069;Aditya Birla Sun Life Financial Planning Fund - Conservative Plan -Regular - IDCW;22.0617;01-Aug-2022
-132185;INF084M01ET2;-;Aditya Birla Sun Life Financial Planning Fund - Moderate Plan - Direct Plan - Growth Option;29.6348;01-Aug-2022
-132174;INF084M01077;-;Aditya Birla Sun Life Financial Planning Fund - Moderate Plan - Regular Plan - Growth Option;28.1519;01-Aug-2022
-132175;INF084M01085;INF084M01093;Aditya Birla Sun Life Financial Planning Fund -Moderate  Plan -  Regular -  IDCW;25.2503;01-Aug-2022
-132189;INF084M01EU0;INF084M01EV8;Aditya Birla Sun Life Financial Planning Fund -Moderate  Plan - Direct - IDCW;26.8705;01-Aug-2022
-120546;INF209K01YU5;-;Aditya Birla Sun Life Gold Fund - Growth - Direct Plan;16.1893;01-Aug-2022
-120545;INF209K01YT7;-;Aditya Birla Sun Life Gold Fund-DIRECT - IDCW;16.1915;01-Aug-2022
-116796;INF209K01PF4;-;Aditya Birla Sun Life Gold Fund-Growth;15.7396;01-Aug-2022
-116795;INF209K01PG2;INF209K01PH0;Aditya Birla Sun Life Gold Fund-REGULAR - IDCW;15.7386;01-Aug-2022
-149780;INF209KB16F2;-;Aditya Birla Sun Life Silver ETF FOF-Direct Growth;9.5384;01-Aug-2022
-149781;INF209KB17F0;INF209KB18F8;Aditya Birla Sun Life Silver ETF FOF-Direct IDCW;9.5409;01-Aug-2022
-149783;INF209KB13F9;-;Aditya Birla Sun Life Silver ETF FOF-Regular Growth;9.5151;01-Aug-2022
-149784;INF209KB14F7;INF209KB15F4;Aditya Birla Sun Life Silver ETF FOF-Regular IDCW;9.5151;01-Aug-2022
+131897;INF084M01DQ0;INF084M01DR8;Aditya Birla Sun Life Active Debt Multi Manager FoF Scheme - DIRECT - IDCW;19.9676;02-Aug-2022
+131898;INF084M01DP2;-;Aditya Birla Sun Life Active Debt Multi Manager FoF Scheme - Direct Plan - Growth Option;31.8879;02-Aug-2022
+131895;INF084M01AI3;INF084M01AJ1;Aditya Birla Sun Life Active Debt Multi Manager FoF Scheme - REGULAR - IDCW;19.1133;02-Aug-2022
+131896;INF084M01AH5;-;Aditya Birla Sun Life Active Debt Multi Manager FoF Scheme - Regular Plan - Growth Option;30.4772;02-Aug-2022
+131865;INF084M01DM9;-;Aditya Birla Sun Life Asset Allocator FoF- Direct Plan - Growth Option;21.9109;02-Aug-2022
+131864;INF084M01AE2;-;Aditya Birla Sun Life Asset Allocator FoF- Regular Plan - Growth Option;42.8575;02-Aug-2022
+131866;INF084M01DN7;INF084M01DO5;Aditya Birla Sun Life Asset Allocator FoF-DIRECT - IDCW;20.8783;02-Aug-2022
+131863;INF084M01AF9;INF084M01AG7;Aditya Birla Sun Life Asset Allocator FoF-REGULAR - IDCW;39.4659;02-Aug-2022
+132187;INF084M01EX4;INF084M01EY2;Aditya Birla Sun Life Financial Planning Fund - Aggressive Plan - Direct - IDCW;33.0367;02-Aug-2022
+132186;INF084M01EW6;-;Aditya Birla Sun Life Financial Planning Fund - Aggressive Plan - Direct Plan - Growth Option;36.0739;02-Aug-2022
+132180;INF084M01101;-;Aditya Birla Sun Life Financial Planning Fund - Aggressive Plan - Regular Plan - Growth Option;33.6166;02-Aug-2022
+132181;INF084M01119;INF084M01127;Aditya Birla Sun Life Financial Planning Fund - Aggressive Plan -Regular - IDCW;30.77;02-Aug-2022
+132183;INF084M01EQ8;-;Aditya Birla Sun Life Financial Planning Fund - Conservative Plan - Direct Plan - Growth Option;25.4749;02-Aug-2022
+132178;INF084M01044;-;Aditya Birla Sun life Financial Planning Fund - Conservative Plan - Regular Plan - Growth Option;24.2419;02-Aug-2022
+132184;INF084M01ER6;INF084M01ES4;Aditya Birla Sun Life Financial Planning Fund - Conservative Plan -Direct - IDCW;17.2968;02-Aug-2022
+132179;INF084M01051;INF084M01069;Aditya Birla Sun Life Financial Planning Fund - Conservative Plan -Regular - IDCW;22.055;02-Aug-2022
+132185;INF084M01ET2;-;Aditya Birla Sun Life Financial Planning Fund - Moderate Plan - Direct Plan - Growth Option;29.6194;02-Aug-2022
+132174;INF084M01077;-;Aditya Birla Sun Life Financial Planning Fund - Moderate Plan - Regular Plan - Growth Option;28.1368;02-Aug-2022
+132175;INF084M01085;INF084M01093;Aditya Birla Sun Life Financial Planning Fund -Moderate  Plan -  Regular -  IDCW;25.2367;02-Aug-2022
+132189;INF084M01EU0;INF084M01EV8;Aditya Birla Sun Life Financial Planning Fund -Moderate  Plan - Direct - IDCW;26.8565;02-Aug-2022
+120546;INF209K01YU5;-;Aditya Birla Sun Life Gold Fund - Growth - Direct Plan;16.0614;02-Aug-2022
+120545;INF209K01YT7;-;Aditya Birla Sun Life Gold Fund-DIRECT - IDCW;16.0635;02-Aug-2022
+116796;INF209K01PF4;-;Aditya Birla Sun Life Gold Fund-Growth;15.6151;02-Aug-2022
+116795;INF209K01PG2;INF209K01PH0;Aditya Birla Sun Life Gold Fund-REGULAR - IDCW;15.6141;02-Aug-2022
+149780;INF209KB16F2;-;Aditya Birla Sun Life Silver ETF FOF-Direct Growth;9.4749;02-Aug-2022
+149781;INF209KB17F0;INF209KB18F8;Aditya Birla Sun Life Silver ETF FOF-Direct IDCW;9.4775;02-Aug-2022
+149783;INF209KB13F9;-;Aditya Birla Sun Life Silver ETF FOF-Regular Growth;9.4517;02-Aug-2022
+149784;INF209KB14F7;INF209KB15F4;Aditya Birla Sun Life Silver ETF FOF-Regular IDCW;9.4517;02-Aug-2022
 147905;INF846K01V73;INF846K01V65;Axis All Seasons Debt Fund of Fund - Regular Plan - Quarterly IDCW;11.1100;02-Aug-2022
 147895;INF846K01U25;INF846K01U17;Axis All Seasons Debt Fund of Funds - Direct Plan - Annual IDCW;11.4660;02-Aug-2022
 147889;INF846K01U09;-;Axis All Seasons Debt Fund of Funds - Direct Plan - Growth Option;11.7120;02-Aug-2022
@@ -6128,18 +6128,18 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 130547;INF179KA1SD3;-;HDFC Dynamic PE Ratio Fund of Funds - IDCW Option - Direct Plan;25.5041;02-Aug-2022
 119132;INF179K01VX0;-;HDFC Gold Fund - Direct Plan;16.6717;02-Aug-2022
 115934;INF179K01LC5;-;HDFC Gold Fund - Growth Option;16.0737;02-Aug-2022
-129195;INF336L01IM4;-;HSBC Managed Solutions - Conservative - Growth;17.4506;01-Aug-2022
-129197;INF336L01IP7;-;HSBC Managed Solutions - Conservative - Growth Direct;18.1077;01-Aug-2022
+129195;INF336L01IM4;-;HSBC Managed Solutions - Conservative - Growth;17.4637;02-Aug-2022
+129197;INF336L01IP7;-;HSBC Managed Solutions - Conservative - Growth Direct;18.1217;02-Aug-2022
 129198;INF336L01IO0;-;HSBC Managed Solutions India Conservative Fund Direct Plan IDCW;17.1673;04-Feb-2021
-129196;INF336L01IL6;-;HSBC Managed Solutions India Conservative Fund IDCW;17.4506;01-Aug-2022
-129199;INF336L01HZ8;-;HSBC Managed Solutions - Growth - Dividend;26.2915;01-Aug-2022
-129201;INF336L01IC5;-;HSBC Managed Solutions - Growth - Dividend Direct;26.9568;01-Aug-2022
-129065;INF336L01IA9;-;HSBC Managed Solutions - Growth - Growth;26.2915;01-Aug-2022
-129200;INF336L01ID3;-;HSBC Managed Solutions - Growth - Growth Direct;26.9568;01-Aug-2022
-129191;INF336L01IG6;-;HSBC Managed Solutions - Moderate - Growth;24.0699;01-Aug-2022
-129193;INF336L01IJ0;-;HSBC Managed Solutions - Moderate - Growth Direct;24.8599;01-Aug-2022
-129194;INF336L01II2;-;HSBC Managed Solutions India Moderate Fund Direct Plan IDCW;14.5717;01-Aug-2022
-129192;INF336L01IF8;-;HSBC Managed Solutions India Moderate Fund IDCW;24.0699;01-Aug-2022
+129196;INF336L01IL6;-;HSBC Managed Solutions India Conservative Fund IDCW;17.4637;02-Aug-2022
+129199;INF336L01HZ8;-;HSBC Managed Solutions - Growth - Dividend;26.2790;02-Aug-2022
+129201;INF336L01IC5;-;HSBC Managed Solutions - Growth - Dividend Direct;26.9442;02-Aug-2022
+129065;INF336L01IA9;-;HSBC Managed Solutions - Growth - Growth;26.2790;02-Aug-2022
+129200;INF336L01ID3;-;HSBC Managed Solutions - Growth - Growth Direct;26.9442;02-Aug-2022
+129191;INF336L01IG6;-;HSBC Managed Solutions - Moderate - Growth;24.0647;02-Aug-2022
+129193;INF336L01IJ0;-;HSBC Managed Solutions - Moderate - Growth Direct;24.8550;02-Aug-2022
+129194;INF336L01II2;-;HSBC Managed Solutions India Moderate Fund Direct Plan IDCW;14.5688;02-Aug-2022
+129192;INF336L01IF8;-;HSBC Managed Solutions India Moderate Fund IDCW;24.0647;02-Aug-2022
 120679;INF109K01X16;-;ICICI Prudential Asset Allocator Fund (FOF) - Direct Plan - Growth;86.1298;02-Aug-2022
 120680;INF109K01W90;INF109K01X08;ICICI Prudential Asset Allocator Fund (FOF) - Direct Plan - IDCW;78.8866;02-Aug-2022
 102137;INF109K01837;-;ICICI Prudential Asset Allocator Fund (FOF) - Growth;80.5;02-Aug-2022
@@ -6150,10 +6150,10 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 120702;INF109K01X73;-;ICICI Prudential Debt Management Fund (FOF) - Direct Plan - Growth;37.1788;02-Aug-2022
 102141;INF109K01878;-;ICICI Prudential Debt Management Fund (FOF) - Growth;35.9443;02-Aug-2022
 102143;INF109K01FS0;INF109K01886;ICICI Prudential Debt Management Fund (FOF ) - IDCW;34.4258;02-Aug-2022
-147648;INF109KC1F34;-;ICICI Prudential Global Advantage Fund (FOF) - Direct Plan - Growth Option;12.4476;01-Aug-2022
-147645;INF109KC1F42;-;ICICI Prudential Global Advantage Fund (FOF) - Direct Plan - IDCW;12.4476;01-Aug-2022
-147647;INF109KC1F00;-;ICICI Prudential Global Advantage Fund (FOF) - Growth Option;12.2279;01-Aug-2022
-147646;INF109KC1F18;-;ICICI Prudential Global Advantage Fund (FOF) - IDCW;12.2275;01-Aug-2022
+147648;INF109KC1F34;-;ICICI Prudential Global Advantage Fund (FOF) - Direct Plan - Growth Option;12.3672;02-Aug-2022
+147645;INF109KC1F42;-;ICICI Prudential Global Advantage Fund (FOF) - Direct Plan - IDCW;12.3672;02-Aug-2022
+147647;INF109KC1F00;-;ICICI Prudential Global Advantage Fund (FOF) - Growth Option;12.1486;02-Aug-2022
+147646;INF109KC1F18;-;ICICI Prudential Global Advantage Fund (FOF) - IDCW;12.1482;02-Aug-2022
 120313;INF109K01W82;-;ICICI Prudential Income Optimizer Fund (FOF) - Direct Plan - Growth;47.2148;02-Aug-2022
 120314;INF109K01W66;INF109K01W74;ICICI Prudential Income Optimizer Fund (FOF) - Direct Plan - IDCW;43.0738;02-Aug-2022
 102139;INF109K01811;-;ICICI Prudential Income Optimizer Fund (FOF) - Growth;44.8012;02-Aug-2022
@@ -6170,10 +6170,10 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 149160;INF109KC1S05;INF109KC1R97;ICICI Prudential Nifty Alpha Low - Volatility 30 ETF FOF - Direct Plan - IDCW;9.2358;02-Aug-2022
 149157;INF109KC1R55;-;ICICI Prudential Nifty Alpha Low - Volatility 30 ETF FOF - Growth;9.1885;02-Aug-2022
 149159;INF109KC1R71;INF109KC1R63;ICICI Prudential Nifty Alpha Low - Volatility 30 ETF FOF - IDCW;9.1885;02-Aug-2022
-149441;INF109KC1Y15;-;ICICI Prudential Passive Multi-Asset Fund of Funds - Direct Plan - Growth;10.0806;01-Aug-2022
-149442;INF109KC1Y23;INF109KC1Y31;ICICI Prudential Passive Multi-Asset Fund of Funds - Direct Plan - IDCW;10.0876;01-Aug-2022
-149439;INF109KC1X81;-;ICICI Prudential Passive Multi-Asset Fund of Funds - Growth;10.0572;01-Aug-2022
-149440;INF109KC1X99;INF109KC1Y07;ICICI Prudential Passive Multi-Asset Fund of Funds - IDCW;10.0572;01-Aug-2022
+149441;INF109KC1Y15;-;ICICI Prudential Passive Multi-Asset Fund of Funds - Direct Plan - Growth;10.0334;02-Aug-2022
+149442;INF109KC1Y23;INF109KC1Y31;ICICI Prudential Passive Multi-Asset Fund of Funds - Direct Plan - IDCW;10.0404;02-Aug-2022
+149439;INF109KC1X81;-;ICICI Prudential Passive Multi-Asset Fund of Funds - Growth;10.0101;02-Aug-2022
+149440;INF109KC1X99;INF109KC1Y07;ICICI Prudential Passive Multi-Asset Fund of Funds - IDCW;10.0100;02-Aug-2022
 102134;INF109K01DW7;INF109K01803;ICICI Prudential Passive Strategy Fund (FOF) - IDCW;88.6693;02-Aug-2022
 120243;INF109K01W33;INF109K01W41;ICICI Prudential Passive Strategy Fund (FOF) - Direct Plan -  IDCW;92.3776;02-Aug-2022
 120242;INF109K01W58;-;ICICI Prudential Passive Strategy Fund (FOF) - Direct Plan - Growth;101.1533;02-Aug-2022
@@ -6231,10 +6231,10 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 119781;INF174K01MP6;-;Kotak Gold Fund Growth - Direct;21.6027;02-Aug-2022
 114757;INF174K01AU1;INF174K01AV9;Kotak Gold Fund Payout of Income Distribution cum capital withdrawal option;20.7158;02-Aug-2022
 119780;INF174K01MQ4;INF174K01MR2;Kotak Gold Fund Payout of Income Distribution cum capital withdrawal option- Direct;21.6024;02-Aug-2022
-119777;INF174K01LN3;-;Kotak Multi Asset Allocator Fund of Fund - Dynamic - Direct Growth - Direct;145.622;01-Aug-2022
-119776;INF174K01LO1;-;Kotak Multi Asset Allocator Fund of Fund - Dynamic - Direct Payout of Income Distribution cum capital withdrawal option;143.002;01-Aug-2022
-102574;INF174K01468;-;Kotak Multi Asset Allocator Fund of Fund - Dynamic - Growth;138.275;01-Aug-2022
-102573;INF174K01484;INF174K01476;Kotak Multi Asset Allocator Fund of Fund - Dynamic - Payout of Income Distribution cum capital withdrawal option;134.598;01-Aug-2022
+119777;INF174K01LN3;-;Kotak Multi Asset Allocator Fund of Fund - Dynamic - Direct Growth - Direct;145.672;02-Aug-2022
+119776;INF174K01LO1;-;Kotak Multi Asset Allocator Fund of Fund - Dynamic - Direct Payout of Income Distribution cum capital withdrawal option;143.051;02-Aug-2022
+102574;INF174K01468;-;Kotak Multi Asset Allocator Fund of Fund - Dynamic - Growth;138.319;02-Aug-2022
+102573;INF174K01484;INF174K01476;Kotak Multi Asset Allocator Fund of Fund - Dynamic - Payout of Income Distribution cum capital withdrawal option;134.641;02-Aug-2022
 148501;INF769K01GD1;INF769K01GF6;Mirae Asset Equity Allocator Fund  of Fund Direct IDCW;15.920;02-Aug-2022
 148503;INF769K01GA7;INF769K01GC3;Mirae Asset Equity Allocator Fund  of Fund Regular IDCW;15.881;02-Aug-2022
 148500;INF769K01GE9;-;Mirae Asset Equity Allocator Fund of Fund Direct Growth;15.913;02-Aug-2022
@@ -6249,10 +6249,10 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 149787;INF769K01HY5;INF769K01IA3;Mirae Asset Nifty India Manufacturing ETF FOF - Direct Plan- IDCW;10.353;02-Aug-2022
 149788;INF769K01HW9;-;Mirae Asset Nifty India Manufacturing ETF FOF - Regular Plan - Growth;10.328;02-Aug-2022
 149789;INF769K01HV1;INF769K01HX7;Mirae Asset Nifty India Manufacturing ETF FOF - Regular Plan - IDCW;10.366;02-Aug-2022
-148928;INF769K01HH0;-;Mirae Asset NYSE FANG + ETF Fund of Fund Direct Growth;9.211;01-Aug-2022
-148929;INF769K01HG2;-;Mirae Asset NYSE FANG + ETF Fund of Fund Regular Growth;9.159;01-Aug-2022
-149170;INF769K01HR9;-;Mirae Asset S&P 500 Top 50 ETF Fund of Fund Direct Growth;9.862;01-Aug-2022
-149171;INF769K01HQ1;-;Mirae Asset S&P 500 Top 50 ETF Fund of Fund Regular Growth;9.825;01-Aug-2022
+148928;INF769K01HH0;-;Mirae Asset NYSE FANG + ETF Fund of Fund Direct Growth;9.141;02-Aug-2022
+148929;INF769K01HG2;-;Mirae Asset NYSE FANG + ETF Fund of Fund Regular Growth;9.089;02-Aug-2022
+149170;INF769K01HR9;-;Mirae Asset S&P 500 Top 50 ETF Fund of Fund Direct Growth;9.826;02-Aug-2022
+149171;INF769K01HQ1;-;Mirae Asset S&P 500 Top 50 ETF Fund of Fund Regular Growth;9.789;02-Aug-2022
 149240;INF247L01AQ1;-;Motilal Oswal 5 Year G-Sec Fund Of Fund Direct -Growth;10.1227;02-Aug-2022
 149241;INF247L01AR9;-;Motilal Oswal 5 Year G-Sec Fund Of Fund Regular -Growth;10.1159;02-Aug-2022
 148747;INF247L01AL2;-;Motilal Oswal Asset Allocation FOF- A- Direct Growth;11.4701;02-Aug-2022
@@ -6299,18 +6299,18 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 150340;INF277KA1448;-;Tata Nifty India Digital ETF Fund of Fund-Direct Plan-IDCW Payout;8.9616;02-Aug-2022
 150342;INF277KA1471;-;Tata Nifty India Digital ETF Fund of Fund-Regular Plan-IDCW Payout;8.9473;02-Aug-2022
 150343;-;INF277KA1489;Tata Nifty India Digital ETF Fund of Fund-Regular Plan-IDCW Reinvestment;8.9473;02-Aug-2022
-132141;INF084M01EC8;INF084M01ED6;Aditya Birla Sun Life Global Emerging Opportunities Fund - Direct - IDCW;17.8242;01-Aug-2022
-132140;INF084M01EB0;-;Aditya Birla Sun Life Global Emerging Opportunities Fund - Direct plan - Growth Option;20.1529;01-Aug-2022
-132139;INF084M01AU8;INF084M01AV6;Aditya Birla Sun Life Global Emerging Opportunities Fund - Regular - IDCW;19.5562;01-Aug-2022
-132138;INF084M01AT0;-;Aditya Birla SUn Life Global Emerging Opportunities Fund - Regular Plan - Growth Option;19.5533;01-Aug-2022
-132009;INF084M01EH7;-;Aditya Birla Sun Life Global Excellence Equity Fund Of Fund - Retail Plan - Direct Plan - Growth Option;22.1707;01-Aug-2022
-132005;INF084M01AZ7;-;Aditya Birla Sun Life Global Excellence Equity Fund Of Fund- Retail Plan - Regular Plan - Growth Option;21.2125;01-Aug-2022
-132010;INF084M01EI5;INF084M01EJ3;Aditya Birla Sun Life Global Excellence Equity Fund Of Fund-DIRECT - RETAIL - IDCW;22.1899;01-Aug-2022
-132003;INF084M01BA8;INF084M01BB6;Aditya Birla Sun Life Global Excellence Equity Fund Of Fund-REGULAR - RETAIL - IDCW;21.2259;01-Aug-2022
-149289;INF209KB19C3;INF209KB10D0;Aditya Birla Sun Life Nasdaq 100 FOF-Direct IDCW;8.5331;01-Aug-2022
-149291;INF209KB18C5;-;Aditya Birla Sun Life Nasdaq 100 FOF-Direct-Growth;8.5329;01-Aug-2022
-149290;INF209KB15C1;-;Aditya Birla Sun Life Nasdaq 100 FOF-Regular Growth;8.5005;01-Aug-2022
-149292;INF209KB16C9;INF209KB17C7;Aditya Birla Sun Life Nasdaq 100 FOF-Regular IDCW;8.4999;01-Aug-2022
+132141;INF084M01EC8;INF084M01ED6;Aditya Birla Sun Life Global Emerging Opportunities Fund - Direct - IDCW;17.6226;02-Aug-2022
+132140;INF084M01EB0;-;Aditya Birla Sun Life Global Emerging Opportunities Fund - Direct plan - Growth Option;19.9249;02-Aug-2022
+132139;INF084M01AU8;INF084M01AV6;Aditya Birla Sun Life Global Emerging Opportunities Fund - Regular - IDCW;19.3348;02-Aug-2022
+132138;INF084M01AT0;-;Aditya Birla SUn Life Global Emerging Opportunities Fund - Regular Plan - Growth Option;19.3319;02-Aug-2022
+132009;INF084M01EH7;-;Aditya Birla Sun Life Global Excellence Equity Fund Of Fund - Retail Plan - Direct Plan - Growth Option;22.0121;02-Aug-2022
+132005;INF084M01AZ7;-;Aditya Birla Sun Life Global Excellence Equity Fund Of Fund- Retail Plan - Regular Plan - Growth Option;21.0604;02-Aug-2022
+132010;INF084M01EI5;INF084M01EJ3;Aditya Birla Sun Life Global Excellence Equity Fund Of Fund-DIRECT - RETAIL - IDCW;22.0312;02-Aug-2022
+132003;INF084M01BA8;INF084M01BB6;Aditya Birla Sun Life Global Excellence Equity Fund Of Fund-REGULAR - RETAIL - IDCW;21.0738;02-Aug-2022
+149289;INF209KB19C3;INF209KB10D0;Aditya Birla Sun Life Nasdaq 100 FOF-Direct IDCW;8.4161;02-Aug-2022
+149291;INF209KB18C5;-;Aditya Birla Sun Life Nasdaq 100 FOF-Direct-Growth;8.4159;02-Aug-2022
+149290;INF209KB15C1;-;Aditya Birla Sun Life Nasdaq 100 FOF-Regular Growth;8.3839;02-Aug-2022
+149292;INF209KB16C9;INF209KB17C7;Aditya Birla Sun Life Nasdaq 100 FOF-Regular IDCW;8.3832;02-Aug-2022
 148485;INF846K01X06;-;Axis Global Equity Alpha Fund of Fund - Direct Plan - Growth Option;12.1459;02-Aug-2022
 148487;INF846K01X14;INF846K01X22;Axis Global Equity Alpha Fund of Fund - Direct Plan - IDCW;12.1456;02-Aug-2022
 148486;INF846K01X30;-;Axis Global Equity Alpha Fund of Fund - Regular Plan - Growth Option;11.8696;02-Aug-2022
@@ -6323,50 +6323,50 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 148700;INF846K01Y47;INF846K01Y54;Axis Greater China Equity Fund of Fund - Direct Plan - IDCW;7.17;02-Aug-2022
 148701;INF846K01Y62;-;Axis Greater China Equity Fund of Fund - Regular Plan - Growth Option;7.05;02-Aug-2022
 148702;INF846K01Y70;INF846K01Y88;Axis Greater China Equity Fund of Fund - Regular Plan - IDCW;7.05;02-Aug-2022
-150285;INF251K01QT5;-;Baroda BNP Paribas Funds Aqua Fund of Fund - Direct Plan - Growth Option;9.7787;01-Aug-2022
-150287;INF251K01QU3;INF251K01QV1;Baroda BNP Paribas Funds Aqua Fund of Fund - Direct Plan - IDCW Option;9.7787;01-Aug-2022
-150286;INF251K01QR9;INF251K01QS7;Baroda BNP Paribas Funds Aqua Fund of Fund - Regular Plan - IDCW Option;9.6423;01-Aug-2022
-150284;INF251K01QQ1;-;Baroda BNP Paribas Funds Aqua Fund of Fund - Regular Plan Growth;9.6423;01-Aug-2022
-130493;INF740K01Z50;-;DSP Global Allocation Fund - Direct Plan - Growth;16.8393;01-Aug-2022
-130491;INF740K01Z68;INF740K01Z76;DSP Global Allocation Fund - Direct Plan - IDCW;15.1405;01-Aug-2022
-130492;INF740K01Z27;-;DSP Global Allocation Fund - Regular Plan - Growth;16.2072;01-Aug-2022
-130490;INF740K01Z35;INF740K01Z43;DSP Global Allocation Fund - Regular Plan - IDCW;14.5978;01-Aug-2022
-149816;INF740KA1QP1;-;DSP Global Innovation Fund of Fund - Direct - Growth;9.1222;01-Aug-2022
-149815;INF740KA1QQ9;INF740KA1QR7;DSP Global Innovation Fund of Fund - Direct - IDCW;9.1222;01-Aug-2022
-149817;INF740KA1QM8;-;DSP Global Innovation Fund of Fund - Regular - Growth;9.0920;01-Aug-2022
-149814;INF740KA1QN6;INF740KA1QO4;DSP Global Innovation Fund of Fund - Regular - IDCW;9.0920;01-Aug-2022
-119252;INF740K01OH7;-;DSP US Flexible Equity Fund - Direct Plan - Growth;43.6256;01-Aug-2022
-119253;INF740K01OI5;INF740K01OJ3;DSP US Flexible Equity Fund - Direct Plan - IDCW;40.5124;01-Aug-2022
-117691;INF740K01LP6;-;DSP US Flexible Equity Fund - Regular Plan - Growth Option;40.8051;01-Aug-2022
-117692;INF740K01LQ4;-;DSP US Flexible Equity Fund - Regular Plan - IDCW;22.6530;01-Aug-2022
-119271;INF740K01OE4;-;DSP World Agriculture Fund - Direct Plan - Growth;20.7473;01-Aug-2022
-119272;INF740K01OF1;INF740K01OG9;DSP World Agriculture Fund - Direct Plan - IDCW;18.9823;01-Aug-2022
-115882;INF740K01EK2;-;DSP World Agriculture Fund - Regular Plan - Growth;20.1695;01-Aug-2022
-115881;INF740K01EL0;-;DSP World Agriculture Fund - Regular Plan - IDCW;14.4063;01-Aug-2022
-119275;INF740K01PC5;-;DSP World Energy Fund - Direct Plan - Growth;16.0204;01-Aug-2022
-119276;INF740K01PD3;INF740K01PE1;DSP World Energy Fund - Direct Plan - IDCW;13.6991;01-Aug-2022
-112126;INF740K01284;-;DSP World Energy Fund - Regular Plan - Growth;15.4873;01-Aug-2022
-112127;INF740K01292;INF740K01300;DSP World Energy Fund - Regular Plan - IDCW;12.5508;01-Aug-2022
-119277;INF740K01OZ9;-;DSP World Gold Fund - Direct Plan - Growth;14.6233;01-Aug-2022
-119278;INF740K01PA9;INF740K01PB7;DSP World Gold Fund - Direct Plan - IDCW;10.1797;01-Aug-2022
-106597;INF740K01250;-;DSP World Gold Fund - Regular Plan - Growth;13.9412;01-Aug-2022
-106596;INF740K01268;INF740K01276;DSP World Gold Fund - Regular Plan - IDCW;9.7174;01-Aug-2022
-119279;INF740K01PF8;-;DSP World Mining Fund - Direct Plan - Growth;14.3366;01-Aug-2022
-119280;INF740K01PG6;INF740K01PH4;DSP World Mining Fund - Direct Plan - IDCW;14.3366;01-Aug-2022
-112293;INF740K01730;-;DSP World Mining Fund - Regular Plan - Growth;13.5862;01-Aug-2022
-112347;INF740K01748;INF740K01AL8;DSP World Mining Fund - Regular Plan - IDCW;13.5862;01-Aug-2022
-140256;INF843K01AW7;-;Edelweiss ASEAN Equity Off-shore Fund - Direct Plan - Growth Option;24.61;01-Aug-2022
-140255;INF843K01609;-;Edelweiss ASEAN Equity Off-shore Fund - Regular Plan - Growth Option;22.516;01-Aug-2022
-140327;INF843K01IZ3;-;Edelweiss Emerging Markets Opportunities Equity Offshore Fund - Direct Plan - Growth Option;13.8946;01-Aug-2022
-140328;INF843K01IY6;-;Edelweiss Emerging Markets Opportunities Equity Offshore Fund - Regular Plan - Growth Option;13.1253;01-Aug-2022
-140296;INF843K01GI3;-;Edelweiss Europe Dynamic Equity Offshore Fund - Growth Option - Direct Plan;14.7539;01-Aug-2022
-140295;INF843K01GJ1;-;Edelweiss Europe Dynamic Equity Offshore Fund - Growth Option - Regular Plan;13.7077;01-Aug-2022
-140243;INF843K01AU1;-;Edelweiss Greater China Equity Off-shore Fund - Direct Plan - Growth Option;40.124;01-Aug-2022
-140242;INF843K01138;-;Edelweiss Greater China Equity Off-shore Fund - Regular Plan - Growth Option;36.693;01-Aug-2022
-148063;INF754K01LB7;-;Edelweiss US Technology Equity Fund of Fund- Direct Plan- Growth;14.7296;01-Aug-2022
-148064;INF754K01LC5;-;Edelweiss US Technology Equity Fund of Fund- Regular Plan- Growth;14.3721;01-Aug-2022
-140274;INF843K01EC1;-;Edelweiss US Value Equity Offshore Fund - Direct Plan - Growth Option;25.4902;01-Aug-2022
-140273;INF843K01ED9;-;Edelweiss US Value Equity Offshore Fund - Regular Plan - Growth Option;23.6769;01-Aug-2022
+150285;INF251K01QT5;-;Baroda BNP Paribas Funds Aqua Fund of Fund - Direct Plan - Growth Option;9.5858;02-Aug-2022
+150287;INF251K01QU3;INF251K01QV1;Baroda BNP Paribas Funds Aqua Fund of Fund - Direct Plan - IDCW Option;9.5858;02-Aug-2022
+150286;INF251K01QR9;INF251K01QS7;Baroda BNP Paribas Funds Aqua Fund of Fund - Regular Plan - IDCW Option;9.4519;02-Aug-2022
+150284;INF251K01QQ1;-;Baroda BNP Paribas Funds Aqua Fund of Fund - Regular Plan Growth;9.4519;02-Aug-2022
+130493;INF740K01Z50;-;DSP Global Allocation Fund - Direct Plan - Growth;16.6698;02-Aug-2022
+130491;INF740K01Z68;INF740K01Z76;DSP Global Allocation Fund - Direct Plan - IDCW;14.9880;02-Aug-2022
+130492;INF740K01Z27;-;DSP Global Allocation Fund - Regular Plan - Growth;16.0437;02-Aug-2022
+130490;INF740K01Z35;INF740K01Z43;DSP Global Allocation Fund - Regular Plan - IDCW;14.4506;02-Aug-2022
+149816;INF740KA1QP1;-;DSP Global Innovation Fund of Fund - Direct - Growth;9.0239;02-Aug-2022
+149815;INF740KA1QQ9;INF740KA1QR7;DSP Global Innovation Fund of Fund - Direct - IDCW;9.0239;02-Aug-2022
+149817;INF740KA1QM8;-;DSP Global Innovation Fund of Fund - Regular - Growth;8.9938;02-Aug-2022
+149814;INF740KA1QN6;INF740KA1QO4;DSP Global Innovation Fund of Fund - Regular - IDCW;8.9938;02-Aug-2022
+119252;INF740K01OH7;-;DSP US Flexible Equity Fund - Direct Plan - Growth;42.9639;02-Aug-2022
+119253;INF740K01OI5;INF740K01OJ3;DSP US Flexible Equity Fund - Direct Plan - IDCW;39.8979;02-Aug-2022
+117691;INF740K01LP6;-;DSP US Flexible Equity Fund - Regular Plan - Growth Option;40.1852;02-Aug-2022
+117692;INF740K01LQ4;-;DSP US Flexible Equity Fund - Regular Plan - IDCW;22.3089;02-Aug-2022
+119271;INF740K01OE4;-;DSP World Agriculture Fund - Direct Plan - Growth;20.5034;02-Aug-2022
+119272;INF740K01OF1;INF740K01OG9;DSP World Agriculture Fund - Direct Plan - IDCW;18.7592;02-Aug-2022
+115882;INF740K01EK2;-;DSP World Agriculture Fund - Regular Plan - Growth;19.9322;02-Aug-2022
+115881;INF740K01EL0;-;DSP World Agriculture Fund - Regular Plan - IDCW;14.2369;02-Aug-2022
+119275;INF740K01PC5;-;DSP World Energy Fund - Direct Plan - Growth;15.7999;02-Aug-2022
+119276;INF740K01PD3;INF740K01PE1;DSP World Energy Fund - Direct Plan - IDCW;13.5106;02-Aug-2022
+112126;INF740K01284;-;DSP World Energy Fund - Regular Plan - Growth;15.2739;02-Aug-2022
+112127;INF740K01292;INF740K01300;DSP World Energy Fund - Regular Plan - IDCW;12.3778;02-Aug-2022
+119277;INF740K01OZ9;-;DSP World Gold Fund - Direct Plan - Growth;14.5560;02-Aug-2022
+119278;INF740K01PA9;INF740K01PB7;DSP World Gold Fund - Direct Plan - IDCW;10.1329;02-Aug-2022
+106597;INF740K01250;-;DSP World Gold Fund - Regular Plan - Growth;13.8768;02-Aug-2022
+106596;INF740K01268;INF740K01276;DSP World Gold Fund - Regular Plan - IDCW;9.6725;02-Aug-2022
+119279;INF740K01PF8;-;DSP World Mining Fund - Direct Plan - Growth;13.8728;02-Aug-2022
+119280;INF740K01PG6;INF740K01PH4;DSP World Mining Fund - Direct Plan - IDCW;13.8728;02-Aug-2022
+112293;INF740K01730;-;DSP World Mining Fund - Regular Plan - Growth;13.1465;02-Aug-2022
+112347;INF740K01748;INF740K01AL8;DSP World Mining Fund - Regular Plan - IDCW;13.1465;02-Aug-2022
+140256;INF843K01AW7;-;Edelweiss ASEAN Equity Off-shore Fund - Direct Plan - Growth Option;24.516;02-Aug-2022
+140255;INF843K01609;-;Edelweiss ASEAN Equity Off-shore Fund - Regular Plan - Growth Option;22.43;02-Aug-2022
+140327;INF843K01IZ3;-;Edelweiss Emerging Markets Opportunities Equity Offshore Fund - Direct Plan - Growth Option;13.6387;02-Aug-2022
+140328;INF843K01IY6;-;Edelweiss Emerging Markets Opportunities Equity Offshore Fund - Regular Plan - Growth Option;12.8832;02-Aug-2022
+140296;INF843K01GI3;-;Edelweiss Europe Dynamic Equity Offshore Fund - Growth Option - Direct Plan;14.6487;02-Aug-2022
+140295;INF843K01GJ1;-;Edelweiss Europe Dynamic Equity Offshore Fund - Growth Option - Regular Plan;13.6097;02-Aug-2022
+140243;INF843K01AU1;-;Edelweiss Greater China Equity Off-shore Fund - Direct Plan - Growth Option;39.177;02-Aug-2022
+140242;INF843K01138;-;Edelweiss Greater China Equity Off-shore Fund - Regular Plan - Growth Option;35.826;02-Aug-2022
+148063;INF754K01LB7;-;Edelweiss US Technology Equity Fund of Fund- Direct Plan- Growth;14.7102;02-Aug-2022
+148064;INF754K01LC5;-;Edelweiss US Technology Equity Fund of Fund- Regular Plan- Growth;14.3528;02-Aug-2022
+140274;INF843K01EC1;-;Edelweiss US Value Equity Offshore Fund - Direct Plan - Growth Option;25.207;02-Aug-2022
+140273;INF843K01ED9;-;Edelweiss US Value Equity Offshore Fund - Regular Plan - Growth Option;23.4132;02-Aug-2022
 118550;INF090I01JP4;INF090I01JQ2;Franklin India Feeder - Franklin U S Opportunities Fund - Direct - IDCW ;50.5652;02-Aug-2022
 116632;INF090I01EV3;INF090I01EU5;Franklin India Feeder - Franklin U S Opportunities Fund - IDCW ;46.0404;02-Aug-2022
 116633;INF090I01EW1;-;Franklin India Feeder - Franklin U.S. Opportunities Fund - Growth;46.0404;02-Aug-2022
@@ -6377,30 +6377,30 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 129439;INF090I01KV0;INF090I01KW8;Franklin India Feeder - Templeton European Opportunities Fund - IDCW ;8.6407;02-Aug-2022
 149180;INF179KC1BO4;-;HDFC Developed World Indexes Fund of Funds - Direct Plan - Growth Option;9.571;02-Aug-2022
 149181;INF179KC1BP1;-;HDFC Developed World Indexes Fund of Funds - Growth Option;9.522;02-Aug-2022
-127073;INF336L01HC7;-;HSBC Asia Pacific (Ex Japan) Dividend Yield Fund - Growth;17.1519;01-Aug-2022
-127071;INF336L01HF0;-;HSBC Asia Pacific (Ex Japan) Dividend Yield Fund - Growth Direct;18.2317;01-Aug-2022
-127072;INF336L01HG8;INF336L01HH6;HSBC Asia Pacific IDCW Yield Fund Direct Plan IDCW;16.8534;01-Aug-2022
-127070;INF336L01HD5;INF336L01HE3;HSBC Asia Pacific IDCW Yield Fund IDCW;17.1519;01-Aug-2022
-120035;INF336L01BY4;-;HSBC Brazil Fund - Growth Direct;6.6773;01-Aug-2022
-115117;INF336L01172;INF336L01180;HSBC Brazil Fund - IDCW;6.2189;01-Aug-2022
-120036;INF336L01BW8;INF336L01BX6;HSBC Brazil Fund - IDCW Direct Plan;6.6720;01-Aug-2022
-115116;INF336L01164;-;HSBC Brazil Fund-Growth;6.2189;01-Aug-2022
-120043;INF336L01CJ3;-;HSBC Global Emerging Market Fund - Growth Direct;18.2057;01-Aug-2022
-107988;INF336L01446;-;HSBC Global Emerging Markets Fund - Growth;16.9930;01-Aug-2022
-107989;INF336L01438;INF336L01420;HSBC Global Emerging Markets Fund - IDCW;15.1038;01-Aug-2022
-120044;INF336L01CH7;INF336L01CI5;HSBC Global Emerging Markets Fund - IDCW Direct Plan;16.1648;01-Aug-2022
-148738;INF336L01PW8;INF336L01PX6;HSBC Global Equity  Climate Change Fund of Fund Direct Plan IDCW;9.0444;01-Aug-2022
-148737;INF336L01PV0;-;HSBC Global Equity Climate Change Fund of Fund - Direct - Growth;9.0444;01-Aug-2022
-148735;INF336L01PY4;-;HSBC Global Equity Climate Change Fund of Fund - Regular - Growth;8.9467;01-Aug-2022
-148736;INF336L01PZ1;INF336L01QA2;HSBC Global Equity Climate Change Fund of Fund IDCW;8.9467;01-Aug-2022
-123654;INF109KA1CE0;-;ICICI Prudential Global Stable Equity Fund (FOF) - Direct - Growth;22.21;01-Aug-2022
-123652;INF109KA1CG5;INF109KA1CF7;ICICI Prudential Global Stable Equity Fund (FOF) - Direct - IDCW;22.21;01-Aug-2022
-123651;INF109KA1CB6;-;ICICI Prudential Global Stable Equity Fund (FOF) - Growth;20.88;01-Aug-2022
-123653;INF109KA1CD2;INF109KA1CC4;ICICI Prudential Global Stable Equity Fund (FOF) - IDCW;20.88;01-Aug-2022
-149455;INF109KC1Z55;-;ICICI Prudential Strategic Metal and Energy Equity Fund of Fund - Direct Plan Growth;11.5106;01-Aug-2022
-149458;INF109KC1Z63;INF109KC1Z71;ICICI Prudential Strategic Metal and Energy Equity Fund of Fund - Direct Plan IDCW;11.5109;01-Aug-2022
-149456;INF109KC1Z22;-;ICICI Prudential Strategic Metal and Energy Equity Fund of Fund - Growth;11.4504;01-Aug-2022
-149457;INF109KC1Z30;INF109KC1Z48;ICICI Prudential Strategic Metal and Energy Equity Fund of Fund - IDCW;11.4503;01-Aug-2022
+127073;INF336L01HC7;-;HSBC Asia Pacific (Ex Japan) Dividend Yield Fund - Growth;16.7841;02-Aug-2022
+127071;INF336L01HF0;-;HSBC Asia Pacific (Ex Japan) Dividend Yield Fund - Growth Direct;17.8412;02-Aug-2022
+127072;INF336L01HG8;INF336L01HH6;HSBC Asia Pacific IDCW Yield Fund Direct Plan IDCW;16.4924;02-Aug-2022
+127070;INF336L01HD5;INF336L01HE3;HSBC Asia Pacific IDCW Yield Fund IDCW;16.7841;02-Aug-2022
+120035;INF336L01BY4;-;HSBC Brazil Fund - Growth Direct;6.5226;02-Aug-2022
+115117;INF336L01172;INF336L01180;HSBC Brazil Fund - IDCW;6.0746;02-Aug-2022
+120036;INF336L01BW8;INF336L01BX6;HSBC Brazil Fund - IDCW Direct Plan;6.5173;02-Aug-2022
+115116;INF336L01164;-;HSBC Brazil Fund-Growth;6.0746;02-Aug-2022
+120043;INF336L01CJ3;-;HSBC Global Emerging Market Fund - Growth Direct;17.8795;02-Aug-2022
+107988;INF336L01446;-;HSBC Global Emerging Markets Fund - Growth;16.6882;02-Aug-2022
+107989;INF336L01438;INF336L01420;HSBC Global Emerging Markets Fund - IDCW;14.8329;02-Aug-2022
+120044;INF336L01CH7;INF336L01CI5;HSBC Global Emerging Markets Fund - IDCW Direct Plan;15.8752;02-Aug-2022
+148738;INF336L01PW8;INF336L01PX6;HSBC Global Equity  Climate Change Fund of Fund Direct Plan IDCW;8.8694;02-Aug-2022
+148737;INF336L01PV0;-;HSBC Global Equity Climate Change Fund of Fund - Direct - Growth;8.8694;02-Aug-2022
+148735;INF336L01PY4;-;HSBC Global Equity Climate Change Fund of Fund - Regular - Growth;8.7734;02-Aug-2022
+148736;INF336L01PZ1;INF336L01QA2;HSBC Global Equity Climate Change Fund of Fund IDCW;8.7734;02-Aug-2022
+123654;INF109KA1CE0;-;ICICI Prudential Global Stable Equity Fund (FOF) - Direct - Growth;21.95;02-Aug-2022
+123652;INF109KA1CG5;INF109KA1CF7;ICICI Prudential Global Stable Equity Fund (FOF) - Direct - IDCW;21.95;02-Aug-2022
+123651;INF109KA1CB6;-;ICICI Prudential Global Stable Equity Fund (FOF) - Growth;20.63;02-Aug-2022
+123653;INF109KA1CD2;INF109KA1CC4;ICICI Prudential Global Stable Equity Fund (FOF) - IDCW;20.63;02-Aug-2022
+149455;INF109KC1Z55;-;ICICI Prudential Strategic Metal and Energy Equity Fund of Fund - Direct Plan Growth;11.3502;02-Aug-2022
+149458;INF109KC1Z63;INF109KC1Z71;ICICI Prudential Strategic Metal and Energy Equity Fund of Fund - Direct Plan IDCW;11.3505;02-Aug-2022
+149456;INF109KC1Z22;-;ICICI Prudential Strategic Metal and Energy Equity Fund of Fund - Growth;11.2905;02-Aug-2022
+149457;INF109KC1Z30;INF109KC1Z48;ICICI Prudential Strategic Metal and Energy Equity Fund of Fund - IDCW;11.2904;02-Aug-2022
 149098;INF194KB1CF2;-;IDFC US EQUITY FUND OF FUND - GROWTH - DIRECT PLAN;8.869;02-Aug-2022
 149100;INF194KB1CC9;-;IDFC US EQUITY FUND OF FUND - GROWTH - REGULAR PLAN;8.771;02-Aug-2022
 149099;INF194KB1CG0;-;IDFC US EQUITY FUND OF FUND - IDCW - DIRECT PLAN;8.869;02-Aug-2022
@@ -6419,20 +6419,20 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 126352;INF205K01A32;INF205K01A40;Invesco India - Invesco Pan European Equity Fund of Fund - Direct Plan - IDCW (Payout / Reinvestment);12.7408;02-Aug-2022
 126351;INF205K01ZZ9;-;Invesco India - Invesco Pan European Equity Fund of Fund - Regular Plan - Growth Option;11.867;02-Aug-2022
 126350;INF205K01A08;INF205K01A16;Invesco India - Invesco Pan European Equity Fund of Fund - Regular Plan - IDCW (Payout / Reinvestment);11.8667;02-Aug-2022
-106441;INF174K01DV3;-;Kotak Global Emerging Market Fund - Growth;19.051;29-Jul-2022
-119779;INF174K01LW4;-;Kotak Global Emerging Market Fund - Growth - Direct;20.362;29-Jul-2022
-106442;INF174K01DX9;INF174K01DW1;Kotak Global Emerging Market Fund - Payout of Income Distribution cum capital withdrawal option;19.052;29-Jul-2022
-119778;INF174K01LX2;-;Kotak Global Emerging Market Fund - Payout of Income Distribution cum capital withdrawal option - Direct;20.448;29-Jul-2022
-149056;INF174KA1HD1;-;Kotak Global Innovation Fund of Fund - Regular Plan-Growth;7.2045;01-Aug-2022
-149060;INF174KA1HH2;INF174KA1HI0;Kotak Global Innovation Fund of Fund- Direct Plan - IDCW Option;7.299;01-Aug-2022
-149059;INF174KA1HG4;-;Kotak Global Innovation Fund of Fund- Direct Plan -Growth;7.299;01-Aug-2022
-149058;INF174KA1HE9;INF174KA1HF6;Kotak Global Innovation Fund of Fund- Regular Plan -IDCW Option;7.2047;01-Aug-2022
-148646;INF174KA1FO2;-;Kotak International REIT FOF - Direct Plan - Growth;10.123;01-Aug-2022
-148649;INF174KA1FN4;-;Kotak International REIT FOF - Direct Plan - Payout of Income Distribution cum capital withdrawal option;10.1229;01-Aug-2022
-148645;INF174KA1FL8;-;Kotak International REIT FOF - Regular Plan - Growth;9.9716;01-Aug-2022
-148647;INF174KA1FK0;-;Kotak International REIT FOF - Regular Plan - Payout of Income Distribution cum capital withdrawal option;9.9716;01-Aug-2022
-148662;INF174KA1FQ7;-;Kotak NASDAQ 100 Fund of Fund - Direct Plan - Growth;10.4691;01-Aug-2022
-148661;INF174KA1FR5;-;Kotak NASDAQ 100 Fund of Fund - Regular Plan - Growth;10.4056;01-Aug-2022
+106441;INF174K01DV3;-;Kotak Global Emerging Market Fund - Growth;18.532;02-Aug-2022
+119779;INF174K01LW4;-;Kotak Global Emerging Market Fund - Growth - Direct;19.809;02-Aug-2022
+106442;INF174K01DX9;INF174K01DW1;Kotak Global Emerging Market Fund - Payout of Income Distribution cum capital withdrawal option;18.534;02-Aug-2022
+119778;INF174K01LX2;-;Kotak Global Emerging Market Fund - Payout of Income Distribution cum capital withdrawal option - Direct;19.893;02-Aug-2022
+149056;INF174KA1HD1;-;Kotak Global Innovation Fund of Fund - Regular Plan-Growth;7.1774;02-Aug-2022
+149060;INF174KA1HH2;INF174KA1HI0;Kotak Global Innovation Fund of Fund- Direct Plan - IDCW Option;7.2718;02-Aug-2022
+149059;INF174KA1HG4;-;Kotak Global Innovation Fund of Fund- Direct Plan -Growth;7.2718;02-Aug-2022
+149058;INF174KA1HE9;INF174KA1HF6;Kotak Global Innovation Fund of Fund- Regular Plan -IDCW Option;7.1776;02-Aug-2022
+148646;INF174KA1FO2;-;Kotak International REIT FOF - Direct Plan - Growth;9.9876;02-Aug-2022
+148649;INF174KA1FN4;-;Kotak International REIT FOF - Direct Plan - Payout of Income Distribution cum capital withdrawal option;9.9875;02-Aug-2022
+148645;INF174KA1FL8;-;Kotak International REIT FOF - Regular Plan - Growth;9.838;02-Aug-2022
+148647;INF174KA1FK0;-;Kotak International REIT FOF - Regular Plan - Payout of Income Distribution cum capital withdrawal option;9.8379;02-Aug-2022
+148662;INF174KA1FQ7;-;Kotak NASDAQ 100 Fund of Fund - Direct Plan - Growth;10.3111;02-Aug-2022
+148661;INF174KA1FR5;-;Kotak NASDAQ 100 Fund of Fund - Regular Plan - Growth;10.2484;02-Aug-2022
 133832;INF178L01CM3;INF178L01CN1;Kotak US Equity Fund - Direct Plan - Dividend option;20.129;25-Feb-2020
 133831;INF178L01CL5;-;Kotak US Equity Fund - Direct Plan - Growth option;20.131;25-Feb-2020
 133830;INF178L01CJ9;INF178L01CK7;Kotak US Equity Fund - Standard Plan - Dividend option;19.213;25-Feb-2020
@@ -6445,23 +6445,23 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 149231;INF174V01BA8;INF174V01AZ7;Mahindra Manulife Asia Pacific REITs FOF - Direct Plan - IDCW;9.0594;02-Aug-2022
 149228;INF174V01AV6;-;Mahindra Manulife Asia Pacific REITs FOF - Regular Plan - Growth;8.9845;02-Aug-2022
 149229;INF174V01AX2;INF174V01AW4;Mahindra Manulife Asia Pacific REITs FOF - Regular Plan - IDCW;8.9845;02-Aug-2022
-149910;-;-;Navi NASDAQ 100 Fund of Fund- Direct- Growth;9.0456;01-Aug-2022
-149911;-;-;Navi NASDAQ 100 Fund of Fund- Regular- Growth;9.0397;01-Aug-2022
-149830;INF959L01FV0;-;Navi US Total Stock Market Fund of Fund- Direct Plan- Growth;10.0085;01-Aug-2022
-149831;INF959L01FW8;-;Navi US Total Stock Market Fund of Fund- Regular Plan- Growth;10.0084;01-Aug-2022
-138457;INF223J01NJ4;-;PGIM India Emerging Markets Equity Fund - Direct Plan - Dividend;9.32;01-Aug-2022
-138456;INF223J01NL0;-;PGIM India Emerging Markets Equity Fund - Direct Plan - Growth;13.54;01-Aug-2022
-138454;INF223J01AW4;INF223J01AX2;PGIM India Emerging Markets Equity Fund - Dividend;11.26;01-Aug-2022
-138453;INF223J01AY0;-;PGIM India Emerging Markets Equity Fund - Growth;12.25;01-Aug-2022
+149910;-;-;Navi NASDAQ 100 Fund of Fund- Direct- Growth;8.9782;02-Aug-2022
+149911;-;-;Navi NASDAQ 100 Fund of Fund- Regular- Growth;8.9723;02-Aug-2022
+149830;INF959L01FV0;-;Navi US Total Stock Market Fund of Fund- Direct Plan- Growth;9.9151;02-Aug-2022
+149831;INF959L01FW8;-;Navi US Total Stock Market Fund of Fund- Regular Plan- Growth;9.915;02-Aug-2022
+138457;INF223J01NJ4;-;PGIM India Emerging Markets Equity Fund - Direct Plan - Dividend;9.2;02-Aug-2022
+138456;INF223J01NL0;-;PGIM India Emerging Markets Equity Fund - Direct Plan - Growth;13.35;02-Aug-2022
+138454;INF223J01AW4;INF223J01AX2;PGIM India Emerging Markets Equity Fund - Dividend;11.11;02-Aug-2022
+138453;INF223J01AY0;-;PGIM India Emerging Markets Equity Fund - Growth;12.09;02-Aug-2022
 138525;INF223J01AV6;-;PGIM India Global Equity Opportunities Fund - Bonus;11.75;04-Jan-2017
-138527;INF223J01NG0;-;PGIM India Global Equity Opportunities Fund - Direct Plan - Dividend;30.19;01-Aug-2022
-138528;INF223J01NF2;-;PGIM India Global Equity Opportunities Fund - Direct Plan - Growth;30.19;01-Aug-2022
-138524;INF223J01AS2;INF223J01AT0;PGIM India Global Equity Opportunities Fund - Dividend;23.05;01-Aug-2022
-138523;INF223J01AU8;-;PGIM India Global Equity Opportunities Fund - Growth;27.45;01-Aug-2022
-149298;INF663L01W63;-;PGIM India Global Select Real Estate Securities Fund of Fund - Direct Plan - Growth Option;9.55;01-Aug-2022
-149300;INF663L01W71;INF663L01W89;PGIM India Global Select Real Estate Securities Fund of Fund - Direct Plan - IDCW Option;9.55;01-Aug-2022
-149299;INF663L01W97;-;PGIM India Global Select Real Estate Securities Fund of Fund - Regular Plan - Growth Option;9.49;01-Aug-2022
-149301;INF663L01X05;INF663L01X13;PGIM India Global Select Real Estate Securities Fund of Fund - Regular Plan - IDCW Option;9.49;01-Aug-2022
+138527;INF223J01NG0;-;PGIM India Global Equity Opportunities Fund - Direct Plan - Dividend;29.9;02-Aug-2022
+138528;INF223J01NF2;-;PGIM India Global Equity Opportunities Fund - Direct Plan - Growth;29.9;02-Aug-2022
+138524;INF223J01AS2;INF223J01AT0;PGIM India Global Equity Opportunities Fund - Dividend;22.83;02-Aug-2022
+138523;INF223J01AU8;-;PGIM India Global Equity Opportunities Fund - Growth;27.18;02-Aug-2022
+149298;INF663L01W63;-;PGIM India Global Select Real Estate Securities Fund of Fund - Direct Plan - Growth Option;9.32;02-Aug-2022
+149300;INF663L01W71;INF663L01W89;PGIM India Global Select Real Estate Securities Fund of Fund - Direct Plan - IDCW Option;9.32;02-Aug-2022
+149299;INF663L01W97;-;PGIM India Global Select Real Estate Securities Fund of Fund - Regular Plan - Growth Option;9.26;02-Aug-2022
+149301;INF663L01X05;INF663L01X13;PGIM India Global Select Real Estate Securities Fund of Fund - Regular Plan - IDCW Option;9.26;02-Aug-2022
 148760;INF200KA1U28;-;SBI International Access - US Equity FoF - Direct Plan - Growth;11.0380;02-Aug-2022
 148762;INF200KA1T96;-;SBI International Access - US Equity FoF - Regular Plan - Growth;10.9103;02-Aug-2022
 148761;INF200KA1U36;INF200KA1U44;SBI International Access- US Equity FoF Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);11.0384;02-Aug-2022
@@ -6573,10 +6573,10 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 149339;INF754K01NS7;-;Edelweiss Large & Midcap Index Fund - Direct Plan Payout;9.9968;02-Aug-2022
 149341;INF754K01NN8;-;Edelweiss Large & Midcap Index Fund - Regular Plan Growth;9.9527;02-Aug-2022
 149342;INF754K01NO6;-;Edelweiss Large & Midcap Index Fund - Regular Plan Payout;9.9522;02-Aug-2022
-148556;INF754K01LW3;INF754K01LX1;Edelweiss MSCI India Domestic & World Healthcare 45 Index Fund - Direct Plan - IDCW Option;12.0772;01-Aug-2022
-148558;INF754K01LS1;INF754K01LT9;Edelweiss MSCI India Domestic & World Healthcare 45 Index Fund - Regular Plan - IDCW Option;11.9498;01-Aug-2022
-148555;INF754K01LV5;-;Edelweiss MSCI India Domestic & World Healthcare 45 Index Fund Direct Plan - Growth;12.0772;01-Aug-2022
-148557;INF754K01LR3;-;Edelweiss MSCI India Domestic & World Healthcare 45 index Fund Regular Plan - Growth;11.9498;01-Aug-2022
+148556;INF754K01LW3;INF754K01LX1;Edelweiss MSCI India Domestic & World Healthcare 45 Index Fund - Direct Plan - IDCW Option;12.0425;02-Aug-2022
+148558;INF754K01LS1;INF754K01LT9;Edelweiss MSCI India Domestic & World Healthcare 45 Index Fund - Regular Plan - IDCW Option;11.9153;02-Aug-2022
+148555;INF754K01LV5;-;Edelweiss MSCI India Domestic & World Healthcare 45 Index Fund Direct Plan - Growth;12.0425;02-Aug-2022
+148557;INF754K01LR3;-;Edelweiss MSCI India Domestic & World Healthcare 45 index Fund Regular Plan - Growth;11.9153;02-Aug-2022
 149254;INF754K01NJ6;-;Edelweiss Nifty 100 Quality 30 Index Fund Direct Plan Growth;9.7836;02-Aug-2022
 149255;INF754K01NK4;INF754K01NL2;Edelweiss Nifty 100 Quality 30 Index Fund Direct Plan IDCW;9.6468;02-Aug-2022
 149256;INF754K01NF4;-;Edelweiss Nifty 100 Quality 30 Index Fund Regular Plan Growth;9.7342;02-Aug-2022
@@ -6613,10 +6613,10 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 149962;INF336L01QI5;-;HSBC CRISIL IBX 50:50 Gilt Plus SDL Apr 2028 Index Fund - Direct - Payout of IDCW;10.0354;02-Aug-2022
 149963;INF336L01QK1;INF336L01QM7;HSBC CRISIL IBX 50:50 Gilt Plus SDL Apr 2028 Index Fund - Regular - Growth;10.0285;02-Aug-2022
 149964;INF336L01QL9;-;HSBC CRISIL IBX 50:50 Gilt Plus SDL Apr 2028 Index Fund - Regular - payout of IDCW;10.0285;02-Aug-2022
-149219;INF109KC1U50;-;ICICI Prudential NASDAQ 100 Index Fund - Direct Plan - Growth;8.9094;01-Aug-2022
-149221;INF109KC1U68;INF109KC1U76;ICICI Prudential NASDAQ 100 Index Fund - Direct Plan - IDCW;8.9088;01-Aug-2022
-149218;INF109KC1U27;-;ICICI Prudential NASDAQ 100 Index Fund - Growth;8.8740;01-Aug-2022
-149220;INF109KC1U35;INF109KC1U43;ICICI Prudential NASDAQ 100 Index Fund - IDCW;8.8735;01-Aug-2022
+149219;INF109KC1U50;-;ICICI Prudential NASDAQ 100 Index Fund - Direct Plan - Growth;8.8200;02-Aug-2022
+149221;INF109KC1U68;INF109KC1U76;ICICI Prudential NASDAQ 100 Index Fund - Direct Plan - IDCW;8.8194;02-Aug-2022
+149218;INF109KC1U27;-;ICICI Prudential NASDAQ 100 Index Fund - Growth;8.7848;02-Aug-2022
+149220;INF109KC1U35;INF109KC1U43;ICICI Prudential NASDAQ 100 Index Fund - IDCW;8.7844;02-Aug-2022
 101349;INF109K01PI0;-;ICICI Prudential Nifty 50 Index Fund - Cumulative Option;170.7382;02-Aug-2022
 120620;INF109K012M7;-;ICICI Prudential Nifty 50 Index Fund - Direct Plan Cumulative Option;176.9894;02-Aug-2022
 135391;INF109KB1NL1;INF109KB1NM9;ICICI Prudential Nifty 50 Index Fund - Direct Plan IDCW Option;23.8004;02-Aug-2022
@@ -6888,8 +6888,8 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 149786;INF769K01IB1;-;Mirae Asset Nifty India Manufacturing ETF;82.006;02-Aug-2022
 149918;INF769K01IC9;-;Mirae Asset Nifty Midcap 150 ETF Regular Growth Option;11.436;02-Aug-2022
 147906;INF769K01FN2;-;Mirae Asset Nifty Next 50 ETF (MANxt50ETF);420.511;02-Aug-2022
-148927;INF769K01HF4;-;Mirae Asset NYSE FANG + ETF;43.290;01-Aug-2022
-149169;INF769K01HP3;-;Mirae Asset S&P 500 Top 50 ETF;27.732;01-Aug-2022
+148927;INF769K01HF4;-;Mirae Asset NYSE FANG + ETF;42.899;02-Aug-2022
+149169;INF769K01HP3;-;Mirae Asset S&P 500 Top 50 ETF;27.341;02-Aug-2022
 114984;INF247L01AP3;-;Motilal Oswal Nasdaq 100 ETF (MOFN100);100.0048;02-Aug-2022
 149438;INF247L01AU3;-;Motilal Oswal Nasdaq Q50 ETF;51.3892;02-Aug-2022
 149801;INF247L01AX7;-;Motilal Oswal Nifty 200 Momentum 30 ETF;184.3559;02-Aug-2022
