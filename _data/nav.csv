@@ -6466,10 +6466,10 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 148762;INF200KA1T96;-;SBI International Access - US Equity FoF - Regular Plan - Growth;10.9103;02-Aug-2022
 148761;INF200KA1U36;INF200KA1U44;SBI International Access- US Equity FoF Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);11.0384;02-Aug-2022
 148759;INF200KA1U02;INF200KA1U10;SBI International Access- US Equity FoF Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);10.9111;02-Aug-2022
-119602;INF903J01OB6;-;Sundaram Global Brand Fund Direct Plan - Growth;23.9350;01-Aug-2022
-119601;INF903J01NZ7;INF903J01OA8;Sundaram Global Brand Fund Direct Plan - Income Distribution cum Capital Withdrawal (IDCW);21.2894;01-Aug-2022
-106370;INF903J01EX1;-;Sundaram Global Brand Fund Regular Plan - Growth;22.5004;01-Aug-2022
-106369;INF903J01EY9;INF903J01EZ6;Sundaram Global Brand Fund Regular Plan - Income Distribution cum Capital Withdrawal (IDCW);19.2809;01-Aug-2022
+119602;INF903J01OB6;-;Sundaram Global Brand Fund Direct Plan - Growth;23.5420;02-Aug-2022
+119601;INF903J01NZ7;INF903J01OA8;Sundaram Global Brand Fund Direct Plan - Income Distribution cum Capital Withdrawal (IDCW);20.9399;02-Aug-2022
+106370;INF903J01EX1;-;Sundaram Global Brand Fund Regular Plan - Growth;22.1302;02-Aug-2022
+106369;INF903J01EY9;INF903J01EZ6;Sundaram Global Brand Fund Regular Plan - Income Distribution cum Capital Withdrawal (IDCW);18.9637;02-Aug-2022
 115127;INF209KB18D3;-;Aditya Birla Sun Life Gold ETF;46.8456;02-Aug-2022
 113434;INF846K01W80;-;Axis Gold ETF;44.4563;02-Aug-2022
 113049;INF179KC1981;-;HDFC Gold Exchange Traded Fund. - Growth Option;45.6142;02-Aug-2022
@@ -7532,40 +7532,6 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 146204;INF209KB1E01;-;Aditya Birla Sun Life Dual Advantage Fund - Series 2 - Regular - IDCW;10.;28-Apr-2022
 146203;INF209KB1D93;-;Aditya Birla Sun Life Dual Advantage Fund - Series 2 - Regular Plan - Growth;13.1691;28-Apr-2022
 146201;INF209KB1E19;-;Aditya Birla Sun Life Dual Advantage Fund- Series 2 - Direct Plan - Growth;13.4862;28-Apr-2022
-143304;INF209KB1PF7;-;Aditya Birla Sun Life Fixed Term Plan - Series PU (1463 days) - Direct Plan-Growth;13.7078;17-May-2022
-143300;INF209KB1PC4;-;Aditya Birla Sun Life Fixed Term Plan - Series PU (1463 days) - Regular Plan-Growth;13.6056;17-May-2022
-143305;INF209KB1PG5;-;Aditya Birla Sun Life Fixed Term Plan - Series PU (1463 days) -Direct - Normal IDCW;10.;17-May-2022
-143301;INF209KB1PH3;-;Aditya Birla Sun Life Fixed Term Plan - Series PU (1463 days) -Direct - Quarterly IDCW;10.;17-May-2022
-143302;INF209KB1PD2;-;Aditya Birla Sun Life Fixed Term Plan - Series PU (1463 days) -Regular -Normal IDCW;10.;17-May-2022
-143303;INF209KB1PE0;-;Aditya Birla Sun Life Fixed Term Plan - Series PU (1463 days) -Regular -Quarterly IDCW;10.;17-May-2022
-143318;INF209KB1PL5;-;Aditya Birla Sun Life Fixed Term Plan - Series PV (1462 days) - Direct Plan-Growth;13.717;17-May-2022
-143316;INF209KB1PI1;-;Aditya Birla Sun Life Fixed Term Plan - Series PV (1462 days) - Regular Plan-Growth;13.6164;17-May-2022
-143319;INF209KB1PM3;-;Aditya Birla Sun Life Fixed Term Plan - Series PV (1462 days) -Direct - Normal IDCW;10.;17-May-2022
-143321;INF209KB1PN1;-;Aditya Birla Sun Life Fixed Term Plan - Series PV (1462 days) -Direct - Quarterly IDCW;10.;17-May-2022
-143320;INF209KB1PJ9;-;Aditya Birla Sun Life Fixed Term Plan - Series PV (1462 days) -Regular -Normal IDCW;10.;17-May-2022
-143317;INF209KB1PK7;-;Aditya Birla Sun Life Fixed Term Plan - Series PV (1462 days) -Regular -Quarterly IDCW;10.;17-May-2022
-143547;INF209KB1QD0;-;Aditya Birla Sun Life Fixed Term Plan - Series PY (1409 days) - Direct Plan-Growth;13.5147;06-Apr-2022
-143542;INF209KB1QA6;-;Aditya Birla Sun Life Fixed Term Plan - Series PY (1409 days) - Regular Plan-Growth;13.4203;06-Apr-2022
-143545;INF209KB1QE8;-;Aditya Birla Sun Life Fixed Term Plan - Series PY (1409 days) -Direct - Normal IDCW;10.;06-Apr-2022
-143546;INF209KB1QF5;-;Aditya Birla Sun Life Fixed Term Plan - Series PY (1409 days) -Direct - Quarterly IDCW;10.;06-Apr-2022
-143928;INF209KB1RP2;-;Aditya Birla Sun Life Fixed Term Plan - Series QF (1385 days) - Direct Plan-Growth;13.5148;05-Apr-2022
-143925;INF209KB1RM9;-;Aditya Birla Sun Life Fixed Term Plan - Series QF (1385 days) - Regular Plan-Growth;13.4138;05-Apr-2022
-143927;INF209KB1RO5;-;Aditya Birla Sun Life Fixed Term Plan - Series QF (1385 days) -\Regular -Quarterly IDCW;10.;05-Apr-2022
-143930;INF209KB1RR8;-;Aditya Birla Sun Life Fixed Term Plan - Series QF (1385 days) -Direct - Quarterly IDCW;10.;05-Apr-2022
-143926;INF209KB1RN7;-;Aditya Birla Sun Life Fixed Term Plan - Series QF (1385 days) -Regular -Normal IDCW;10.;05-Apr-2022
-145068;INF209KB1WS6;-;Aditya Birla Sun Life Fixed Term Plan - Series RC (1295 days) - Direct - Normal IDCW;10.;04-Apr-2022
-145063;INF209KB1WT4;-;Aditya Birla Sun Life Fixed Term Plan - Series RC (1295 days) - Direct - Quarterly IDCW;10.;04-Apr-2022
-145066;INF209KB1WR8;-;Aditya Birla Sun Life Fixed Term Plan - Series RC (1295 days) - Direct Plan - Growth;13.0663;04-Apr-2022
-145064;INF209KB1WP2;-;Aditya Birla Sun Life Fixed Term Plan - Series RC (1295 days) - Regular -Normal IDCW;10.;04-Apr-2022
-145067;INF209KB1WQ0;-;Aditya Birla Sun Life Fixed Term Plan - Series RC (1295 days) - Regular -Quarterly IDCW;10.;04-Apr-2022
-145058;INF209KB1WO5;-;Aditya Birla Sun Life Fixed Term Plan - Series RC (1295 days) - Regular Plan-Growth;12.956;04-Apr-2022
-145069;INF209KB1WX6;-;Aditya Birla Sun Life Fixed Term Plan- Series RD (1293 days)-Direct Plan-Growth;13.0845;08-Apr-2022
-145071;INF209KB1WY4;-;Aditya Birla Sun Life Fixed Term Plan-Series RD (1293 days)-Direct - Normal IDCW;10.;08-Apr-2022
-145072;INF209KB1WV0;-;Aditya Birla Sun Life Fixed Term Plan-Series RD (1293 days)-Regular -Normal IDCW;10.;08-Apr-2022
-145073;INF209KB1WW8;-;Aditya Birla Sun Life Fixed Term Plan-Series RD (1293 days)-Regular -Quarterly IDCW;10.;08-Apr-2022
-145074;INF209KB1WU2;-;Aditya Birla Sun Life Fixed Term Plan-Series RD (1293 days)-Regular Plan-Growth;12.9738;08-Apr-2022
-145237;INF209KB1YC6;-;Aditya Birla Sun Life Fixed Term Plan - Series RH (1281 days) - Direct - Normal IDCW;10.;18-Apr-2022
-145238;INF209KB1YD4;-;Aditya Birla Sun Life Fixed Term Plan - Series RH (1281 days) - Direct - Quarterly IDCW;10.;18-Apr-2022
 145236;INF209KB1YB8;-;Aditya Birla Sun Life Fixed Term Plan - Series RH (1281 days) - Direct Plan - Growth;13.0141;18-Apr-2022
 145234;INF209KB1XZ9;-;Aditya Birla Sun Life Fixed Term Plan - Series RH (1281 days) - Regular -Normal IDCW;10.;18-Apr-2022
 145235;INF209KB1YA0;-;Aditya Birla Sun Life Fixed Term Plan - Series RH (1281 days) - Regular -Quarterly IDCW;10.;18-Apr-2022
