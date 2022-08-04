@@ -6486,10 +6486,10 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 148762;INF200KA1T96;-;SBI International Access - US Equity FoF - Regular Plan - Growth;11.0970;03-Aug-2022
 148761;INF200KA1U36;INF200KA1U44;SBI International Access- US Equity FoF Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);11.2276;03-Aug-2022
 148759;INF200KA1U02;INF200KA1U10;SBI International Access- US Equity FoF Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);11.0979;03-Aug-2022
-119602;INF903J01OB6;-;Sundaram Global Brand Fund Direct Plan - Growth;23.5420;02-Aug-2022
-119601;INF903J01NZ7;INF903J01OA8;Sundaram Global Brand Fund Direct Plan - Income Distribution cum Capital Withdrawal (IDCW);20.9399;02-Aug-2022
-106370;INF903J01EX1;-;Sundaram Global Brand Fund Regular Plan - Growth;22.1302;02-Aug-2022
-106369;INF903J01EY9;INF903J01EZ6;Sundaram Global Brand Fund Regular Plan - Income Distribution cum Capital Withdrawal (IDCW);18.9637;02-Aug-2022
+119602;INF903J01OB6;-;Sundaram Global Brand Fund Direct Plan - Growth;23.9220;03-Aug-2022
+119601;INF903J01NZ7;INF903J01OA8;Sundaram Global Brand Fund Direct Plan - Income Distribution cum Capital Withdrawal (IDCW);21.2778;03-Aug-2022
+106370;INF903J01EX1;-;Sundaram Global Brand Fund Regular Plan - Growth;22.4867;03-Aug-2022
+106369;INF903J01EY9;INF903J01EZ6;Sundaram Global Brand Fund Regular Plan - Income Distribution cum Capital Withdrawal (IDCW);19.2692;03-Aug-2022
 115127;INF209KB18D3;-;Aditya Birla Sun Life Gold ETF;46.8219;03-Aug-2022
 113434;INF846K01W80;-;Axis Gold ETF;44.4339;03-Aug-2022
 113049;INF179KC1981;-;HDFC Gold Exchange Traded Fund. - Growth Option;45.5911;03-Aug-2022
@@ -6589,10 +6589,6 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 149950;INF754K01OG0;-;Edelweiss CRISIL PSU Plus SDL 50:50 Oct 2025 Index Fund - Direct Plan Growth;9.9785;03-Aug-2022
 149947;INF754K01OD7;INF754K01OE5;Edelweiss CRISIL PSU Plus SDL 50:50 Oct 2025 Index Fund - Regular Plan - IDCW Payout;9.9707;03-Aug-2022
 149949;INF754K01OC9;-;Edelweiss CRISIL PSU Plus SDL 50:50 Oct 2025 Index Fund - Regular Plan Growth;9.9705;03-Aug-2022
-149343;INF754K01NR9;-;Edelweiss Large & Midcap Index Fund - Direct Plan Growth;9.9787;03-Aug-2022
-149339;INF754K01NS7;-;Edelweiss Large & Midcap Index Fund - Direct Plan Payout;9.9786;03-Aug-2022
-149341;INF754K01NN8;-;Edelweiss Large & Midcap Index Fund - Regular Plan Growth;9.9345;03-Aug-2022
-149342;INF754K01NO6;-;Edelweiss Large & Midcap Index Fund - Regular Plan Payout;9.934;03-Aug-2022
 148556;INF754K01LW3;INF754K01LX1;Edelweiss MSCI India Domestic & World Healthcare 45 Index Fund - Direct Plan - IDCW Option;12.0277;03-Aug-2022
 148558;INF754K01LS1;INF754K01LT9;Edelweiss MSCI India Domestic & World Healthcare 45 Index Fund - Regular Plan - IDCW Option;11.9005;03-Aug-2022
 148555;INF754K01LV5;-;Edelweiss MSCI India Domestic & World Healthcare 45 Index Fund Direct Plan - Growth;12.0277;03-Aug-2022
@@ -6605,14 +6601,18 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 149251;INF754K01NC1;INF754K01ND9;Edelweiss Nifty 50 Index Fund Direct Plan IDCW;9.8158;03-Aug-2022
 149252;INF754K01MX9;-;Edelweiss Nifty 50 Index Fund Regular Plan Growth;9.772;03-Aug-2022
 149253;INF754K01MY7;INF754K01MZ4;Edelweiss Nifty 50 Index Fund Regular Plan IDCW;9.7719;03-Aug-2022
-148796;INF754K01ME9;INF754K01MF6;Edelweiss NIFTY PSU Bond Plus SDL Index Fund – 2026 - Direct Plan - IDCW Option;10.6618;03-Aug-2022
-148794;INF754K01MA7;INF754K01MB5;Edelweiss NIFTY PSU Bond Plus SDL Index Fund – 2026 - Regular Plan - IDCW Option;10.6388;03-Aug-2022
-148795;INF754K01MD1;-;Edelweiss NIFTY PSU Bond Plus SDL Index Fund 2026 - Direct Plan - Growth;10.6614;03-Aug-2022
-148797;INF754K01LZ6;-;Edelweiss NIFTY PSU Bond Plus SDL Index Fund 2026 Regular Plan - Growth;10.6383;03-Aug-2022
-149247;INF754K01MT7;-;Edelweiss NIFTY PSU Bond Plus SDL Index Fund - 2027 - Direct Plan Growth;10.1201;03-Aug-2022
-149249;INF754K01MP5;-;Edelweiss NIFTY PSU Bond Plus SDL Index Fund - Regular Plan - Growth;10.1063;03-Aug-2022
-149246;INF754K01MU5;INF754K01MV3;Edelweiss NIFTY PSU Bond Plus SDL Index Fund -2027 Direct Plan - IDCW;10.1189;03-Aug-2022
-149248;INF754K01MQ3;INF754K01MR1;Edelweiss NIFTY PSU Bond Plus SDL Index Fund 2027 - Regular Plan - IDCW;10.1065;03-Aug-2022
+149343;INF754K01NR9;-;Edelweiss NIFTY Large Midcap 250 Index Fund - Direct Plan Growth;9.9787;03-Aug-2022
+149339;INF754K01NS7;-;Edelweiss NIFTY Large Midcap 250 Index Fund - Direct Plan Payout;9.9786;03-Aug-2022
+149341;INF754K01NN8;-;Edelweiss NIFTY Large Midcap 250 Index Fund - Regular Plan Growth;9.9345;03-Aug-2022
+149342;INF754K01NO6;-;Edelweiss NIFTY Large Midcap 250 Index Fund - Regular Plan Payout;9.934;03-Aug-2022
+148794;INF754K01MA7;INF754K01MB5;Edelweiss NIFTY PSU Bond Plus SDL Apr 2026 50: 50 Index Fund - Regular Plan - IDCW Option;10.6388;03-Aug-2022
+148795;INF754K01MD1;-;Edelweiss NIFTY PSU Bond Plus SDL Apr 2026 50:50 Index Fund - Direct Plan - Growth;10.6614;03-Aug-2022
+148796;INF754K01ME9;INF754K01MF6;Edelweiss NIFTY PSU Bond Plus SDL Apr 2026 50:50 Index Fund - Direct Plan - IDCW Option;10.6618;03-Aug-2022
+148797;INF754K01LZ6;-;Edelweiss NIFTY PSU Bond Plus SDL Apr 2026 50:50 Index Fund - Regular Plan - Growth;10.6383;03-Aug-2022
+149246;INF754K01MU5;INF754K01MV3;Edelweiss NIFTY PSU Bond Plus SDL Apr 2027 50:50 Index Fund - Direct Plan - IDCW;10.1189;03-Aug-2022
+149247;INF754K01MT7;-;Edelweiss NIFTY PSU Bond Plus SDL Apr 2027 50:50 Index Fund - Direct Plan Growth;10.1201;03-Aug-2022
+149249;INF754K01MP5;-;Edelweiss NIFTY PSU Bond Plus SDL Apr 2027 50:50 Index Fund - Regular Plan - Growth;10.1063;03-Aug-2022
+149248;INF754K01MQ3;INF754K01MR1;Edelweiss NIFTY PSU Bond Plus SDL Apr 2027 50:50 Index Fund - Regular Plan - IDCW;10.1065;03-Aug-2022
 118580;INF090I01GQ8;INF090I01GR6;Franklin India INDEX FUND- NSE Nifty 50 Index Fund - Direct - IDCW;143.5902;03-Aug-2022
 100484;INF090I01890;-;Franklin India Index Fund- NSE Nifty 50 Index Fund - Growth;138.2393;03-Aug-2022
 105067;INF090I01874;INF090I01882;Franklin India INDEX FUND- NSE NIFTY 50 INDEX FUND - IDCW;138.2393;03-Aug-2022
@@ -6629,10 +6629,10 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 149287;INF179KC1BQ9;-;HDFC NIFTY Next 50 Index Fund - Growth Option;9.6921;03-Aug-2022
 149107;INF179KC1BM8;-;HDFC NIFTY50 Equal weight Index Fund - Direct Plan - Growth Option;10.9991;03-Aug-2022
 149106;INF179KC1BN6;-;HDFC NIFTY50 Equal weight Index Fund - Growth Option;10.9336;03-Aug-2022
-149966;INF336L01QH7;INF336L01QJ3;HSBC CRISIL IBX 50:50 Gilt Plus SDL Apr 2028 Index Fund - Direct - Growth;10.0348;03-Aug-2022
-149962;INF336L01QI5;-;HSBC CRISIL IBX 50:50 Gilt Plus SDL Apr 2028 Index Fund - Direct - Payout of IDCW;10.0348;03-Aug-2022
-149963;INF336L01QK1;INF336L01QM7;HSBC CRISIL IBX 50:50 Gilt Plus SDL Apr 2028 Index Fund - Regular - Growth;10.0279;03-Aug-2022
-149964;INF336L01QL9;-;HSBC CRISIL IBX 50:50 Gilt Plus SDL Apr 2028 Index Fund - Regular - payout of IDCW;10.0279;03-Aug-2022
+149966;INF336L01QH7;-;HSBC CRISIL IBX 50:50 Gilt Plus SDL Apr 2028 Index Fund - Direct - Growth;10.0348;03-Aug-2022
+149962;INF336L01QI5;INF336L01QJ3;HSBC CRISIL IBX 50:50 Gilt Plus SDL Apr 2028 Index Fund - Direct - Payout of IDCW;10.0348;03-Aug-2022
+149963;INF336L01QK1;-;HSBC CRISIL IBX 50:50 Gilt Plus SDL Apr 2028 Index Fund - Regular - Growth;10.0279;03-Aug-2022
+149964;INF336L01QL9;INF336L01QM7;HSBC CRISIL IBX 50:50 Gilt Plus SDL Apr 2028 Index Fund - Regular - payout of IDCW;10.0279;03-Aug-2022
 149219;INF109KC1U50;-;ICICI Prudential NASDAQ 100 Index Fund - Direct Plan - Growth;9.0854;03-Aug-2022
 149221;INF109KC1U68;INF109KC1U76;ICICI Prudential NASDAQ 100 Index Fund - Direct Plan - IDCW;9.0847;03-Aug-2022
 149218;INF109KC1U27;-;ICICI Prudential NASDAQ 100 Index Fund - Growth;9.0490;03-Aug-2022
