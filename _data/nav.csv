@@ -685,9 +685,9 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 111786;-;INF740KA1PA5;DSP Strategic Bond Fund - Regular Plan - IDCW - Daily;1066.1314;05-Aug-2022
 105667;INF740K01GM3;INF740K01GL5;DSP Strategic Bond Fund - Regular Plan - IDCW - Monthly;1056.9639;05-Aug-2022
 105878;INF740K01GQ4;INF740K01GP6;DSP Strategic Bond Fund - Regular Plan - IDCW - Weekly;1053.1948;05-Aug-2022
-118495;INF090I01HB8;-;Franklin India Dynamic Accrual Fund - Direct - Growth;83.2869;05-Aug-2022
-118496;INF090I01GZ9;INF090I01HA0;Franklin India Dynamic Accrual Fund - Direct - IDCW ;14.0378;05-Aug-2022
-100498;INF090I01BN6;INF090I01BO4;Franklin India Dynamic Accrual Fund - IDCW ;15.5284;05-Aug-2022
+118495;INF090I01HB8;-;Franklin India Dynamic Accrual Fund - Direct - Growth;84.0329;07-Aug-2022
+118496;INF090I01GZ9;INF090I01HA0;Franklin India Dynamic Accrual Fund - Direct - IDCW ;14.1635;07-Aug-2022
+100498;INF090I01BN6;INF090I01BO4;Franklin India Dynamic Accrual Fund - IDCW ;15.6675;07-Aug-2022
 148308;INF090I01WD3;-;Franklin India Dynamic Accrual Fund - Segregated Portfolio 3 (9.50% Yes Bank Ltd CO 23Dec21) - Direct Growth Plan;0.0000;05-Aug-2022
 148307;INF090I01WB7;-;Franklin India Dynamic Accrual Fund - Segregated Portfolio 3 (9.50% Yes Bank Ltd CO 23Dec21) - Growth Plan;0.0000;05-Aug-2022
 147982;INF090I01TS7;-;Franklin India Dynamic Accrual Fund- Segregated Portfolio 1- 8.25% Vodafone Idea Ltd-10JUL20-Direct-Dividend Plan;0.0000;20-Jul-2020
@@ -698,7 +698,7 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 147988;INF090I01TX7;-;Franklin India Dynamic Accrual Fund- Segregated Portfolio 2- 10.90% Vodafone Idea Ltd 02Sep2023-Direct-Growth Plan;0.8312;05-Aug-2022
 147987;INF090I01TV1;-;Franklin India Dynamic Accrual Fund- Segregated Portfolio 2- 10.90% Vodafone Idea Ltd 02Sep2023-Growth Plan;0.7847;05-Aug-2022
 148309;INF090I01WA9;-;Franklin India Dynamic Accrual Fund- Segregated Portfolio 3 (9.50% Yes Bank Ltd CO 23Dec21) - IDCW;0.0000;05-Aug-2022
-100499;INF090I01BP1;-;Franklin India Dynamic Accrual Fund-Growth;93.9466;05-Aug-2022
+100499;INF090I01BP1;-;Franklin India Dynamic Accrual Fund-Growth;94.7880;07-Aug-2022
 147986;INF090I01TW9;-;Franklin India Dynamic Accrual Fund-Segregated Portfolio 2 - 10.90% Vodafone Idea Ltd (02-Sep-2023) - Direct IDCW;0.1427;05-Aug-2022
 148310;INF090I01WC5;-;Franklin India Dynamic Accrual Fund-Segregated Portfolio 3 (9.50% Yes Bank Ltd CO 23Dec21) - Direct IDCW;0.0000;05-Aug-2022
 101872;INF179K01848;-;HDFC Dynamic Debt Fund - Growth Option;72.8116;05-Aug-2022
@@ -1190,20 +1190,20 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 150409;-;-;UTI Gilt Fund with 10 year Constant Duration - Regular Plan - Growth Option;10.0162;05-Aug-2022
 150416;-;-;UTI Gilt Fund with 10 year Constant Duration - Regular Plan - Half Yearly IDCW Option;10.0162;05-Aug-2022
 150411;-;-;UTI Gilt Fund with 10 year Constant Duration - Regular Plan - Quarterly IDCW Option;10.0162;05-Aug-2022
-100047;INF209K01RU9;-;Aditya Birla Sun Life Liquid Fund - Growth;345.4318;06-Aug-2022
-119568;INF209K01VA3;-;Aditya Birla Sun Life Liquid Fund - Growth - Direct Plan;348.3039;06-Aug-2022
-100046;INF209K01KQ2;INF209K01SQ5;Aditya Birla Sun Life Liquid Fund -Daily IDCW;100.2106;06-Aug-2022
-119569;INF209K01UZ2;-;Aditya Birla Sun Life Liquid Fund -Direct - daily IDCW;100.2109;06-Aug-2022
-119571;INF209K01VD7;-;Aditya Birla Sun Life Liquid Fund -DIRECT - IDCW;189.1013;06-Aug-2022
-119570;INF209K01VC9;-;Aditya Birla Sun Life Liquid Fund -Direct - weekly IDCW;100.2409;06-Aug-2022
-100041;-;INF209K01KN9;Aditya Birla Sun Life Liquid Fund -Institutional - IDCW;108.0398;06-Aug-2022
-100048;INF209KA1LK7;INF209K01KY6;Aditya Birla Sun Life Liquid Fund -Institutional - weekly  IDCW;108.0848;06-Aug-2022
-103885;INF209KA1LI1;-;Aditya Birla Sun Life Liquid Fund -Regular - IDCW;144.5378;06-Aug-2022
-100044;-;INF209K01KP4;Aditya Birla Sun Life Liquid Fund -Retail - IDCW;163.7194;06-Aug-2022
-100051;INF209K01KU4;INF209KA1LJ9;Aditya Birla Sun Life Liquid Fund -weekly IDCW;100.2406;06-Aug-2022
-112014;INF209K01KZ3;-;Aditya Birla Sun Life Liquid Fund- Discipline Advantage Plan;232.2996;06-Aug-2022
-100043;INF209K01RT1;-;Aditya Birla Sun Life Liquid Fund-Institutional (Growth);575.2529;06-Aug-2022
-100042;INF209K01ME4;-;Aditya Birla Sun Life Liquid Fund-Retail (Growth);560.5623;06-Aug-2022
+100047;INF209K01RU9;-;Aditya Birla Sun Life Liquid Fund - Growth;345.4856;07-Aug-2022
+119568;INF209K01VA3;-;Aditya Birla Sun Life Liquid Fund - Growth - Direct Plan;348.3591;07-Aug-2022
+100046;INF209K01KQ2;INF209K01SQ5;Aditya Birla Sun Life Liquid Fund -Daily IDCW;100.195;07-Aug-2022
+119569;INF209K01UZ2;-;Aditya Birla Sun Life Liquid Fund -Direct - daily IDCW;100.195;07-Aug-2022
+119571;INF209K01VD7;-;Aditya Birla Sun Life Liquid Fund -DIRECT - IDCW;189.1313;07-Aug-2022
+119570;INF209K01VC9;-;Aditya Birla Sun Life Liquid Fund -Direct - weekly IDCW;100.2568;07-Aug-2022
+100041;-;INF209K01KN9;Aditya Birla Sun Life Liquid Fund -Institutional - IDCW;108.023;07-Aug-2022
+100048;INF209KA1LK7;INF209K01KY6;Aditya Birla Sun Life Liquid Fund -Institutional - weekly  IDCW;108.1016;07-Aug-2022
+103885;INF209KA1LI1;-;Aditya Birla Sun Life Liquid Fund -Regular - IDCW;144.5603;07-Aug-2022
+100044;-;INF209K01KP4;Aditya Birla Sun Life Liquid Fund -Retail - IDCW;163.694;07-Aug-2022
+100051;INF209K01KU4;INF209KA1LJ9;Aditya Birla Sun Life Liquid Fund -weekly IDCW;100.2562;07-Aug-2022
+112014;INF209K01KZ3;-;Aditya Birla Sun Life Liquid Fund- Discipline Advantage Plan;232.3361;07-Aug-2022
+100043;INF209K01RT1;-;Aditya Birla Sun Life Liquid Fund-Institutional (Growth);575.3423;07-Aug-2022
+100042;INF209K01ME4;-;Aditya Birla Sun Life Liquid Fund-Retail (Growth);560.6495;07-Aug-2022
 128954;INF846K01NH4;-;Axis Liquid Fund - Direct plan - Bonus Option;2215.5705;05-May-2020
 120388;-;INF846K01DA0;Axis Liquid Fund - Direct Plan - Daily IDCW;1000.9560;07-Aug-2022
 120389;INF846K01CX4;-;Axis Liquid Fund - Direct Plan - Growth Option;2400.3104;07-Aug-2022
@@ -1278,22 +1278,22 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 140178;-;INF754K01HG4;Edelweiss Liquid Fund - Retail Plan - Weekly Dividend Option;1231.7875;07-Aug-2022
 140177;-;INF754K01HF6;Edelweiss Liquid Fund - Retail Plan Daily - IDCW Option;1017.1949;07-Aug-2022
 140180;-;INF754K01HI0;Edelweiss Liquid Fund - Retail Plan Monthly - IDCW Option;1245.5297;07-Aug-2022
-100541;-;INF090I01BA3;Franklin India Liquid Fund - Regular Plan - Daily - IDCW;1509.5969;05-Aug-2022
-100538;INF090I01BB1;-;Franklin India Liquid Fund - Regular Plan - Growth;4946.8723;05-Aug-2022
-100537;INF090I01BL0;INF090I01BI6;Franklin India Liquid Fund - Regular Plan - Weekly - IDCW;1245.2467;05-Aug-2022
-118577;INF090I01JV2;-;Franklin India Liquid Fund - Super Instittutional - Direct - Growth;3246.2074;05-Aug-2022
-100547;-;INF090I01BF2;Franklin India Liquid Fund - Super Institutional Plan - Daily - IDCW;1000.0000;05-Aug-2022
-118578;-;INF090I01JW0;Franklin India Liquid Fund - Super Institutional Plan - Direct - Daily - IDCW;1001.7365;05-Aug-2022
-118579;INF090I01JX8;INF090I01JY6;Franklin India Liquid Fund - Super Institutional Plan - Direct - Weekly - IDCW;1022.2707;05-Aug-2022
-100546;INF090I01BG0;-;Franklin India Liquid Fund - Super Institutional Plan - Growth;3226.2362;05-Aug-2022
-100548;INF090I01BM8;INF090I01BH8;Franklin India Liquid Fund - Super Institutional Plan - Weekly - IDCW;1022.7963;05-Aug-2022
-139892;INF090I01LR6;-;Franklin India Liquid Fund - Unclaimed IDCW Investor Education Plan - Growth;10.0000;05-Aug-2022
-139890;INF090I01LP0;-;Franklin India Liquid Fund - Unclaimed IDCW Plan - Growth;13.7033;05-Aug-2022
-139891;INF090I01LQ8;-;Franklin India Liquid Fund - Unclaimed Redemption Investor Education Plan - Growth;10.0000;05-Aug-2022
-139889;INF090I01LO3;-;Franklin India Liquid Fund - Unclaimed Redemption Plan - Growth;13.7033;05-Aug-2022
+100541;-;INF090I01BA3;Franklin India Liquid Fund - Regular Plan - Daily - IDCW;1509.5969;07-Aug-2022
+100538;INF090I01BB1;-;Franklin India Liquid Fund - Regular Plan - Growth;4948.1504;07-Aug-2022
+100537;INF090I01BL0;INF090I01BI6;Franklin India Liquid Fund - Regular Plan - Weekly - IDCW;1244.2967;07-Aug-2022
+118577;INF090I01JV2;-;Franklin India Liquid Fund - Super Instittutional - Direct - Growth;3247.1768;07-Aug-2022
+100547;-;INF090I01BF2;Franklin India Liquid Fund - Super Institutional Plan - Daily - IDCW;1000.0000;07-Aug-2022
+118578;-;INF090I01JW0;Franklin India Liquid Fund - Super Institutional Plan - Direct - Daily - IDCW;1001.7365;07-Aug-2022
+118579;INF090I01JX8;INF090I01JY6;Franklin India Liquid Fund - Super Institutional Plan - Direct - Weekly - IDCW;1021.3891;07-Aug-2022
+100546;INF090I01BG0;-;Franklin India Liquid Fund - Super Institutional Plan - Growth;3227.1857;07-Aug-2022
+100548;INF090I01BM8;INF090I01BH8;Franklin India Liquid Fund - Super Institutional Plan - Weekly - IDCW;1021.9243;07-Aug-2022
+139892;INF090I01LR6;-;Franklin India Liquid Fund - Unclaimed IDCW Investor Education Plan - Growth;10.0000;07-Aug-2022
+139890;INF090I01LP0;-;Franklin India Liquid Fund - Unclaimed IDCW Plan - Growth;13.7074;07-Aug-2022
+139891;INF090I01LQ8;-;Franklin India Liquid Fund - Unclaimed Redemption Investor Education Plan - Growth;10.0000;07-Aug-2022
+139889;INF090I01LO3;-;Franklin India Liquid Fund - Unclaimed Redemption Plan - Growth;13.7074;07-Aug-2022
 102441;INF090I01BD7;-;Franklin India Liquid Fund - Institution-Growth;0.0000;08-Jul-2020
-102443;-;INF090I01BC9;Franklin India Liquid Fund - Institutional Plan - Daily - IDCW;1000.0000;05-Aug-2022
-102442;INF090I01BJ4;INF090I01BE5;Franklin India Liquid Fund - Institutional Plan - Weekly - IDCW;1055.5619;05-Aug-2022
+102443;-;INF090I01BC9;Franklin India Liquid Fund - Institutional Plan - Daily - IDCW;1000.0000;07-Aug-2022
+102442;INF090I01BJ4;INF090I01BE5;Franklin India Liquid Fund - Institutional Plan - Weekly - IDCW;1054.7184;07-Aug-2022
 119091;INF179KB1HP9;-;HDFC Liquid Fund - Growth Option - Direct Plan;4247.4635;07-Aug-2022
 100868;INF179KB1HK0;-;HDFC Liquid Fund - Growth Plan;4212.5339;07-Aug-2022
 100875;-;INF179KB1IC5;HDFC Liquid Fund - IDCW Daily;1019.82;07-Aug-2022
@@ -1736,12 +1736,12 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 133920;INF740K019P0;INF740K010Q7;DSP Low Duration Fund - Regular Plan - IDCW - Monthly;10.4689;05-Aug-2022
 133921;INF740K011Q5;INF740K012Q3;DSP Low Duration Fund - Regular Plan - IDCW - Quarterly;10.6309;05-Aug-2022
 133927;INF740KA1OP6;INF740KA1OQ4;DSP Low Duration Fund - Regular Plan - IDCW - Weekly;10.1228;05-Aug-2022
-118530;INF090I01HG7;-;Franklin India Low Duration Fund - Direct - Growth;28.6273;05-Aug-2022
-118528;INF090I01HC6;INF090I01HD4;Franklin India Low Duration Fund - Direct - Monthly - IDCW;13.3045;05-Aug-2022
-118529;INF090I01HE2;INF090I01HF9;Franklin India Low Duration Fund - Direct - Quarterly - IDCW;13.0742;05-Aug-2022
-113135;INF090I01BU1;-;Franklin India Low Duration Fund - Growth Plan;32.5406;05-Aug-2022
-100503;INF090I01BQ9;INF090I01BR7;Franklin India Low Duration Fund - Monthly - IDCW;15.0044;05-Aug-2022
-100504;INF090I01BS5;INF090I01BT3;Franklin India Low Duration Fund - Quarterly - IDCW;14.7366;05-Aug-2022
+118530;INF090I01HG7;-;Franklin India Low Duration Fund - Direct - Growth;28.6858;07-Aug-2022
+118528;INF090I01HC6;INF090I01HD4;Franklin India Low Duration Fund - Direct - Monthly - IDCW;13.3317;07-Aug-2022
+118529;INF090I01HE2;INF090I01HF9;Franklin India Low Duration Fund - Direct - Quarterly - IDCW;13.1009;07-Aug-2022
+113135;INF090I01BU1;-;Franklin India Low Duration Fund - Growth Plan;32.6071;07-Aug-2022
+100503;INF090I01BQ9;INF090I01BR7;Franklin India Low Duration Fund - Monthly - IDCW;15.0351;07-Aug-2022
+100504;INF090I01BS5;INF090I01BT3;Franklin India Low Duration Fund - Quarterly - IDCW;14.7667;07-Aug-2022
 147993;INF090I01UC9;-;Franklin India Low Duration Fund- Segregated Portfolio 1- 8.25% Vodafone Idea Ltd-10JUL20-Direct- Quarterly Dividend Plan;0.0000;20-Jul-2020
 147989;INF090I01UD7;-;Franklin India Low Duration Fund- Segregated Portfolio 1- 8.25% Vodafone Idea Ltd-10JUL20-Direct-Growth Plan;0.0000;20-Jul-2020
 147991;INF090I01UB1;-;Franklin India Low Duration Fund- Segregated Portfolio 1- 8.25% Vodafone Idea Ltd-10JUL20-Direct-Monthly Dividend Plan;0.0000;20-Jul-2020
@@ -2510,14 +2510,14 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 133484;INF789FA1L21;INF789FA1L39;UTI Money Market Fund - Regular Plan - Monthly IDCW;1037.5372;05-Aug-2022
 139646;INF789FA1L47;INF789FA1L54;UTI Money Market Fund - Regular Plan - Quarterly IDCW;1179.0852;02-Mar-2022
 112635;INF789F01PY6;INF789F01PZ3;UTI Money Market Fund - Regular Plan - Weekly IDCW;1097.9224;05-Aug-2022
-145488;INF209KB1ZL4;-;ADITYA BIRLA SUN LIFE OVERNIGHT FUND-  Direct - Monthly Payout of IDCW;1001.0685;06-Aug-2022
+145488;INF209KB1ZL4;-;ADITYA BIRLA SUN LIFE OVERNIGHT FUND-  Direct - Monthly Payout of IDCW;1001.2062;07-Aug-2022
 145489;-;INF209KB1ZJ8;ADITYA BIRLA SUN LIFE OVERNIGHT FUND-  Direct - Weekly Reinvestment of IDCW;1000.4297;01-Aug-2022
-145482;-;INF209KB1ZE9;ADITYA BIRLA SUN LIFE OVERNIGHT FUND-  Regular - Weekly Reinvestment of IDCW option;1000.1548;06-Aug-2022
-145487;-;INF209KB1ZI0;ADITYA BIRLA SUN LIFE OVERNIGHT FUND- Direct - Daily Reinvestment of IDCW;1000.1575;06-Aug-2022
-145483;-;INF209KB1ZD1;ADITYA BIRLA SUN LIFE OVERNIGHT FUND- Regular - Daily Reinvestment of IDCW;1000.1548;06-Aug-2022
-145485;INF209KB1ZG4;-;ADITYA BIRLA SUN LIFE OVERNIGHT FUND- Regular- Monthly Payout of IDCW option;1001.0468;06-Aug-2022
-145486;INF209KB1ZH2;-;ADITYA BIRLA SUN LIFE OVERNIGHT FUND-DIRECT PLAN-GROWTH;1166.8397;06-Aug-2022
-145481;INF209KB1ZC3;-;ADITYA BIRLA SUNLIFE OVERNIGHT FUND-REGULAR PLAN-GROWTH;1161.4851;06-Aug-2022
+145482;-;INF209KB1ZE9;ADITYA BIRLA SUN LIFE OVERNIGHT FUND-  Regular - Weekly Reinvestment of IDCW option;1000.2895;07-Aug-2022
+145487;-;INF209KB1ZI0;ADITYA BIRLA SUN LIFE OVERNIGHT FUND- Direct - Daily Reinvestment of IDCW;1000.02;07-Aug-2022
+145483;-;INF209KB1ZD1;ADITYA BIRLA SUN LIFE OVERNIGHT FUND- Regular - Daily Reinvestment of IDCW;1000.02;07-Aug-2022
+145485;INF209KB1ZG4;-;ADITYA BIRLA SUN LIFE OVERNIGHT FUND- Regular- Monthly Payout of IDCW option;1001.1817;07-Aug-2022
+145486;INF209KB1ZH2;-;ADITYA BIRLA SUN LIFE OVERNIGHT FUND-DIRECT PLAN-GROWTH;1167.0001;07-Aug-2022
+145481;INF209KB1ZC3;-;ADITYA BIRLA SUNLIFE OVERNIGHT FUND-REGULAR PLAN-GROWTH;1161.6416;07-Aug-2022
 146679;-;INF846K01N99;Axis Overnight Fund - Direct Plan - Daily IDCW;1000.5073;07-Aug-2022
 146675;INF846K01N65;-;Axis Overnight Fund - Direct Plan - Growth Option;1140.8792;07-Aug-2022
 146677;INF846K01N73;INF846K01N81;Axis Overnight Fund - Direct Plan - Monthly IDCW;1002.5893;07-Aug-2022
@@ -2577,16 +2577,16 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 149477;-;-;Edelweiss Overnight Fund - Unclaimed IDCW Plan - Upto 3 years;1023.2612;07-Aug-2022
 149479;-;-;Edelweiss Overnight Fund - Unclaimed Redemption Plan - Above 3 years;1000;07-Aug-2022
 149478;-;-;Edelweiss Overnight Fund - Unclaimed Redemption Plan - Upto 3 years;1023.2612;07-Aug-2022
-147215;-;INF090I01SM2;Franklin India Overnight Fund - Daily Dividend Plan - Daily - IDCW;1000.0000;05-Aug-2022
-147212;-;INF090I01ST7;Franklin India Overnight Fund - Direct Daily Dividend Plan - Daily - IDCW;1000.0000;05-Aug-2022
-147211;INF090I01SR1;INF090I01SQ3;Franklin India Overnight Fund - Direct Weekly Dividend Plan - Weekly - IDCW;1000.6157;05-Aug-2022
-147216;INF090I01SN0;INF090I01SP5;Franklin India Overnight Fund - Weekly Dividend Plan - Weekly - IDCW;1000.6118;05-Aug-2022
-147213;INF090I01SO8;-;Franklin India Overnight fund- Growth;1124.4773;05-Aug-2022
-147214;INF090I01SS9;-;Franklin India Overnight Fund- Growth - Direct;1126.4797;05-Aug-2022
-149445;-;-;Franklin India Overnight Fund- Unclaimed IDCW Investor Education Plan;10.0000;05-Aug-2022
-149443;-;-;Franklin India Overnight Fund- Unclaimed IDCW Plan;10.2242;05-Aug-2022
-149444;-;-;Franklin India Overnight Fund- Unclaimed Redemption Investor EducationPlan;10.0000;05-Aug-2022
-149446;-;-;Franklin India Overnight Fund- Unclaimed Redemption Plan;10.2242;05-Aug-2022
+147215;-;INF090I01SM2;Franklin India Overnight Fund - Daily Dividend Plan - Daily - IDCW;1000.0000;07-Aug-2022
+147212;-;INF090I01ST7;Franklin India Overnight Fund - Direct Daily Dividend Plan - Daily - IDCW;1000.0000;07-Aug-2022
+147211;INF090I01SR1;INF090I01SQ3;Franklin India Overnight Fund - Direct Weekly Dividend Plan - Weekly - IDCW;1000.0000;07-Aug-2022
+147216;INF090I01SN0;INF090I01SP5;Franklin India Overnight Fund - Weekly Dividend Plan - Weekly - IDCW;1000.0000;07-Aug-2022
+147213;INF090I01SO8;-;Franklin India Overnight fund- Growth;1124.7797;07-Aug-2022
+147214;INF090I01SS9;-;Franklin India Overnight Fund- Growth - Direct;1126.7857;07-Aug-2022
+149445;-;-;Franklin India Overnight Fund- Unclaimed IDCW Investor Education Plan;10.0000;07-Aug-2022
+149443;-;-;Franklin India Overnight Fund- Unclaimed IDCW Plan;10.2269;07-Aug-2022
+149444;-;-;Franklin India Overnight Fund- Unclaimed Redemption Investor EducationPlan;10.0000;07-Aug-2022
+149446;-;-;Franklin India Overnight Fund- Unclaimed Redemption Plan;10.2269;07-Aug-2022
 119109;-;-;HDFC Overnight Fund - Daily IDCW Option - Direct Plan;1042.66;07-Aug-2022
 101996;INF179KB1HS3;-;HDFC Overnight Fund - Growth Option;3181.5606;07-Aug-2022
 119110;INF179KB1HT1;-;HDFC Overnight Fund - Growth Option - Direct Plan;3204.483;07-Aug-2022
@@ -3107,18 +3107,18 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 117063;INF740K01QS9;INF740K01QR1;DSP Ultra Short Fund - Regular Plan - IDCW - Monthly;1058.9568;05-Aug-2022
 117995;INF740K01MK5;-;DSP Ultra Short Fund - Regular Plan - IDCW - Payout;1098.5985;05-Aug-2022
 104139;-;-;DSP Ultra Short Fund - Regular Plan - IDCW - Weekly Reinvest;1004.9664;05-Aug-2022
-107248;INF090I01CG8;-;Franklin India Ultra Short Bond Fund - Institutional - Growth;33.7377;05-Aug-2022
+107248;INF090I01CG8;-;Franklin India Ultra Short Bond Fund - Institutional - Growth;33.7757;07-Aug-2022
 109574;INF090I01CE3;INF090I01CF0;Franklin India Ultra Short Bond Fund - Institutional - Weekly Dividend;0.0000;01-Sep-2015
-107251;-;INF090I01CD5;Franklin India Ultra Short Bond Fund - Institutional Plan - Daily - IDCW;12.3560;05-Aug-2022
-107247;INF090I01CK0;-;Franklin India Ultra Short Bond Fund - Retail - Growth;32.8892;05-Aug-2022
-107252;-;INF090I01CH6;Franklin India Ultra Short Bond Fund - Retail Plan - Daily - IDCW;12.3997;05-Aug-2022
-109575;INF090I01CI4;INF090I01CJ2;Franklin India Ultra Short Bond Fund - Retail Plan - Weekly - IDCW;12.5022;05-Aug-2022
-107249;INF090I01CN4;-;Franklin India Ultra Short Bond Fund - Super Institutional - Growth;34.8738;05-Aug-2022
-107250;-;INF090I01CL8;Franklin India Ultra Short Bond Fund - Super Institutional Plan - Daily - IDCW;12.4648;05-Aug-2022
-118560;INF090I01JA6;-;Franklin India Ultra Short Bond Fund - Super Institutional Plan - Direct - Growth;34.1969;05-Aug-2022
-109576;-;INF090I01CM6;Franklin India Ultra Short Bond Fund - Super Institutional Plan - Weekly - IDCW;12.4970;05-Aug-2022
-118561;-;INF090I01JB4;Franklin India Ultra Short Bond Fund Super Institutional Plan - Direct - Daily - IDCW;12.1375;05-Aug-2022
-118562;-;INF090I01JC2;Franklin India Ultra Short Bond Fund Super Institutional Plan - Direct - Weekly - IDCW;12.1823;05-Aug-2022
+107251;-;INF090I01CD5;Franklin India Ultra Short Bond Fund - Institutional Plan - Daily - IDCW;12.3700;07-Aug-2022
+107247;INF090I01CK0;-;Franklin India Ultra Short Bond Fund - Retail - Growth;32.9262;07-Aug-2022
+107252;-;INF090I01CH6;Franklin India Ultra Short Bond Fund - Retail Plan - Daily - IDCW;12.4137;07-Aug-2022
+109575;INF090I01CI4;INF090I01CJ2;Franklin India Ultra Short Bond Fund - Retail Plan - Weekly - IDCW;12.5163;07-Aug-2022
+107249;INF090I01CN4;-;Franklin India Ultra Short Bond Fund - Super Institutional - Growth;34.9131;07-Aug-2022
+107250;-;INF090I01CL8;Franklin India Ultra Short Bond Fund - Super Institutional Plan - Daily - IDCW;12.4788;07-Aug-2022
+118560;INF090I01JA6;-;Franklin India Ultra Short Bond Fund - Super Institutional Plan - Direct - Growth;34.2355;07-Aug-2022
+109576;-;INF090I01CM6;Franklin India Ultra Short Bond Fund - Super Institutional Plan - Weekly - IDCW;12.5111;07-Aug-2022
+118561;-;INF090I01JB4;Franklin India Ultra Short Bond Fund Super Institutional Plan - Direct - Daily - IDCW;12.1512;07-Aug-2022
+118562;-;INF090I01JC2;Franklin India Ultra Short Bond Fund Super Institutional Plan - Direct - Weekly - IDCW;12.1960;07-Aug-2022
 147975;INF090I01VF0;-;Franklin India Ultra Short Bond Fund- Institutional Plan-Segregated Portfolio 1- 8.25% Vodafone Idea Ltd-10JUL20-Daily Dividend Option;0.0000;13-Jul-2020
 147976;INF090I01VE3;-;Franklin India Ultra Short Bond Fund- Institutional Plan-Segregated Portfolio 1- 8.25% Vodafone Idea Ltd-10JUL20-Growth Option;0.0000;13-Jul-2020
 147980;INF090I01VD5;-;Franklin India Ultra Short Bond Fund- Retail Plan-Segregated Portfolio 1- 8.25% Vodafone Idea Ltd-10JUL20-Daily Dividend Option;0.0000;20-Jul-2020
