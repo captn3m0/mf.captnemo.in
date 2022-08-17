@@ -2607,8 +2607,8 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 150502;-;-;HSBC Overnight Fund - Unclaimed Redemption Below three years;1003.1514;16-Aug-2022
 147288;INF336L01OP5;INF336L01ON0;HSBC Overnight Fund - Weekly IDCW;1000.8765;16-Aug-2022
 147296;INF336L01OJ8;INF336L01OH2;HSBC Overnight Fund - Weekly IDCW Direct Plan;1000.8224;16-Aug-2022
-145546;INF109KC1ON4;-;ICICI Prudential Overnight Fund - Annual IDCW;102.8368;16-Aug-2022
-145547;INF109KC1OB9;-;ICICI Prudential Overnight Fund - Daily IDCW;100.0005;16-Aug-2022
+145546;INF109KC19F6;INF109KC10G3;ICICI Prudential Overnight Fund - Annual IDCW;102.8368;16-Aug-2022
+145547;-;INF109KC18E1;ICICI Prudential Overnight Fund - Daily IDCW;100.0005;16-Aug-2022
 145550;INF109KC1PB6;-;ICICI Prudential Overnight Fund - Direct Plan - Annual IDCW;102.9084;16-Aug-2022
 145537;INF109KC1OP9;-;ICICI Prudential Overnight Fund - Direct Plan - Daily IDCW;100.0005;16-Aug-2022
 145541;INF109KC1OU9;-;ICICI Prudential Overnight Fund - Direct Plan - Fortnightly IDCW;100.0572;16-Aug-2022
@@ -4184,10 +4184,10 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 147478;INF769K01EZ9;INF769K01FC5;Mirae Asset Midcap Fund Direct IDCW;20.799;16-Aug-2022
 147480;INF769K01EX4;INF769K01FB7;Mirae Asset Midcap Fund Regular IDCW;19.842;16-Aug-2022
 147445;INF769K01FA9;-;Mirae Asset Midcap Fund- Direct Growth Fund;22.620;16-Aug-2022
-127042;INF247L01445;-;Motilal Oswal Midcap 30 Fund (MOF30)-Direct Plan-Growth Option;54.1073;16-Aug-2022
-127039;INF247L01411;-;Motilal Oswal Midcap 30 Fund (MOF30)-Regular Plan-Growth Option;48.7471;16-Aug-2022
-127044;INF247L01460;INF247L01452;Motilal Oswal Midcap 30 Fund Direct - IDCW Payout/Reinvestment;29.0855;16-Aug-2022
-127040;INF247L01437;INF247L01429;Motilal Oswal Midcap 30 Fund Regular - IDCW Payout/Reinvestment;27.7877;16-Aug-2022
+127044;INF247L01460;INF247L01452;Motilal Oswal Midcap Fund-Direct - IDCW Payout/Reinvestment;29.0855;16-Aug-2022
+127042;INF247L01445;-;Motilal Oswal Midcap Fund-Direct Plan-Growth Option;54.1073;16-Aug-2022
+127040;INF247L01437;INF247L01429;Motilal Oswal Midcap Fund-Regular - IDCW Payout/Reinvestment;27.7877;16-Aug-2022
+127039;INF247L01411;-;Motilal Oswal Midcap Fund-Regular Plan-Growth Option;48.7471;16-Aug-2022
 118666;INF204K01E39;INF204K01E47;NIPPON INDIA GROWTH FUND - DIRECT Plan - IDCW Option;114.6372;16-Aug-2022
 118665;INF204K01E21;-;Nippon India Growth Fund - Direct Plan Growth Plan - Bonus Option;379.4594;16-Aug-2022
 118668;INF204K01E54;-;Nippon India Growth Fund - Direct Plan Growth Plan - Growth Option;2284.0375;16-Aug-2022
@@ -4578,7 +4578,7 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 112600;INF917K01536;-;L&T Infrastructure Fund - Regular Plan - Growth;24.45;16-Aug-2022
 112601;INF917K01544;INF917K01551;L&T Infrastructure Fund - Regular Plan - IDCW;24.45;16-Aug-2022
 119413;INF917K01FW8;-;L&T Infrastructure Fund -Direct Plan-Growth;26.67;16-Aug-2022
-119412;INF917K01FU2;-;L&T Infrastructure Fund-Direct Plan-IDCW;26.66;16-Aug-2022
+119412;INF917K01E52;INF917K01FU2;L&T Infrastructure Fund-Direct Plan-IDCW;26.66;16-Aug-2022
 134017;INF767K01NK6;-;LIC MF Banking and Financial Services Fund-Direct Plan-Growth;16;16-Aug-2022
 133908;INF767K01NJ8;INF767K01NL4;LIC MF Banking and Financial Services Fund-Direct Plan-IDCW;15.9129;16-Aug-2022
 134016;INF767K01NH2;-;LIC MF Banking and Financial Services Fund-Regular Plan-Growth;14.772;16-Aug-2022
@@ -6500,10 +6500,10 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 148762;INF200KA1T96;-;SBI International Access - US Equity FoF - Regular Plan - Growth;11.5609;16-Aug-2022
 148761;INF200KA1U36;INF200KA1U44;SBI International Access- US Equity FoF Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);11.7001;16-Aug-2022
 148759;INF200KA1U02;INF200KA1U10;SBI International Access- US Equity FoF Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);11.5613;16-Aug-2022
-119602;INF903J01OB6;-;Sundaram Global Brand Fund Direct Plan - Growth;24.8704;12-Aug-2022
-119601;INF903J01NZ7;INF903J01OA8;Sundaram Global Brand Fund Direct Plan - Income Distribution cum Capital Withdrawal (IDCW);22.1213;12-Aug-2022
-106370;INF903J01EX1;-;Sundaram Global Brand Fund Regular Plan - Growth;23.3711;12-Aug-2022
-106369;INF903J01EY9;INF903J01EZ6;Sundaram Global Brand Fund Regular Plan - Income Distribution cum Capital Withdrawal (IDCW);20.0270;12-Aug-2022
+119602;INF903J01OB6;-;Sundaram Global Brand Fund Direct Plan - Growth;24.9964;16-Aug-2022
+119601;INF903J01NZ7;INF903J01OA8;Sundaram Global Brand Fund Direct Plan - Income Distribution cum Capital Withdrawal (IDCW);22.2334;16-Aug-2022
+106370;INF903J01EX1;-;Sundaram Global Brand Fund Regular Plan - Growth;23.4864;16-Aug-2022
+106369;INF903J01EY9;INF903J01EZ6;Sundaram Global Brand Fund Regular Plan - Income Distribution cum Capital Withdrawal (IDCW);20.1258;16-Aug-2022
 115127;INF209KB18D3;-;Aditya Birla Sun Life Gold ETF;47.5613;16-Aug-2022
 113434;INF846K01W80;-;Axis Gold ETF;45.1339;16-Aug-2022
 113049;INF179KC1981;-;HDFC Gold Exchange Traded Fund. - Growth Option;46.3086;16-Aug-2022
