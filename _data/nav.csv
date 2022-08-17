@@ -2609,24 +2609,24 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 147296;INF336L01OJ8;INF336L01OH2;HSBC Overnight Fund - Weekly IDCW Direct Plan;1000.8224;16-Aug-2022
 145546;INF109KC19F6;INF109KC10G3;ICICI Prudential Overnight Fund - Annual IDCW;102.8368;16-Aug-2022
 145547;-;INF109KC18E1;ICICI Prudential Overnight Fund - Daily IDCW;100.0005;16-Aug-2022
-145550;INF109KC1PB6;-;ICICI Prudential Overnight Fund - Direct Plan - Annual IDCW;102.9084;16-Aug-2022
-145537;INF109KC1OP9;-;ICICI Prudential Overnight Fund - Direct Plan - Daily IDCW;100.0005;16-Aug-2022
-145541;INF109KC1OU9;-;ICICI Prudential Overnight Fund - Direct Plan - Fortnightly IDCW;100.0572;16-Aug-2022
-145536;INF109KC1OO2;-;ICICI Prudential Overnight Fund - Direct Plan - Growth;116.4731;16-Aug-2022
-145545;INF109KC1OZ8;-;ICICI Prudential Overnight Fund - Direct Plan - Half Yearly IDCW;101.1368;16-Aug-2022
-145542;INF109KC1OR5;-;ICICI Prudential Overnight Fund - Direct Plan - Monthly IDCW;100.2444;16-Aug-2022
-145544;INF109KC1OX3;-;ICICI Prudential Overnight Fund - Direct Plan - Quarterly IDCW;101.336;16-Aug-2022
-149411;-;INF109KC16C9;ICICI Prudential Overnight fund - Direct Plan - Unclaimed IDCW Stable Scheme;100;16-Aug-2022
-149408;-;INF109KC14C4;ICICI Prudential Overnight fund - Direct Plan - Unclaimed IDCW Transitory Scheme;102.7667;16-Aug-2022
-149409;-;INF109KC15C1;ICICI Prudential Overnight fund - Direct Plan - Unclaimed Redemption Stable Scheme;100;16-Aug-2022
-149410;-;INF109KC13C6;ICICI Prudential Overnight fund - Direct Plan - Unclaimed Redemption Transitory Scheme;102.7666;16-Aug-2022
-145539;INF109KC1OS3;-;ICICI Prudential Overnight Fund - Direct Plan - Weekly IDCW;100.1127;16-Aug-2022
-145540;INF109KC1OG8;-;ICICI Prudential Overnight Fund - Fortnightly IDCW;100.0561;16-Aug-2022
-145535;INF109KC1OA1;-;ICICI Prudential Overnight Fund - Growth;116.0426;16-Aug-2022
-145549;INF109KC1OL8;-;ICICI Prudential Overnight Fund - Half Yearly IDCW;101.1143;16-Aug-2022
-145548;INF109KC1OD5;-;ICICI Prudential Overnight Fund - Monthly IDCW;100.2399;16-Aug-2022
-145543;INF109KC1OJ2;-;ICICI Prudential Overnight Fund - Quarterly IDCW;101.1248;16-Aug-2022
-145538;INF109KC1OE3;-;ICICI Prudential Overnight Fund - Weekly IDCW;100.1107;16-Aug-2022
+145550;INF109KC13H5;INF109KC14H3;ICICI Prudential Overnight Fund - Direct Plan - Annual IDCW;102.9084;16-Aug-2022
+145537;-;INF109KC12G9;ICICI Prudential Overnight Fund - Direct Plan - Daily IDCW;100.0005;16-Aug-2022
+145541;INF109KC18G6;INF109KC17G8;ICICI Prudential Overnight Fund - Direct Plan - Fortnightly IDCW;100.0572;16-Aug-2022
+145536;-;INF109KC11G1;ICICI Prudential Overnight Fund - Direct Plan - Growth;116.4731;16-Aug-2022
+145545;INF109KC11H9;INF109KC12H7;ICICI Prudential Overnight Fund - Direct Plan - Half Yearly IDCW;101.1368;16-Aug-2022
+145542;INF109KC13G7;INF109KC14G5;ICICI Prudential Overnight Fund - Direct Plan - Monthly IDCW;100.2444;16-Aug-2022
+145544;INF109KC19G4;INF109KC10H1;ICICI Prudential Overnight Fund - Direct Plan - Quarterly IDCW;101.336;16-Aug-2022
+149411;-;INF109KC18H4;ICICI Prudential Overnight fund - Direct Plan - Unclaimed IDCW Stable Scheme;100;16-Aug-2022
+149408;-;INF109KC16H8;ICICI Prudential Overnight fund - Direct Plan - Unclaimed IDCW Transitory Scheme;102.7667;16-Aug-2022
+149409;-;INF109KC17H6;ICICI Prudential Overnight fund - Direct Plan - Unclaimed Redemption Stable Scheme;100;16-Aug-2022
+149410;-;INF109KC15H0;ICICI Prudential Overnight fund - Direct Plan - Unclaimed Redemption Transitory Scheme;102.7666;16-Aug-2022
+145539;INF109KC16G0;INF109KC15G2;ICICI Prudential Overnight Fund - Direct Plan - Weekly IDCW;100.1127;16-Aug-2022
+145540;INF109KC14F7;INF109KC13F9;ICICI Prudential Overnight Fund - Fortnightly IDCW;100.0561;16-Aug-2022
+145535;-;INF109KC17E3;ICICI Prudential Overnight Fund - Growth;116.0426;16-Aug-2022
+145549;INF109KC17F0;INF109KC18F8;ICICI Prudential Overnight Fund - Half Yearly IDCW;101.1143;16-Aug-2022
+145548;INF109KC19E9;INF109KC10F5;ICICI Prudential Overnight Fund - Monthly IDCW;100.2399;16-Aug-2022
+145543;INF109KC15F4;INF109KC16F2;ICICI Prudential Overnight Fund - Quarterly IDCW;101.1248;16-Aug-2022
+145538;INF109KC12F1;INF109KC11F3;ICICI Prudential Overnight Fund - Weekly IDCW;100.1107;16-Aug-2022
 146190;INF194KB1462;INF194KB1470;IDFC Overnight Fund - Direct Plan - Daily IDCW;1000.0001;16-Aug-2022
 146191;INF194KB1447;-;IDFC Overnight Fund - Direct Plan - Growth;1152.2579;16-Aug-2022
 146183;INF194KB1496;INF194KB1504;IDFC Overnight Fund - Direct Plan - Monthly IDCW;1002.5619;16-Aug-2022
@@ -3583,10 +3583,10 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 119723;INF200K01UM9;-;SBI LONG TERM EQUITY FUND - DIRECT PLAN -GROWTH;243.0552;16-Aug-2022
 103883;INF200K01479;-;SBI Long Term Equity Fund - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);51.7421;16-Aug-2022
 105628;INF200K01495;-;SBI LONG TERM EQUITY FUND - REGULAR PLAN- GROWTH;229.3634;16-Aug-2022
-145819;INF680P01158;-;Shriram Long Term Equity Fund - Direct Growth;16.6534;16-Aug-2022
-145822;INF680P01166;-;Shriram Long Term Equity Fund - Direct- IDCW;16.5894;16-Aug-2022
-145820;INF680P01133;-;Shriram Long Term Equity Fund - Regular Growth;15.5745;16-Aug-2022
-145821;INF680P01141;-;Shriram Long Term Equity Fund - Regular-IDCW;15.5654;16-Aug-2022
+145819;INF680P01158;-;Shriram Long Term Equity Fund - Direct Growth;16.7846;17-Aug-2022
+145822;INF680P01166;-;Shriram Long Term Equity Fund - Direct- IDCW;16.7201;17-Aug-2022
+145820;INF680P01133;-;Shriram Long Term Equity Fund - Regular Growth;15.6965;17-Aug-2022
+145821;INF680P01141;-;Shriram Long Term Equity Fund - Regular-IDCW;15.6873;17-Aug-2022
 119549;INF903J01NN3;-;Sundaram Diversified Equity (ELSS) Direct Plan - Growth;160.2049;16-Aug-2022
 119548;INF903J01NL7;INF903J01NM5;Sundaram Diversified Equity (ELSS) Direct Plan - Income Distribution cum Capital Withdrawal (IDCW);16.3529;16-Aug-2022
 101853;INF903J01538;-;Sundaram Diversified Equity (ELSS) Regular Plan - Growth;153.7162;16-Aug-2022
@@ -3711,10 +3711,10 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 119717;INF200K01UE6;INF200K01UF3;SBI Flexicap Fund - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);41.6567;16-Aug-2022
 103216;INF200K01230;INF200K01248;SBI Flexicap Fund - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);34.2540;16-Aug-2022
 103215;INF200K01222;-;SBI Flexicap Fund - REGULAR PLAN -Growth Option;76.4980;16-Aug-2022
-144905;INF680P01109;-;Shriram Flexi Cap Fund - Direct Growth;15.9531;16-Aug-2022
-144906;INF680P01117;INF680P01125;Shriram Flexi Cap Fund - Direct-IDCW;15.8728;16-Aug-2022
-144902;INF680P01075;-;Shriram Flexi Cap Fund - Regular Growth;14.8667;16-Aug-2022
-144903;INF680P01083;INF680P01091;Shriram Flexi Cap Fund - Regular-IDCW;14.8622;16-Aug-2022
+144905;INF680P01109;-;Shriram Flexi Cap Fund - Direct Growth;16.0354;17-Aug-2022
+144906;INF680P01117;INF680P01125;Shriram Flexi Cap Fund - Direct-IDCW;15.9546;17-Aug-2022
+144902;INF680P01075;-;Shriram Flexi Cap Fund - Regular Growth;14.9427;17-Aug-2022
+144903;INF680P01083;INF680P01091;Shriram Flexi Cap Fund - Regular-IDCW;14.9381;17-Aug-2022
 144547;INF277K017K6;-;TATA Flexi Cap Fund - Direct Plan - Payout of Income Distribution cum capital withdrawal option ;17.0049;16-Aug-2022
 144548;INF277K019K2;-;Tata Flexi Cap Fund -Regular Plan-Growth;15.9055;16-Aug-2022
 144543;-;INF277K016K8;TATA Flexi Cap Fund Direct Plan - Reinvestment of Income Distribution cum capital withdrawal option;17.0049;16-Aug-2022
@@ -5197,10 +5197,10 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 119604;INF200K01RW4;INF200K01RX2;SBI Equity Hybrid Fund - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);65.1867;16-Aug-2022
 101551;INF200K01115;INF200K01123;SBI Equity Hybrid Fund - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);43.5855;16-Aug-2022
 102885;INF200K01107;-;SBI EQUITY HYBRID FUND - REGULAR PLAN -Growth;205.6854;16-Aug-2022
-125711;INF680P01042;-;Shriram Hybrid Equity Fund- Direct Growth;25.4730;16-Aug-2022
-125712;INF680P01059;INF680P01067;Shriram Hybrid Equity Fund- Direct- IDCW;20.1999;16-Aug-2022
-125713;INF680P01018;-;Shriram Hybrid Equity Fund- Growth;23.3367;16-Aug-2022
-125714;INF680P01026;INF680P01034;Shriram Hybrid Equity Fund- Regular-IDCW;18.6553;16-Aug-2022
+125711;INF680P01042;-;Shriram Hybrid Equity Fund- Direct Growth;25.6073;17-Aug-2022
+125712;INF680P01059;INF680P01067;Shriram Hybrid Equity Fund- Direct- IDCW;20.3064;17-Aug-2022
+125713;INF680P01018;-;Shriram Hybrid Equity Fund- Growth;23.4588;17-Aug-2022
+125714;INF680P01026;INF680P01034;Shriram Hybrid Equity Fund- Regular-IDCW;18.7529;17-Aug-2022
 149601;INF173K01FE6;-;Sundaram Aggressive Hybrid Fund (Formerly Known as Principal Hybrid Equity Fund)- Direct Plan - Growth Option;125.6133;16-Aug-2022
 149600;INF173K01CI4;INF173K01CJ2;Sundaram Aggressive Hybrid Fund (Formerly Known as Principal Hybrid Equity Fund)- Monthly Income Distribution CUM Capital Withdrawal;27.2371;16-Aug-2022
 149599;INF173K01CL8;-;Sundaram Aggressive Hybrid Fund (Formerly Known as Principal Hybrid Equity Fund)-Growth;113.3834;16-Aug-2022
@@ -5643,10 +5643,10 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 134109;INF200KA1648;-;SBI Dynamic Asset Allocation Fund - Regular Plan - Growth;15.9463;02-Jul-2021
 134111;INF200KA1689;INF200KA1697;SBI Dynamic Asset Allocation Fund- Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);16.8235;02-Jul-2021
 134108;INF200KA1655;INF200KA1663;SBI Dynamic Asset Allocation Fund- Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);15.9495;02-Jul-2021
-147406;INF680P01208;-;Shriram Balanced Advantage Fund - Direct Growth;14.1951;16-Aug-2022
-147403;INF680P01216;INF680P01224;Shriram Balanced Advantage Fund - Direct- IDCW;14.1505;16-Aug-2022
-147405;INF680P01174;-;Shriram Balanced Advantage Fund - Regular Growth;13.3702;16-Aug-2022
-147404;INF680P01182;INF680P01190;Shriram Balanced Advantage Fund - Regular-IDCW;13.3712;16-Aug-2022
+147406;INF680P01208;-;Shriram Balanced Advantage Fund - Direct Growth;14.2500;17-Aug-2022
+147403;INF680P01216;INF680P01224;Shriram Balanced Advantage Fund - Direct- IDCW;14.2053;17-Aug-2022
+147405;INF680P01174;-;Shriram Balanced Advantage Fund - Regular Growth;13.4213;17-Aug-2022
+147404;INF680P01182;INF680P01190;Shriram Balanced Advantage Fund - Regular-IDCW;13.4222;17-Aug-2022
 149717;INF173K01FI7;-;Sundaram Balanced Advantage Fund ( Formerly Known as Principal Balanced Advantage Fund) - Direct Plan - Growth Option;29.2825;16-Aug-2022
 149718;INF173K01FF3;INF173K01FG1;Sundaram Balanced Advantage Fund (Formerly Known as Principal Balanced Advantage Fund) - Direct Plan - Monthly Income Distribution CUM Capital Withdrawal Option;16.9134;16-Aug-2022
 149715;INF173K01585;-;Sundaram Balanced Advantage Fund (Formerly Known as Principal Balanced Advantage Fund) - Growth Option;26.0549;16-Aug-2022
