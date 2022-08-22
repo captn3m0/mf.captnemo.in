@@ -119,10 +119,10 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 105823;INF767K01535;-;LIC MF Banking & PSU Debt Fund-Regular Plan-Growth;28.5675;22-Aug-2022
 105856;INF767K01543;INF767K01550;LIC MF Banking & PSU Debt Fund-Regular Plan-Monthly IDCW;10.6917;22-Aug-2022
 105857;INF767K01568;INF767K01576;LIC MF Banking & PSU Debt Fund-Regular Plan-Weekly IDCW;10.0452;22-Aug-2022
-148419;INF769K01FY9;-;Mirae Asset Banking and PSU Debt Fund Direct Growth;10.7566;22-Aug-2022
-148417;INF769K01FX1;INF769K01FZ6;Mirae Asset Banking and PSU Debt Fund Direct IDCW;10.7569;22-Aug-2022
-148416;INF769K01FV5;-;Mirae Asset Banking and PSU Debt Fund Regular Growth Plan;10.6579;22-Aug-2022
-148418;INF769K01FU7;INF769K01FW3;Mirae Asset Banking and PSU Debt Fund Regular IDCW;10.6584;22-Aug-2022
+148419;INF769K01FY9;-;Mirae Asset Banking and PSU Debt Fund Direct Growth;10.7568;22-Aug-2022
+148417;INF769K01FX1;INF769K01FZ6;Mirae Asset Banking and PSU Debt Fund Direct IDCW;10.7571;22-Aug-2022
+148416;INF769K01FV5;-;Mirae Asset Banking and PSU Debt Fund Regular Growth Plan;10.6581;22-Aug-2022
+148418;INF769K01FU7;INF769K01FW3;Mirae Asset Banking and PSU Debt Fund Regular IDCW;10.6586;22-Aug-2022
 134552;INF204KA1U61;-;Nippon India Banking  & PSU Debt Fund- Direct Plan-Growth Plan- Bonus Option;17.3753;22-Aug-2022
 134547;INF204KA1U53;-;Nippon India Banking  & PSU Debt Fund- Direct Plan-Growth Plan- Growth Option;17.3749;22-Aug-2022
 134546;INF204KA1T64;-;Nippon India Banking  & PSU Debt Fund- Growth Plan- Bonus Option;12.3452;02-Feb-2018
@@ -349,7 +349,7 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 148755;INF769K01HD9;-;Mirae Asset Corporate Bond Fund Direct Growth Plan;10.5469;22-Aug-2022
 148756;INF769K01HC1;INF769K01HE7;Mirae Asset Corporate Bond Fund Direct IDCW;10.5465;22-Aug-2022
 148757;INF769K01HA5;-;Mirae Asset Corporate Bond Fund Regular Growth;10.4805;22-Aug-2022
-148758;INF769K01GZ4;INF769K01HB3;Mirae Asset Corporate Bond Fund Regular IDCW;10.4804;22-Aug-2022
+148758;INF769K01GZ4;INF769K01HB3;Mirae Asset Corporate Bond Fund Regular IDCW;10.4805;22-Aug-2022
 109472;-;INF204K01EG7;NIPPON INDIA CORPORATE BOND FUND - DAILY IDCW Option;17.0959;22-Aug-2022
 118808;-;INF204K01C23;NIPPON INDIA CORPORATE BOND FUND - DIRECT Plan - DAILY IDCW Option;17.0959;22-Aug-2022
 125266;INF204KA1EO9;INF204KA1EP6;NIPPON INDIA CORPORATE BOND FUND - DIRECT Plan - IDCW Option;15.8915;22-Aug-2022
@@ -822,7 +822,7 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 144405;INF174V01556;INF174V01549;Mahindra Manulife Dynamic Bond Yojana - Regular Plan - IDCW;11.1535;22-Aug-2022
 144402;INF174V01572;INF174V01564;Mahindra Manulife Dynamic Bond Yojana - Regular Plan - Quarterly IDCW;10.0411;22-Aug-2022
 140769;INF769K01DR8;-;Mirae Asset Dynamic Bond Fund -Direct Plan -Growth;14.4079;22-Aug-2022
-140770;INF769K01DS6;INF769K01DT4;Mirae Asset Dynamic Bond Fund Direct IDCW;14.4076;22-Aug-2022
+140770;INF769K01DS6;INF769K01DT4;Mirae Asset Dynamic Bond Fund Direct IDCW;14.4077;22-Aug-2022
 140772;INF769K01DP2;INF769K01DQ0;Mirae Asset Dynamic Bond Fund Regular IDCW;13.5261;22-Aug-2022
 140771;INF769K01DO5;-;Mirae Asset Dynamic Bond Fund-Regular Plan Growth;13.5261;22-Aug-2022
 118750;INF204K01A33;INF204K01A41;NIPPON INDIA DYNAMIC BOND FUND - Direct Plan - IDCW Option;23.0053;22-Aug-2022
@@ -1475,13 +1475,13 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 139541;-;INF174V01036;Mahindra Manulife Liquid Fund - Regular Plan - Weekly IDCW;1010.0174;22-Aug-2022
 139540;-;-;Mahindra Manulife Liquid Fund - Unclaimed Redemption / IDCW Beyond 3 years;1000.0000;30-Nov-2021
 139539;-;-;Mahindra Manulife Liquid Fund - Unclaimed Redemption / IDCW Upto three years;1218.6343;30-Nov-2021
-118859;INF769K01CM1;-;Mirae Asset Cash Management Fund - Direct Plan - Growth;2286.8385;22-Aug-2022
-111646;INF769K01788;-;Mirae Asset Cash Management Fund - Growth;2254.6983;22-Aug-2022
+118859;INF769K01CM1;-;Mirae Asset Cash Management Fund - Direct Plan - Growth;2286.8696;22-Aug-2022
+111646;INF769K01788;-;Mirae Asset Cash Management Fund - Growth;2254.7290;22-Aug-2022
 118861;-;INF769K01CO7;Mirae Asset Cash Management Fund Direct  Daily IDCW;1075.8332;22-Aug-2022
-118860;INF769K01CN9;INF769K01CQ2;Mirae Asset Cash Management Fund Direct Monthly IDCW;1139.2710;22-Aug-2022
-118862;-;INF769K01CP4;Mirae Asset Cash Management Fund Direct Weekly IDCW;1217.1592;22-Aug-2022
-111645;INF769K01838;INF769K01820;Mirae Asset Cash Management Fund Regular Monthly IDCW;1156.9072;22-Aug-2022
-111644;-;INF769K01812;Mirae Asset Cash Management Fund Regular Weekly IDCW;1153.4369;22-Aug-2022
+118860;INF769K01CN9;INF769K01CQ2;Mirae Asset Cash Management Fund Direct Monthly IDCW;1139.2866;22-Aug-2022
+118862;-;INF769K01CP4;Mirae Asset Cash Management Fund Direct Weekly IDCW;1217.1758;22-Aug-2022
+111645;INF769K01838;INF769K01820;Mirae Asset Cash Management Fund Regular Monthly IDCW;1156.9230;22-Aug-2022
+111644;-;INF769K01812;Mirae Asset Cash Management Fund Regular Weekly IDCW;1153.4526;22-Aug-2022
 111647;-;INF769K01804;Mirae Asset Cash Management Fund RegularDaily IDCW ;1066.4347;22-Aug-2022
 145834;INF247L01734;-;Motilal Oswal Liquid Fund - Direct Growth;11.5764;22-Aug-2022
 145946;INF247L01726;-;Motilal Oswal Liquid Fund - Regular Growth;11.5127;22-Aug-2022
@@ -1870,16 +1870,16 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 140620;INF174V01218;-;Mahindra Manulife Low Duration Fund - Regular Plan - Growth;1353.4606;22-Aug-2022
 140616;INF174V01259;INF174V01242;Mahindra Manulife Low Duration Fund - Regular Plan - Monthly IDCW;1117.4488;22-Aug-2022
 140615;-;INF174V01234;Mahindra Manulife Low Duration Fund - Regular Plan - Weekly IDCW;1052.5427;22-Aug-2022
-118840;INF769K01BO9;-;Mirae Asset Savings Fund - Direct Plan - Growth;1995.5188;22-Aug-2022
+118840;INF769K01BO9;-;Mirae Asset Savings Fund - Direct Plan - Growth;1995.5412;22-Aug-2022
 118843;-;INF769K01BR2;Mirae Asset Savings Fund Direct Daily IDCW;1208.9337;22-Aug-2022
-118841;INF769K01BP6;INF769K01BT8;Mirae Asset Savings Fund Direct Monthly IDCW;1165.1987;22-Aug-2022
-118842;INF769K01BQ4;INF769K01BU6;Mirae Asset Savings Fund Direct Quarterly IDCW;1008.1788;22-Aug-2022
-118844;-;INF769K01BS0;Mirae Asset Savings Fund Direct Weekly IDCW;1455.0776;22-Aug-2022
+118841;INF769K01BP6;INF769K01BT8;Mirae Asset Savings Fund Direct Monthly IDCW;1165.2118;22-Aug-2022
+118842;INF769K01BQ4;INF769K01BU6;Mirae Asset Savings Fund Direct Quarterly IDCW;1008.1901;22-Aug-2022
+118844;-;INF769K01BS0;Mirae Asset Savings Fund Direct Weekly IDCW;1455.0939;22-Aug-2022
 107700;-;INF769K01986;Mirae Asset Savings Fund Regular Savings Daily IDCW;1005.1646;22-Aug-2022
-107704;INF769K01960;INF769K01AA0;Mirae Asset Savings Fund Regular Savings Monthly IDCW;1091.8804;22-Aug-2022
-107702;INF769K01978;INF769K01AB8;Mirae Asset Savings Fund Regular Savings Quarterly IDCW;1007.5664;22-Aug-2022
-107701;-;INF769K01994;Mirae Asset Savings Fund Regular Savings Weekly IDCW;1107.0722;22-Aug-2022
-107705;INF769K01937;-;Mirae Asset Savings Fund-Regular Savings Plan- Growth;1865.2511;22-Aug-2022
+107704;INF769K01960;INF769K01AA0;Mirae Asset Savings Fund Regular Savings Monthly IDCW;1091.8927;22-Aug-2022
+107702;INF769K01978;INF769K01AB8;Mirae Asset Savings Fund Regular Savings Quarterly IDCW;1007.5777;22-Aug-2022
+107701;-;INF769K01994;Mirae Asset Savings Fund Regular Savings Weekly IDCW;1107.0846;22-Aug-2022
+107705;INF769K01937;-;Mirae Asset Savings Fund-Regular Savings Plan- Growth;1865.2720;22-Aug-2022
 111747;-;INF204K01EX2;NIPPON INDIA LOW DURATION FUND - DAILY IDCW Option;1008.9708;22-Aug-2022
 118703;-;INF204K01ZV1;NIPPON INDIA LOW DURATION FUND - DIRECT Plan - DAILY IDCW Option;1009.0611;22-Aug-2022
 125264;INF204KA1EK7;INF204KA1EL5;NIPPON INDIA LOW DURATION FUND - DIRECT Plan - IDCW Option;1753.3455;22-Aug-2022
@@ -2439,10 +2439,10 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 150392;INF767K01RE0;-;LIC MF Money Market Fund-Direct Growth;1003.4966;22-Aug-2022
 150393;INF767K01RB6;-;LIC MF Money Market Fund-Regular Growth;1003.2338;22-Aug-2022
 150394;INF767K01RC4;INF767K01RD2;LIC MF Money Market Fund-Regular IDCW;1003.2338;22-Aug-2022
-149112;INF769K01HN8;-;Mirae Asset Money Market Fund Direct Growth;1040.8577;22-Aug-2022
-149113;INF769K01HM0;INF769K01HO6;Mirae Asset Money Market Fund Direct IDCW;1040.1837;22-Aug-2022
-149115;INF769K01HK4;-;Mirae Asset Money Market Fund Regular Growth;1036.8662;22-Aug-2022
-149114;INF769K01HJ6;INF769K01HL2;Mirae Asset Money Market Fund Regular IDCW;1036.8666;22-Aug-2022
+149112;INF769K01HN8;-;Mirae Asset Money Market Fund Direct Growth;1040.8600;22-Aug-2022
+149113;INF769K01HM0;INF769K01HO6;Mirae Asset Money Market Fund Direct IDCW;1040.1859;22-Aug-2022
+149115;INF769K01HK4;-;Mirae Asset Money Market Fund Regular Growth;1036.8684;22-Aug-2022
+149114;INF769K01HJ6;INF769K01HL2;Mirae Asset Money Market Fund Regular IDCW;1036.8688;22-Aug-2022
 103050;-;INF204K01UY6;NIPPON INDIA MONEY MARKET FUND - DAILY IDCW Option;1003.6794;22-Aug-2022
 118718;-;INF204K01ZN8;NIPPON INDIA MONEY MARKET FUND - DIRECT Plan - DAILY IDCW Option;1003.6042;22-Aug-2022
 118720;INF204K01ZQ1;INF204K01ZR9;NIPPON INDIA MONEY MARKET FUND - DIRECT Plan - MONTHLY IDCW Option;1016.2150;22-Aug-2022
@@ -2717,14 +2717,14 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 147565;INF174V01812;-;Mahindra Manulife Overnight Fund - Regular Plan - Growth;1115.8491;22-Aug-2022
 149471;-;-;Mahindra Manulife Overnight Fund - Unclaimed Redemption/IDCW beyond 3 years;1000.0000;22-Aug-2022
 149470;-;-;Mahindra Manulife Overnight Fund - Unclaimed Redemption/IDCW upto 3 years;1026.5008;22-Aug-2022
-147737;-;INF769K01FJ0;Mirae Asset Overnight Fund Direct Daily IDCW;1000.0032;22-Aug-2022
-147738;INF769K01FF8;INF769K01FI2;Mirae Asset Overnight Fund Direct Monthly IDCW;1003.8703;22-Aug-2022
-147736;INF769K01FG6;-;Mirae Asset Overnight Fund Direct Plan Growth;1108.2154;22-Aug-2022
-147740;-;INF769K01FK8;Mirae Asset Overnight Fund Direct Weekly IDCW;1000.6888;22-Aug-2022
-147743;-;INF769K01FL6;Mirae Asset Overnight Fund Regular Daily  IDCW ;1000.0025;22-Aug-2022
-147742;INF769K01FD3;INF769K01FH4;Mirae Asset Overnight Fund Regular Monthly IDCW;1003.7963;22-Aug-2022
-147739;INF769K01FE1;-;Mirae Asset Overnight Fund Regular Plan Growth;1105.2225;22-Aug-2022
-147741;-;INF769K01FM4;Mirae Asset Overnight Fund Regular Weekly IDCW;1000.6728;22-Aug-2022
+147737;-;INF769K01FJ0;Mirae Asset Overnight Fund Direct Daily IDCW;1000.0007;22-Aug-2022
+147738;INF769K01FF8;INF769K01FI2;Mirae Asset Overnight Fund Direct Monthly IDCW;1003.8895;22-Aug-2022
+147736;INF769K01FG6;-;Mirae Asset Overnight Fund Direct Plan Growth;1108.2366;22-Aug-2022
+147740;-;INF769K01FK8;Mirae Asset Overnight Fund Direct Weekly IDCW;1000.7080;22-Aug-2022
+147743;-;INF769K01FL6;Mirae Asset Overnight Fund Regular Daily  IDCW ;1000.0000;22-Aug-2022
+147742;INF769K01FD3;INF769K01FH4;Mirae Asset Overnight Fund Regular Monthly IDCW;1003.8156;22-Aug-2022
+147739;INF769K01FE1;-;Mirae Asset Overnight Fund Regular Plan Growth;1105.2437;22-Aug-2022
+147741;-;INF769K01FM4;Mirae Asset Overnight Fund Regular Weekly IDCW;1000.6920;22-Aug-2022
 145830;-;INF204KB1Q73;NIPPON INDIA OVERNIGHT FUND - DAILY IDCW Option;100.0050;22-Aug-2022
 145812;-;INF204KB1R49;NIPPON INDIA OVERNIGHT FUND - DIRECT Plan - DAILY IDCW Option;100.0050;22-Aug-2022
 145810;INF204KB1R31;-;Nippon India Overnight Fund - Direct Plan - Growth Option;116.0829;22-Aug-2022
@@ -2982,10 +2982,10 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 148729;INF174V01AM5;-;Mahindra Manulife Short Term Fund - Direct Plan -Growth;10.6579;22-Aug-2022
 148727;INF174V01AJ1;-;Mahindra Manulife Short Term Fund - Regular Plan - Growth;10.5065;22-Aug-2022
 148728;INF174V01AL7;INF174V01AK9;Mahindra Manulife Short Term Fund - Regular Plan - IDCW;10.5064;22-Aug-2022
-142641;INF769K01DX6;-;Mirae Asser Short Term Fund -Direct Plan- Growth;13.4307;22-Aug-2022
-142640;INF769K01DY4;INF769K01DZ1;Mirae Asset Short Term Fund Direct IDCW;13.4165;22-Aug-2022
-142643;INF769K01DV0;INF769K01DW8;Mirae Asset Short Term Fund Regular IDCW;12.9703;22-Aug-2022
-142642;INF769K01DU2;-;Mirae Asset Short Term Fund- Regular Plan -Growth;12.9676;22-Aug-2022
+142641;INF769K01DX6;-;Mirae Asser Short Term Fund -Direct Plan- Growth;13.4309;22-Aug-2022
+142640;INF769K01DY4;INF769K01DZ1;Mirae Asset Short Term Fund Direct IDCW;13.4166;22-Aug-2022
+142643;INF769K01DV0;INF769K01DW8;Mirae Asset Short Term Fund Regular IDCW;12.9704;22-Aug-2022
+142642;INF769K01DU2;-;Mirae Asset Short Term Fund- Regular Plan -Growth;12.9677;22-Aug-2022
 125269;INF204KA1ES0;INF204KA1ET8;NIPPON INDIA SHORT TERM FUND - Direct Plan - IDCW Option;18.6569;22-Aug-2022
 118797;INF204K01B40;-;NIPPON INDIA SHORT TERM FUND - Direct Plan - MONTHLY IDCW Option;11.6765;22-Aug-2022
 118800;INF204K01B65;INF204K01B73;NIPPON INDIA SHORT TERM FUND - Direct Plan - QUARTERLY IDCW OPTION;15.0626;22-Aug-2022
@@ -3262,10 +3262,10 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 147729;-;INF174V01861;Mahindra Manulife Ultra Short Term Fund - Regular Plan - Daily IDCW;1028.5749;22-Aug-2022
 147734;INF174V01853;-;Mahindra Manulife Ultra Short Term Fund - Regular Plan - Growth;1134.0063;22-Aug-2022
 147730;-;INF174V01879;Mahindra Manulife Ultra Short Term Fund - Regular Plan - Weekly IDCW;1000.5432;22-Aug-2022
-148529;INF769K01GK6;-;Mirae Asset Ultra Short Duration Fund Direct Growth;1074.9022;22-Aug-2022
-148532;INF769K01GJ8;INF769K01GL4;Mirae Asset Ultra Short Duration Fund Direct IDCW;1074.9755;22-Aug-2022
-148530;INF769K01GH2;-;Mirae Asset Ultra Short Duration Fund Regular Growth;1070.4245;22-Aug-2022
-148531;INF769K01GG4;INF769K01GI0;Mirae Asset Ultra Short Duration Fund Regular IDCW;1070.1313;22-Aug-2022
+148529;INF769K01GK6;-;Mirae Asset Ultra Short Duration Fund Direct Growth;1074.9138;22-Aug-2022
+148532;INF769K01GJ8;INF769K01GL4;Mirae Asset Ultra Short Duration Fund Direct IDCW;1074.9871;22-Aug-2022
+148530;INF769K01GH2;-;Mirae Asset Ultra Short Duration Fund Regular Growth;1070.4361;22-Aug-2022
+148531;INF769K01GG4;INF769K01GI0;Mirae Asset Ultra Short Duration Fund Regular IDCW;1070.1429;22-Aug-2022
 124234;INF247L01247;-;Motilal Oswal Ultra Short Term Fund (MOFUSTF) -Direct Plan- Growth;14.5970;22-Aug-2022
 124233;INF247L01213;-;Motilal Oswal Ultra Short Term Fund (MOFUSTF)-Regular Plan- Growth;14.0405;22-Aug-2022
 124316;-;INF247L01346;Motilal Oswal Ultra Short Term Fund Direct - IDCW Daily Reinvestment;10.3017;22-Aug-2022
@@ -5155,7 +5155,7 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 134814;INF769K01DI7;INF769K01DJ5;Mirae Asset Hybrid   Equity Fund Direct IDCW;17.927;22-Aug-2022
 134816;INF769K01DF3;INF769K01DG1;Mirae Asset Hybrid   Equity Fund Regular IDCW;15.278;22-Aug-2022
 134813;INF769K01DH9;-;Mirae Asset Hybrid-Equity Fund -Direct Plan-Growth;24.652;22-Aug-2022
-134815;INF769K01DE6;-;Mirae Asset Hybrid-Equity Fund -Regular Plan-Growth;21.974;22-Aug-2022
+134815;INF769K01DE6;-;Mirae Asset Hybrid-Equity Fund -Regular Plan-Growth;21.9750;22-Aug-2022
 144681;INF247L01692;-;Motilal Oswal Equity Hybrid Fund (MOFEH) - Direct Plan Growth Option;16.1695;22-Aug-2022
 144730;INF247L01684;-;Motilal Oswal Equity Hybrid Fund (MOFEH) - Regular Plan Growth Option;15.1804;22-Aug-2022
 143163;INF959L01CX3;-;Navi Equity Hybrid Fund - Direct Plan - Growth;15.3447;22-Aug-2022
@@ -5769,7 +5769,7 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 140446;INF174V01168;INF174V01176;Mahindra Manulife Equity Savings Dhan Sanchay Yojana -Regular Plan -Dividend;12.9800;22-Aug-2022
 145694;INF769K01EJ3;INF769K01EM7;Mirae Asset Equity Savings Fund Direct IDCW;13.110;22-Aug-2022
 145696;INF769K01EH7;INF769K01EL9;Mirae Asset Equity Savings Fund Regular IDCW;12.484;22-Aug-2022
-145693;INF769K01EK1;-;Mirae Asset Equity Savings Fund- Direct Plan- Growth;15.402;22-Aug-2022
+145693;INF769K01EK1;-;Mirae Asset Equity Savings Fund- Direct Plan- Growth;15.4030;22-Aug-2022
 145695;INF769K01EI5;-;Mirae Asset Equity Savings Fund- Regular Plan- Growth;14.804;22-Aug-2022
 148276;INF204KB11S7;INF204KB12S5;NIPPON INDIA EQUITY SAVINGS FUND -  SEGREGATED PORTFOLIO 2 - Direct Plan - IDCW Option;0.0000;22-Aug-2022
 148277;INF204KB13S3;INF204KB14S1;NIPPON INDIA EQUITY SAVINGS FUND -  SEGREGATED PORTFOLIO 2 - Direct Plan - MONTHLY IDCW Option;0.0000;22-Aug-2022
@@ -6285,7 +6285,7 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 119776;INF174K01LO1;-;Kotak Multi Asset Allocator Fund of Fund - Dynamic - Direct Payout of Income Distribution cum capital withdrawal option;146.061;19-Aug-2022
 102574;INF174K01468;-;Kotak Multi Asset Allocator Fund of Fund - Dynamic - Growth;141.178;19-Aug-2022
 102573;INF174K01484;INF174K01476;Kotak Multi Asset Allocator Fund of Fund - Dynamic - Payout of Income Distribution cum capital withdrawal option;137.423;19-Aug-2022
-148501;INF769K01GD1;INF769K01GF6;Mirae Asset Equity Allocator Fund  of Fund Direct IDCW;16.056;22-Aug-2022
+148501;INF769K01GD1;INF769K01GF6;Mirae Asset Equity Allocator Fund  of Fund Direct IDCW;16.0570;22-Aug-2022
 148503;INF769K01GA7;INF769K01GC3;Mirae Asset Equity Allocator Fund  of Fund Regular IDCW;16.016;22-Aug-2022
 148500;INF769K01GE9;-;Mirae Asset Equity Allocator Fund of Fund Direct Growth;16.049;22-Aug-2022
 148502;INF769K01GB5;-;Mirae Asset Equity allocator Fund Of Fund Regular Growth;16.014;22-Aug-2022
@@ -6769,10 +6769,10 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 120312;INF767K01FI6;INF767K01FK2;LIC MF S & P BSE Sensex Index Fund-Direct Plan-IDCW;38.6115;22-Aug-2022
 101199;INF767K01139;-;LIC MF S & P BSE Sensex Index Fund-Regular Plan-Growth;109.5174;22-Aug-2022
 101198;INF767K01121;INF767K01113;LIC MF S & P BSE Sensex Index Fund-Regular Plan-IDCW;37.5379;22-Aug-2022
-150359;INF769K01IG0;INF769K01II6;Mirae Asset Nifty SDL Jun 2027 Index Fund - Direct Plan - IDCW;9.9781;22-Aug-2022
+150359;INF769K01IG0;INF769K01II6;Mirae Asset Nifty SDL Jun 2027 Index Fund - Direct Plan - IDCW;9.9782;22-Aug-2022
 150360;INF769K01IE5;-;Mirae Asset Nifty SDL Jun 2027 Index Fund - Regular Plan - Growth;9.9716;22-Aug-2022
 150361;INF769K01ID7;INF769K01IF2;Mirae Asset Nifty SDL Jun 2027 Index Fund - Regular Plan - IDCW;9.9721;22-Aug-2022
-150358;INF769K01IH8;-;Mirae Asset Nifty SDL Jun 2027 Index Fund -Direct Plan - Growth;9.9781;22-Aug-2022
+150358;INF769K01IH8;-;Mirae Asset Nifty SDL Jun 2027 Index Fund -Direct Plan - Growth;9.9782;22-Aug-2022
 149349;INF247L01AS7;-;Motilal Oswal MSCI Top 100 Select Index Fund - Direct Plan Growth;9.5309;22-Aug-2022
 149350;INF247L01AT5;-;Motilal Oswal MSCI Top 100 Select Index Fund - Regular Plan Growth;9.4850;22-Aug-2022
 149800;INF247L01AV1;-;Motilal Oswal Nifty 200 Momentum 30 Index Fund-Direct Plan;9.2169;22-Aug-2022
