@@ -6331,16 +6331,16 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 149762;INF204KC1386;INF204KC1394;Nippon India Silver ETF FOF- Direct Plan-IDCW Option;8.9468;23-Aug-2022
 149761;INF204KC1352;INF204KC1360;Nippon India Silver ETF FOF- Regular Plan-IDCW Option;8.9165;23-Aug-2022
 149759;INF204KC1345;-;Nippon India Silver ETF FOF-Regular Plan- Growth Option;8.9165;23-Aug-2022
-112039;INF082J01093;-;Quantum Equity Fund of Funds - Direct Plan Growth Option;53.139;22-Aug-2022
-112038;INF082J01101;INF082J01119;Quantum Equity Fund Of Funds - Direct Plan IDCW;53.138;22-Aug-2022
-141063;INF082J01275;-;Quantum Equity Fund of Funds - Regular Plan Growth Option;52.585;22-Aug-2022
-141062;INF082J01283;INF082J01291;Quantum Equity Fund Of Funds - Regular Plan IDCW;52.585;22-Aug-2022
+112039;INF082J01093;-;Quantum Equity Fund of Funds - Direct Plan Growth Option;53.451;23-Aug-2022
+112038;INF082J01101;INF082J01119;Quantum Equity Fund Of Funds - Direct Plan IDCW;53.451;23-Aug-2022
+141063;INF082J01275;-;Quantum Equity Fund of Funds - Regular Plan Growth Option;52.894;23-Aug-2022
+141062;INF082J01283;INF082J01291;Quantum Equity Fund Of Funds - Regular Plan IDCW;52.894;23-Aug-2022
 115132;INF082J01150;-;Quantum Gold Savings Fund - Direct Plan Growth Option;20.3992;23-Aug-2022
 141064;INF082J01358;-;Quantum Gold Savings Fund - Regular Plan Growth Option;20.2652;23-Aug-2022
-117608;INF082J01168;-;Quantum Multi Asset Fund of Funds - Direct Plan Growth Option;24.3711;22-Aug-2022
-141072;INF082J01341;-;Quantum Multi Asset Fund of Funds - Regular Plan Growth Option;24.0642;22-Aug-2022
-150390;INF082J01416;-;Quantum Nifty 50 ETF Fund of Fund - Direct Plan - Growth;10.0662;22-Aug-2022
-150389;INF082J01424;-;Quantum Nifty 50 ETF Fund of Fund - Regular Plan - Growth;10.0656;22-Aug-2022
+117608;INF082J01168;-;Quantum Multi Asset Fund of Funds - Direct Plan Growth Option;24.4287;23-Aug-2022
+141072;INF082J01341;-;Quantum Multi Asset Fund of Funds - Regular Plan Growth Option;24.1208;23-Aug-2022
+150390;INF082J01416;-;Quantum Nifty 50 ETF Fund of Fund - Direct Plan - Growth;10.0983;23-Aug-2022
+150389;INF082J01424;-;Quantum Nifty 50 ETF Fund of Fund - Regular Plan - Growth;10.0978;23-Aug-2022
 119789;INF200K01RN3;INF200K01RO1;SBI Gold Fund - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);16.2181;23-Aug-2022
 115677;INF200K01HB9;INF200K01HC7;SBI Gold Fund - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);15.6273;23-Aug-2022
 115676;INF200K01HA1;-;SBI GOLD FUND REGULAR PLAN - GROWTH;15.6232;23-Aug-2022
@@ -6888,7 +6888,7 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 149803;INF789F1AVD7;-;UTI S&P BSE Sensex Index Fund - Direct Plan - Growth Option;10.2866;23-Aug-2022
 149802;INF789F1AVC9;-;UTI S&P BSE Sensex Index Fund - Regular Plan  -Growth Option;10.2808;23-Aug-2022
 150498;INF209KB14K7;-;Aditya Birla Sun Life Nifty 200 Momentum 30 ETF;18.9372;23-Aug-2022
-150497;INF209KB15K4;-;Aditya Birla Sun Life Nifty 200 Quality 30 ETF;14.5805;22-Aug-2022
+150497;INF209KB15K4;-;Aditya Birla Sun Life Nifty 200 Quality 30 ETF;14.5625;23-Aug-2022
 115512;INF209KB19D1;-;Aditya Birla Sun Life Nifty ETF;19.7459;23-Aug-2022
 147735;INF209KB17D5;-;Aditya Birla Sun Life Nifty Bank ETF;38.7615;23-Aug-2022
 149262;INF209KB10C2;-;Aditya Birla Sun Life Nifty Healthcare ETF;8.0029;23-Aug-2022
