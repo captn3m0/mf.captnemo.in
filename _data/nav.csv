@@ -1262,12 +1262,12 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 109351;INF760K01CX7;INF760K01CY5;CANARA ROBECO LIQUID FUND - REGULAR PLAN - MONTHLY IDCW (Payout/Reinvestment);1000.0000;31-Aug-2022
 109350;INF760K01BZ4;INF760K01CZ2;CANARA ROBECO LIQUID FUND - REGULAR PLAN - WEEKLY IDCW (Payout/Reinvestment);1000.0001;31-Aug-2022
 139235;INF760K01IC8;-;Canara Robeco Liquid Fund -Unclaimed Redemption and Dividend Plan -Direct Growth Option;1414.6967;31-Aug-2022
-119125;INF740K01QL4;-;DSP Liquidity Fund - Direct Plan - Growth;3099.9965;30-Aug-2022
-119124;-;INF740KA1OB6;DSP Liquidity Fund - Direct Plan - IDCW - Daily;1000.9329;30-Aug-2022
-119123;INF740KA1OC4;INF740KA1OD2;DSP Liquidity Fund - Direct Plan - IDCW - Weekly;1001.6194;30-Aug-2022
-103347;INF740K01FK9;-;DSP Liquidity Fund - Regular Plan - Growth;3073.4250;30-Aug-2022
-103348;INF740K01FM5;INF740K01FL7;DSP Liquidity Fund - Regular Plan - IDCW - Weekly;1001.6070;30-Aug-2022
-103349;-;INF740KA1OE0;DSP Liquidity Fund- Regular Plan - IDCW - Daily;1000.9329;30-Aug-2022
+119125;INF740K01QL4;-;DSP Liquidity Fund - Direct Plan - Growth;3100.4633;31-Aug-2022
+119124;-;INF740KA1OB6;DSP Liquidity Fund - Direct Plan - IDCW - Daily;1000.9329;31-Aug-2022
+119123;INF740KA1OC4;INF740KA1OD2;DSP Liquidity Fund - Direct Plan - IDCW - Weekly;1001.7702;31-Aug-2022
+103347;INF740K01FK9;-;DSP Liquidity Fund - Regular Plan - Growth;3073.8803;31-Aug-2022
+103348;INF740K01FM5;INF740K01FL7;DSP Liquidity Fund - Regular Plan - IDCW - Weekly;1001.7554;31-Aug-2022
+103349;-;INF740KA1OE0;DSP Liquidity Fund- Regular Plan - IDCW - Daily;1000.9329;31-Aug-2022
 140194;INF754K01GY9;-;Edelweiss Liquid Fund - Direct Plan - Bonus Option;1628.2488;31-Aug-2022
 140196;INF754K01GM4;-;Edelweiss Liquid Fund - Direct Plan - Growth Option;2798.7179;31-Aug-2022
 140198;INF754K01GO0;INF754K01GN2;Edelweiss Liquid Fund - Direct Plan - IDCW Option;2798.732;31-Aug-2022
@@ -1304,14 +1304,14 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 102441;INF090I01BD7;-;Franklin India Liquid Fund - Institution-Growth;0.0000;08-Jul-2020
 102443;-;INF090I01BC9;Franklin India Liquid Fund - Institutional Plan - Daily - IDCW;1000.0000;30-Aug-2022
 102442;INF090I01BJ4;INF090I01BE5;Franklin India Liquid Fund - Institutional Plan - Weekly - IDCW;1054.9993;30-Aug-2022
-119091;INF179KB1HP9;-;HDFC Liquid Fund - Growth Option - Direct Plan;4261.8497;30-Aug-2022
-100868;INF179KB1HK0;-;HDFC Liquid Fund - Growth Plan;4226.5276;30-Aug-2022
-100875;-;INF179KB1IC5;HDFC Liquid Fund - IDCW Daily;1019.82;30-Aug-2022
-119089;-;INF179KB1HV7;HDFC Liquid Fund - IDCW Daily - Direct Plan;1019.82;30-Aug-2022
-100876;INF179KB1HM6;INF179KB1HL8;HDFC Liquid Fund - IDCW Monthly;1026.4194;30-Aug-2022
-119090;INF179KB1HO2;INF179KB1HQ7;HDFC Liquid Fund - IDCW Monthly - Direct Plan;1026.4223;30-Aug-2022
-100874;INF179KB1ID3;-;HDFC Liquid Fund - IDCW Plan Weekly;1031.1494;30-Aug-2022
-119088;-;-;HDFC Liquid Fund - IDCW Weekly - Direct Plan;1031.1523;30-Aug-2022
+119091;INF179KB1HP9;-;HDFC Liquid Fund - Growth Option - Direct Plan;4262.4839;31-Aug-2022
+100868;INF179KB1HK0;-;HDFC Liquid Fund - Growth Plan;4227.1449;31-Aug-2022
+100875;-;INF179KB1IC5;HDFC Liquid Fund - IDCW Daily;1019.82;31-Aug-2022
+119089;-;INF179KB1HV7;HDFC Liquid Fund - IDCW Daily - Direct Plan;1019.82;31-Aug-2022
+100876;INF179KB1HM6;INF179KB1HL8;HDFC Liquid Fund - IDCW Monthly;1026.5692;31-Aug-2022
+119090;INF179KB1HO2;INF179KB1HQ7;HDFC Liquid Fund - IDCW Monthly - Direct Plan;1026.5746;31-Aug-2022
+100874;INF179KB1ID3;-;HDFC Liquid Fund - IDCW Plan Weekly;1031.3;31-Aug-2022
+119088;-;-;HDFC Liquid Fund - IDCW Weekly - Direct Plan;1031.3056;31-Aug-2022
 100878;INF179K01KP9;-;HDFC Liquid Fund-Premium Plan - Dividend-Weekly;10;14-Apr-2015
 100881;INF179K01KS3;-;HDFC Liquid Fund-Premium Plus Plan - Dividend-Weekly;10;14-May-2012
 100872;INF179K01KQ7;-;HDFC Liquid Fund-PREMIUM PLUS- Growth;10.0000;17-Dec-2012
@@ -1432,24 +1432,24 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 147153;INF00XX01192;-;ITI Liquid Fund - Regular Plan - Growth Option;1131.6677;31-Aug-2022
 147156;INF00XX01267;INF00XX01234;ITI Liquid Fund - Regular Plan - Monthly IDCW Option;1001.7085;31-Aug-2022
 147164;-;INF00XX01218;ITI Liquid Fund - Regular Plan - Weekly IDCW Option;1001.1443;31-Aug-2022
-120410;INF192K01CN4;-;JM Liquid Fund (Direct) - Bonus Option - Bonus Option - Principal units;19.0797;30-Aug-2022
-120411;-;INF192K01CH6;JM Liquid Fund (Direct) - Daily IDCW;10.4302;30-Aug-2022
-120406;INF192K01CM6;-;JM Liquid Fund (Direct) - Growth Option;59.3079;30-Aug-2022
-120408;INF192K01CK0;INF192K01CL8;JM Liquid Fund (Direct) - Quarterly IDCW;33.6714;30-Aug-2022
-120407;INF192K01CI4;INF192K01CJ2;JM Liquid Fund (Direct) - Weekly IDCW;11.0060;30-Aug-2022
-100244;INF192K01866;INF192K01874;JM Liquid Fund (Regular) - Quarterly IDCW;33.3076;30-Aug-2022
-100247;INF192K01981;-;JM Liquid Fund (Regular) - Super Institutional Plan - Growth Option;33.8310;30-Aug-2022
-100233;INF192K01841;INF192K01858;JM Liquid Fund (Regular) - Weekly IDCW;11.0035;30-Aug-2022
-100234;INF192K01882;-;JM Liquid Fund - Growth Option;58.8465;30-Aug-2022
-148414;-;-;JM Liquid Fund - Unclaimed Application Refund Amount I.E.F. (Direct) - Growth Plan;41.4437;30-Aug-2022
-148413;-;-;JM Liquid Fund - Unclaimed Brokerage I.E.F. (Direct) - Growth Plan;41.4437;30-Aug-2022
-148415;-;-;JM Liquid Fund - Withheld Brokerage I.E.F. (Direct) - Growth Plan;41.4437;30-Aug-2022
+120410;INF192K01CN4;-;JM Liquid Fund (Direct) - Bonus Option - Bonus Option - Principal units;19.0826;31-Aug-2022
+120411;-;INF192K01CH6;JM Liquid Fund (Direct) - Daily IDCW;10.4302;31-Aug-2022
+120406;INF192K01CM6;-;JM Liquid Fund (Direct) - Growth Option;59.3168;31-Aug-2022
+120408;INF192K01CK0;INF192K01CL8;JM Liquid Fund (Direct) - Quarterly IDCW;33.6765;31-Aug-2022
+120407;INF192K01CI4;INF192K01CJ2;JM Liquid Fund (Direct) - Weekly IDCW;11.0076;31-Aug-2022
+100244;INF192K01866;INF192K01874;JM Liquid Fund (Regular) - Quarterly IDCW;33.3125;31-Aug-2022
+100247;INF192K01981;-;JM Liquid Fund (Regular) - Super Institutional Plan - Growth Option;33.8360;31-Aug-2022
+100233;INF192K01841;INF192K01858;JM Liquid Fund (Regular) - Weekly IDCW;11.0052;31-Aug-2022
+100234;INF192K01882;-;JM Liquid Fund - Growth Option;58.8552;31-Aug-2022
+148414;-;-;JM Liquid Fund - Unclaimed Application Refund Amount I.E.F. (Direct) - Growth Plan;41.4437;31-Aug-2022
+148413;-;-;JM Liquid Fund - Unclaimed Brokerage I.E.F. (Direct) - Growth Plan;41.4437;31-Aug-2022
+148415;-;-;JM Liquid Fund - Withheld Brokerage I.E.F. (Direct) - Growth Plan;41.4437;31-Aug-2022
 139258;INF192K01LB0;-;JM Liquid Fund Unclaimed Dividend (Direct) Growth Plan;57.8229;24-Jan-2022
 139260;INF192K01LD6;-;JM Liquid Fund Unclaimed Dividend IEF (Direct) Growth Plan;41.4437;24-Jan-2022
 139257;INF192K01LA2;-;JM Liquid Fund Unclaimed Redemption (Direct) Growth Plan;57.8230;24-Jan-2022
 139259;INF192K01LC8;-;JM Liquid Fund Unclaimed Redemption IEF (Direct) Growth Plan;41.4437;24-Jan-2022
-101549;INF192K01890;-;JM Liquid Fund (Regular) - Bonus Option - Principal Units;18.8428;30-Aug-2022
-101078;-;INF192K01833;JM Liquid Fund (Regular) - Daily IDCW;10.4302;30-Aug-2022
+101549;INF192K01890;-;JM Liquid Fund (Regular) - Bonus Option - Principal Units;18.8456;31-Aug-2022
+101078;-;INF192K01833;JM Liquid Fund (Regular) - Daily IDCW;10.4302;31-Aug-2022
 119764;INF174K01NH1;-;Kotak Liquid - Daily Reinvestment of Income Distribution cum capital withdrawal option - Direct;1222.81;31-Aug-2022
 119766;INF174K01NE8;-;Kotak Liquid - Growth - Direct;4383.1859;31-Aug-2022
 100833;INF174K01NL3;-;Kotak Liquid Regular Plan Daily Reinvestment of Income Distribution cum capital withdrawal option;1222.81;31-Aug-2022
@@ -2569,16 +2569,16 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 147531;INF760K01JM5;-;CANARA ROBECO OVERNIGHT FUND - DIRECT PLAN - GROWTH OPTION;1120.7288;31-Aug-2022
 147533;-;INF760K01JP8;CANARA ROBECO OVERNIGHT FUND - REGULAR PLAN - DAILY IDCW (Reinvestment);1001.0000;31-Aug-2022
 147534;INF760K01JO1;-;CANARA ROBECO OVERNIGHT FUND - REGULAR PLAN - GROWTH OPTION;1119.9629;31-Aug-2022
-146062;INF740KA1MC8;-;DSP Overnight Fund - Direct Plan - Growth;1159.3178;30-Aug-2022
-146065;-;INF740KA1OR2;DSP Overnight Fund - Direct Plan - IDCW - Daily;1000.0028;30-Aug-2022
-146064;INF740KA1OS0;INF740KA1OT8;DSP Overnight Fund - Direct Plan - IDCW - Weekly;1000.8531;30-Aug-2022
-146061;INF740KA1MB0;-;DSP Overnight Fund - Regular Plan - Growth;1155.7603;30-Aug-2022
-146066;-;INF740KA1OU6;DSP Overnight Fund - Regular Plan - IDCW - Daily;1000.0028;30-Aug-2022
-146063;INF740KA1OV4;INF740KA1OW2;DSP Overnight Fund - Regular Plan - IDCW - Weekly;1000.7601;30-Aug-2022
-149313;-;-;Unclaimed IDCW - Beyond 3 years (Invested in DSP Overnight Fund);10.0000;30-Aug-2022
-149312;-;-;Unclaimed IDCW - Upto 3 years (Invested in DSP Overnight Fund);10.3269;30-Aug-2022
-149311;-;-;Unclaimed Redemption - Beyond 3 years (Invested in DSP Overnight Fund);10.0000;30-Aug-2022
-149310;-;-;Unclaimed Redemption - Upto 3 years (Invested in DSP Overnight Fund);10.3269;30-Aug-2022
+146062;INF740KA1MC8;-;DSP Overnight Fund - Direct Plan - Growth;1159.4862;31-Aug-2022
+146065;-;INF740KA1OR2;DSP Overnight Fund - Direct Plan - IDCW - Daily;1000.0028;31-Aug-2022
+146064;INF740KA1OS0;INF740KA1OT8;DSP Overnight Fund - Direct Plan - IDCW - Weekly;1000.9968;31-Aug-2022
+146061;INF740KA1MB0;-;DSP Overnight Fund - Regular Plan - Growth;1155.9254;31-Aug-2022
+146066;-;INF740KA1OU6;DSP Overnight Fund - Regular Plan - IDCW - Daily;1000.0028;31-Aug-2022
+146063;INF740KA1OV4;INF740KA1OW2;DSP Overnight Fund - Regular Plan - IDCW - Weekly;1000.9082;31-Aug-2022
+149313;-;-;Unclaimed IDCW - Beyond 3 years (Invested in DSP Overnight Fund);10;31-Aug-2022
+149312;-;-;Unclaimed IDCW - Upto 3 years (Invested in DSP Overnight Fund);10.3284;31-Aug-2022
+149311;-;-;Unclaimed Redemption - Beyond 3 years (Invested in DSP Overnight Fund);10;31-Aug-2022
+149310;-;-;Unclaimed Redemption - Upto 3 years (Invested in DSP Overnight Fund);10.3284;31-Aug-2022
 147551;INF754K01KD5;INF754K01KC7;Edelweiss Overnight Fund - Direct Plan - Annual - IDCW Option;1122.423;31-Aug-2022
 147557;-;INF754K01JW7;Edelweiss Overnight Fund - Direct Plan - Daily - IDCW Option;1000;31-Aug-2022
 147550;INF754K01JZ0;INF754K01JY3;Edelweiss Overnight Fund - Direct Plan - Fortnightly - IDCW Option;1050.7261;11-May-2022
@@ -2605,10 +2605,10 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 149443;-;-;Franklin India Overnight Fund- Unclaimed IDCW Plan;10.2597;30-Aug-2022
 149444;-;-;Franklin India Overnight Fund- Unclaimed Redemption Investor EducationPlan;10.0000;30-Aug-2022
 149446;-;-;Franklin India Overnight Fund- Unclaimed Redemption Plan;10.2597;30-Aug-2022
-119109;-;-;HDFC Overnight Fund - Daily IDCW Option - Direct Plan;1042.66;30-Aug-2022
-101996;INF179KB1HS3;-;HDFC Overnight Fund - Growth Option;3191.5759;30-Aug-2022
-119110;INF179KB1HT1;-;HDFC Overnight Fund - Growth Option - Direct Plan;3214.7733;30-Aug-2022
-101997;-;-;HDFC Overnight Fund - IDCW Option (Daily);1042.66;30-Aug-2022
+119109;-;-;HDFC Overnight Fund - Daily IDCW Option - Direct Plan;1042.66;31-Aug-2022
+101996;INF179KB1HS3;-;HDFC Overnight Fund - Growth Option;3192.0258;31-Aug-2022
+119110;INF179KB1HT1;-;HDFC Overnight Fund - Growth Option - Direct Plan;3215.2353;31-Aug-2022
+101997;-;-;HDFC Overnight Fund - IDCW Option (Daily);1042.66;31-Aug-2022
 147289;-;INF336L01OM2;HSBC Overnight Fund - Daily IDCW;1000.0064;31-Aug-2022
 147291;-;INF336L01OG4;HSBC Overnight Fund - Daily IDCW Direct Plan;1000.0067;31-Aug-2022
 147290;INF336L01OL4;-;HSBC Overnight Fund - Growth;1127.1386;31-Aug-2022
@@ -2685,16 +2685,16 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 147714;INF00XX01473;-;ITI Overnight Fund - Regular Plan - Growth Option;1100.8067;31-Aug-2022
 147718;INF00XX01549;INF00XX01515;ITI Overnight Fund - Regular Plan - Monthly IDCW Option;1001.6906;31-Aug-2022
 147712;-;INF00XX01499;ITI Overnight Fund - Regular Plan - Weekly IDCW Option;1001.1416;31-Aug-2022
-147838;-;INF192K01LY2;JM Overnight Fund (Direct) - Daily IDCW;1000.0000;30-Aug-2022
-147835;INF192K01LZ9;INF192K01MA0;JM Overnight Fund (Direct) - Weekly IDCW;1000.0000;30-Aug-2022
-147839;-;INF192K01LU0;JM Overnight Fund (Regular) - Daily IDCW;1000.0000;30-Aug-2022
-147836;INF192K01LX4;-;JM Overnight Fund (Regular) - Growth;1098.0725;30-Aug-2022
-147834;INF192K01LV8;INF192K01LW6;JM Overnight Fund (Regular) - Weekly IDCW;1000.0000;30-Aug-2022
-147837;INF192K01MB8;-;JM Overnight Fund - (Direct) - Growth;1100.1681;30-Aug-2022
-149828;-;-;JM Overnight Fund - (Direct) - Unclaimed IDCW - Growth Plan;1100.1680;30-Aug-2022
-149827;-;-;JM Overnight Fund - (Direct) - Unclaimed IDCW I.E.F. - Growth Plan;1073.9936;30-Aug-2022
-149829;-;-;JM Overnight Fund - (Direct) - Unclaimed Redemption - Growth Plan;1100.1683;30-Aug-2022
-149826;-;-;JM Overnight Fund - (Direct) - Unclaimed Redemption I.E.F. - Growth Plan;1073.9936;30-Aug-2022
+147838;-;INF192K01LY2;JM Overnight Fund (Direct) - Daily IDCW;1000.0000;31-Aug-2022
+147835;INF192K01LZ9;INF192K01MA0;JM Overnight Fund (Direct) - Weekly IDCW;1000.1488;31-Aug-2022
+147839;-;INF192K01LU0;JM Overnight Fund (Regular) - Daily IDCW;1000.0000;31-Aug-2022
+147836;INF192K01LX4;-;JM Overnight Fund (Regular) - Growth;1098.2366;31-Aug-2022
+147834;INF192K01LV8;INF192K01LW6;JM Overnight Fund (Regular) - Weekly IDCW;1000.1560;31-Aug-2022
+147837;INF192K01MB8;-;JM Overnight Fund - (Direct) - Growth;1100.3345;31-Aug-2022
+149828;-;-;JM Overnight Fund - (Direct) - Unclaimed IDCW - Growth Plan;1100.3345;31-Aug-2022
+149827;-;-;JM Overnight Fund - (Direct) - Unclaimed IDCW I.E.F. - Growth Plan;1073.9936;31-Aug-2022
+149829;-;-;JM Overnight Fund - (Direct) - Unclaimed Redemption - Growth Plan;1100.3348;31-Aug-2022
+149826;-;-;JM Overnight Fund - (Direct) - Unclaimed Redemption I.E.F. - Growth Plan;1073.9936;31-Aug-2022
 146141;INF174KA1BF9;-;Kotak Overnight Fund -Direct Plan-Growth Option;1154.8173;31-Aug-2022
 146142;INF174KA1BC6;-;Kotak Overnight Fund -Regular plan-Growth Option;1151.2236;31-Aug-2022
 146140;-;INF174KA1BE2;Kotak Overnight Fund-Direct Plan- Daily Reinvestment of Income Distribution cum capital withdrawal option;1003.6055;31-Aug-2022
@@ -6908,7 +6908,7 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 148934;INF846K01Z12;-;Axis NIFTY Healthcare ETF;80.7301;30-Aug-2022
 149156;INF846K016C7;-;Axis NIFTY India Consumption ETF;80.3026;30-Aug-2022
 148799;INF846K01Y96;-;Axis IT ETF;291.7641;30-Aug-2022
-142589;-;INF740KA1EU7;DSP NIFTY 1D Rate Liquid ETF - IDCW - Daily Reinvest;1000.0000;30-Aug-2022
+142589;-;INF740KA1EU7;DSP NIFTY 1D Rate Liquid ETF - IDCW - Daily Reinvest;1000;31-Aug-2022
 149286;INF740KA1QK2;-;DSP Nifty 50 Equal Weight ETF;206.3840;30-Aug-2022
 149392;INF740KA1CL0;-;DSP Nifty 50 ETF;179.4089;30-Aug-2022
 149403;INF740KA1QL0;-;DSP Nifty Midcap 150 Quality 50 ETF;171.4482;30-Aug-2022
