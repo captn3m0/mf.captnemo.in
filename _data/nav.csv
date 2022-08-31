@@ -1450,10 +1450,10 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 139259;INF192K01LC8;-;JM Liquid Fund Unclaimed Redemption IEF (Direct) Growth Plan;41.4437;24-Jan-2022
 101549;INF192K01890;-;JM Liquid Fund (Regular) - Bonus Option - Principal Units;18.8428;30-Aug-2022
 101078;-;INF192K01833;JM Liquid Fund (Regular) - Daily IDCW;10.4302;30-Aug-2022
-119764;INF174K01NH1;-;Kotak Liquid - Daily Reinvestment of Income Distribution cum capital withdrawal option - Direct;1222.81;30-Aug-2022
-119766;INF174K01NE8;-;Kotak Liquid - Growth - Direct;4382.5242;30-Aug-2022
-100833;INF174K01NL3;-;Kotak Liquid Regular Plan Daily Reinvestment of Income Distribution cum capital withdrawal option;1222.81;30-Aug-2022
-100835;INF174K01NI9;-;Kotak Liquid Regular Plan Growth;4355.7778;30-Aug-2022
+119764;INF174K01NH1;-;Kotak Liquid - Daily Reinvestment of Income Distribution cum capital withdrawal option - Direct;1222.81;31-Aug-2022
+119766;INF174K01NE8;-;Kotak Liquid - Growth - Direct;4383.1859;31-Aug-2022
+100833;INF174K01NL3;-;Kotak Liquid Regular Plan Daily Reinvestment of Income Distribution cum capital withdrawal option;1222.81;31-Aug-2022
+100835;INF174K01NI9;-;Kotak Liquid Regular Plan Growth;4356.4209;31-Aug-2022
 100834;INF174K01NK5;-;Kotak Liquid Regular Plan Weekly Reinvestment of Income Distribution cum capital withdrawal option Dividend;1000.476;17-Sep-2021
 100830;INF174K01FZ9;-;Kotak Liquid-Institutional Plan  (Growth);3046.6062;21-Oct-2016
 100832;-;INF174K01GB8;Kotak Liquid-Institutional Plan (Weekly Dividend);1011.079;23-Sep-2013
@@ -1609,10 +1609,10 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 149745;-;-;Sundaram Liquid Fund (Formerly Known as Principal Cash Management Fund) Unclaimed Redemption More 3 Years;1000.0000;21-Jan-2022
 149659;-;INF173K01DC5;Sundaram Liquid Fund (Formerly Principal Cash Management Fund) - Weekly Income Distribution CUM Capital Withdrawal Option;1007.1573;30-Aug-2022
 149665;-;INF173K01GY2;Sundaram Liquid Fund(Formerly Known as Principal Cash Management Fund)- Direct Plan - Income Distribution CUM Capital Withdrawal Option - Weekly;1007.6274;30-Aug-2022
-102672;INF277K01YD8;-;Tata Liquid Fund -Regular Plan - Growth Option;3392.6433;30-Aug-2022
-119862;-;INF277K012D2;Tata Liquid Fund- Direct Plan - Daily Reinvestment of IDCW Option;1001.5187;30-Aug-2022
-119861;INF277K01YE6;-;Tata Liquid Fund- Direct Plan-Growth Option;3422.1865;30-Aug-2022
-101714;-;INF277K011D4;Tata Liquid Fund- Regular Plan - Daily Reinvestment of IDCW Option;1001.5157;30-Aug-2022
+102672;INF277K01YD8;-;Tata Liquid Fund -Regular Plan - Growth Option;3393.1391;31-Aug-2022
+119862;-;INF277K012D2;Tata Liquid Fund- Direct Plan - Daily Reinvestment of IDCW Option;1001.5187;31-Aug-2022
+119861;INF277K01YE6;-;Tata Liquid Fund- Direct Plan-Growth Option;3422.6975;31-Aug-2022
+101714;-;INF277K011D4;Tata Liquid Fund- Regular Plan - Daily Reinvestment of IDCW Option;1001.5157;31-Aug-2022
 104240;INF044D01542;INF044D01559;Taurus Liquid Fund-Dividend;1013.9743;03-Nov-2020
 104241;INF044D01575;-;Taurus Liquid Fund-Growth;2368.5909;03-Nov-2020
 148842;-;INF0GCD01263;TRUSTMF Liquid Fund-Direct Plan-Daily Income Distribution cum Capital Withdrawal;1041.5466;31-Aug-2022
@@ -2695,10 +2695,10 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 149827;-;-;JM Overnight Fund - (Direct) - Unclaimed IDCW I.E.F. - Growth Plan;1073.9936;30-Aug-2022
 149829;-;-;JM Overnight Fund - (Direct) - Unclaimed Redemption - Growth Plan;1100.1683;30-Aug-2022
 149826;-;-;JM Overnight Fund - (Direct) - Unclaimed Redemption I.E.F. - Growth Plan;1073.9936;30-Aug-2022
-146141;INF174KA1BF9;-;Kotak Overnight Fund -Direct Plan-Growth Option;1154.6467;30-Aug-2022
-146142;INF174KA1BC6;-;Kotak Overnight Fund -Regular plan-Growth Option;1151.0573;30-Aug-2022
-146140;-;INF174KA1BE2;Kotak Overnight Fund-Direct Plan- Daily Reinvestment of Income Distribution cum capital withdrawal option;1003.6055;30-Aug-2022
-146138;-;INF174KA1BB8;Kotak Overnight Fund-Regular Plan- Daily Reinvestment of Income Distribution cum capital withdrawal option;1004.7568;30-Aug-2022
+146141;INF174KA1BF9;-;Kotak Overnight Fund -Direct Plan-Growth Option;1154.8173;31-Aug-2022
+146142;INF174KA1BC6;-;Kotak Overnight Fund -Regular plan-Growth Option;1151.2236;31-Aug-2022
+146140;-;INF174KA1BE2;Kotak Overnight Fund-Direct Plan- Daily Reinvestment of Income Distribution cum capital withdrawal option;1003.6055;31-Aug-2022
+146138;-;INF174KA1BB8;Kotak Overnight Fund-Regular Plan- Daily Reinvestment of Income Distribution cum capital withdrawal option;1004.7568;31-Aug-2022
 118066;INF917K01EL4;INF917K01EM2;L&T Overnight Fund  - Regular Plan - Monthly IDCW;1012.6307;30-Aug-2022
 119283;INF917K01EN0;-;L&T Overnight Fund - Direct Plan - Growth;1688.6309;30-Aug-2022
 119284;-;INF917K01EO8;L&T Overnight Fund - Direct Plan- Daily IDCW;1023.3;30-Aug-2022
@@ -2769,10 +2769,10 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 149821;INF903JA1KZ9;-;Sundaram Overnight Fund Unclaimed IDCW upto three years;1024.6764;30-Aug-2022
 149819;INF903JA1KY2;-;Sundaram Overnight Fund Unclaimed Redemption  beyond three years;1000.0000;30-Aug-2022
 149818;INF903JA1LA0;-;Sundaram Overnight Fund Unclaimed Redemption upto three years;1024.6699;30-Aug-2022
-146978;-;INF277K019T3;TATA Overnight Fund Direct Plan - Daily Reinvestment of Income Distribution cum capital withdrawal option   ;1000.0000;30-Aug-2022
-146979;-;INF277K017T7;TATA Overnight Fund Regular Plan - Daily Reinvestment of Income Distribution cum capital withdrawal option   ;1000.0000;30-Aug-2022
-146980;INF277K018T5;-;Tata Overnight Fund-Direct Plan-Growth;1142.0037;30-Aug-2022
-146977;INF277K016T9;-;Tata Overnight Fund-Regular Plan-Growth;1137.8651;30-Aug-2022
+146978;-;INF277K019T3;TATA Overnight Fund Direct Plan - Daily Reinvestment of Income Distribution cum capital withdrawal option   ;1000.0000;31-Aug-2022
+146979;-;INF277K017T7;TATA Overnight Fund Regular Plan - Daily Reinvestment of Income Distribution cum capital withdrawal option   ;1000.0000;31-Aug-2022
+146980;INF277K018T5;-;Tata Overnight Fund-Direct Plan-Growth;1142.1660;31-Aug-2022
+146977;INF277K016T9;-;Tata Overnight Fund-Regular Plan-Growth;1138.0233;31-Aug-2022
 149796;-;INF0GCD01461;TRUST MF OVERNIGHT FUND-DIRECT PLAN-DAILY IDCW REINVESTMENT;1025.37;31-Aug-2022
 149797;INF0GCD01453;-;TRUST MF OVERNIGHT FUND-DIRECT PLAN-GROWTH;1025.3923;31-Aug-2022
 149798;-;INF0GCD01446;TRUST MF OVERNIGHT FUND-REGULAR PLAN-DAILY IDCW REINVESTMENT;1025.159;31-Aug-2022
@@ -6501,10 +6501,10 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 149231;INF174V01BA8;INF174V01AZ7;Mahindra Manulife Asia Pacific REITs FOF - Direct Plan - IDCW;8.9736;30-Aug-2022
 149228;INF174V01AV6;-;Mahindra Manulife Asia Pacific REITs FOF - Regular Plan - Growth;8.8923;30-Aug-2022
 149229;INF174V01AX2;INF174V01AW4;Mahindra Manulife Asia Pacific REITs FOF - Regular Plan - IDCW;8.8924;30-Aug-2022
-149910;-;-;Navi NASDAQ 100 Fund of Fund- Direct- Growth;8.8326;29-Aug-2022
-149911;-;-;Navi NASDAQ 100 Fund of Fund- Regular- Growth;8.8263;29-Aug-2022
-149830;INF959L01FV0;-;Navi US Total Stock Market Fund of Fund- Direct Plan- Growth;9.958;29-Aug-2022
-149831;INF959L01FW8;-;Navi US Total Stock Market Fund of Fund- Regular Plan- Growth;9.9529;29-Aug-2022
+149910;-;-;Navi NASDAQ 100 Fund of Fund- Direct- Growth;8.6794;30-Aug-2022
+149911;-;-;Navi NASDAQ 100 Fund of Fund- Regular- Growth;8.6731;30-Aug-2022
+149830;INF959L01FV0;-;Navi US Total Stock Market Fund of Fund- Direct Plan- Growth;9.7846;30-Aug-2022
+149831;INF959L01FW8;-;Navi US Total Stock Market Fund of Fund- Regular Plan- Growth;9.7795;30-Aug-2022
 138457;INF223J01NJ4;-;PGIM India Emerging Markets Equity Fund - Direct Plan - Dividend;9.35;30-Aug-2022
 138456;INF223J01NL0;-;PGIM India Emerging Markets Equity Fund - Direct Plan - Growth;13.58;30-Aug-2022
 138454;INF223J01AW4;INF223J01AX2;PGIM India Emerging Markets Equity Fund - Dividend;11.29;30-Aug-2022
@@ -6522,10 +6522,10 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 148762;INF200KA1T96;-;SBI International Access - US Equity FoF - Regular Plan - Growth;10.6309;30-Aug-2022
 148761;INF200KA1U36;INF200KA1U44;SBI International Access- US Equity FoF Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);10.7619;30-Aug-2022
 148759;INF200KA1U02;INF200KA1U10;SBI International Access- US Equity FoF Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);10.6312;30-Aug-2022
-119602;INF903J01OB6;-;Sundaram Global Brand Fund Direct Plan - Growth;23.4689;26-Aug-2022
-119601;INF903J01NZ7;INF903J01OA8;Sundaram Global Brand Fund Direct Plan - Income Distribution cum Capital Withdrawal (IDCW);20.8747;26-Aug-2022
-106370;INF903J01EX1;-;Sundaram Global Brand Fund Regular Plan - Growth;22.0437;26-Aug-2022
-106369;INF903J01EY9;INF903J01EZ6;Sundaram Global Brand Fund Regular Plan - Income Distribution cum Capital Withdrawal (IDCW);18.8896;26-Aug-2022
+119602;INF903J01OB6;-;Sundaram Global Brand Fund Direct Plan - Growth;23.3714;29-Aug-2022
+119601;INF903J01NZ7;INF903J01OA8;Sundaram Global Brand Fund Direct Plan - Income Distribution cum Capital Withdrawal (IDCW);20.7879;29-Aug-2022
+106370;INF903J01EX1;-;Sundaram Global Brand Fund Regular Plan - Growth;21.9498;29-Aug-2022
+106369;INF903J01EY9;INF903J01EZ6;Sundaram Global Brand Fund Regular Plan - Income Distribution cum Capital Withdrawal (IDCW);18.8091;29-Aug-2022
 115127;INF209KB18D3;-;Aditya Birla Sun Life Gold ETF;46.6212;30-Aug-2022
 113434;INF846K01W80;-;Axis Gold ETF;44.2435;30-Aug-2022
 113049;INF179KC1981;-;HDFC Gold Exchange Traded Fund. - Growth Option;45.3936;30-Aug-2022
