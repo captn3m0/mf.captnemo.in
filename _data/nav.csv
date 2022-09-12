@@ -1545,14 +1545,14 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 138282;INF223J01BB6;-;PGIM India Insta Cash Fund-Institutional Plan-Growth;26.2743;28-Jul-2019
 138304;INF223J01VD0;-;PGIM India INSTA CASH FUND-Monthly Bonus Option;140.0664;28-Jul-2019
 138286;INF223J01BQ4;-;PGIM India Liquid Fund - Bonus Option;186.8975;21-Jan-2022
-138285;-;INF223J01BO9;PGIM India Liquid Fund - Daily Dividend;100.304;11-Sep-2022
-138297;INF223J01NR7;-;PGIM India Liquid Fund - Direct Plan - Daily Dividend;108.57;11-Sep-2022
-138299;INF223J01NS5;-;PGIM India Liquid Fund - Direct Plan - Growth;283.1112;11-Sep-2022
-138298;INF223J01NT3;INF223J01NU1;PGIM India Liquid Fund - Direct Plan - Monthly Dividend;108.8415;11-Sep-2022
-138301;INF223J01NV9;INF223J01NW7;PGIM India Liquid Fund - Direct Plan - Weekly Dividend;100.5331;11-Sep-2022
-138288;INF223J01BP6;-;PGIM India Liquid Fund - Growth;280.7646;11-Sep-2022
-138287;INF223J01BL5;-;PGIM India Liquid Fund - Monthly Dividend;109.5421;11-Sep-2022
-138289;INF223J01BU6;-;PGIM India Liquid Fund - Weekly Dividend;100.5325;11-Sep-2022
+138285;-;INF223J01BO9;PGIM India Liquid Fund - Daily Dividend;100.304;12-Sep-2022
+138297;INF223J01NR7;-;PGIM India Liquid Fund - Direct Plan - Daily Dividend;108.57;12-Sep-2022
+138299;INF223J01NS5;-;PGIM India Liquid Fund - Direct Plan - Growth;283.1493;12-Sep-2022
+138298;INF223J01NT3;INF223J01NU1;PGIM India Liquid Fund - Direct Plan - Monthly Dividend;108.8562;12-Sep-2022
+138301;INF223J01NV9;INF223J01NW7;PGIM India Liquid Fund - Direct Plan - Weekly Dividend;100.5467;12-Sep-2022
+138288;INF223J01BP6;-;PGIM India Liquid Fund - Growth;280.8014;12-Sep-2022
+138287;INF223J01BL5;-;PGIM India Liquid Fund - Monthly Dividend;109.5565;12-Sep-2022
+138289;INF223J01BU6;-;PGIM India Liquid Fund - Weekly Dividend;100.5457;12-Sep-2022
 138280;-;INF223J01BI1;PGIM India Liquid Fund-DIVIDEND-Daily Dividend;10.301;28-Jul-2019
 138279;INF223J01BR2;INF223J01BS0;PGIM India Liquid Fund-DIVIDEND-MONTHLY DIVIDEND;10.0577;30-Jul-2018
 138281;INF223J01BJ9;-;PGIM India Liquid Fund-Growth-GROWTH;27.706;28-Jul-2019
@@ -2459,14 +2459,14 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 103051;-;INF204K01UZ3;NIPPON INDIA MONEY MARKET FUND - WEEKLY IDCW Option;1004.5231;12-Sep-2022
 103049;INF204K01UX8;-;Nippon India Money Market Fund-Growth Plan-Bonus Option;1713.3216;14-Aug-2019
 103048;INF204K01VA4;-;Nippon India Money Market Fund-Growth Plan-Growth Option;3388.4083;12-Sep-2022
-148162;-;INF663L01U16;PGIM India Money Market Fund - Direct Plan - Daily Dividend Option;1006.0797;09-Sep-2022
-148161;INF663L01T84;-;PGIM India Money Market Fund - Direct Plan - Growth Option;1115.7262;09-Sep-2022
-148163;INF663L01T92;-;PGIM India Money Market Fund - Direct Plan - Monthly Dividend Option;1008.676;09-Sep-2022
-148164;-;INF663L01U08;PGIM India Money Market Fund - Direct Plan - Weekly Dividend Option;1001.2659;09-Sep-2022
-148160;-;INF663L01U57;PGIM India Money Market Fund - Regular Plan - Daily Dividend Option;1006.0776;09-Sep-2022
-148159;INF663L01U24;-;PGIM India Money Market Fund - Regular Plan - Growth Option;1093.244;09-Sep-2022
-148157;INF663L01U32;-;PGIM India Money Market Fund - Regular Plan - Monthly Dividend Option;1005.4849;09-Sep-2022
-148158;-;INF663L01U40;PGIM India Money Market Fund - Regular Plan - Weekly Dividend Option;1001.0498;09-Sep-2022
+148162;-;INF663L01U16;PGIM India Money Market Fund - Direct Plan - Daily Dividend Option;1006.0798;12-Sep-2022
+148161;INF663L01T84;-;PGIM India Money Market Fund - Direct Plan - Growth Option;1116.1751;12-Sep-2022
+148163;INF663L01T92;-;PGIM India Money Market Fund - Direct Plan - Monthly Dividend Option;1009.0779;12-Sep-2022
+148164;-;INF663L01U08;PGIM India Money Market Fund - Direct Plan - Weekly Dividend Option;1000.6288;12-Sep-2022
+148160;-;INF663L01U57;PGIM India Money Market Fund - Regular Plan - Daily Dividend Option;1006.0776;12-Sep-2022
+148159;INF663L01U24;-;PGIM India Money Market Fund - Regular Plan - Growth Option;1093.6291;12-Sep-2022
+148157;INF663L01U32;-;PGIM India Money Market Fund - Regular Plan - Monthly Dividend Option;1005.8392;12-Sep-2022
+148158;-;INF663L01U40;PGIM India Money Market Fund - Regular Plan - Weekly Dividend Option;1000.2939;12-Sep-2022
 119821;INF200K01SZ5;-;SBI  SAVINGS FUND - DIRECT PLAN - GROWTH;36.2360;12-Sep-2022
 102503;INF200K01636;-;SBI  SAVINGS FUND - REGULAR PLAN - GROWTH;34.2504;12-Sep-2022
 119820;INF200K01SX0;INF200K01SY8;SBI Savings Fund - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);14.3628;12-Sep-2022
@@ -2741,12 +2741,12 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 145826;-;INF204KB1Q81;NIPPON INDIA OVERNIGHT FUND - WEEKLY IDCW Option;100.0465;12-Sep-2022
 150369;INF0J8L01081;-;NJ Overnight Fund - Direct Plan - Growth Option;1006.1942;12-Sep-2022
 150368;INF0J8L01073;-;NJ Overnight Fund - Regular Plan - Growth Option;1006.0758;12-Sep-2022
-147605;-;INF663L01T35;PGIM India Overnight Fund - Direct Plan - Daily Dividend Option;1000.0063;11-Sep-2022
-147606;INF663L01T01;-;PGIM India Overnight Fund - Direct Plan - Growth Option;1119.4559;11-Sep-2022
-147608;INF663L01T19;INF663L01T27;PGIM India Overnight Fund - Direct Plan - Weekly Dividend Option;1000.2739;11-Sep-2022
-147609;-;INF663L01T76;PGIM India Overnight Fund - Regular Plan - Daily Dividend Option;1000;11-Sep-2022
-147607;INF663L01T50;INF663L01T68;PGIM India Overnight Fund - Regular Plan - Weekly Dividend Option;1000.3946;11-Sep-2022
-147600;INF663L01T43;-;PGIM India Overnight Fund - Regular Plan- Growth Option;1116.6671;11-Sep-2022
+147605;-;INF663L01T35;PGIM India Overnight Fund - Direct Plan - Daily Dividend Option;1000.0063;12-Sep-2022
+147606;INF663L01T01;-;PGIM India Overnight Fund - Direct Plan - Growth Option;1119.6097;12-Sep-2022
+147608;INF663L01T19;INF663L01T27;PGIM India Overnight Fund - Direct Plan - Weekly Dividend Option;1000.4113;12-Sep-2022
+147609;-;INF663L01T76;PGIM India Overnight Fund - Regular Plan - Daily Dividend Option;1000;12-Sep-2022
+147607;INF663L01T50;INF663L01T68;PGIM India Overnight Fund - Regular Plan - Weekly Dividend Option;1000.5305;12-Sep-2022
+147600;INF663L01T43;-;PGIM India Overnight Fund - Regular Plan- Growth Option;1116.8188;12-Sep-2022
 119831;-;INF200K01TJ7;SBI Overnight Fund - Direct Plan - Daily Income Distribution cum Capital Withdrawal Option (IDCW);1095.9396;12-Sep-2022
 119833;INF200K01TK5;-;SBI OVERNIGHT FUND - DIRECT PLAN - GROWTH;3530.8843;12-Sep-2022
 119832;INF200K01TL3;INF200K01TM1;SBI Overnight Fund - Direct Plan - Weekly Income Distribution cum Capital Withdrawal Option (IDCW);1119.1142;12-Sep-2022
@@ -3313,18 +3313,18 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 143495;-;INF204K01UD0;NIPPON INDIA ULTRA SHORT DURATION FUND - WEEKLY IDCW OPTION;1092.0668;12-Sep-2022
 143494;INF204K01YH3;-;Nippon India Ultra Short Duration Fund- Direct Plan- Growth Option;3607.6424;12-Sep-2022
 143493;INF204K01UE8;-;Nippon India Ultra Short Duration Fund- Growth Option;3341.7930;12-Sep-2022
-138342;INF223J01FH4;-;PGIM India Ultra Short Duration Fund - Daily Dividend;10.0203;09-Sep-2022
-138361;-;INF223J01QL3;PGIM India Ultra Short Duration Fund - Direct Plan - Daily Dividend;10.0179;09-Sep-2022
-138358;INF223J01QO7;-;PGIM India Ultra Short Duration Fund - Direct Plan - Growth;29.2041;09-Sep-2022
-138359;INF223J01QP4;-;PGIM India Ultra Short Duration Fund - Direct Plan - Monthly Dividend;11.881;09-Sep-2022
-138362;INF223J01QR0;INF223J01QS8;PGIM India Ultra Short Duration Fund - Direct Plan - Weekly Dividend;10.2755;09-Sep-2022
-138343;INF223J01FK8;-;PGIM India Ultra Short Duration Fund - Growth;28.4396;09-Sep-2022
-138344;INF223J01FL6;INF223J01FM4;PGIM India Ultra Short Duration Fund - Monthly Dividend;12.4909;09-Sep-2022
+138342;INF223J01FH4;-;PGIM India Ultra Short Duration Fund - Daily Dividend;10.0203;12-Sep-2022
+138361;-;INF223J01QL3;PGIM India Ultra Short Duration Fund - Direct Plan - Daily Dividend;10.0179;12-Sep-2022
+138358;INF223J01QO7;-;PGIM India Ultra Short Duration Fund - Direct Plan - Growth;29.2164;12-Sep-2022
+138359;INF223J01QP4;-;PGIM India Ultra Short Duration Fund - Direct Plan - Monthly Dividend;11.8859;12-Sep-2022
+138362;INF223J01QR0;INF223J01QS8;PGIM India Ultra Short Duration Fund - Direct Plan - Weekly Dividend;10.2687;12-Sep-2022
+138343;INF223J01FK8;-;PGIM India Ultra Short Duration Fund - Growth;28.4501;12-Sep-2022
+138344;INF223J01FL6;INF223J01FM4;PGIM India Ultra Short Duration Fund - Monthly Dividend;12.4955;12-Sep-2022
 138338;INF223J01FW3;-;PGIM India Ultra Short Duration Fund - Regular Plan - Daily Dividend;10.0215;28-Jul-2019
 138337;INF223J01FX1;-;PGIM India Ultra Short Duration Fund - Regular Plan - Growth;34.2452;21-Jan-2022
 138340;INF223J01FY9;INF223J01FZ6;PGIM India Ultra Short Duration Fund - Regular Plan - Monthly Dividend;10.5275;28-Jul-2019
 138339;INF223J01GC3;-;PGIM India Ultra Short Duration Fund - Regular Plan - Weekly Dividend;10.5017;21-Jan-2022
-138341;INF223J01FO0;INF223J01FP7;PGIM India Ultra Short Duration Fund - Weekly Dividend;10.0866;09-Sep-2022
+138341;INF223J01FO0;INF223J01FP7;PGIM India Ultra Short Duration Fund - Weekly Dividend;10.0805;12-Sep-2022
 138368;INF223J01XH7;-;PGIM India Ultra Short Term Fund - Annual Bonus;20.9045;26-Feb-2018
 138354;INF223J01JJ2;-;PGIM India Ultra Short Term Fund - Annual Dividend;10.7885;17-Jun-2019
 138345;INF223J01FN2;-;PGIM India Ultra Short Term Fund - Bonus;16.1171;09-Jul-2018
@@ -6231,10 +6231,10 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 102138;INF109K01FJ9;INF109K01845;ICICI Prudential Asset Allocator Fund (FOF) - IDCW;74.7296;12-Sep-2022
 143904;INF109KC1FW3;-;ICICI Prudential BHARAT 22 FOF - Cumulative Option;16.0654;12-Sep-2022
 143903;INF109KC1FX1;-;ICICI Prudential BHARAT 22 FOF - Direct Plan Cumulative Option;16.0668;12-Sep-2022
-120703;INF109K01X57;INF109K01X65;ICICI Prudential Debt Management Fund (FOF) - Direct Plan -  IDCW;36.3538;12-Sep-2022
-120702;INF109K01X73;-;ICICI Prudential Debt Management Fund (FOF) - Direct Plan - Growth;37.7579;12-Sep-2022
-102141;INF109K01878;-;ICICI Prudential Debt Management Fund (FOF) - Growth;36.4905;12-Sep-2022
-102143;INF109K01FS0;INF109K01886;ICICI Prudential Debt Management Fund (FOF ) - IDCW;34.9490;12-Sep-2022
+120703;INF109K01X57;INF109K01X65;ICICI Prudential Debt Management Fund (FOF) - Direct Plan -  IDCW;36.2876;12-Sep-2022
+120702;INF109K01X73;-;ICICI Prudential Debt Management Fund (FOF) - Direct Plan - Growth;37.6892;12-Sep-2022
+102141;INF109K01878;-;ICICI Prudential Debt Management Fund (FOF) - Growth;36.4242;12-Sep-2022
+102143;INF109K01FS0;INF109K01886;ICICI Prudential Debt Management Fund (FOF ) - IDCW;34.8854;12-Sep-2022
 147648;INF109KC1F34;-;ICICI Prudential Global Advantage Fund (FOF) - Direct Plan - Growth Option;11.8357;09-Sep-2022
 147645;INF109KC1F42;-;ICICI Prudential Global Advantage Fund (FOF) - Direct Plan - IDCW;11.8356;09-Sep-2022
 147647;INF109KC1F00;-;ICICI Prudential Global Advantage Fund (FOF) - Growth Option;11.6164;09-Sep-2022
@@ -6243,10 +6243,10 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 120314;INF109K01W66;INF109K01W74;ICICI Prudential Income Optimizer Fund (FOF) - Direct Plan - IDCW;44.0138;12-Sep-2022
 102139;INF109K01811;-;ICICI Prudential Income Optimizer Fund (FOF) - Growth;45.7193;12-Sep-2022
 102140;INF109K01EB9;INF109K01829;ICICI Prudential Income Optimizer Fund (FOF) - IDCW;41.8400;12-Sep-2022
-148035;INF109KC1I49;-;ICICI Prudential India Equity FOF - Direct Plan - Growth;18.1685;12-Sep-2022
-148036;INF109KC1I64;INF109KC1I56;ICICI Prudential India Equity FOF - Direct Plan - IDCW;16.6159;12-Sep-2022
-148033;INF109KC1I15;-;ICICI Prudential India Equity FOF - Growth;17.7537;12-Sep-2022
-148034;INF109KC1I31;INF109KC1I23;ICICI Prudential India Equity FOF - IDCW;16.2066;12-Sep-2022
+148035;INF109KC1I49;-;ICICI Prudential India Equity FOF - Direct Plan - Growth;18.1688;12-Sep-2022
+148036;INF109KC1I64;INF109KC1I56;ICICI Prudential India Equity FOF - Direct Plan - IDCW;16.6162;12-Sep-2022
+148033;INF109KC1I15;-;ICICI Prudential India Equity FOF - Growth;17.754;12-Sep-2022
+148034;INF109KC1I31;INF109KC1I23;ICICI Prudential India Equity FOF - IDCW;16.2069;12-Sep-2022
 148822;INF109KC1P81;-;ICICI Prudential Nifty 100 Low Volatility 30 ETF FOF - Direct Plan - Growth;12.0941;12-Sep-2022
 148823;INF109KC1Q07;INF109KC1P99;ICICI Prudential Nifty 100 Low Volatility 30 ETF FOF - Direct Plan - IDCW;12.0941;12-Sep-2022
 148821;INF109KC1P57;-;ICICI Prudential Nifty 100 Low Volatility 30 ETF FOF - Growth;11.9984;12-Sep-2022
