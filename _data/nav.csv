@@ -4744,6 +4744,11 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 119731;INF200K01RT0;INF200K01RU8;SBI Technology Opportunities Fund - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);104.7794;09-Sep-2022
 120577;INF200K01VS4;-;SBI TECHNOLOGY OPPORTUNITIES FUND - REGULAR PLAN - GROWTH;133.6229;09-Sep-2022
 100643;INF200K01420;INF200K01438;SBI Technology Opportunities Fund - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);80.4652;09-Sep-2022
+119595;INF903J01NH5;-;Sundaram Consumption Fund (Formerly Known as Sundaram Rural and Consumption Fund Direct Plan - Growth);68.4685;09-Sep-2022
+113373;INF903J01579;INF903J01587;Sundaram Consumption Fund (Formerly Known as Sundaram Rural and Consumption Fund Institutional Plan - Income Distribution cum Capital Withdrawal (IDCW);31.9314;30-Nov-2018
+103743;INF903J01546;INF903J01553;Sundaram Consumption Fund (Formerly Known as Sundaram Rural and Consumption Fund Regular Plan - Income Distribution cum Capital Withdrawal (IDCW);24.2563;09-Sep-2022
+119594;INF903J01NF9;INF903J01NG7;Sundaram Consumption Fund (Formerly Known asSundaram Rural and Consumption Fund Direct Plan - Income Distribution cum Capital Withdrawal (IDCW);26.3718;09-Sep-2022
+102142;INF903J01561;-;Sundaram Consumption Fund(Formerly Known as Sundaram Rural and Consumption Fund Regular Plan - Growth);64.0318;09-Sep-2022
 119597;INF903J01NB8;-;Sundaram Financial Services Opportunities Fund Direct Plan - Growth;68.5799;09-Sep-2022
 119596;INF903J01MZ9;INF903J01NA0;Sundaram Financial Services Opportunities Fund Direct Plan - Income Distribution cum Capital Withdrawal (IDCW);26.9339;09-Sep-2022
 109061;INF903J01652;-;Sundaram Financial Services Opportunities Fund Institutional Plan - Growth;70.5125;09-Sep-2022
@@ -4754,11 +4759,6 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 129211;INF903J01G00;INF903J01G18;Sundaram Infrastructure Advantage Fund Direct Plan - Income Distribution cum Capital Withdrawal (IDCW);44.2447;09-Sep-2022
 129213;INF903J01F68;-;Sundaram Infrastructure Advantage Fund Regular Plan - Growth;54.5442;09-Sep-2022
 129210;INF903J01F76;INF903J01F84;Sundaram Infrastructure Advantage Fund Regular Plan - Income Distribution cum Capital Withdrawal (IDCW);41.8698;09-Sep-2022
-119595;INF903J01NH5;-;Sundaram Rural and Consumption Fund Direct Plan - Growth;68.4685;09-Sep-2022
-119594;INF903J01NF9;INF903J01NG7;Sundaram Rural and Consumption Fund Direct Plan - Income Distribution cum Capital Withdrawal (IDCW);26.3718;09-Sep-2022
-113373;INF903J01579;INF903J01587;Sundaram Rural and Consumption Fund Institutional Plan - Income Distribution cum Capital Withdrawal (IDCW);31.9314;30-Nov-2018
-102142;INF903J01561;-;Sundaram Rural and Consumption Fund Regular Plan - Growth;64.0318;09-Sep-2022
-103743;INF903J01546;INF903J01553;Sundaram Rural and Consumption Fund Regular Plan - Income Distribution cum Capital Withdrawal (IDCW);24.2563;09-Sep-2022
 144835;INF903JA1FA2;-;Sundaram Services Fund Direct Plan - Growth;22.6686;09-Sep-2022
 144836;INF903JA1FB0;-;Sundaram Services Fund Direct Plan - Payout of Income Distribution cum Capital Withdrawal (IDCW) ;19.3189;09-Sep-2022
 144837;INF903JA1FC8;-;Sundaram Services Fund Direct Plan - Reinvestment of Income Distribution cum Capital Withdrawal (IDCW) ;19.3189;09-Sep-2022
@@ -6557,10 +6557,10 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 148762;INF200KA1T96;-;SBI International Access - US Equity FoF - Regular Plan - Growth;10.8632;09-Sep-2022
 148761;INF200KA1U36;INF200KA1U44;SBI International Access- US Equity FoF Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);10.9992;09-Sep-2022
 148759;INF200KA1U02;INF200KA1U10;SBI International Access- US Equity FoF Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);10.8635;09-Sep-2022
-119602;INF903J01OB6;-;Sundaram Global Brand Fund Direct Plan - Growth;22.9300;08-Sep-2022
-119601;INF903J01NZ7;INF903J01OA8;Sundaram Global Brand Fund Direct Plan - Income Distribution cum Capital Withdrawal (IDCW);20.3953;08-Sep-2022
-106370;INF903J01EX1;-;Sundaram Global Brand Fund Regular Plan - Growth;21.5281;08-Sep-2022
-106369;INF903J01EY9;INF903J01EZ6;Sundaram Global Brand Fund Regular Plan - Income Distribution cum Capital Withdrawal (IDCW);18.4477;08-Sep-2022
+119602;INF903J01OB6;-;Sundaram Global Brand Fund Direct Plan - Growth;23.3044;09-Sep-2022
+119601;INF903J01NZ7;INF903J01OA8;Sundaram Global Brand Fund Direct Plan - Income Distribution cum Capital Withdrawal (IDCW);20.7283;09-Sep-2022
+106370;INF903J01EX1;-;Sundaram Global Brand Fund Regular Plan - Growth;21.8789;09-Sep-2022
+106369;INF903J01EY9;INF903J01EZ6;Sundaram Global Brand Fund Regular Plan - Income Distribution cum Capital Withdrawal (IDCW);18.7483;09-Sep-2022
 115127;INF209KB18D3;-;Aditya Birla Sun Life Gold ETF;46.1908;09-Sep-2022
 113434;INF846K01W80;-;Axis Gold ETF;43.8527;09-Sep-2022
 113049;INF179KC1981;-;HDFC Gold Exchange Traded Fund. - Growth Option;44.9563;09-Sep-2022
@@ -7632,10 +7632,6 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 141407;INF903JA1AO4;-;Sundaram Select Micro Cap Series XV Direct Plan - Payout of Income Distribution cum Capital Withdrawal (IDCW);16.5285;31-May-2022
 141406;INF903JA1AL0;-;Sundaram Select Micro Cap Series XV Regular Plan - Growth;15.8941;31-May-2022
 141405;INF903JA1AM8;-;Sundaram Select Micro Cap Series XV Regular Plan - Payout of Income Distribution cum Capital Withdrawal (IDCW);15.8941;31-May-2022
-141740;INF903JA1BD5;-;Sundaram Select Micro Cap Series XVI Direct Plan - Growth;15.4943;30-Aug-2022
-141743;INF903JA1BE3;-;Sundaram Select Micro Cap Series XVI Direct Plan - Payout of Income Distribution cum Capital Withdrawal (IDCW);15.4943;30-Aug-2022
-141742;INF903JA1BB9;-;Sundaram Select Micro Cap Series XVI Regular Plan - Growth;15.0473;30-Aug-2022
-141741;INF903JA1BC7;-;Sundaram Select Micro Cap Series XVI Regular Plan - Payout of Income Distribution cum Capital Withdrawal (IDCW);15.0473;30-Aug-2022
 141873;INF903JA1BH6;-;Sundaram Select Micro Cap Series XVII Direct Plan - Growth;14.9894;09-Sep-2022
 141874;INF903JA1BI4;-;Sundaram Select Micro Cap Series XVII Direct Plan - Payout of Income Distribution cum Capital Withdrawal (IDCW);14.9894;09-Sep-2022
 141871;INF903JA1BF0;-;Sundaram Select Micro Cap Series XVII Regular Plan - Growth;14.3693;09-Sep-2022
