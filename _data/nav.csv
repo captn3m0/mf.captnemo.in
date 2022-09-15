@@ -5630,10 +5630,10 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 141766;INF754K01IK4;INF754K01IL2;Edelweiss Balanced Advantage Fund - Regular Plan - Monthly - IDCW Option;20.55;14-Sep-2022
 112118;INF754K01251;INF754K01269;Edelweiss Balanced Advantage Fund - Regular Plan - Quarterly - IDCW Option;17.35;14-Sep-2022
 118615;INF754K01BS2;-;Edelweiss Balanced Advantage Fund -Direct Plan-Growth Option;40.45;14-Sep-2022
-150480;-;-;Franklin India Balanced Advantage Fund- Growth;10.0895;14-Sep-2022
-150481;-;-;Franklin India Balanced Advantage Fund- Growth- Direct;10.0932;14-Sep-2022
-150478;-;-;Franklin India Balanced Advantage Fund- IDCW;10.0895;14-Sep-2022
-150479;-;-;Franklin India Balanced Advantage Fund- IDCW- Direct;10.0932;14-Sep-2022
+150480;INF090I01WN2;-;Franklin India Balanced Advantage Fund- Growth;10.0895;14-Sep-2022
+150481;INF090I01WQ5;-;Franklin India Balanced Advantage Fund- Growth- Direct;10.0932;14-Sep-2022
+150478;INF090I01WO0;INF090I01WP7;Franklin India Balanced Advantage Fund- IDCW;10.0895;14-Sep-2022
+150479;INF090I01WR3;INF090I01WS1;Franklin India Balanced Advantage Fund- IDCW- Direct;10.0932;14-Sep-2022
 100119;INF179K01830;-;HDFC Balanced Advantage Fund - Growth Plan;315.296;14-Sep-2022
 118968;INF179K01WA6;-;HDFC Balanced Advantage Fund - Growth Plan - Direct Plan;334.767;14-Sep-2022
 100120;INF179K01814;INF179K01822;HDFC Balanced Advantage Fund - IDCW Plan;30.339;14-Sep-2022
@@ -6536,8 +6536,8 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 149231;INF174V01BA8;INF174V01AZ7;Mahindra Manulife Asia Pacific REITs FOF - Direct Plan - IDCW;8.8471;14-Sep-2022
 149228;INF174V01AV6;-;Mahindra Manulife Asia Pacific REITs FOF - Regular Plan - Growth;8.7631;14-Sep-2022
 149229;INF174V01AX2;INF174V01AW4;Mahindra Manulife Asia Pacific REITs FOF - Regular Plan - IDCW;8.7631;14-Sep-2022
-150594;INF769K01IP1;-;Mirae Asset Global Electric & Autonomous Vehicles ETFs Fund of Fund - Regular Plan - Growth;10.075;14-Sep-2022
-150595;INF769K01IQ9;-;Mirae Asset Global Electric & Autonomous Vehicles ETFs Fund of Fund- Direct Plan - Growth;10.076;14-Sep-2022
+150594;INF769K01IP1;-;Mirae Asset Global Electric & Autonomous Vehicles ETFs Fund of Fund - Regular Plan - Growth;10.074;14-Sep-2022
+150595;INF769K01IQ9;-;Mirae Asset Global Electric & Autonomous Vehicles ETFs Fund of Fund- Direct Plan - Growth;10.074;14-Sep-2022
 150597;INF769K01IS5;-;Mirae Asset Global X Artificial Intelligence & Technology ETF Fund of Fund - Direct Plan- Growth;9.908;14-Sep-2022
 150596;INF769K01IR7;-;Mirae Asset Global X Artificial Intelligence & Technology ETF Fund of Fund - Regular Plan - Growth;9.907;14-Sep-2022
 149910;-;-;Navi NASDAQ 100 Fund of Fund- Direct- Growth;8.5346;14-Sep-2022
