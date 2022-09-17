@@ -5863,12 +5863,12 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 149676;INF173K01262;INF173K01270;Sundaram Equity Savings Fund (Formerly Known as Principal Equity Savings Fund) -Quarterly Income Distribution CUM Capital Withdrawal;15.3911;16-Sep-2022
 149678;INF173K01HF9;INF173K01HG7;Sundaram Equity Savings Fund (Formerly Known as Principal Equity Savings Fund)- Direct Plan - Income Distribution CUM Capital Withdrawal Option - Quarterly;21.3308;16-Sep-2022
 149675;INF173K01247;INF173K01254;Sundaram Equity Savings Fund (Formerly Known as Principal Equity Savings Fund)- Half Yearly Income Distribution CUM Capital Withdrawal;14.2942;16-Sep-2022
-101906;INF277K01907;-;Tata Equity Savings Fund -Regular Plan-Growth Option;42.0645;15-Sep-2022
-119960;INF277K01QH5;-;Tata Equity Savings Fund- Direct Plan- Growth Option;46.4502;15-Sep-2022
-102118;INF277K01EF5;INF277K01915;Tata Equity Savings Fund- Regular Plan - Periodic Payout of IDCW Option;20.1537;15-Sep-2022
-101609;INF277K01EE8;INF277K01899;TATA Equity Savings Fund- Regular Plan -Monthly Payout of IDCW option;15.0323;15-Sep-2022
-119958;INF277K01QI3;INF277K01QJ1;Tata Equity Savings Fund-Direct Plan - Monthly Payout of IDCW Option;17.7011;15-Sep-2022
-119959;INF277K01QK9;INF277K01QL7;Tata Equity Savings Fund-Direct Plan - Periodic Payout of IDCWS Option;22.6982;15-Sep-2022
+101906;INF277K01907;-;Tata Equity Savings Fund -Regular Plan-Growth Option;41.7870;16-Sep-2022
+119960;INF277K01QH5;-;Tata Equity Savings Fund- Direct Plan- Growth Option;46.1450;16-Sep-2022
+102118;INF277K01EF5;INF277K01915;Tata Equity Savings Fund- Regular Plan - Periodic Payout of IDCW Option;20.0207;16-Sep-2022
+101609;INF277K01EE8;INF277K01899;TATA Equity Savings Fund- Regular Plan -Monthly Payout of IDCW option;14.9332;16-Sep-2022
+119958;INF277K01QI3;INF277K01QJ1;Tata Equity Savings Fund-Direct Plan - Monthly Payout of IDCW Option;17.5848;16-Sep-2022
+119959;INF277K01QK9;INF277K01QL7;Tata Equity Savings Fund-Direct Plan - Periodic Payout of IDCWS Option;22.5490;16-Sep-2022
 144312;INF582M01EC1;-;Union Equity Savings Fund - Direct Plan - Growth Option;13.64;16-Sep-2022
 144313;INF582M01EE7;INF582M01ED9;Union Equity Savings Fund - Direct Plan - IDCW Option;13.64;16-Sep-2022
 144310;INF582M01EG2;-;Union Equity Savings Fund - Regular Plan - Growth Option;13.30;16-Sep-2022
@@ -5913,12 +5913,12 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 103408;INF200K01800;-;SBI MULTI ASSET ALLOCATION FUND - REGULAR PLAN - GROWTH;38.4773;16-Sep-2022
 103400;INF200K01818;INF200K01826;SBI Multi Asset Allocation Fund - Regular Plan - Monthly Income Distribution cum Capital Withdrawal Option (IDCW);17.2048;16-Sep-2022
 103401;INF200K01834;INF200K01842;SBI Multi Asset Allocation Fund - Regular Plan - Quarterly Income Distribution cum Capital Withdrawal Option (IDCW);17.1884;16-Sep-2022
-148052;-;INF277K010Z9;Tata Multi Asset Opportnities Fund-Direct Plan-Dividend Reinvestment;16.8957;15-Sep-2022
-148049;INF277K011Z7;-;Tata Multi Asset Opportunities Fund-Direct Plan-Dividend Payout;16.8957;15-Sep-2022
-148053;INF277K019Y3;-;Tata Multi Asset Opportunities Fund-Direct Plan-Growth;16.8957;15-Sep-2022
-148054;INF277K014Z1;-;Tata Multi Asset Opportunities Fund-Regular Plan-Dividend Payout;16.1239;15-Sep-2022
-148051;-;INF277K013Z3;Tata Multi Asset Opportunities Fund-Regular Plan-Dividend Reinvestment;16.1239;15-Sep-2022
-148050;INF277K012Z5;-;Tata Multi Asset Opportunities Fund-Regular Plan-Growth;16.1239;15-Sep-2022
+148052;-;INF277K010Z9;Tata Multi Asset Opportnities Fund-Direct Plan-Dividend Reinvestment;16.6885;16-Sep-2022
+148049;INF277K011Z7;-;Tata Multi Asset Opportunities Fund-Direct Plan-Dividend Payout;16.6885;16-Sep-2022
+148053;INF277K019Y3;-;Tata Multi Asset Opportunities Fund-Direct Plan-Growth;16.6885;16-Sep-2022
+148054;INF277K014Z1;-;Tata Multi Asset Opportunities Fund-Regular Plan-Dividend Payout;15.9253;16-Sep-2022
+148051;-;INF277K013Z3;Tata Multi Asset Opportunities Fund-Regular Plan-Dividend Reinvestment;15.9253;16-Sep-2022
+148050;INF277K012Z5;-;Tata Multi Asset Opportunities Fund-Regular Plan-Growth;15.9253;16-Sep-2022
 111599;INF789F01AP6;-;UTI - Multi Asset Fund - Regular Plan - Growth Option;44.6108;16-Sep-2022
 120760;INF789F01VE6;-;UTI - Multi Asset Fund- Direct Plan - Growth Option;48.1351;16-Sep-2022
 120761;INF789F01VC0;INF789F01VD8;UTI Multi Asset Fund - Direct Plan - IDCW;21.7678;16-Sep-2022
@@ -6324,10 +6324,10 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 119781;INF174K01MP6;-;Kotak Gold Fund Growth - Direct;20.7737;16-Sep-2022
 114757;INF174K01AU1;INF174K01AV9;Kotak Gold Fund Payout of Income Distribution cum capital withdrawal option;19.9122;16-Sep-2022
 119780;INF174K01MQ4;INF174K01MR2;Kotak Gold Fund Payout of Income Distribution cum capital withdrawal option- Direct;20.7735;16-Sep-2022
-119777;INF174K01LN3;-;Kotak Multi Asset Allocator Fund of Fund - Dynamic - Direct Growth - Direct;151.839;15-Sep-2022
-119776;INF174K01LO1;-;Kotak Multi Asset Allocator Fund of Fund - Dynamic - Direct Payout of Income Distribution cum capital withdrawal option;149.107;15-Sep-2022
-102574;INF174K01468;-;Kotak Multi Asset Allocator Fund of Fund - Dynamic - Growth;144.035;15-Sep-2022
-102573;INF174K01484;INF174K01476;Kotak Multi Asset Allocator Fund of Fund - Dynamic - Payout of Income Distribution cum capital withdrawal option;140.205;15-Sep-2022
+119777;INF174K01LN3;-;Kotak Multi Asset Allocator Fund of Fund - Dynamic - Direct Growth - Direct;150.947;16-Sep-2022
+119776;INF174K01LO1;-;Kotak Multi Asset Allocator Fund of Fund - Dynamic - Direct Payout of Income Distribution cum capital withdrawal option;148.231;16-Sep-2022
+102574;INF174K01468;-;Kotak Multi Asset Allocator Fund of Fund - Dynamic - Growth;143.186;16-Sep-2022
+102573;INF174K01484;INF174K01476;Kotak Multi Asset Allocator Fund of Fund - Dynamic - Payout of Income Distribution cum capital withdrawal option;139.378;16-Sep-2022
 148501;INF769K01GD1;INF769K01GF6;Mirae Asset Equity Allocator Fund  of Fund Direct IDCW;16.270;16-Sep-2022
 148503;INF769K01GA7;INF769K01GC3;Mirae Asset Equity Allocator Fund  of Fund Regular IDCW;16.228;16-Sep-2022
 148500;INF769K01GE9;-;Mirae Asset Equity Allocator Fund of Fund Direct Growth;16.262;16-Sep-2022
@@ -6514,20 +6514,20 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 126352;INF205K01A32;INF205K01A40;Invesco India - Invesco Pan European Equity Fund of Fund - Direct Plan - IDCW (Payout / Reinvestment);12.4139;16-Sep-2022
 126351;INF205K01ZZ9;-;Invesco India - Invesco Pan European Equity Fund of Fund - Regular Plan - Growth Option;11.5566;16-Sep-2022
 126350;INF205K01A08;INF205K01A16;Invesco India - Invesco Pan European Equity Fund of Fund - Regular Plan - IDCW (Payout / Reinvestment);11.5563;16-Sep-2022
-106441;INF174K01DV3;-;Kotak Global Emerging Market Fund - Growth;18.841;15-Sep-2022
-119779;INF174K01LW4;-;Kotak Global Emerging Market Fund - Growth - Direct;20.152;15-Sep-2022
-106442;INF174K01DX9;INF174K01DW1;Kotak Global Emerging Market Fund - Payout of Income Distribution cum capital withdrawal option;18.842;15-Sep-2022
-119778;INF174K01LX2;-;Kotak Global Emerging Market Fund - Payout of Income Distribution cum capital withdrawal option - Direct;20.237;15-Sep-2022
-149056;INF174KA1HD1;-;Kotak Global Innovation Fund of Fund - Regular Plan-Growth;6.8524;15-Sep-2022
-149060;INF174KA1HH2;INF174KA1HI0;Kotak Global Innovation Fund of Fund- Direct Plan - IDCW Option;6.9532;15-Sep-2022
-149059;INF174KA1HG4;-;Kotak Global Innovation Fund of Fund- Direct Plan -Growth;6.9532;15-Sep-2022
-149058;INF174KA1HE9;INF174KA1HF6;Kotak Global Innovation Fund of Fund- Regular Plan -IDCW Option;6.8526;15-Sep-2022
-148646;INF174KA1FO2;-;Kotak International REIT FOF - Direct Plan - Growth;9.4374;15-Sep-2022
-148649;INF174KA1FN4;-;Kotak International REIT FOF - Direct Plan - Payout of Income Distribution cum capital withdrawal option;9.4373;15-Sep-2022
-148645;INF174KA1FL8;-;Kotak International REIT FOF - Regular Plan - Growth;9.286;15-Sep-2022
-148647;INF174KA1FK0;-;Kotak International REIT FOF - Regular Plan - Payout of Income Distribution cum capital withdrawal option;9.286;15-Sep-2022
-148662;INF174KA1FQ7;-;Kotak NASDAQ 100 Fund of Fund - Direct Plan - Growth;9.6637;15-Sep-2022
-148661;INF174KA1FR5;-;Kotak NASDAQ 100 Fund of Fund - Regular Plan - Growth;9.6003;15-Sep-2022
+106441;INF174K01DV3;-;Kotak Global Emerging Market Fund - Growth;18.561;16-Sep-2022
+119779;INF174K01LW4;-;Kotak Global Emerging Market Fund - Growth - Direct;19.854;16-Sep-2022
+106442;INF174K01DX9;INF174K01DW1;Kotak Global Emerging Market Fund - Payout of Income Distribution cum capital withdrawal option;18.563;16-Sep-2022
+119778;INF174K01LX2;-;Kotak Global Emerging Market Fund - Payout of Income Distribution cum capital withdrawal option - Direct;19.937;16-Sep-2022
+149056;INF174KA1HD1;-;Kotak Global Innovation Fund of Fund - Regular Plan-Growth;6.7546;16-Sep-2022
+149060;INF174KA1HH2;INF174KA1HI0;Kotak Global Innovation Fund of Fund- Direct Plan - IDCW Option;6.8542;16-Sep-2022
+149059;INF174KA1HG4;-;Kotak Global Innovation Fund of Fund- Direct Plan -Growth;6.8542;16-Sep-2022
+149058;INF174KA1HE9;INF174KA1HF6;Kotak Global Innovation Fund of Fund- Regular Plan -IDCW Option;6.7548;16-Sep-2022
+148646;INF174KA1FO2;-;Kotak International REIT FOF - Direct Plan - Growth;9.4154;16-Sep-2022
+148649;INF174KA1FN4;-;Kotak International REIT FOF - Direct Plan - Payout of Income Distribution cum capital withdrawal option;9.4153;16-Sep-2022
+148645;INF174KA1FL8;-;Kotak International REIT FOF - Regular Plan - Growth;9.2641;16-Sep-2022
+148647;INF174KA1FK0;-;Kotak International REIT FOF - Regular Plan - Payout of Income Distribution cum capital withdrawal option;9.2641;16-Sep-2022
+148662;INF174KA1FQ7;-;Kotak NASDAQ 100 Fund of Fund - Direct Plan - Growth;9.5173;16-Sep-2022
+148661;INF174KA1FR5;-;Kotak NASDAQ 100 Fund of Fund - Regular Plan - Growth;9.4547;16-Sep-2022
 133832;INF178L01CM3;INF178L01CN1;Kotak US Equity Fund - Direct Plan - Dividend option;20.129;25-Feb-2020
 133831;INF178L01CL5;-;Kotak US Equity Fund - Direct Plan - Growth option;20.131;25-Feb-2020
 133830;INF178L01CJ9;INF178L01CK7;Kotak US Equity Fund - Standard Plan - Dividend option;19.213;25-Feb-2020
@@ -6561,10 +6561,10 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 149300;INF663L01W71;INF663L01W89;PGIM India Global Select Real Estate Securities Fund of Fund - Direct Plan - IDCW Option;8.69;15-Sep-2022
 149299;INF663L01W97;-;PGIM India Global Select Real Estate Securities Fund of Fund - Regular Plan - Growth Option;8.64;15-Sep-2022
 149301;INF663L01X05;INF663L01X13;PGIM India Global Select Real Estate Securities Fund of Fund - Regular Plan - IDCW Option;8.64;15-Sep-2022
-148760;INF200KA1U28;-;SBI International Access - US Equity FoF - Direct Plan - Growth;10.4942;15-Sep-2022
-148762;INF200KA1T96;-;SBI International Access - US Equity FoF - Regular Plan - Growth;10.3637;15-Sep-2022
-148761;INF200KA1U36;INF200KA1U44;SBI International Access- US Equity FoF Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);10.4946;15-Sep-2022
-148759;INF200KA1U02;INF200KA1U10;SBI International Access- US Equity FoF Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);10.3640;15-Sep-2022
+148760;INF200KA1U28;-;SBI International Access - US Equity FoF - Direct Plan - Growth;10.3909;16-Sep-2022
+148762;INF200KA1T96;-;SBI International Access - US Equity FoF - Regular Plan - Growth;10.2614;16-Sep-2022
+148761;INF200KA1U36;INF200KA1U44;SBI International Access- US Equity FoF Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);10.3913;16-Sep-2022
+148759;INF200KA1U02;INF200KA1U10;SBI International Access- US Equity FoF Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);10.2617;16-Sep-2022
 119602;INF903J01OB6;-;Sundaram Global Brand Fund Direct Plan - Growth;22.7521;14-Sep-2022
 119601;INF903J01NZ7;INF903J01OA8;Sundaram Global Brand Fund Direct Plan - Income Distribution cum Capital Withdrawal (IDCW);20.2370;14-Sep-2022
 106370;INF903J01EX1;-;Sundaram Global Brand Fund Regular Plan - Growth;21.3568;14-Sep-2022
