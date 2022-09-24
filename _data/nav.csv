@@ -1460,13 +1460,13 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 100828;-;INF174K01FY2;Kotak Liquid-Regular (Dividend);1002.9403;21-Oct-2016
 100829;INF174K01NM1;-;Kotak Liquid-Regular (Growth);2893.5255;21-Oct-2016
 129923;INF917K01QI4;-;L&T Liquid Fund - Direct Plan - Bonus;1877.9353;30-Dec-2014
-122235;-;INF917K01HE2;L&T Liquid Fund - Direct Plan - Weekly IDCW;1001.5748;24-Sep-2022
-119791;INF917K01HG7;-;L&T Liquid Fund - Direct Plan -Daily IDCW;1014.513;24-Sep-2022
-119790;INF917K01HF9;-;L&T Liquid Fund - Direct Plan -Growth;2979.7859;24-Sep-2022
-112458;INF917K01BK2;INF917K01JG3;L&T Liquid Fund - Regular Plan - Weekly IDCW;1003.3374;24-Sep-2022
+122235;-;INF917K01HE2;L&T Liquid Fund - Direct Plan - Weekly IDCW;1001.7363;25-Sep-2022
+119791;INF917K01HG7;-;L&T Liquid Fund - Direct Plan -Daily IDCW;1014.3496;25-Sep-2022
+119790;INF917K01HF9;-;L&T Liquid Fund - Direct Plan -Growth;2980.2665;25-Sep-2022
+112458;INF917K01BK2;INF917K01JG3;L&T Liquid Fund - Regular Plan - Weekly IDCW;1003.4976;25-Sep-2022
 129924;INF917K01QH6;-;L&T Liquid Fund -Regular Plan - Bonus;2318.6887;20-Nov-2017
-112445;INF917K01JB4;-;L&T Liquid Fund -Regular Plan - Daily IDCW;1011.9407;24-Sep-2022
-112457;INF917K01JH1;-;L&T Liquid Fund -Regular Plan - Growth;2963.8089;24-Sep-2022
+112445;INF917K01JB4;-;L&T Liquid Fund -Regular Plan - Daily IDCW;1011.7794;25-Sep-2022
+112457;INF917K01JH1;-;L&T Liquid Fund -Regular Plan - Growth;2964.282;25-Sep-2022
 120248;INF767K01DL5;INF767K01DM3;LIC MF Liquid Fund-Direct Plan-Daily IDCW;1013.6;23-Sep-2022
 120249;INF767K01DN1;-;LIC MF Liquid Fund-Direct Plan-Growth;3951.3521;23-Sep-2022
 101184;INF767K01IQ3;INF767K01IR1;LIC MF Liquid Fund-Regular Plan-Daily IDCW;1000.1;23-Sep-2022
@@ -2700,14 +2700,14 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 146142;INF174KA1BC6;-;Kotak Overnight Fund -Regular plan-Growth Option;1154.9516;23-Sep-2022
 146140;-;INF174KA1BE2;Kotak Overnight Fund-Direct Plan- Daily Reinvestment of Income Distribution cum capital withdrawal option;1003.6055;23-Sep-2022
 146138;-;INF174KA1BB8;Kotak Overnight Fund-Regular Plan- Daily Reinvestment of Income Distribution cum capital withdrawal option;1004.7568;23-Sep-2022
-118066;INF917K01EL4;INF917K01EM2;L&T Overnight Fund  - Regular Plan - Monthly IDCW;1016.2077;24-Sep-2022
-119283;INF917K01EN0;-;L&T Overnight Fund - Direct Plan - Growth;1694.712;24-Sep-2022
-119284;-;INF917K01EO8;L&T Overnight Fund - Direct Plan- Daily IDCW;1023.4498;24-Sep-2022
-119282;INF917K01ER1;-;L&T Overnight Fund - Direct Plan- Monthly IDCW;1073.4254;24-Sep-2022
-119285;-;INF917K01EP5;L&T Overnight Fund - Direct Plan- Weekly IDCW;1002.1752;24-Sep-2022
-118056;-;INF917K01EJ8;L&T Overnight Fund - Regular Plan - Daily IDCW;1023.4492;24-Sep-2022
-118058;INF917K01EI0;-;L&T Overnight Fund - Regular Plan - Growth;1611.7429;24-Sep-2022
-118065;-;INF917K01EK6;L&T Overnight Fund - Regular Plan - Weekly IDCW;1000.7701;24-Sep-2022
+118066;INF917K01EL4;INF917K01EM2;L&T Overnight Fund  - Regular Plan - Monthly IDCW;1016.3558;25-Sep-2022
+119283;INF917K01EN0;-;L&T Overnight Fund - Direct Plan - Growth;1694.9637;25-Sep-2022
+119284;-;INF917K01EO8;L&T Overnight Fund - Direct Plan- Daily IDCW;1023.3;25-Sep-2022
+119282;INF917K01ER1;-;L&T Overnight Fund - Direct Plan- Monthly IDCW;1073.5848;25-Sep-2022
+119285;-;INF917K01EP5;L&T Overnight Fund - Direct Plan- Weekly IDCW;1002.324;25-Sep-2022
+118056;-;INF917K01EJ8;L&T Overnight Fund - Regular Plan - Daily IDCW;1023.3;25-Sep-2022
+118058;INF917K01EI0;-;L&T Overnight Fund - Regular Plan - Growth;1611.9779;25-Sep-2022
+118065;-;INF917K01EK6;L&T Overnight Fund - Regular Plan - Weekly IDCW;1000.916;25-Sep-2022
 147516;-;INF767K01QG7;LIC MF Overnight Fund-Direct Plan-Daily IDCW;1034.7014;23-Sep-2022
 147515;INF767K01QI3;-;LIC MF Overnight Fund-Direct Plan-Growth;1126.0922;23-Sep-2022
 147513;INF767K01QE2;INF767K01QF9;LIC MF Overnight Fund-Direct Plan-IDCW;1125.8314;23-Sep-2022
