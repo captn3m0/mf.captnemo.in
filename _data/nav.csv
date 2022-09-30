@@ -4032,14 +4032,14 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 119249;INF740K01PS1;INF740K01PT9;DSP Top 100 Equity Fund - Direct Plan - IDCW;22.667;29-Sep-2022
 101635;INF740K01243;-;DSP Top 100 Equity Fund - Regular Plan - Growth;281.403;29-Sep-2022
 101636;INF740K01227;INF740K01235;DSP Top 100 Equity Fund - Regular Plan - IDCW;20.149;29-Sep-2022
-118616;INF754K01BT0;INF754K01BU8;Edelweiss Large Cap Fund - Direct Plan - IDCW Option;27.23;28-Sep-2022
-118617;INF754K01BW4;-;Edelweiss Large Cap Fund - Direct Plan-Growth option;57.89;28-Sep-2022
-111938;INF754K01053;INF754K01061;Edelweiss Large Cap Fund - Plan B - IDCW Option;53.57;28-Sep-2022
-111939;INF754K01095;INF754K01103;Edelweiss Large Cap Fund - Plan C - IDCW Option;42.71;28-Sep-2022
-111940;INF754K01046;-;Edelweiss Large Cap Fund - Regular Plan - Growth Option;52.64;28-Sep-2022
-111936;INF754K01012;INF754K01020;Edelweiss Large Cap Fund - Regular Plan - IDCW Option;21.09;28-Sep-2022
-111935;INF754K01087;-;Edelweiss Large Cap Fund -Plan B - Growth option;52.95;28-Sep-2022
-111937;INF754K01129;-;Edelweiss Large Cap Fund -Plan C - Growth option;52.25;28-Sep-2022
+118616;INF754K01BT0;INF754K01BU8;Edelweiss Large Cap Fund - Direct Plan - IDCW Option;27.25;29-Sep-2022
+118617;INF754K01BW4;-;Edelweiss Large Cap Fund - Direct Plan-Growth option;57.93;29-Sep-2022
+111938;INF754K01053;INF754K01061;Edelweiss Large Cap Fund - Plan B - IDCW Option;53.61;29-Sep-2022
+111939;INF754K01095;INF754K01103;Edelweiss Large Cap Fund - Plan C - IDCW Option;42.74;29-Sep-2022
+111940;INF754K01046;-;Edelweiss Large Cap Fund - Regular Plan - Growth Option;52.68;29-Sep-2022
+111936;INF754K01012;INF754K01020;Edelweiss Large Cap Fund - Regular Plan - IDCW Option;21.1;29-Sep-2022
+111935;INF754K01087;-;Edelweiss Large Cap Fund -Plan B - Growth option;52.98;29-Sep-2022
+111937;INF754K01129;-;Edelweiss Large Cap Fund -Plan C - Growth option;52.29;29-Sep-2022
 118462;INF090I01FO5;INF090I01FP2;Franklin India BLUECHIP FUND - Direct - IDCW ;46.3342;29-Sep-2022
 100470;INF090I01155;INF090I01163;Franklin India BLUECHIP FUND - IDCW ;40.9373;29-Sep-2022
 118531;INF090I01FN7;-;Franklin India Bluechip Fund- Direct - Growth;718.3458;29-Sep-2022
@@ -4459,10 +4459,10 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 147304;INF740KA1NR4;INF740KA1NS2;DSP Quant Fund - Direct Plan - IDCW;16.113;29-Sep-2022
 147303;INF740KA1NN3;-;DSP Quant Fund - Regular Plan - Growth;15.719;29-Sep-2022
 147305;INF740KA1NO1;INF740KA1NP8;DSP Quant Fund - Regular Plan - IDCW;15.719;29-Sep-2022
-142386;INF754K01MM2;INF754K01MN0;Edelweiss Recently Listed IPO Fund - DIRECT PLAN - IDCW Option;18.1421;28-Sep-2022
-142388;INF754K01ML4;-;Edelweiss Recently Listed IPO Fund Direct Plan Growth;18.1421;28-Sep-2022
-142384;INF754K01MI0;INF754K01MJ8;Edelweiss Recently Listed IPO Fund REGULAR PLAN - IDCW Option;17.5738;28-Sep-2022
-142383;INF754K01MH2;-;Edelweiss Recently Listed IPO Fund Regular Plan Growth;17.5747;28-Sep-2022
+142386;INF754K01MM2;INF754K01MN0;Edelweiss Recently Listed IPO Fund - DIRECT PLAN - IDCW Option;18.3487;29-Sep-2022
+142388;INF754K01ML4;-;Edelweiss Recently Listed IPO Fund Direct Plan Growth;18.3488;29-Sep-2022
+142384;INF754K01MI0;INF754K01MJ8;Edelweiss Recently Listed IPO Fund REGULAR PLAN - IDCW Option;17.7733;29-Sep-2022
+142383;INF754K01MH2;-;Edelweiss Recently Listed IPO Fund Regular Plan Growth;17.7743;29-Sep-2022
 118559;INF090I01IZ5;-;Franklin Asian Equity Fund - Direct - Growth;23.9727;29-Sep-2022
 118558;INF090I01IX0;INF090I01IY8;Franklin Asian Equity Fund - Direct - IDCW ;12.1461;29-Sep-2022
 106979;INF090I01AB3;-;Franklin Asian Equity Fund - Growth Plan;22.4864;29-Sep-2022
@@ -5102,12 +5102,12 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 119020;INF740K01NZ1;INF740K01OA2;DSP Equity & Bond Fund - Direct Plan - IDCW;50.330;29-Sep-2022
 100081;INF740K01318;-;DSP Equity & Bond Fund- Regular Plan - Growth;224.901;29-Sep-2022
 100082;INF740K01326;INF740K01334;DSP Equity & Bond Fund- Regular Plan - IDCW;24.070;29-Sep-2022
-118625;INF754K01CB6;INF754K01CC4;Edelweiss Aggressive Hybrid Fund  - Direct Plan - IDCW Option;23.84;28-Sep-2022
-112013;INF754K01137;INF754K01145;Edelweiss Aggressive Hybrid Fund  - Plan B - IDCW Option;38.71;28-Sep-2022
-112108;INF754K01202;-;Edelweiss Aggressive Hybrid Fund - Regular Plan - Growth Option;38.45;28-Sep-2022
-112109;INF754K01178;INF754K01186;Edelweiss Aggressive Hybrid Fund - Regular Plan - IDCW Option;21.1;28-Sep-2022
-112012;INF754K01160;-;Edelweiss Aggressive Hybrid Fund- Plan B-Growth Option;37.97;28-Sep-2022
-118624;INF754K01CE0;-;Edelweiss Aggressive Hybrid Fund-Direct Plan-Growth Option;42.19;28-Sep-2022
+118625;INF754K01CB6;INF754K01CC4;Edelweiss Aggressive Hybrid Fund  - Direct Plan - IDCW Option;23.87;29-Sep-2022
+112013;INF754K01137;INF754K01145;Edelweiss Aggressive Hybrid Fund  - Plan B - IDCW Option;38.76;29-Sep-2022
+112108;INF754K01202;-;Edelweiss Aggressive Hybrid Fund - Regular Plan - Growth Option;38.51;29-Sep-2022
+112109;INF754K01178;INF754K01186;Edelweiss Aggressive Hybrid Fund - Regular Plan - IDCW Option;21.13;29-Sep-2022
+112012;INF754K01160;-;Edelweiss Aggressive Hybrid Fund- Plan B-Growth Option;38.03;29-Sep-2022
+118624;INF754K01CE0;-;Edelweiss Aggressive Hybrid Fund-Direct Plan-Growth Option;42.26;29-Sep-2022
 118546;INF090I01FZ1;-;Franklin India Equity Hybrid Fund - Direct - Growth;193.8705;29-Sep-2022
 118547;INF090I01GA2;INF090I01GB0;Franklin India Equity Hybrid Fund - Direct - IDCW ;27.7511;29-Sep-2022
 100550;INF090I01817;-;Franklin India Equity Hybrid Fund - Growth Plan;174.7809;29-Sep-2022
@@ -5303,13 +5303,13 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 142282;INF740KA1DI4;-;DSP Arbitrage Fund - Regular - Growth;12.385;29-Sep-2022
 142280;INF740KA1DJ2;INF740KA1DK0;DSP Arbitrage Fund - Regular - IDCW;10.936;29-Sep-2022
 142278;INF740KA1DL8;INF740KA1DM6;DSP Arbitrage Fund - Regular - IDCW - Monthly;10.695;29-Sep-2022
-130209;INF754K01EB2;INF754K01EC0;Edelweiss Arbitrage Fund - Direct Plan - IDCW Option;12.0588;28-Sep-2022
-141606;INF754K01HW1;INF754K01HX9;Edelweiss Arbitrage Fund - Monthly  Direct Plan - IDCW Option;13.8572;28-Sep-2022
-141605;INF754K01HT7;INF754K01HU5;Edelweiss Arbitrage Fund - Monthly  Regular Plan - IDCW Option;13.0895;28-Sep-2022
-130207;INF754K01EG1;INF754K01EH9;Edelweiss Arbitrage Fund - Regular Plan - IDCW Option;11.757;28-Sep-2022
-130206;INF754K01EA4;-;Edelweiss Arbitrage Fund- Direct Plan- Growth Option;16.8683;28-Sep-2022
-130208;INF754K01EJ5;-;Edelweiss Arbitrage Fund- Regular Plan -Bonus Option;16.0255;28-Sep-2022
-130205;INF754K01EF3;-;Edelweiss Arbitrage Fund- Regular Plan- Growth Option;16.0218;28-Sep-2022
+130209;INF754K01EB2;INF754K01EC0;Edelweiss Arbitrage Fund - Direct Plan - IDCW Option;12.0567;29-Sep-2022
+141606;INF754K01HW1;INF754K01HX9;Edelweiss Arbitrage Fund - Monthly  Direct Plan - IDCW Option;13.8549;29-Sep-2022
+141605;INF754K01HT7;INF754K01HU5;Edelweiss Arbitrage Fund - Monthly  Regular Plan - IDCW Option;13.0871;29-Sep-2022
+130207;INF754K01EG1;INF754K01EH9;Edelweiss Arbitrage Fund - Regular Plan - IDCW Option;11.7548;29-Sep-2022
+130206;INF754K01EA4;-;Edelweiss Arbitrage Fund- Direct Plan- Growth Option;16.8654;29-Sep-2022
+130208;INF754K01EJ5;-;Edelweiss Arbitrage Fund- Regular Plan -Bonus Option;16.0225;29-Sep-2022
+130205;INF754K01EF3;-;Edelweiss Arbitrage Fund- Regular Plan- Growth Option;16.0188;29-Sep-2022
 118931;INF179K01UU8;-;HDFC ARBITRAGE FUND - Growth Option - Direct Plan;26.038;29-Sep-2022
 118930;INF179K01UV6;INF179K01UW4;HDFC ARBITRAGE FUND - Quarterly IDCW Option - Direct Plan;19.732;29-Sep-2022
 106796;INF179K01319;-;HDFC ARBITRAGE FUND - Retail Growth Option;24.684;29-Sep-2022
@@ -5625,12 +5625,12 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 126391;INF740K01K99;INF740K01L07;DSP Dynamic Asset Allocation Fund - Direct Plan - IDCW - Monthly;13.052;29-Sep-2022
 126394;INF740K01K57;-;DSP Dynamic Asset Allocation Fund - Regular Plan - Growth;19.780;29-Sep-2022
 126392;INF740K01K65;INF740K01K73;DSP Dynamic Asset Allocation Fund - Regular Plan - IDCW - Monthly;11.661;29-Sep-2022
-141767;INF754K01IH0;INF754K01II8;Edelweiss Balanced Advantage Fund - Direct Plan - Monthly - IDCW Option;22.42;28-Sep-2022
-118614;INF754K01BP8;INF754K01BQ6;Edelweiss Balanced Advantage Fund - Direct Plan - Quarterly - IDCW Option;21.1;28-Sep-2022
-112117;INF754K01285;-;Edelweiss Balanced Advantage Fund - Regular Plan - Growth Option;35.37;28-Sep-2022
-141766;INF754K01IK4;INF754K01IL2;Edelweiss Balanced Advantage Fund - Regular Plan - Monthly - IDCW Option;19.6;28-Sep-2022
-112118;INF754K01251;INF754K01269;Edelweiss Balanced Advantage Fund - Regular Plan - Quarterly - IDCW Option;16.67;28-Sep-2022
-118615;INF754K01BS2;-;Edelweiss Balanced Advantage Fund -Direct Plan-Growth Option;38.88;28-Sep-2022
+141767;INF754K01IH0;INF754K01II8;Edelweiss Balanced Advantage Fund - Direct Plan - Monthly - IDCW Option;22.45;29-Sep-2022
+118614;INF754K01BP8;INF754K01BQ6;Edelweiss Balanced Advantage Fund - Direct Plan - Quarterly - IDCW Option;21.13;29-Sep-2022
+112117;INF754K01285;-;Edelweiss Balanced Advantage Fund - Regular Plan - Growth Option;35.41;29-Sep-2022
+141766;INF754K01IK4;INF754K01IL2;Edelweiss Balanced Advantage Fund - Regular Plan - Monthly - IDCW Option;19.62;29-Sep-2022
+112118;INF754K01251;INF754K01269;Edelweiss Balanced Advantage Fund - Regular Plan - Quarterly - IDCW Option;16.69;29-Sep-2022
+118615;INF754K01BS2;-;Edelweiss Balanced Advantage Fund -Direct Plan-Growth Option;38.93;29-Sep-2022
 150480;INF090I01WN2;-;Franklin India Balanced Advantage Fund- Growth;9.8122;29-Sep-2022
 150481;INF090I01WQ5;-;Franklin India Balanced Advantage Fund- Growth- Direct;9.8229;29-Sep-2022
 150478;INF090I01WO0;INF090I01WP7;Franklin India Balanced Advantage Fund- IDCW;9.8122;29-Sep-2022
@@ -5745,14 +5745,14 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 136564;INF740KA1447;INF740KA1454;DSP Equity Savings Fund - Regular Plan - IDCW;12.236;29-Sep-2022
 136565;INF740KA1462;INF740KA1470;DSP Equity Savings Fund - Regular Plan - IDCW - Monthly;12.394;29-Sep-2022
 136566;INF740KA1488;INF740KA1496;DSP Equity Savings Fund - Regular Plan - IDCW - Quarterly;12.342;29-Sep-2022
-140350;INF843K01KD6;-;Edelweiss Equity Savings Fund - Direct Plan - Bonus Option;19.6618;28-Sep-2022
-140347;INF843K01KC8;-;Edelweiss Equity Savings Fund - Direct Plan - Growth Option;19.6539;28-Sep-2022
-140348;INF843K01KE4;INF843K01KF1;Edelweiss Equity Savings Fund - Direct Plan - IDCW Option;14.2867;28-Sep-2022
-141933;INF754K01IN8;INF754K01IO6;Edelweiss Equity Savings Fund - Direct Plan - Monthly - IDCW Option;13.7803;28-Sep-2022
-140352;INF843K01KH7;-;Edelweiss Equity Savings Fund - Regular Plan - Bonus Option;18.3693;28-Sep-2022
-140351;INF843K01KG9;-;Edelweiss Equity Savings Fund - Regular Plan - Growth Option;18.3571;28-Sep-2022
-140349;INF843K01KI5;INF843K01KJ3;Edelweiss Equity Savings Fund - Regular Plan - IDCW Option;12.6872;28-Sep-2022
-141934;INF754K01IP3;INF754K01IQ1;Edelweiss Equity Savings Fund - Regular Plan - Monthly - IDCW Option;12.7803;28-Sep-2022
+140350;INF843K01KD6;-;Edelweiss Equity Savings Fund - Direct Plan - Bonus Option;19.6773;29-Sep-2022
+140347;INF843K01KC8;-;Edelweiss Equity Savings Fund - Direct Plan - Growth Option;19.6694;29-Sep-2022
+140348;INF843K01KE4;INF843K01KF1;Edelweiss Equity Savings Fund - Direct Plan - IDCW Option;14.2979;29-Sep-2022
+141933;INF754K01IN8;INF754K01IO6;Edelweiss Equity Savings Fund - Direct Plan - Monthly - IDCW Option;13.7912;29-Sep-2022
+140352;INF843K01KH7;-;Edelweiss Equity Savings Fund - Regular Plan - Bonus Option;18.3831;29-Sep-2022
+140351;INF843K01KG9;-;Edelweiss Equity Savings Fund - Regular Plan - Growth Option;18.3708;29-Sep-2022
+140349;INF843K01KI5;INF843K01KJ3;Edelweiss Equity Savings Fund - Regular Plan - IDCW Option;12.6967;29-Sep-2022
+141934;INF754K01IP3;INF754K01IQ1;Edelweiss Equity Savings Fund - Regular Plan - Monthly - IDCW Option;12.7899;29-Sep-2022
 144462;INF090I01PC9;INF090I01PB1;Franklin India Equity Savings Fund - Direct - IDCW ;12.3666;29-Sep-2022
 144465;INF090I01PH8;INF090I01PG0;Franklin India Equity Savings Fund - Direct - Monthly - IDCW;12.2848;29-Sep-2022
 144467;INF090I01PL0;INF090I01PK2;Franklin India Equity Savings Fund - Direct - Quarterly - IDCW;12.0723;29-Sep-2022
