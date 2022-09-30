@@ -3735,8 +3735,8 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 120843;INF966L01911;-;quant Flexi Cap Fund - Growth Option-Direct Plan;64.2769;29-Sep-2022
 120842;INF966L01895;INF966L01903;quant Flexi Cap Fund - IDCW Option - Direct Plan;43.7174;29-Sep-2022
 109831;INF966L01432;INF966L01440;quant Flexi Cap Fund - IDCW Option - Regular Plan;42.7679;29-Sep-2022
-149450;INF0K1H01024;-;Samco Flexi Cap Fund - Direct Plan - Growth Option;9.46;29-Sep-2022
-149449;INF0K1H01016;-;Samco Flexi Cap Fund - Regular Plan - Growth Option;9.36;29-Sep-2022
+149450;INF0K1H01024;-;Samco Flexi Cap Fund - Direct Plan - Growth Option;9.54;30-Sep-2022
+149449;INF0K1H01016;-;Samco Flexi Cap Fund - Regular Plan - Growth Option;9.45;30-Sep-2022
 119718;INF200K01UG1;-;SBI Flexicap Fund - DIRECT PLAN - Growth Option;80.3086;29-Sep-2022
 119717;INF200K01UE6;INF200K01UF3;SBI Flexicap Fund - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);40.1407;29-Sep-2022
 103216;INF200K01230;INF200K01248;SBI Flexicap Fund - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);32.9730;29-Sep-2022
@@ -7700,10 +7700,10 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 150463;INF209KB13K9;-;Aditya Birla Sun Life Fixed Term Plan - Series TT (153 days) - Direct Plan - Payout of IDCW Option;10.0911;29-Sep-2022
 150464;INF209KB10K5;-;Aditya Birla Sun Life Fixed Term Plan - Series TT (153 days) - Regular Plan - Growth Option;10.0896;29-Sep-2022
 150465;INF209KB11K3;-;Aditya Birla Sun Life Fixed Term Plan - Series TT (153 days) - Regular Plan - Payout of IDCW Option;10.0892;29-Sep-2022
-150666;-;-;Aditya Birla Sun Life Fixed Term Plan - Series TX (91 days) - Direct Plan - Growth Option;10.0088;29-Sep-2022
-150668;-;-;Aditya Birla Sun Life Fixed Term Plan - Series TX (91 days) - Direct Plan - Payout of IDCW Option;10.0087;29-Sep-2022
-150669;-;-;Aditya Birla Sun Life Fixed Term Plan - Series TX (91 days) - Regular Plan - Growth Option;10.0086;29-Sep-2022
-150670;-;-;Aditya Birla Sun Life Fixed Term Plan - Series TX (91 days) - Regular Plan - Payout of IDCW Option;10.0086;29-Sep-2022
+150666;INF209KB16L0;-;Aditya Birla Sun Life Fixed Term Plan - Series TX (91 days) - Direct Plan - Growth Option;10.0088;29-Sep-2022
+150668;INF209KB17L8;-;Aditya Birla Sun Life Fixed Term Plan - Series TX (91 days) - Direct Plan - Payout of IDCW Option;10.0087;29-Sep-2022
+150669;INF209KB14L5;-;Aditya Birla Sun Life Fixed Term Plan - Series TX (91 days) - Regular Plan - Growth Option;10.0086;29-Sep-2022
+150670;INF209KB15L2;-;Aditya Birla Sun Life Fixed Term Plan - Series TX (91 days) - Regular Plan - Payout of IDCW Option;10.0086;29-Sep-2022
 119534;INF209K01YP5;-;Aditya Birla Sun Life Interval Income Fund - Quarterly Series 1 - Direct - IDCW;10.;27-May-2019
 106412;INF209K01HN5;-;Aditya Birla Sun Life Interval Income Fund - Quarterly Series 1 - Growth - Regular Plan;28.0827;29-Sep-2022
 106413;INF209K01HR6;INF209K01HS4;Aditya Birla Sun Life Interval Income Fund - Quarterly Series 1 - institutional - IDCW;10.0493;29-Sep-2022
