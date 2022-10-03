@@ -904,8 +904,8 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 118507;-;INF090I01LL9;Franklin India Floating Rate Fund - Direct - IDCW ;10.0000;03-Oct-2022
 101048;INF090I01LM7;-;Franklin India Floating Rate Fund - Growth Plan;33.0706;03-Oct-2022
 101044;-;INF090I01LN5;Franklin India Floating Rate Fund - IDCW ;10.1001;03-Oct-2022
-106838;-;INF179K01699;HDFC Floating Rate Debt Fund - Daily IDCW Option;10.081;03-Oct-2022
-118959;-;-;HDFC Floating Rate Debt Fund - Direct Plan - Daily IDCW;10.0812;03-Oct-2022
+106838;-;INF179K01699;HDFC Floating Rate Debt Fund - Daily IDCW Option;10.0809;03-Oct-2022
+118959;-;-;HDFC Floating Rate Debt Fund - Direct Plan - Daily IDCW;10.0809;03-Oct-2022
 118961;INF179K01VQ4;-;HDFC Floating Rate Debt Fund - Direct Plan - Growth Option;41.011;03-Oct-2022
 118960;INF179K01VO9;INF179K01VP6;HDFC Floating Rate Debt Fund - Direct Plan - Monthly IDCW;10.166;03-Oct-2022
 118962;-;-;HDFC Floating Rate Debt Fund - Direct Plan - Weekly IDCW;10.0542;03-Oct-2022
@@ -1304,14 +1304,14 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 102441;INF090I01BD7;-;Franklin India Liquid Fund - Institution-Growth;0.0000;08-Jul-2020
 102443;-;INF090I01BC9;Franklin India Liquid Fund - Institutional Plan - Daily - IDCW;1000.0000;03-Oct-2022
 102442;INF090I01BJ4;INF090I01BE5;Franklin India Liquid Fund - Institutional Plan - Weekly - IDCW;1055.1347;03-Oct-2022
-119091;INF179KB1HP9;-;HDFC Liquid Fund - Growth Option - Direct Plan;4283.8234;03-Oct-2022
-100868;INF179KB1HK0;-;HDFC Liquid Fund - Growth Plan;4247.9233;03-Oct-2022
-100875;-;INF179KB1IC5;HDFC Liquid Fund - IDCW Daily;1020.2182;03-Oct-2022
-119089;-;INF179KB1HV7;HDFC Liquid Fund - IDCW Daily - Direct Plan;1020.2211;03-Oct-2022
-100876;INF179KB1HM6;INF179KB1HL8;HDFC Liquid Fund - IDCW Monthly;1027.7726;03-Oct-2022
-119090;INF179KB1HO2;INF179KB1HQ7;HDFC Liquid Fund - IDCW Monthly - Direct Plan;1027.7923;03-Oct-2022
-100874;INF179KB1ID3;-;HDFC Liquid Fund - IDCW Plan Weekly;1032.5093;03-Oct-2022
-119088;-;-;HDFC Liquid Fund - IDCW Weekly - Direct Plan;1032.5292;03-Oct-2022
+119091;INF179KB1HP9;-;HDFC Liquid Fund - Growth Option - Direct Plan;4283.8191;03-Oct-2022
+100868;INF179KB1HK0;-;HDFC Liquid Fund - Growth Plan;4247.919;03-Oct-2022
+100875;-;INF179KB1IC5;HDFC Liquid Fund - IDCW Daily;1019.82;03-Oct-2022
+119089;-;INF179KB1HV7;HDFC Liquid Fund - IDCW Daily - Direct Plan;1019.82;03-Oct-2022
+100876;INF179KB1HM6;INF179KB1HL8;HDFC Liquid Fund - IDCW Monthly;1027.7715;03-Oct-2022
+119090;INF179KB1HO2;INF179KB1HQ7;HDFC Liquid Fund - IDCW Monthly - Direct Plan;1027.7913;03-Oct-2022
+100874;INF179KB1ID3;-;HDFC Liquid Fund - IDCW Plan Weekly;1032.5083;03-Oct-2022
+119088;-;-;HDFC Liquid Fund - IDCW Weekly - Direct Plan;1032.5281;03-Oct-2022
 100878;INF179K01KP9;-;HDFC Liquid Fund-Premium Plan - Dividend-Weekly;10;14-Apr-2015
 100881;INF179K01KS3;-;HDFC Liquid Fund-Premium Plus Plan - Dividend-Weekly;10;14-May-2012
 100872;INF179K01KQ7;-;HDFC Liquid Fund-PREMIUM PLUS- Growth;10.0000;17-Dec-2012
@@ -1769,8 +1769,8 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 148000;INF090I01UG0;-;Franklin India Low Duration Fund- Segregated Portfolio 2- 10.90% Vodafone Idea Ltd 02Sep2023-Growth Plan;0.3361;03-Oct-2022
 147996;INF090I01UH8;-;Franklin India Low Duration Fund-Direct- Segregated Portfolio 2 - 10.90% Vodafone Idea Ltd (02-Sep-2023) - Direct Monthly - IDCW;0.1597;03-Oct-2022
 147998;INF090I01UI6;-;Franklin India Low Duration Fund-Direct- Segregated Portfolio 2 - 10.90% Vodafone Idea Ltd (02-Sep-2023) - Direct Quarterly - IDCW;0.1570;03-Oct-2022
-105548;-;INF179K01434;HDFC Low Duration  Fund - Daily IDCW;10.146;03-Oct-2022
-118945;-;-;HDFC Low Duration  Fund - Direct Plan - Daily IDCW;10.0691;03-Oct-2022
+105548;-;INF179K01434;HDFC Low Duration  Fund - Daily IDCW;10.1428;03-Oct-2022
+118945;-;-;HDFC Low Duration  Fund - Direct Plan - Daily IDCW;10.0655;03-Oct-2022
 118942;INF179K01VF7;-;HDFC Low Duration  Fund - Direct Plan - Growth;50.8252;03-Oct-2022
 118943;INF179K01VG5;INF179K01VH3;HDFC Low Duration  Fund - Direct Plan - Monthly IDCW;10.1625;03-Oct-2022
 118944;-;-;HDFC Low Duration  Fund - Direct Plan - Weekly IDCW;10.074;03-Oct-2022
@@ -2376,8 +2376,8 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 118505;INF090I01GT2;INF090I01GU0;Franklin India Savings Fund Retail Option - Direct - Quarterly - IDCW;10.7896;03-Oct-2022
 129436;INF090I01LA2;INF090I01LB0;Franklin India Savings Fund Retail Option - Monthly - IDCW;10.1491;03-Oct-2022
 101356;INF090I01BZ0;INF090I01BY3;Franklin India Savings Fund Retail Option - Quarterly - IDCW;10.3456;03-Oct-2022
-101994;-;INF179KB1IG6;HDFC Money Market Fund - Daily IDCW Option;1064.4591;03-Oct-2022
-119093;-;INF179KB1HZ8;HDFC Money Market Fund - Daily IDCW Option - Direct Plan;1064.4766;03-Oct-2022
+101994;-;INF179KB1IG6;HDFC Money Market Fund - Daily IDCW Option;1063.64;03-Oct-2022
+119093;-;INF179KB1HZ8;HDFC Money Market Fund - Daily IDCW Option - Direct Plan;1063.64;03-Oct-2022
 101993;INF179KB1HR5;-;HDFC Money Market Fund - Growth Option;4686.5826;03-Oct-2022
 119092;INF179KB1HU9;-;HDFC Money Market Fund - Growth Option - Direct Plan;4756.8968;03-Oct-2022
 101995;INF179KB1IH4;INF179KB1II2;HDFC Money Market Fund - Weekly IDCW Option;1063.2882;03-Oct-2022
@@ -2606,10 +2606,10 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 149443;-;-;Franklin India Overnight Fund- Unclaimed IDCW Plan;10.3109;03-Oct-2022
 149444;-;-;Franklin India Overnight Fund- Unclaimed Redemption Investor EducationPlan;10.0000;03-Oct-2022
 149446;-;-;Franklin India Overnight Fund- Unclaimed Redemption Plan;10.3109;03-Oct-2022
-119109;-;-;HDFC Overnight Fund - Daily IDCW Option - Direct Plan;1042.818;03-Oct-2022
+119109;-;-;HDFC Overnight Fund - Daily IDCW Option - Direct Plan;1042.66;03-Oct-2022
 101996;INF179KB1HS3;-;HDFC Overnight Fund - Growth Option;3207.0535;03-Oct-2022
 119110;INF179KB1HT1;-;HDFC Overnight Fund - Growth Option - Direct Plan;3230.6658;03-Oct-2022
-101997;-;-;HDFC Overnight Fund - IDCW Option (Daily);1042.8151;03-Oct-2022
+101997;-;-;HDFC Overnight Fund - IDCW Option (Daily);1042.66;03-Oct-2022
 147289;-;INF336L01OM2;HSBC Overnight Fund - Daily IDCW;1000.0064;03-Oct-2022
 147291;-;INF336L01OG4;HSBC Overnight Fund - Daily IDCW Direct Plan;1000.0067;03-Oct-2022
 147290;INF336L01OL4;-;HSBC Overnight Fund - Growth;1132.4758;03-Oct-2022
@@ -3160,8 +3160,8 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 147978;INF090I01VM6;-;Franklin India Ultra Short Bond Fund- Super Institutional Plan-Segregated Portfolio 1- 8.25% Vodafone Idea Ltd-10JUL20-Direct-Weekly Dividend Option;0.0000;20-Jul-2020
 147970;INF090I01VG8;-;Franklin India Ultra Short Bond Fund- Super Institutional Plan-Segregated Portfolio 1- 8.25% Vodafone Idea Ltd-10JUL20-Growth Option;0.0000;20-Jul-2020
 147972;INF090I01VJ2;-;Franklin India Ultra Short Bond Fund- Super Institutional Plan-Segregated Portfolio 1- 8.25% Vodafone Idea Ltd-10JUL20-Weekly Dividend Option;0.0000;20-Jul-2020
-145041;-;INF179KB12R1;HDFC Ultra Short Term Fund - Daily IDCW Option;10.1105;03-Oct-2022
-145039;-;INF179KB16Q4;HDFC Ultra Short Term Fund - Direct Plan-Daily IDCW Option;10.0996;03-Oct-2022
+145041;-;INF179KB12R1;HDFC Ultra Short Term Fund - Daily IDCW Option;10.103;03-Oct-2022
+145039;-;INF179KB16Q4;HDFC Ultra Short Term Fund - Direct Plan-Daily IDCW Option;10.092;03-Oct-2022
 145034;INF179KB15Q6;-;HDFC Ultra Short Term Fund - Direct Plan-Growth Option;12.68;03-Oct-2022
 145036;INF179KB10R5;INF179KB19Q8;HDFC Ultra Short Term Fund - Direct Plan-Monthly IDCW Option;10.0662;03-Oct-2022
 145035;INF179KB18Q0;INF179KB17Q2;HDFC Ultra Short Term Fund - Direct Plan-Weekly IDCW Option;10.0662;03-Oct-2022
@@ -5310,17 +5310,17 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 130206;INF754K01EA4;-;Edelweiss Arbitrage Fund- Direct Plan- Growth Option;16.8865;03-Oct-2022
 130208;INF754K01EJ5;-;Edelweiss Arbitrage Fund- Regular Plan -Bonus Option;16.0413;03-Oct-2022
 130205;INF754K01EF3;-;Edelweiss Arbitrage Fund- Regular Plan- Growth Option;16.0376;03-Oct-2022
-118931;INF179K01UU8;-;HDFC ARBITRAGE FUND - Growth Option - Direct Plan;26.07;03-Oct-2022
-118930;INF179K01UV6;INF179K01UW4;HDFC ARBITRAGE FUND - Quarterly IDCW Option - Direct Plan;19.756;03-Oct-2022
-106796;INF179K01319;-;HDFC ARBITRAGE FUND - Retail Growth Option;24.713;03-Oct-2022
-106799;-;-;HDFC ARBITRAGE FUND - Retail IDCW Option;18.355;03-Oct-2022
-106797;INF179K01327;-;HDFC ARBITRAGE FUND - Retail Quarterly IDCW Option;17.557;03-Oct-2022
-106793;INF179K01343;-;HDFC ARBITRAGE FUND - Wholesale Growth Option;25.345;03-Oct-2022
-129052;INF179KA1KT6;-;HDFC ARBITRAGE FUND - Wholesale Growth Option - Direct Plan;16.447;03-Oct-2022
-106795;INF179KA1KM1;INF179KA1KL3;HDFC ARBITRAGE FUND - Wholesale IDCW Option;10.412;03-Oct-2022
-129053;INF179KA1KQ2;INF179KA1KP4;HDFC ARBITRAGE FUND - Wholesale IDCW Option - Direct Plan;10.816;03-Oct-2022
-129054;INF179KA1KS8;INF179KA1KR0;HDFC ARBITRAGE FUND - Wholesale Monthly IDCW - Direct Plan;10.507;03-Oct-2022
-129051;INF179KA1KO7;INF179KA1KN9;HDFC ARBITRAGE FUND - Wholesale Monthly IDCW Option  ;10.781;03-Oct-2022
+118931;INF179K01UU8;-;HDFC ARBITRAGE FUND - Growth Option - Direct Plan;26.072;03-Oct-2022
+118930;INF179K01UV6;INF179K01UW4;HDFC ARBITRAGE FUND - Quarterly IDCW Option - Direct Plan;19.758;03-Oct-2022
+106796;INF179K01319;-;HDFC ARBITRAGE FUND - Retail Growth Option;24.715;03-Oct-2022
+106799;-;-;HDFC ARBITRAGE FUND - Retail IDCW Option;18.356;03-Oct-2022
+106797;INF179K01327;-;HDFC ARBITRAGE FUND - Retail Quarterly IDCW Option;17.559;03-Oct-2022
+106793;INF179K01343;-;HDFC ARBITRAGE FUND - Wholesale Growth Option;25.347;03-Oct-2022
+129052;INF179KA1KT6;-;HDFC ARBITRAGE FUND - Wholesale Growth Option - Direct Plan;16.448;03-Oct-2022
+106795;INF179KA1KM1;INF179KA1KL3;HDFC ARBITRAGE FUND - Wholesale IDCW Option;10.413;03-Oct-2022
+129053;INF179KA1KQ2;INF179KA1KP4;HDFC ARBITRAGE FUND - Wholesale IDCW Option - Direct Plan;10.817;03-Oct-2022
+129054;INF179KA1KS8;INF179KA1KR0;HDFC ARBITRAGE FUND - Wholesale Monthly IDCW - Direct Plan;10.508;03-Oct-2022
+129051;INF179KA1KO7;INF179KA1KN9;HDFC ARBITRAGE FUND - Wholesale Monthly IDCW Option  ;10.782;03-Oct-2022
 104684;INF109K01BD1;-;ICICI Prudential Equity - Arbitrage Fund-Institutional Growth Option;26.3343;24-Apr-2020
 130898;INF109KA1C15;-;ICICI Prudential Equity Arbitrage Fund - Bonus;11.8080;17-Jan-2017
 120364;INF109K016O4;-;ICICI Prudential Equity Arbitrage Fund - Direct Plan - Growth;29.9735;03-Oct-2022
@@ -6501,10 +6501,10 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 149458;INF109KC1Z63;INF109KC1Z71;ICICI Prudential Strategic Metal and Energy Equity Fund of Fund - Direct Plan IDCW;11.5303;30-Sep-2022
 149456;INF109KC1Z22;-;ICICI Prudential Strategic Metal and Energy Equity Fund of Fund - Growth;11.4492;30-Sep-2022
 149457;INF109KC1Z30;INF109KC1Z48;ICICI Prudential Strategic Metal and Energy Equity Fund of Fund - IDCW;11.4491;30-Sep-2022
-149098;INF194KB1CF2;-;IDFC US EQUITY FUND OF FUND - GROWTH - DIRECT PLAN;8.407;30-Sep-2022
-149100;INF194KB1CC9;-;IDFC US EQUITY FUND OF FUND - GROWTH - REGULAR PLAN;8.298;30-Sep-2022
-149099;INF194KB1CG0;-;IDFC US EQUITY FUND OF FUND - IDCW - DIRECT PLAN;8.407;30-Sep-2022
-149097;INF194KB1CD7;-;IDFC US EQUITY FUND OF FUND - IDCW - REGULAR PLAN;8.298;30-Sep-2022
+149098;INF194KB1CF2;-;IDFC US EQUITY FUND OF FUND - GROWTH - DIRECT PLAN;8.363;03-Oct-2022
+149100;INF194KB1CC9;-;IDFC US EQUITY FUND OF FUND - GROWTH - REGULAR PLAN;8.254;03-Oct-2022
+149099;INF194KB1CG0;-;IDFC US EQUITY FUND OF FUND - IDCW - DIRECT PLAN;8.363;03-Oct-2022
+149097;INF194KB1CD7;-;IDFC US EQUITY FUND OF FUND - IDCW - REGULAR PLAN;8.254;03-Oct-2022
 149961;INF205KA1585;-;Invesco India - Invesco EQQQ Nasdaq-100 ETF Fund of Fund - Direct Plan - Growth;8.6279;03-Oct-2022
 149960;INF205KA1577;-;Invesco India - Invesco EQQQ Nasdaq-100 ETF Fund of Fund - Regular Plan - Growth;8.6179;03-Oct-2022
 148614;INF205KA1270;-;Invesco India - Invesco Global Consumer Trends Fund of Fund - Direct Plan - Growth;5.9148;03-Oct-2022
