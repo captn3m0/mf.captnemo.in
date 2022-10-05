@@ -1460,13 +1460,13 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 100828;-;INF174K01FY2;Kotak Liquid-Regular (Dividend);1002.9403;21-Oct-2016
 100829;INF174K01NM1;-;Kotak Liquid-Regular (Growth);2893.5255;21-Oct-2016
 129923;INF917K01QI4;-;L&T Liquid Fund - Direct Plan - Bonus;1877.9353;30-Dec-2014
-122235;-;INF917K01HE2;L&T Liquid Fund - Direct Plan - Weekly IDCW;1001.1044;04-Oct-2022
-119791;INF917K01HG7;-;L&T Liquid Fund - Direct Plan -Daily IDCW;1014.3496;04-Oct-2022
-119790;INF917K01HF9;-;L&T Liquid Fund - Direct Plan -Growth;2985.1548;04-Oct-2022
-112458;INF917K01BK2;INF917K01JG3;L&T Liquid Fund - Regular Plan - Weekly IDCW;1002.8731;04-Oct-2022
+122235;-;INF917K01HE2;L&T Liquid Fund - Direct Plan - Weekly IDCW;1001.2634;05-Oct-2022
+119791;INF917K01HG7;-;L&T Liquid Fund - Direct Plan -Daily IDCW;1014.3496;05-Oct-2022
+119790;INF917K01HF9;-;L&T Liquid Fund - Direct Plan -Growth;2985.6289;05-Oct-2022
+112458;INF917K01BK2;INF917K01JG3;L&T Liquid Fund - Regular Plan - Weekly IDCW;1003.0307;05-Oct-2022
 129924;INF917K01QH6;-;L&T Liquid Fund -Regular Plan - Bonus;2318.6887;20-Nov-2017
-112445;INF917K01JB4;-;L&T Liquid Fund -Regular Plan - Daily IDCW;1011.7794;04-Oct-2022
-112457;INF917K01JH1;-;L&T Liquid Fund -Regular Plan - Growth;2969.1;04-Oct-2022
+112445;INF917K01JB4;-;L&T Liquid Fund -Regular Plan - Daily IDCW;1011.7794;05-Oct-2022
+112457;INF917K01JH1;-;L&T Liquid Fund -Regular Plan - Growth;2969.5668;05-Oct-2022
 120248;INF767K01DL5;INF767K01DM3;LIC MF Liquid Fund-Direct Plan-Daily IDCW;1013.6;05-Oct-2022
 120249;INF767K01DN1;-;LIC MF Liquid Fund-Direct Plan-Growth;3959.8045;05-Oct-2022
 101184;INF767K01IQ3;INF767K01IR1;LIC MF Liquid Fund-Regular Plan-Daily IDCW;1000.1;05-Oct-2022
@@ -1565,18 +1565,18 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 143260;INF879O01035;-;Parag Parikh Liquid Fund- Regular Plan- Growth;1213.0288;05-Oct-2022
 143261;INF879O01043;INF879O01050;Parag Parikh Liquid Fund- Regular Plan- Monthly IDCW;1004.4537;05-Oct-2022
 143266;-;INF879O01142;Parag Parikh Liquid Fund- Regular Plan- Weekly Reinvestment of IDCW;1001.2853;05-Oct-2022
-120837;INF966L01820;-;quant Liquid Fund - Growth Option - Direct Plan;35.1305;04-Oct-2022
-103225;INF966L01317;-;quant Liquid Fund - Growth Option - Regular Plan;34.4752;04-Oct-2022
-120838;INF966L01796;INF966L01812;quant Liquid Fund - Monthly IDCW Option - Direct Plan;15.5361;04-Oct-2022
-103228;INF966L01291;INF966L01309;quant Liquid Fund - Monthly IDCW Option - Regular Plan;15.1848;04-Oct-2022
-120839;INF966L01788;INF966L01804;quant Liquid Fund - Weekly IDCW Option - Direct Plan;14.0251;04-Oct-2022
-103227;INF966L01499;INF966L01283;quant Liquid Fund - Weekly IDCW Option - Regular Plan;13.3553;04-Oct-2022
-120836;-;INF966L01770;quant Liquid Fund-Daily IDCW Option - Direct Plan;13.2579;04-Oct-2022
-103226;-;INF966L01275;quant Liquid Fund-Daily IDCW Option - Regular Plan;12.9144;04-Oct-2022
-148513;-;-;quant Liquid Fund-Unclaimed Dividend Investor Education Plan-Growth Option;10.9244;04-Oct-2022
-148510;-;-;quant Liquid Fund-Unclaimed Dividend-Growth Option;10.9251;04-Oct-2022
-148511;-;-;quant Liquid Fund-Unclaimed Redemption Investor Education Plan-Growth Option;10.9244;04-Oct-2022
-148512;-;-;quant Liquid Fund-Unclaimed Redemption Plan-Growth Option;10.9317;04-Oct-2022
+120837;INF966L01820;-;quant Liquid Fund - Growth Option - Direct Plan;35.1359;05-Oct-2022
+103225;INF966L01317;-;quant Liquid Fund - Growth Option - Regular Plan;34.4802;05-Oct-2022
+120838;INF966L01796;INF966L01812;quant Liquid Fund - Monthly IDCW Option - Direct Plan;15.5385;05-Oct-2022
+103228;INF966L01291;INF966L01309;quant Liquid Fund - Monthly IDCW Option - Regular Plan;15.187;05-Oct-2022
+120839;INF966L01788;INF966L01804;quant Liquid Fund - Weekly IDCW Option - Direct Plan;14.0272;05-Oct-2022
+103227;INF966L01499;INF966L01283;quant Liquid Fund - Weekly IDCW Option - Regular Plan;13.3573;05-Oct-2022
+120836;-;INF966L01770;quant Liquid Fund-Daily IDCW Option - Direct Plan;13.2599;05-Oct-2022
+103226;-;INF966L01275;quant Liquid Fund-Daily IDCW Option - Regular Plan;12.9163;05-Oct-2022
+148513;-;-;quant Liquid Fund-Unclaimed Dividend Investor Education Plan-Growth Option;10.9261;05-Oct-2022
+148510;-;-;quant Liquid Fund-Unclaimed Dividend-Growth Option;10.9267;05-Oct-2022
+148511;-;-;quant Liquid Fund-Unclaimed Redemption Investor Education Plan-Growth Option;10.9261;05-Oct-2022
+148512;-;-;quant Liquid Fund-Unclaimed Redemption Plan-Growth Option;10.9333;05-Oct-2022
 103736;-;INF082J01135;Quantum Liquid Fund - Direct Plan Daily IDCW;10.0090;05-Oct-2022
 103734;INF082J01127;-;Quantum Liquid Fund - Direct Plan Growth Option;29.3682;05-Oct-2022
 103735;INF082J01143;INF082J01200;Quantum Liquid Fund - Direct Plan Monthly IDCW;10.0271;05-Oct-2022
@@ -2700,14 +2700,14 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 146142;INF174KA1BC6;-;Kotak Overnight Fund -Regular plan-Growth Option;1156.8724;04-Oct-2022
 146140;-;INF174KA1BE2;Kotak Overnight Fund-Direct Plan- Daily Reinvestment of Income Distribution cum capital withdrawal option;1003.6055;04-Oct-2022
 146138;-;INF174KA1BB8;Kotak Overnight Fund-Regular Plan- Daily Reinvestment of Income Distribution cum capital withdrawal option;1004.7568;04-Oct-2022
-118066;INF917K01EL4;INF917K01EM2;L&T Overnight Fund  - Regular Plan - Monthly IDCW;1014.0395;04-Oct-2022
-119283;INF917K01EN0;-;L&T Overnight Fund - Direct Plan - Growth;1697.3195;04-Oct-2022
-119284;-;INF917K01EO8;L&T Overnight Fund - Direct Plan- Daily IDCW;1023.3;04-Oct-2022
-119282;INF917K01ER1;-;L&T Overnight Fund - Direct Plan- Monthly IDCW;1071.073;04-Oct-2022
-119285;-;INF917K01EP5;L&T Overnight Fund - Direct Plan- Weekly IDCW;1001.5745;04-Oct-2022
-118056;-;INF917K01EJ8;L&T Overnight Fund - Regular Plan - Daily IDCW;1023.3;04-Oct-2022
-118058;INF917K01EI0;-;L&T Overnight Fund - Regular Plan - Growth;1614.1786;04-Oct-2022
-118065;-;INF917K01EK6;L&T Overnight Fund - Regular Plan - Weekly IDCW;1000.1818;04-Oct-2022
+118066;INF917K01EL4;INF917K01EM2;L&T Overnight Fund  - Regular Plan - Monthly IDCW;1014.1917;05-Oct-2022
+119283;INF917K01EN0;-;L&T Overnight Fund - Direct Plan - Growth;1697.579;05-Oct-2022
+119284;-;INF917K01EO8;L&T Overnight Fund - Direct Plan- Daily IDCW;1023.3;05-Oct-2022
+119282;INF917K01ER1;-;L&T Overnight Fund - Direct Plan- Monthly IDCW;1071.2368;05-Oct-2022
+119285;-;INF917K01EP5;L&T Overnight Fund - Direct Plan- Weekly IDCW;1001.7276;05-Oct-2022
+118056;-;INF917K01EJ8;L&T Overnight Fund - Regular Plan - Daily IDCW;1023.3;05-Oct-2022
+118058;INF917K01EI0;-;L&T Overnight Fund - Regular Plan - Growth;1614.4209;05-Oct-2022
+118065;-;INF917K01EK6;L&T Overnight Fund - Regular Plan - Weekly IDCW;1000.332;05-Oct-2022
 147516;-;INF767K01QG7;LIC MF Overnight Fund-Direct Plan-Daily IDCW;1036.6329;05-Oct-2022
 147515;INF767K01QI3;-;LIC MF Overnight Fund-Direct Plan-Growth;1128.2195;05-Oct-2022
 147513;INF767K01QE2;INF767K01QF9;LIC MF Overnight Fund-Direct Plan-IDCW;1127.9592;05-Oct-2022
@@ -4451,10 +4451,10 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 119248;INF740K01PV5;INF740K01PW3;DSP India T.I.G.E.R. Fund - Direct Plan - IDCW;33.672;04-Oct-2022
 102434;INF740K01151;-;DSP India T.I.G.E.R. Fund - Regular Plan - Growth;154.914;04-Oct-2022
 102435;INF740K01136;INF740K01144;DSP India T.I.G.E.R. Fund - Regular Plan - IDCW;18.759;04-Oct-2022
-119028;INF740K01QA7;-;DSP Natural Resources and New Energy Fund - Direct Plan - Growth;53.303;03-Oct-2022
-119029;INF740K01QB5;INF740K01QC3;DSP Natural Resources and New Energy Fund - Direct Plan - IDCW;23.509;03-Oct-2022
-108202;INF740K01060;-;DSP Natural Resources And New Energy Fund - Regular - Growth;49.406;03-Oct-2022
-108203;INF740K01045;INF740K01052;DSP Natural Resources And New Energy Fund - Regular Plan - IDCW;20.198;03-Oct-2022
+119028;INF740K01QA7;-;DSP Natural Resources and New Energy Fund - Direct Plan - Growth;54.691;04-Oct-2022
+119029;INF740K01QB5;INF740K01QC3;DSP Natural Resources and New Energy Fund - Direct Plan - IDCW;24.121;04-Oct-2022
+108202;INF740K01060;-;DSP Natural Resources And New Energy Fund - Regular - Growth;50.691;04-Oct-2022
+108203;INF740K01045;INF740K01052;DSP Natural Resources And New Energy Fund - Regular Plan - IDCW;20.723;04-Oct-2022
 147306;INF740KA1NQ6;-;DSP Quant Fund - Direct Plan - Growth;16.402;04-Oct-2022
 147304;INF740KA1NR4;INF740KA1NS2;DSP Quant Fund - Direct Plan - IDCW;16.402;04-Oct-2022
 147303;INF740KA1NN3;-;DSP Quant Fund - Regular Plan - Growth;15.999;04-Oct-2022
@@ -6347,10 +6347,10 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 149787;INF769K01HY5;INF769K01IA3;Mirae Asset Nifty India Manufacturing ETF FOF - Direct Plan- IDCW;10.505;04-Oct-2022
 149788;INF769K01HW9;-;Mirae Asset Nifty India Manufacturing ETF FOF - Regular Plan - Growth;10.474;04-Oct-2022
 149789;INF769K01HV1;INF769K01HX7;Mirae Asset Nifty India Manufacturing ETF FOF - Regular Plan - IDCW;10.512;04-Oct-2022
-148928;INF769K01HH0;-;Mirae Asset NYSE FANG + ETF Fund of Fund Direct Growth;8.357;03-Oct-2022
-148929;INF769K01HG2;-;Mirae Asset NYSE FANG + ETF Fund of Fund Regular Growth;8.305;03-Oct-2022
-149170;INF769K01HR9;-;Mirae Asset S&P 500 Top 50 ETF Fund of Fund Direct Growth;8.931;03-Oct-2022
-149171;INF769K01HQ1;-;Mirae Asset S&P 500 Top 50 ETF Fund of Fund Regular Growth;8.893;03-Oct-2022
+148928;INF769K01HH0;-;Mirae Asset NYSE FANG + ETF Fund of Fund Direct Growth;8.454;04-Oct-2022
+148929;INF769K01HG2;-;Mirae Asset NYSE FANG + ETF Fund of Fund Regular Growth;8.402;04-Oct-2022
+149170;INF769K01HR9;-;Mirae Asset S&P 500 Top 50 ETF Fund of Fund Direct Growth;9.187;04-Oct-2022
+149171;INF769K01HQ1;-;Mirae Asset S&P 500 Top 50 ETF Fund of Fund Regular Growth;9.147;04-Oct-2022
 149240;INF247L01AQ1;-;Motilal Oswal 5 Year G-Sec Fund Of Fund Direct -Growth;10.1167;04-Oct-2022
 149241;INF247L01AR9;-;Motilal Oswal 5 Year G-Sec Fund Of Fund Regular -Growth;10.1087;04-Oct-2022
 148747;INF247L01AL2;-;Motilal Oswal Asset Allocation FOF- A- Direct Growth;11.3423;04-Oct-2022
@@ -6427,34 +6427,34 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 150287;INF251K01QU3;INF251K01QV1;Baroda BNP Paribas Funds Aqua Fund of Fund - Direct Plan - IDCW Option;9.0722;04-Oct-2022
 150286;INF251K01QR9;INF251K01QS7;Baroda BNP Paribas Funds Aqua Fund of Fund - Regular Plan - IDCW Option;8.9286;04-Oct-2022
 150284;INF251K01QQ1;-;Baroda BNP Paribas Funds Aqua Fund of Fund - Regular Plan Growth;8.9286;04-Oct-2022
-130493;INF740K01Z50;-;DSP Global Allocation Fund - Direct Plan - Growth;15.8992;03-Oct-2022
-130491;INF740K01Z68;INF740K01Z76;DSP Global Allocation Fund - Direct Plan - IDCW;14.2952;03-Oct-2022
-130492;INF740K01Z27;-;DSP Global Allocation Fund - Regular Plan - Growth;15.2840;03-Oct-2022
-130490;INF740K01Z35;INF740K01Z43;DSP Global Allocation Fund - Regular Plan - IDCW;13.7663;03-Oct-2022
-149816;INF740KA1QP1;-;DSP Global Innovation Fund of Fund - Direct - Growth;7.8604;03-Oct-2022
-149815;INF740KA1QQ9;INF740KA1QR7;DSP Global Innovation Fund of Fund - Direct - IDCW;7.8604;03-Oct-2022
-149817;INF740KA1QM8;-;DSP Global Innovation Fund of Fund - Regular - Growth;7.8181;03-Oct-2022
-149814;INF740KA1QN6;INF740KA1QO4;DSP Global Innovation Fund of Fund - Regular - IDCW;7.8181;03-Oct-2022
-119252;INF740K01OH7;-;DSP US Flexible Equity Fund - Direct Plan - Growth;39.7564;03-Oct-2022
-119253;INF740K01OI5;INF740K01OJ3;DSP US Flexible Equity Fund - Direct Plan - IDCW;36.9193;03-Oct-2022
-117691;INF740K01LP6;-;DSP US Flexible Equity Fund - Regular Plan - Growth Option;37.1298;03-Oct-2022
-117692;INF740K01LQ4;-;DSP US Flexible Equity Fund - Regular Plan - IDCW;20.6127;03-Oct-2022
-119271;INF740K01OE4;-;DSP World Agriculture Fund - Direct Plan - Growth;18.4667;03-Oct-2022
-119272;INF740K01OF1;INF740K01OG9;DSP World Agriculture Fund - Direct Plan - IDCW;16.8957;03-Oct-2022
-115882;INF740K01EK2;-;DSP World Agriculture Fund - Regular Plan - Growth;17.9436;03-Oct-2022
-115881;INF740K01EL0;-;DSP World Agriculture Fund - Regular Plan - IDCW;12.8165;03-Oct-2022
-119275;INF740K01PC5;-;DSP World Energy Fund - Direct Plan - Growth;14.5359;03-Oct-2022
-119276;INF740K01PD3;INF740K01PE1;DSP World Energy Fund - Direct Plan - IDCW;12.4297;03-Oct-2022
-112126;INF740K01284;-;DSP World Energy Fund - Regular Plan - Growth;14.0371;03-Oct-2022
-112127;INF740K01292;INF740K01300;DSP World Energy Fund - Regular Plan - IDCW;11.3755;03-Oct-2022
-119277;INF740K01OZ9;-;DSP World Gold Fund - Direct Plan - Growth;14.1071;03-Oct-2022
-119278;INF740K01PA9;INF740K01PB7;DSP World Gold Fund - Direct Plan - IDCW;9.8203;03-Oct-2022
-106597;INF740K01250;-;DSP World Gold Fund - Regular Plan - Growth;13.4327;03-Oct-2022
-106596;INF740K01268;INF740K01276;DSP World Gold Fund - Regular Plan - IDCW;9.3629;03-Oct-2022
-119279;INF740K01PF8;-;DSP World Mining Fund - Direct Plan - Growth;14.2148;03-Oct-2022
-119280;INF740K01PG6;INF740K01PH4;DSP World Mining Fund - Direct Plan - IDCW;14.2148;03-Oct-2022
-112293;INF740K01730;-;DSP World Mining Fund - Regular Plan - Growth;13.4540;03-Oct-2022
-112347;INF740K01748;INF740K01AL8;DSP World Mining Fund - Regular Plan - IDCW;13.4540;03-Oct-2022
+130493;INF740K01Z50;-;DSP Global Allocation Fund - Direct Plan - Growth;16.2044;04-Oct-2022
+130491;INF740K01Z68;INF740K01Z76;DSP Global Allocation Fund - Direct Plan - IDCW;14.5696;04-Oct-2022
+130492;INF740K01Z27;-;DSP Global Allocation Fund - Regular Plan - Growth;15.5771;04-Oct-2022
+130490;INF740K01Z35;INF740K01Z43;DSP Global Allocation Fund - Regular Plan - IDCW;14.0303;04-Oct-2022
+149816;INF740KA1QP1;-;DSP Global Innovation Fund of Fund - Direct - Growth;8.1228;04-Oct-2022
+149815;INF740KA1QQ9;INF740KA1QR7;DSP Global Innovation Fund of Fund - Direct - IDCW;8.1228;04-Oct-2022
+149817;INF740KA1QM8;-;DSP Global Innovation Fund of Fund - Regular - Growth;8.0788;04-Oct-2022
+149814;INF740KA1QN6;INF740KA1QO4;DSP Global Innovation Fund of Fund - Regular - IDCW;8.0788;04-Oct-2022
+119252;INF740K01OH7;-;DSP US Flexible Equity Fund - Direct Plan - Growth;41.3972;04-Oct-2022
+119253;INF740K01OI5;INF740K01OJ3;DSP US Flexible Equity Fund - Direct Plan - IDCW;38.4430;04-Oct-2022
+117691;INF740K01LP6;-;DSP US Flexible Equity Fund - Regular Plan - Growth Option;38.6613;04-Oct-2022
+117692;INF740K01LQ4;-;DSP US Flexible Equity Fund - Regular Plan - IDCW;21.4629;04-Oct-2022
+119271;INF740K01OE4;-;DSP World Agriculture Fund - Direct Plan - Growth;18.9798;04-Oct-2022
+119272;INF740K01OF1;INF740K01OG9;DSP World Agriculture Fund - Direct Plan - IDCW;17.3652;04-Oct-2022
+115882;INF740K01EK2;-;DSP World Agriculture Fund - Regular Plan - Growth;18.4420;04-Oct-2022
+115881;INF740K01EL0;-;DSP World Agriculture Fund - Regular Plan - IDCW;13.1725;04-Oct-2022
+119275;INF740K01PC5;-;DSP World Energy Fund - Direct Plan - Growth;15.1752;04-Oct-2022
+119276;INF740K01PD3;INF740K01PE1;DSP World Energy Fund - Direct Plan - IDCW;12.9764;04-Oct-2022
+112126;INF740K01284;-;DSP World Energy Fund - Regular Plan - Growth;14.6542;04-Oct-2022
+112127;INF740K01292;INF740K01300;DSP World Energy Fund - Regular Plan - IDCW;11.8756;04-Oct-2022
+119277;INF740K01OZ9;-;DSP World Gold Fund - Direct Plan - Growth;14.6273;04-Oct-2022
+119278;INF740K01PA9;INF740K01PB7;DSP World Gold Fund - Direct Plan - IDCW;10.1824;04-Oct-2022
+106597;INF740K01250;-;DSP World Gold Fund - Regular Plan - Growth;13.9277;04-Oct-2022
+106596;INF740K01268;INF740K01276;DSP World Gold Fund - Regular Plan - IDCW;9.7080;04-Oct-2022
+119279;INF740K01PF8;-;DSP World Mining Fund - Direct Plan - Growth;14.7489;04-Oct-2022
+119280;INF740K01PG6;INF740K01PH4;DSP World Mining Fund - Direct Plan - IDCW;14.7489;04-Oct-2022
+112293;INF740K01730;-;DSP World Mining Fund - Regular Plan - Growth;13.9592;04-Oct-2022
+112347;INF740K01748;INF740K01AL8;DSP World Mining Fund - Regular Plan - IDCW;13.9592;04-Oct-2022
 140256;INF843K01AW7;-;Edelweiss ASEAN Equity Off-shore Fund - Direct Plan - Growth Option;24.495;04-Oct-2022
 140255;INF843K01609;-;Edelweiss ASEAN Equity Off-shore Fund - Regular Plan - Growth Option;22.383;04-Oct-2022
 140327;INF843K01IZ3;-;Edelweiss Emerging Markets Opportunities Equity Offshore Fund - Direct Plan - Growth Option;13.0046;04-Oct-2022
@@ -6545,14 +6545,14 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 149231;INF174V01BA8;INF174V01AZ7;Mahindra Manulife Asia Pacific REITs FOF - Direct Plan - IDCW;8.1631;04-Oct-2022
 149228;INF174V01AV6;-;Mahindra Manulife Asia Pacific REITs FOF - Regular Plan - Growth;8.0810;04-Oct-2022
 149229;INF174V01AX2;INF174V01AW4;Mahindra Manulife Asia Pacific REITs FOF - Regular Plan - IDCW;8.0811;04-Oct-2022
-150594;INF769K01IP1;-;Mirae Asset Global Electric & Autonomous Vehicles ETFs Fund of Fund - Regular Plan - Growth;9.119;03-Oct-2022
-150595;INF769K01IQ9;-;Mirae Asset Global Electric & Autonomous Vehicles ETFs Fund of Fund- Direct Plan - Growth;9.122;03-Oct-2022
-150597;INF769K01IS5;-;Mirae Asset Global X Artificial Intelligence & Technology ETF Fund of Fund - Direct Plan- Growth;9.421;03-Oct-2022
-150596;INF769K01IR7;-;Mirae Asset Global X Artificial Intelligence & Technology ETF Fund of Fund - Regular Plan - Growth;9.421;03-Oct-2022
-149910;-;-;Navi NASDAQ 100 Fund of Fund- Direct- Growth;8.1338;03-Oct-2022
-149911;-;-;Navi NASDAQ 100 Fund of Fund- Regular- Growth;8.1266;03-Oct-2022
-149830;INF959L01FV0;-;Navi US Total Stock Market Fund of Fund- Direct Plan- Growth;9.3014;03-Oct-2022
-149831;INF959L01FW8;-;Navi US Total Stock Market Fund of Fund- Regular Plan- Growth;9.2963;03-Oct-2022
+150594;INF769K01IP1;-;Mirae Asset Global Electric & Autonomous Vehicles ETFs Fund of Fund - Regular Plan - Growth;9.491;04-Oct-2022
+150595;INF769K01IQ9;-;Mirae Asset Global Electric & Autonomous Vehicles ETFs Fund of Fund- Direct Plan - Growth;9.495;04-Oct-2022
+150597;INF769K01IS5;-;Mirae Asset Global X Artificial Intelligence & Technology ETF Fund of Fund - Direct Plan- Growth;9.800;04-Oct-2022
+150596;INF769K01IR7;-;Mirae Asset Global X Artificial Intelligence & Technology ETF Fund of Fund - Regular Plan - Growth;9.800;04-Oct-2022
+149910;-;-;Navi NASDAQ 100 Fund of Fund- Direct- Growth;8.3542;04-Oct-2022
+149911;-;-;Navi NASDAQ 100 Fund of Fund- Regular- Growth;8.3467;04-Oct-2022
+149830;INF959L01FV0;-;Navi US Total Stock Market Fund of Fund- Direct Plan- Growth;9.5579;04-Oct-2022
+149831;INF959L01FW8;-;Navi US Total Stock Market Fund of Fund- Regular Plan- Growth;9.5526;04-Oct-2022
 138457;INF223J01NJ4;-;PGIM India Emerging Markets Equity Fund - Direct Plan - Dividend;9.01;04-Oct-2022
 138456;INF223J01NL0;-;PGIM India Emerging Markets Equity Fund - Direct Plan - Growth;13.09;04-Oct-2022
 138454;INF223J01AW4;INF223J01AX2;PGIM India Emerging Markets Equity Fund - Dividend;10.87;04-Oct-2022
@@ -7044,8 +7044,8 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 149786;INF769K01IB1;-;Mirae Asset Nifty India Manufacturing ETF;83.164;04-Oct-2022
 149918;INF769K01IC9;-;Mirae Asset Nifty Midcap 150 ETF Regular Growth Option;11.835;04-Oct-2022
 147906;INF769K01FN2;-;Mirae Asset Nifty Next 50 ETF (MANxt50ETF);427.232;04-Oct-2022
-148927;INF769K01HF4;-;Mirae Asset NYSE FANG + ETF;38.829;03-Oct-2022
-149169;INF769K01HP3;-;Mirae Asset S&P 500 Top 50 ETF;25.135;03-Oct-2022
+148927;INF769K01HF4;-;Mirae Asset NYSE FANG + ETF;39.885;04-Oct-2022
+149169;INF769K01HP3;-;Mirae Asset S&P 500 Top 50 ETF;25.757;04-Oct-2022
 114984;INF247L01AP3;-;Motilal Oswal Nasdaq 100 ETF (MOFN100);89.8318;04-Oct-2022
 149438;INF247L01AU3;-;Motilal Oswal Nasdaq Q50 ETF;48.0909;04-Oct-2022
 149801;INF247L01AX7;-;Motilal Oswal Nifty 200 Momentum 30 ETF;38.6721;04-Oct-2022
@@ -9604,8 +9604,8 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 146701;INF194KB1777;-;IDFC Fixed Term Plan Series 179 DIRECT PLAN-GROWTH (3652 days);13.4470;04-Oct-2022
 146702;INF194KB1769;-;IDFC Fixed Term Plan Series 179 REGULAR PLAN PERIODIC-IDCW (3652 days);11.4656;04-Oct-2022
 146695;INF194KB1736;-;IDFC Fixed Term Plan Series 179 REGULAR PLAN-GROWTH (3652 days);13.3278;04-Oct-2022
-127615;INF017Q01011;NA;IIFCL MUTUAL FUND INFRASTRUCTURE DEBT FUND SERIES I;1469712.4218;30-Jun-2022
-141615;INF017Q01029;-;IIFCL MUTUAL FUND INFRASTRUCTURE DEBT FUND SERIES II;923411.0628;30-Jun-2022
+127615;INF017Q01011;NA;IIFCL MUTUAL FUND INFRASTRUCTURE DEBT FUND SERIES I;1483608.9022;30-Sep-2022
+141615;INF017Q01029;-;IIFCL MUTUAL FUND INFRASTRUCTURE DEBT FUND SERIES II;938925.6026;30-Sep-2022
 130565;INF613Q01025;-;IL&FS Infrastructure Debt Fund Series 1A - Dividend payout option;1680494.0463;31-Dec-2018
 129287;INF613Q01017;-;IL&FS Infrastructure Debt Fund Series 1A - Growth;1680494.0463;31-Dec-2018
 129288;INF613Q01058;-;IL&FS Infrastructure Debt Fund Series 1C - Growth;1672195.8605;30-Sep-2022
