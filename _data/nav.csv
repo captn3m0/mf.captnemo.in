@@ -1262,12 +1262,12 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 109351;INF760K01CX7;INF760K01CY5;CANARA ROBECO LIQUID FUND - REGULAR PLAN - MONTHLY IDCW (Payout/Reinvestment);1002.3143;09-Oct-2022
 109350;INF760K01BZ4;INF760K01CZ2;CANARA ROBECO LIQUID FUND - REGULAR PLAN - WEEKLY IDCW (Payout/Reinvestment);1000.5740;09-Oct-2022
 139235;INF760K01IC8;-;Canara Robeco Liquid Fund -Unclaimed Redemption and Dividend Plan -Direct Growth Option;1423.3942;09-Oct-2022
-119125;INF740K01QL4;-;DSP Liquidity Fund - Direct Plan - Growth;3117.7812;07-Oct-2022
-119124;-;INF740KA1OB6;DSP Liquidity Fund - Direct Plan - IDCW - Daily;1000.9329;07-Oct-2022
-119123;INF740KA1OC4;INF740KA1OD2;DSP Liquidity Fund - Direct Plan - IDCW - Weekly;1001.0005;07-Oct-2022
-103347;INF740K01FK9;-;DSP Liquidity Fund - Regular Plan - Growth;3090.7591;07-Oct-2022
-103348;INF740K01FM5;INF740K01FL7;DSP Liquidity Fund - Regular Plan - IDCW - Weekly;1000.9976;07-Oct-2022
-103349;-;INF740KA1OE0;DSP Liquidity Fund- Regular Plan - IDCW - Daily;1000.9329;07-Oct-2022
+119125;INF740K01QL4;-;DSP Liquidity Fund - Direct Plan - Growth;3118.2956;08-Oct-2022
+119124;-;INF740KA1OB6;DSP Liquidity Fund - Direct Plan - IDCW - Daily;1001.0980;08-Oct-2022
+119123;INF740KA1OC4;INF740KA1OD2;DSP Liquidity Fund - Direct Plan - IDCW - Weekly;1001.1657;08-Oct-2022
+103347;INF740K01FK9;-;DSP Liquidity Fund - Regular Plan - Growth;3091.2606;08-Oct-2022
+103348;INF740K01FM5;INF740K01FL7;DSP Liquidity Fund - Regular Plan - IDCW - Weekly;1001.1601;08-Oct-2022
+103349;-;INF740KA1OE0;DSP Liquidity Fund- Regular Plan - IDCW - Daily;1001.0952;08-Oct-2022
 140194;INF754K01GY9;-;Edelweiss Liquid Fund - Direct Plan - Bonus Option;1637.8612;08-Oct-2022
 140196;INF754K01GM4;-;Edelweiss Liquid Fund - Direct Plan - Growth Option;2815.2402;08-Oct-2022
 140198;INF754K01GO0;INF754K01GN2;Edelweiss Liquid Fund - Direct Plan - IDCW Option;2815.2546;08-Oct-2022
@@ -1304,14 +1304,14 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 102441;INF090I01BD7;-;Franklin India Liquid Fund - Institution-Growth;0.0000;08-Jul-2020
 102443;-;INF090I01BC9;Franklin India Liquid Fund - Institutional Plan - Daily - IDCW;1000.0000;07-Oct-2022
 102442;INF090I01BJ4;INF090I01BE5;Franklin India Liquid Fund - Institutional Plan - Weekly - IDCW;1055.6918;07-Oct-2022
-119091;INF179KB1HP9;-;HDFC Liquid Fund - Growth Option - Direct Plan;4286.8496;08-Oct-2022
-100868;INF179KB1HK0;-;HDFC Liquid Fund - Growth Plan;4250.8657;08-Oct-2022
-100875;-;INF179KB1IC5;HDFC Liquid Fund - IDCW Daily;1019.82;07-Oct-2022
-119089;-;INF179KB1HV7;HDFC Liquid Fund - IDCW Daily - Direct Plan;1019.82;07-Oct-2022
-100876;INF179KB1HM6;INF179KB1HL8;HDFC Liquid Fund - IDCW Monthly;1028.3217;07-Oct-2022
-119090;INF179KB1HO2;INF179KB1HQ7;HDFC Liquid Fund - IDCW Monthly - Direct Plan;1028.3528;07-Oct-2022
-100874;INF179KB1ID3;-;HDFC Liquid Fund - IDCW Plan Weekly;1031.5819;07-Oct-2022
-119088;-;-;HDFC Liquid Fund - IDCW Weekly - Direct Plan;1031.5936;07-Oct-2022
+119091;INF179KB1HP9;-;HDFC Liquid Fund - Growth Option - Direct Plan;4287.5395;09-Oct-2022
+100868;INF179KB1HK0;-;HDFC Liquid Fund - Growth Plan;4251.5382;09-Oct-2022
+100875;-;INF179KB1IC5;HDFC Liquid Fund - IDCW Daily;1019.82;09-Oct-2022
+119089;-;INF179KB1HV7;HDFC Liquid Fund - IDCW Daily - Direct Plan;1019.82;09-Oct-2022
+100876;INF179KB1HM6;INF179KB1HL8;HDFC Liquid Fund - IDCW Monthly;1028.6472;09-Oct-2022
+119090;INF179KB1HO2;INF179KB1HQ7;HDFC Liquid Fund - IDCW Monthly - Direct Plan;1028.6839;09-Oct-2022
+100874;INF179KB1ID3;-;HDFC Liquid Fund - IDCW Plan Weekly;1031.9083;09-Oct-2022
+119088;-;-;HDFC Liquid Fund - IDCW Weekly - Direct Plan;1031.9256;09-Oct-2022
 100878;INF179K01KP9;-;HDFC Liquid Fund-Premium Plan - Dividend-Weekly;10;14-Apr-2015
 100881;INF179K01KS3;-;HDFC Liquid Fund-Premium Plus Plan - Dividend-Weekly;10;14-May-2012
 100872;INF179K01KQ7;-;HDFC Liquid Fund-PREMIUM PLUS- Growth;10.0000;17-Dec-2012
@@ -1395,16 +1395,16 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 125342;-;INF579M01563;IIFL LIQUID FUND REGULAR PLAN  DAILY DIVIDEND REINVESTMENT;1000.0701;09-Oct-2022
 125259;INF579M01506;-;IIFL LIQUID FUND REGULAR PLAN  GROWTH;1673.2754;09-Oct-2022
 125337;INF579M01514;INF579M01571;IIFL LIQUID FUND REGULAR PLAN  WEEKLY DIVIDEND;1005.7190;09-Oct-2022
-119135;INF666M01451;-;Indiabulls Liquid Fund - Direct Plan - Growth Option;2118.1442;07-Oct-2022
-115991;INF666M01014;-;Indiabulls Liquid Fund - Growth Option;2098.2048;07-Oct-2022
-119136;-;INF666M01469;Indiabulls Liquid Fund- Direct Plan- - Income Distribution cum capital withdrawal Option ( Reinvestment);1001.06;07-Oct-2022
-119138;INF666M01501;INF666M01485;Indiabulls Liquid Fund- Direct Plan- Fortnightly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment);1002.589;07-Oct-2022
-119139;INF666M01519;INF666M01493;Indiabulls Liquid Fund- Direct Plan- Monthly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment);1029.9357;07-Oct-2022
-119137;INF666M01527;INF666M01477;Indiabulls Liquid Fund- Direct Plan- Weekly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment);1001.0944;07-Oct-2022
-115992;-;INF666M01022;Indiabulls Liquid Fund- Regular Plan- - Income Distribution cum capital withdrawal Option (Reinvestment);1001.1451;07-Oct-2022
-115994;INF666M01063;INF666M01048;Indiabulls Liquid Fund- Regular Plan- Fortnightly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment);1002.5082;07-Oct-2022
-115995;INF666M01071;INF666M01055;Indiabulls Liquid Fund- Regular Plan- Monthly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment);1001.4048;07-Oct-2022
-115993;INF666M01089;INF666M01030;Indiabulls Liquid Fund- Regular Plan- Weekly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment);1002.1562;07-Oct-2022
+119135;INF666M01451;-;Indiabulls Liquid Fund - Direct Plan - Growth Option;2118.8126;09-Oct-2022
+115991;INF666M01014;-;Indiabulls Liquid Fund - Growth Option;2098.8565;09-Oct-2022
+119136;-;INF666M01469;Indiabulls Liquid Fund- Direct Plan- - Income Distribution cum capital withdrawal Option ( Reinvestment);1001.06;09-Oct-2022
+119138;INF666M01501;INF666M01485;Indiabulls Liquid Fund- Direct Plan- Fortnightly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment);1002.9054;09-Oct-2022
+119139;INF666M01519;INF666M01493;Indiabulls Liquid Fund- Direct Plan- Monthly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment);1030.2607;09-Oct-2022
+119137;INF666M01527;INF666M01477;Indiabulls Liquid Fund- Direct Plan- Weekly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment);1001.4103;09-Oct-2022
+115992;-;INF666M01022;Indiabulls Liquid Fund- Regular Plan- - Income Distribution cum capital withdrawal Option (Reinvestment);1001.1451;09-Oct-2022
+115994;INF666M01063;INF666M01048;Indiabulls Liquid Fund- Regular Plan- Fortnightly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment);1002.8198;09-Oct-2022
+115995;INF666M01071;INF666M01055;Indiabulls Liquid Fund- Regular Plan- Monthly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment);1001.7159;09-Oct-2022
+115993;INF666M01089;INF666M01030;Indiabulls Liquid Fund- Regular Plan- Weekly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment);1002.4675;09-Oct-2022
 122786;INF205K01UX5;-;Invesco India Liquid Fund - Bonus Option;2979.1435;09-Oct-2022
 104484;-;INF205K01HN3;Invesco India Liquid Fund - Daily IDCW (Reinvestment);1002.7594;09-Oct-2022
 120537;INF205K01MF9;-;Invesco India Liquid Fund - Direct Plan - Growth;2995.7749;09-Oct-2022
@@ -1420,18 +1420,18 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 139388;-;-;Invesco India Liquid Fund - Unclaimed Redemption Plan - Above 3 Years;1000;09-Oct-2022
 139387;-;-;Invesco India Liquid Fund - Unclaimed Redemption Plan - Below 3 years;1419.6793;09-Oct-2022
 104485;-;INF205K01HO1;Invesco India Liquid Fund - Weekly IDCW (Reinvestment);1006.2453;09-Oct-2022
-147161;INF00XX01366;INF00XX01333;ITI Liquid Fund - Direct Plan - Annually IDCW Option;1143.1331;07-Oct-2022
-147158;-;INF00XX01291;ITI Liquid Fund - Direct Plan - Daily IDCW Option;1001.0000;07-Oct-2022
-147160;INF00XX01341;INF00XX01317;ITI Liquid Fund - Direct Plan - Fortnightly IDCW Option;1002.8294;07-Oct-2022
-147157;INF00XX01283;-;ITI Liquid Fund - Direct Plan - Growth Option;1142.4030;07-Oct-2022
-147163;INF00XX01358;INF00XX01325;ITI Liquid Fund - Direct Plan - Monthly IDCW Option;1002.8259;07-Oct-2022
-147159;-;INF00XX01309;ITI Liquid Fund - Direct Plan - Weekly IDCW Option;1001.4348;07-Oct-2022
-147162;INF00XX01275;INF00XX01242;ITI Liquid Fund - Regular Plan - Annually IDCW Option;1139.9483;07-Oct-2022
-147154;-;INF00XX01200;ITI Liquid Fund - Regular Plan - Daily IDCW Option;1001.0000;07-Oct-2022
-147155;INF00XX01259;INF00XX01226;ITI Liquid Fund - Regular Plan - Fortnightly Income Distribution cum capital withdrawal option Option;1002.7811;07-Oct-2022
-147153;INF00XX01192;-;ITI Liquid Fund - Regular Plan - Growth Option;1137.6859;07-Oct-2022
-147156;INF00XX01267;INF00XX01234;ITI Liquid Fund - Regular Plan - Monthly IDCW Option;1002.7870;07-Oct-2022
-147164;-;INF00XX01218;ITI Liquid Fund - Regular Plan - Weekly IDCW Option;1001.4208;07-Oct-2022
+147161;INF00XX01366;INF00XX01333;ITI Liquid Fund - Direct Plan - Annually IDCW Option;1143.3168;08-Oct-2022
+147158;-;INF00XX01291;ITI Liquid Fund - Direct Plan - Daily IDCW Option;1001.0000;08-Oct-2022
+147160;INF00XX01341;INF00XX01317;ITI Liquid Fund - Direct Plan - Fortnightly IDCW Option;1002.9894;08-Oct-2022
+147157;INF00XX01283;-;ITI Liquid Fund - Direct Plan - Growth Option;1142.5862;08-Oct-2022
+147163;INF00XX01358;INF00XX01325;ITI Liquid Fund - Direct Plan - Monthly IDCW Option;1002.9868;08-Oct-2022
+147159;-;INF00XX01309;ITI Liquid Fund - Direct Plan - Weekly IDCW Option;1001.5956;08-Oct-2022
+147162;INF00XX01275;INF00XX01242;ITI Liquid Fund - Regular Plan - Annually IDCW Option;1140.1255;08-Oct-2022
+147154;-;INF00XX01200;ITI Liquid Fund - Regular Plan - Daily IDCW Option;1001.0000;08-Oct-2022
+147155;INF00XX01259;INF00XX01226;ITI Liquid Fund - Regular Plan - Fortnightly Income Distribution cum capital withdrawal option Option;1002.9373;08-Oct-2022
+147153;INF00XX01192;-;ITI Liquid Fund - Regular Plan - Growth Option;1137.8633;08-Oct-2022
+147156;INF00XX01267;INF00XX01234;ITI Liquid Fund - Regular Plan - Monthly IDCW Option;1002.9436;08-Oct-2022
+147164;-;INF00XX01218;ITI Liquid Fund - Regular Plan - Weekly IDCW Option;1001.5769;08-Oct-2022
 120410;INF192K01CN4;-;JM Liquid Fund (Direct) - Bonus Option - Bonus Option - Principal units;19.1958;09-Oct-2022
 120411;-;INF192K01CH6;JM Liquid Fund (Direct) - Daily IDCW;10.4302;09-Oct-2022
 120406;INF192K01CM6;-;JM Liquid Fund (Direct) - Growth Option;59.6716;09-Oct-2022
@@ -1460,13 +1460,13 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 100828;-;INF174K01FY2;Kotak Liquid-Regular (Dividend);1002.9403;21-Oct-2016
 100829;INF174K01NM1;-;Kotak Liquid-Regular (Growth);2893.5255;21-Oct-2016
 129923;INF917K01QI4;-;L&T Liquid Fund - Direct Plan - Bonus;1877.9353;30-Dec-2014
-122235;-;INF917K01HE2;L&T Liquid Fund - Direct Plan - Weekly IDCW;1001.4978;07-Oct-2022
-119791;INF917K01HG7;-;L&T Liquid Fund - Direct Plan -Daily IDCW;1014.3496;07-Oct-2022
-119790;INF917K01HF9;-;L&T Liquid Fund - Direct Plan -Growth;2986.3277;07-Oct-2022
-112458;INF917K01BK2;INF917K01JG3;L&T Liquid Fund - Regular Plan - Weekly IDCW;1003.2622;07-Oct-2022
+122235;-;INF917K01HE2;L&T Liquid Fund - Direct Plan - Weekly IDCW;1001.6598;08-Oct-2022
+119791;INF917K01HG7;-;L&T Liquid Fund - Direct Plan -Daily IDCW;1014.5137;08-Oct-2022
+119790;INF917K01HF9;-;L&T Liquid Fund - Direct Plan -Growth;2986.811;08-Oct-2022
+112458;INF917K01BK2;INF917K01JG3;L&T Liquid Fund - Regular Plan - Weekly IDCW;1003.4229;08-Oct-2022
 129924;INF917K01QH6;-;L&T Liquid Fund -Regular Plan - Bonus;2318.6887;20-Nov-2017
-112445;INF917K01JB4;-;L&T Liquid Fund -Regular Plan - Daily IDCW;1011.7794;07-Oct-2022
-112457;INF917K01JH1;-;L&T Liquid Fund -Regular Plan - Growth;2970.252;07-Oct-2022
+112445;INF917K01JB4;-;L&T Liquid Fund -Regular Plan - Daily IDCW;1011.9415;08-Oct-2022
+112457;INF917K01JH1;-;L&T Liquid Fund -Regular Plan - Growth;2970.7278;08-Oct-2022
 120248;INF767K01DL5;INF767K01DM3;LIC MF Liquid Fund-Direct Plan-Daily IDCW;1013.6;09-Oct-2022
 120249;INF767K01DN1;-;LIC MF Liquid Fund-Direct Plan-Growth;3962.0765;09-Oct-2022
 101184;INF767K01IQ3;INF767K01IR1;LIC MF Liquid Fund-Regular Plan-Daily IDCW;1000.1;09-Oct-2022
@@ -1487,21 +1487,21 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 111645;INF769K01838;INF769K01820;Mirae Asset Cash Management Fund Regular Monthly IDCW;1154.9577;09-Oct-2022
 111644;-;INF769K01812;Mirae Asset Cash Management Fund Regular Weekly IDCW;1153.0094;09-Oct-2022
 111647;-;INF769K01804;Mirae Asset Cash Management Fund RegularDaily IDCW ;1066.4347;09-Oct-2022
-145834;INF247L01734;-;Motilal Oswal Liquid Fund - Direct Growth;11.6495;07-Oct-2022
-145946;INF247L01726;-;Motilal Oswal Liquid Fund - Regular Growth;11.5832;07-Oct-2022
-147442;-;-;Motilal Oswal Liquid Fund - Unclaimed Dividend - Greater than 3 years;10.0000;07-Oct-2022
-147441;-;-;Motilal Oswal Liquid Fund - Unclaimed Dividend- Upto 3 years;11.3193;07-Oct-2022
-147444;-;-;Motilal Oswal Liquid Fund - Unclaimed Redemption - Upto 3 years;11.1111;07-Oct-2022
-146218;INF247L01791;INF247L01783;Motilal Oswal Liquid Fund Direct - IDCW  Quarterly Payout/Reinvestment;10.0149;07-Oct-2022
-146226;-;INF247L01759;Motilal Oswal Liquid Fund Direct - IDCW Fortnightly Reinvestment;10.0270;07-Oct-2022
-146223;INF247L01775;INF247L01767;Motilal Oswal Liquid Fund Direct - IDCW Monthly Payout/Reinvestment;10.0415;07-Oct-2022
-146228;-;INF247L01742;Motilal Oswal Liquid Fund Direct - IDCW Reinvestment;10.0077;07-Oct-2022
-146229;-;INF247L01809;Motilal Oswal Liquid Fund Direct - IDCW Weekly Reinvestment;10.0058;07-Oct-2022
-146227;-;INF247L01817;Motilal Oswal Liquid Fund Regular - IDCW Daily Reinvestment;10.0055;07-Oct-2022
-146230;-;INF247L01825;Motilal Oswal Liquid Fund Regular - IDCW Fortnightly Reinvestment;10.0262;07-Oct-2022
-146220;INF247L01841;INF247L01833;Motilal Oswal Liquid Fund Regular - IDCW Monthly Payout/Reinvestment;10.0412;07-Oct-2022
-146222;INF247L01866;INF247L01858;Motilal Oswal Liquid Fund Regular - IDCW Quarterly Payout/Reinvestment;10.0146;07-Oct-2022
-146224;-;INF247L01874;Motilal Oswal Liquid Fund Regular - IDCW Weekly Reinvestment;10.0130;07-Oct-2022
+145834;INF247L01734;-;Motilal Oswal Liquid Fund - Direct Growth;11.6532;09-Oct-2022
+145946;INF247L01726;-;Motilal Oswal Liquid Fund - Regular Growth;11.5867;09-Oct-2022
+147442;-;-;Motilal Oswal Liquid Fund - Unclaimed Dividend - Greater than 3 years;10.0000;09-Oct-2022
+147441;-;-;Motilal Oswal Liquid Fund - Unclaimed Dividend- Upto 3 years;11.3229;09-Oct-2022
+147444;-;-;Motilal Oswal Liquid Fund - Unclaimed Redemption - Upto 3 years;11.1146;09-Oct-2022
+146218;INF247L01791;INF247L01783;Motilal Oswal Liquid Fund Direct - IDCW  Quarterly Payout/Reinvestment;10.0180;09-Oct-2022
+146226;-;INF247L01759;Motilal Oswal Liquid Fund Direct - IDCW Fortnightly Reinvestment;10.0302;09-Oct-2022
+146223;INF247L01775;INF247L01767;Motilal Oswal Liquid Fund Direct - IDCW Monthly Payout/Reinvestment;10.0447;09-Oct-2022
+146228;-;INF247L01742;Motilal Oswal Liquid Fund Direct - IDCW Reinvestment;10.0077;09-Oct-2022
+146229;-;INF247L01809;Motilal Oswal Liquid Fund Direct - IDCW Weekly Reinvestment;10.0090;09-Oct-2022
+146227;-;INF247L01817;Motilal Oswal Liquid Fund Regular - IDCW Daily Reinvestment;10.0055;09-Oct-2022
+146230;-;INF247L01825;Motilal Oswal Liquid Fund Regular - IDCW Fortnightly Reinvestment;10.0293;09-Oct-2022
+146220;INF247L01841;INF247L01833;Motilal Oswal Liquid Fund Regular - IDCW Monthly Payout/Reinvestment;10.0443;09-Oct-2022
+146222;INF247L01866;INF247L01858;Motilal Oswal Liquid Fund Regular - IDCW Quarterly Payout/Reinvestment;10.0177;09-Oct-2022
+146224;-;INF247L01874;Motilal Oswal Liquid Fund Regular - IDCW Weekly Reinvestment;10.0161;09-Oct-2022
 119163;-;INF959L01AX7;Navi Liquid Fund - Direct Plan Daily IDCW - ReInvestment;1001.29;09-Oct-2022
 119161;INF959L01AR9;INF959L01AS7;Navi Liquid Fund - Direct Plan Monthly IDCW - Payout;1002.699;09-Oct-2022
 119162;INF959L01AU3;INF959L01AW9;Navi Liquid Fund - Direct Plan Weekly IDCW - Payout;1001.299;09-Oct-2022
@@ -2606,10 +2606,10 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 149443;-;-;Franklin India Overnight Fund- Unclaimed IDCW Plan;10.3172;07-Oct-2022
 149444;-;-;Franklin India Overnight Fund- Unclaimed Redemption Investor EducationPlan;10.0000;07-Oct-2022
 149446;-;-;Franklin India Overnight Fund- Unclaimed Redemption Plan;10.3172;07-Oct-2022
-119109;-;-;HDFC Overnight Fund - Daily IDCW Option - Direct Plan;1042.66;07-Oct-2022
-101996;INF179KB1HS3;-;HDFC Overnight Fund - Growth Option;3209.6333;08-Oct-2022
-119110;INF179KB1HT1;-;HDFC Overnight Fund - Growth Option - Direct Plan;3233.3089;08-Oct-2022
-101997;-;-;HDFC Overnight Fund - IDCW Option (Daily);1042.66;07-Oct-2022
+119109;-;-;HDFC Overnight Fund - Daily IDCW Option - Direct Plan;1042.66;09-Oct-2022
+101996;INF179KB1HS3;-;HDFC Overnight Fund - Growth Option;3210.1324;09-Oct-2022
+119110;INF179KB1HT1;-;HDFC Overnight Fund - Growth Option - Direct Plan;3233.8205;09-Oct-2022
+101997;-;-;HDFC Overnight Fund - IDCW Option (Daily);1042.66;09-Oct-2022
 147289;-;INF336L01OM2;HSBC Overnight Fund - Daily IDCW;1000.0064;09-Oct-2022
 147291;-;INF336L01OG4;HSBC Overnight Fund - Daily IDCW Direct Plan;1000.0067;09-Oct-2022
 147290;INF336L01OL4;-;HSBC Overnight Fund - Growth;1133.5071;09-Oct-2022
@@ -2652,20 +2652,20 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 146185;INF194KB1363;INF194KB1371;IDFC Overnight Fund - Regular Plan - Monthly IDCW;1001.2473;07-Oct-2022
 146189;INF194KB1421;INF194KB1439;IDFC Overnight Fund - Regular Plan - Weekly IDCW;1002.0198;07-Oct-2022
 146186;INF194KB1397;INF194KB1405;IDFC Overnight Fund - REGULAR PLAN PERIODIC IDCW;1057.8465;07-Oct-2022
-147458;-;INF666M01GM6;Indiabulls Overnight Fund- Direct Plan- - Income Distribution cum capital withdrawal Option ( Reinvestment);1000.9966;07-Oct-2022
+147458;-;INF666M01GM6;Indiabulls Overnight Fund- Direct Plan- - Income Distribution cum capital withdrawal Option ( Reinvestment);1000.9966;09-Oct-2022
 147452;INF666M01GP9;INF666M01GQ7;Indiabulls Overnight Fund- Direct Plan- Fortnightly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment);1002.5297;17-Aug-2022
-147450;INF666M01GL8;-;Indiabulls Overnight Fund- Direct Plan- Growth Option;1127.1986;07-Oct-2022
-147453;INF666M01GR5;INF666M01GS3;Indiabulls Overnight Fund- Direct Plan- Monthly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment);1002.1458;07-Oct-2022
+147450;INF666M01GL8;-;Indiabulls Overnight Fund- Direct Plan- Growth Option;1127.5513;09-Oct-2022
+147453;INF666M01GR5;INF666M01GS3;Indiabulls Overnight Fund- Direct Plan- Monthly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment);1002.4583;09-Oct-2022
 147451;INF666M01GN4;INF666M01GO2;Indiabulls Overnight Fund- Direct Plan- Weekly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment);1001.7982;22-Sep-2022
-147455;-;INF666M01GU9;Indiabulls Overnight Fund- Regular Plan- - Income Distribution cum capital withdrawal Option ( Reinvestment);1000.9969;07-Oct-2022
-147457;INF666M01GX3;INF666M01GY1;Indiabulls Overnight Fund- Regular Plan- Fortnightly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment);1002.653;07-Oct-2022
-147454;INF666M01GT1;-;Indiabulls Overnight Fund- Regular Plan- Growth Option;1123.6667;07-Oct-2022
-147459;INF666M01GZ8;INF666M01HA9;Indiabulls Overnight Fund- Regular Plan- Monthly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment);1002.0671;07-Oct-2022
-147456;INF666M01GV7;INF666M01GW5;Indiabulls Overnight Fund- Regular Plan- Weekly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment);1001.4355;07-Oct-2022
-149394;-;-;Indiabulls Overnight Fund- Unclaimed Dividend < 3 years;1034.1328;07-Oct-2022
-149393;-;-;Indiabulls Overnight Fund- Unclaimed Dividend > 3 Years;1034.6187;07-Oct-2022
-149396;-;-;Indiabulls Overnight Fund- Unclaimed Redemption < 3 Years;1034.2626;07-Oct-2022
-149395;-;-;Indiabulls Overnight Fund- Unclaimed Redemption > 3 Years;1035.9268;07-Oct-2022
+147455;-;INF666M01GU9;Indiabulls Overnight Fund- Regular Plan- - Income Distribution cum capital withdrawal Option ( Reinvestment);1000.997;09-Oct-2022
+147457;INF666M01GX3;INF666M01GY1;Indiabulls Overnight Fund- Regular Plan- Fortnightly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment);1002.9641;09-Oct-2022
+147454;INF666M01GT1;-;Indiabulls Overnight Fund- Regular Plan- Growth Option;1124.0152;09-Oct-2022
+147459;INF666M01GZ8;INF666M01HA9;Indiabulls Overnight Fund- Regular Plan- Monthly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment);1002.3778;09-Oct-2022
+147456;INF666M01GV7;INF666M01GW5;Indiabulls Overnight Fund- Regular Plan- Weekly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment);1001.7456;09-Oct-2022
+149394;-;-;Indiabulls Overnight Fund- Unclaimed Dividend < 3 years;1034.5018;09-Oct-2022
+149393;-;-;Indiabulls Overnight Fund- Unclaimed Dividend > 3 Years;1034.9474;09-Oct-2022
+149396;-;-;Indiabulls Overnight Fund- Unclaimed Redemption < 3 Years;1034.5862;09-Oct-2022
+149395;-;-;Indiabulls Overnight Fund- Unclaimed Redemption > 3 Years;1036.252;09-Oct-2022
 147884;-;INF205KA1122;Invesco India Overnight Fund - Direct Plan - Daily IDCW (Reinvestment);1000.3999;09-Oct-2022
 147883;INF205KA1163;-;Invesco India Overnight Fund - Direct Plan - Growth;1100.5437;09-Oct-2022
 147886;INF205KA1155;INF205KA1148;Invesco India Overnight Fund - Direct Plan - Monthly IDCW (Payout / Reinvestment);1001.6839;09-Oct-2022
@@ -2674,18 +2674,18 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 147878;INF205KA1114;-;Invesco India Overnight Fund - Regular Plan - Growth;1098.7195;09-Oct-2022
 147879;INF205KA1106;INF205KA1098;Invesco India Overnight Fund - Regular Plan - Monthly IDCW (Payout / Reinvestment);1001.5929;09-Oct-2022
 147881;-;INF205KA1080;Invesco India Overnight Fund - Regular Plan - Weekly IDCW (Reinvestment);1000.9437;09-Oct-2022
-147707;INF00XX01648;INF00XX01614;ITI Overnight Fund - Direct Plan - Annual IDCW Option;1102.8559;07-Oct-2022
-147708;-;INF00XX01572;ITI Overnight Fund - Direct Plan - Daily IDCW Option;1001.0000;07-Oct-2022
-147710;INF00XX01622;INF00XX01598;ITI Overnight Fund - Direct Plan - Fortnightly IDCW Option;1002.5335;07-Oct-2022
-147713;INF00XX01564;-;ITI Overnight Fund - Direct Plan - Growth Option;1109.8773;07-Oct-2022
-147717;INF00XX01630;INF00XX01606;ITI Overnight Fund - Direct Plan - Monthly IDCW Option;1002.5414;07-Oct-2022
-147711;-;INF00XX01580;ITI Overnight Fund - Direct Plan - Weekly IDCW option;1001.4552;07-Oct-2022
-147715;INF00XX01556;INF00XX01523;ITI Overnight Fund - Regular Plan - Annual IDCW Option;1037.4984;07-Oct-2022
-147709;-;INF00XX01481;ITI Overnight Fund - Regular Plan - Daily IDCW Option;1001.0000;07-Oct-2022
-147716;INF00XX01531;INF00XX01507;ITI Overnight Fund - Regular Plan - Fortnightly IDCW Option;1002.5268;07-Oct-2022
-147714;INF00XX01473;-;ITI Overnight Fund - Regular Plan - Growth Option;1106.4990;07-Oct-2022
-147718;INF00XX01549;INF00XX01515;ITI Overnight Fund - Regular Plan - Monthly IDCW Option;1002.5080;07-Oct-2022
-147712;-;INF00XX01499;ITI Overnight Fund - Regular Plan - Weekly IDCW Option;1001.4484;07-Oct-2022
+147707;INF00XX01648;INF00XX01614;ITI Overnight Fund - Direct Plan - Annual IDCW Option;1103.0310;08-Oct-2022
+147708;-;INF00XX01572;ITI Overnight Fund - Direct Plan - Daily IDCW Option;1001.0000;08-Oct-2022
+147710;INF00XX01622;INF00XX01598;ITI Overnight Fund - Direct Plan - Fortnightly IDCW Option;1002.6915;08-Oct-2022
+147713;INF00XX01564;-;ITI Overnight Fund - Direct Plan - Growth Option;1110.0520;08-Oct-2022
+147717;INF00XX01630;INF00XX01606;ITI Overnight Fund - Direct Plan - Monthly IDCW Option;1002.7002;08-Oct-2022
+147711;-;INF00XX01580;ITI Overnight Fund - Direct Plan - Weekly IDCW option;1001.6128;08-Oct-2022
+147715;INF00XX01556;INF00XX01523;ITI Overnight Fund - Regular Plan - Annual IDCW Option;1037.6589;08-Oct-2022
+147709;-;INF00XX01481;ITI Overnight Fund - Regular Plan - Daily IDCW Option;1001.0000;08-Oct-2022
+147716;INF00XX01531;INF00XX01507;ITI Overnight Fund - Regular Plan - Fortnightly IDCW Option;1002.6829;08-Oct-2022
+147714;INF00XX01473;-;ITI Overnight Fund - Regular Plan - Growth Option;1106.6703;08-Oct-2022
+147718;INF00XX01549;INF00XX01515;ITI Overnight Fund - Regular Plan - Monthly IDCW Option;1002.6636;08-Oct-2022
+147712;-;INF00XX01499;ITI Overnight Fund - Regular Plan - Weekly IDCW Option;1001.6040;08-Oct-2022
 147838;-;INF192K01LY2;JM Overnight Fund (Direct) - Daily IDCW;1000.0000;09-Oct-2022
 147835;INF192K01LZ9;INF192K01MA0;JM Overnight Fund (Direct) - Weekly IDCW;1000.8030;09-Oct-2022
 147839;-;INF192K01LU0;JM Overnight Fund (Regular) - Daily IDCW;1000.0000;09-Oct-2022
@@ -2700,14 +2700,14 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 146142;INF174KA1BC6;-;Kotak Overnight Fund -Regular plan-Growth Option;1157.3951;07-Oct-2022
 146140;-;INF174KA1BE2;Kotak Overnight Fund-Direct Plan- Daily Reinvestment of Income Distribution cum capital withdrawal option;1003.6055;07-Oct-2022
 146138;-;INF174KA1BB8;Kotak Overnight Fund-Regular Plan- Daily Reinvestment of Income Distribution cum capital withdrawal option;1004.7568;07-Oct-2022
-118066;INF917K01EL4;INF917K01EM2;L&T Overnight Fund  - Regular Plan - Monthly IDCW;1014.503;07-Oct-2022
-119283;INF917K01EN0;-;L&T Overnight Fund - Direct Plan - Growth;1698.1094;07-Oct-2022
-119284;-;INF917K01EO8;L&T Overnight Fund - Direct Plan- Daily IDCW;1023.3;07-Oct-2022
-119282;INF917K01ER1;-;L&T Overnight Fund - Direct Plan- Monthly IDCW;1071.5714;07-Oct-2022
-119285;-;INF917K01EP5;L&T Overnight Fund - Direct Plan- Weekly IDCW;1002.0405;07-Oct-2022
-118056;-;INF917K01EJ8;L&T Overnight Fund - Regular Plan - Daily IDCW;1023.3;07-Oct-2022
-118058;INF917K01EI0;-;L&T Overnight Fund - Regular Plan - Growth;1614.9164;07-Oct-2022
-118065;-;INF917K01EK6;L&T Overnight Fund - Regular Plan - Weekly IDCW;1000.6391;07-Oct-2022
+118066;INF917K01EL4;INF917K01EM2;L&T Overnight Fund  - Regular Plan - Monthly IDCW;1014.6613;08-Oct-2022
+119283;INF917K01EN0;-;L&T Overnight Fund - Direct Plan - Growth;1698.379;08-Oct-2022
+119284;-;INF917K01EO8;L&T Overnight Fund - Direct Plan- Daily IDCW;1023.4644;08-Oct-2022
+119282;INF917K01ER1;-;L&T Overnight Fund - Direct Plan- Monthly IDCW;1071.7416;08-Oct-2022
+119285;-;INF917K01EP5;L&T Overnight Fund - Direct Plan- Weekly IDCW;1002.1996;08-Oct-2022
+118056;-;INF917K01EJ8;L&T Overnight Fund - Regular Plan - Daily IDCW;1023.4596;08-Oct-2022
+118058;INF917K01EI0;-;L&T Overnight Fund - Regular Plan - Growth;1615.1684;08-Oct-2022
+118065;-;INF917K01EK6;L&T Overnight Fund - Regular Plan - Weekly IDCW;1000.7952;08-Oct-2022
 147516;-;INF767K01QG7;LIC MF Overnight Fund-Direct Plan-Daily IDCW;1037.2892;09-Oct-2022
 147515;INF767K01QI3;-;LIC MF Overnight Fund-Direct Plan-Growth;1128.932;09-Oct-2022
 147513;INF767K01QE2;INF767K01QF9;LIC MF Overnight Fund-Direct Plan-IDCW;1128.6725;09-Oct-2022
@@ -6351,18 +6351,18 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 149787;INF769K01HY5;INF769K01IA3;Mirae Asset Nifty India Manufacturing ETF FOF - Direct Plan- IDCW;10.616;07-Oct-2022
 149788;INF769K01HW9;-;Mirae Asset Nifty India Manufacturing ETF FOF - Regular Plan - Growth;10.584;07-Oct-2022
 149789;INF769K01HV1;INF769K01HX7;Mirae Asset Nifty India Manufacturing ETF FOF - Regular Plan - IDCW;10.623;07-Oct-2022
-148928;INF769K01HH0;-;Mirae Asset NYSE FANG + ETF Fund of Fund Direct Growth;8.484;06-Oct-2022
-148929;INF769K01HG2;-;Mirae Asset NYSE FANG + ETF Fund of Fund Regular Growth;8.432;06-Oct-2022
-149170;INF769K01HR9;-;Mirae Asset S&P 500 Top 50 ETF Fund of Fund Direct Growth;9.265;06-Oct-2022
-149171;INF769K01HQ1;-;Mirae Asset S&P 500 Top 50 ETF Fund of Fund Regular Growth;9.225;06-Oct-2022
+148928;INF769K01HH0;-;Mirae Asset NYSE FANG + ETF Fund of Fund Direct Growth;8.552;07-Oct-2022
+148929;INF769K01HG2;-;Mirae Asset NYSE FANG + ETF Fund of Fund Regular Growth;8.499;07-Oct-2022
+149170;INF769K01HR9;-;Mirae Asset S&P 500 Top 50 ETF Fund of Fund Direct Growth;9.306;07-Oct-2022
+149171;INF769K01HQ1;-;Mirae Asset S&P 500 Top 50 ETF Fund of Fund Regular Growth;9.266;07-Oct-2022
 149240;INF247L01AQ1;-;Motilal Oswal 5 Year G-Sec Fund Of Fund Direct -Growth;10.0697;07-Oct-2022
 149241;INF247L01AR9;-;Motilal Oswal 5 Year G-Sec Fund Of Fund Regular -Growth;10.0617;07-Oct-2022
 148747;INF247L01AL2;-;Motilal Oswal Asset Allocation FOF- A- Direct Growth;11.4301;07-Oct-2022
 148748;INF247L01AM0;-;Motilal Oswal Asset Allocation FOF- A- Regular Growth;11.3282;07-Oct-2022
 148750;INF247L01AN8;-;Motilal Oswal Asset Allocation FOF- C- Direct Growth;11.0788;07-Oct-2022
 148749;INF247L01AO6;-;Motilal Oswal Asset Allocation FOF- C- Regular Growth;10.9745;07-Oct-2022
-145552;INF247L01718;-;Motilal Oswal Nasdaq 100 Fund of Fund- Direct Plan Growth;19.7758;06-Oct-2022
-145551;INF247L01700;-;Motilal Oswal Nasdaq 100 Fund of Fund- Regular Plan Growth;19.4730;06-Oct-2022
+145552;INF247L01718;-;Motilal Oswal Nasdaq 100 Fund of Fund- Direct Plan Growth;19.0216;07-Oct-2022
+145551;INF247L01700;-;Motilal Oswal Nasdaq 100 Fund of Fund- Regular Plan Growth;18.7301;07-Oct-2022
 148666;INF204KB16Y4;-;Nippon India Asset Allocator FoF - Direct Plan - Growth Option;13.0735;07-Oct-2022
 148664;INF204KB17Y2;INF204KB18Y0;NIPPON INDIA ASSET ALLOCATOR FOF - DIRECT Plan - IDCW Option;13.0735;07-Oct-2022
 148665;INF204KB14Y9;INF204KB15Y6;NIPPON INDIA ASSET ALLOCATOR FOF - IDCW Option;12.8468;07-Oct-2022
@@ -6549,10 +6549,10 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 149231;INF174V01BA8;INF174V01AZ7;Mahindra Manulife Asia Pacific REITs FOF - Direct Plan - IDCW;8.2010;07-Oct-2022
 149228;INF174V01AV6;-;Mahindra Manulife Asia Pacific REITs FOF - Regular Plan - Growth;8.1181;07-Oct-2022
 149229;INF174V01AX2;INF174V01AW4;Mahindra Manulife Asia Pacific REITs FOF - Regular Plan - IDCW;8.1182;07-Oct-2022
-150594;INF769K01IP1;-;Mirae Asset Global Electric & Autonomous Vehicles ETFs Fund of Fund - Regular Plan - Growth;9.473;06-Oct-2022
-150595;INF769K01IQ9;-;Mirae Asset Global Electric & Autonomous Vehicles ETFs Fund of Fund- Direct Plan - Growth;9.477;06-Oct-2022
-150597;INF769K01IS5;-;Mirae Asset Global X Artificial Intelligence & Technology ETF Fund of Fund - Direct Plan- Growth;9.694;06-Oct-2022
-150596;INF769K01IR7;-;Mirae Asset Global X Artificial Intelligence & Technology ETF Fund of Fund - Regular Plan - Growth;9.694;06-Oct-2022
+150594;INF769K01IP1;-;Mirae Asset Global Electric & Autonomous Vehicles ETFs Fund of Fund - Regular Plan - Growth;9.276;07-Oct-2022
+150595;INF769K01IQ9;-;Mirae Asset Global Electric & Autonomous Vehicles ETFs Fund of Fund- Direct Plan - Growth;9.280;07-Oct-2022
+150597;INF769K01IS5;-;Mirae Asset Global X Artificial Intelligence & Technology ETF Fund of Fund - Direct Plan- Growth;9.396;07-Oct-2022
+150596;INF769K01IR7;-;Mirae Asset Global X Artificial Intelligence & Technology ETF Fund of Fund - Regular Plan - Growth;9.395;07-Oct-2022
 149910;-;-;Navi NASDAQ 100 Fund of Fund- Direct- Growth;8.0435;07-Oct-2022
 149911;-;-;Navi NASDAQ 100 Fund of Fund- Regular- Growth;8.0362;07-Oct-2022
 149830;INF959L01FV0;-;Navi US Total Stock Market Fund of Fund- Direct Plan- Growth;9.2701;07-Oct-2022
@@ -7052,8 +7052,8 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 149786;INF769K01IB1;-;Mirae Asset Nifty India Manufacturing ETF;84.030;07-Oct-2022
 149918;INF769K01IC9;-;Mirae Asset Nifty Midcap 150 ETF Regular Growth Option;11.944;07-Oct-2022
 147906;INF769K01FN2;-;Mirae Asset Nifty Next 50 ETF (MANxt50ETF);429.900;07-Oct-2022
-148927;INF769K01HF4;-;Mirae Asset NYSE FANG + ETF;39.707;06-Oct-2022
-149169;INF769K01HP3;-;Mirae Asset S&P 500 Top 50 ETF;25.614;06-Oct-2022
+148927;INF769K01HF4;-;Mirae Asset NYSE FANG + ETF;38.195;07-Oct-2022
+149169;INF769K01HP3;-;Mirae Asset S&P 500 Top 50 ETF;25.008;07-Oct-2022
 114984;INF247L01AP3;-;Motilal Oswal Nasdaq 100 ETF (MOFN100);92.2893;07-Oct-2022
 149438;INF247L01AU3;-;Motilal Oswal Nasdaq Q50 ETF;49.6766;07-Oct-2022
 149801;INF247L01AX7;-;Motilal Oswal Nifty 200 Momentum 30 ETF;39.1583;07-Oct-2022
