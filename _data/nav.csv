@@ -6505,10 +6505,10 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 149458;INF109KC1Z63;INF109KC1Z71;ICICI Prudential Strategic Metal and Energy Equity Fund of Fund - Direct Plan IDCW;12.2887;10-Oct-2022
 149456;INF109KC1Z22;-;ICICI Prudential Strategic Metal and Energy Equity Fund of Fund - Growth;12.1986;10-Oct-2022
 149457;INF109KC1Z30;INF109KC1Z48;ICICI Prudential Strategic Metal and Energy Equity Fund of Fund - IDCW;12.1985;10-Oct-2022
-149098;INF194KB1CF2;-;IDFC US EQUITY FUND OF FUND - GROWTH - DIRECT PLAN;8.534;07-Oct-2022
-149100;INF194KB1CC9;-;IDFC US EQUITY FUND OF FUND - GROWTH - REGULAR PLAN;8.422;07-Oct-2022
-149099;INF194KB1CG0;-;IDFC US EQUITY FUND OF FUND - IDCW - DIRECT PLAN;8.534;07-Oct-2022
-149097;INF194KB1CD7;-;IDFC US EQUITY FUND OF FUND - IDCW - REGULAR PLAN;8.422;07-Oct-2022
+149098;INF194KB1CF2;-;IDFC US EQUITY FUND OF FUND - GROWTH - DIRECT PLAN;8.340;11-Oct-2022
+149100;INF194KB1CC9;-;IDFC US EQUITY FUND OF FUND - GROWTH - REGULAR PLAN;8.229;11-Oct-2022
+149099;INF194KB1CG0;-;IDFC US EQUITY FUND OF FUND - IDCW - DIRECT PLAN;8.340;11-Oct-2022
+149097;INF194KB1CD7;-;IDFC US EQUITY FUND OF FUND - IDCW - REGULAR PLAN;8.229;11-Oct-2022
 149961;INF205KA1585;-;Invesco India - Invesco EQQQ Nasdaq-100 ETF Fund of Fund - Direct Plan - Growth;8.4405;11-Oct-2022
 149960;INF205KA1577;-;Invesco India - Invesco EQQQ Nasdaq-100 ETF Fund of Fund - Regular Plan - Growth;8.4301;11-Oct-2022
 148614;INF205KA1270;-;Invesco India - Invesco Global Consumer Trends Fund of Fund - Direct Plan - Growth;5.9258;11-Oct-2022
@@ -6574,10 +6574,10 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 148762;INF200KA1T96;-;SBI International Access - US Equity FoF - Regular Plan - Growth;9.9424;10-Oct-2022
 148761;INF200KA1U36;INF200KA1U44;SBI International Access- US Equity FoF Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);10.0729;10-Oct-2022
 148759;INF200KA1U02;INF200KA1U10;SBI International Access- US Equity FoF Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);9.9427;10-Oct-2022
-119602;INF903J01OB6;-;Sundaram Global Brand Fund Direct Plan - Growth;21.5316;07-Oct-2022
-119601;INF903J01NZ7;INF903J01OA8;Sundaram Global Brand Fund Direct Plan - Income Distribution cum Capital Withdrawal (IDCW);19.1513;07-Oct-2022
-106370;INF903J01EX1;-;Sundaram Global Brand Fund Regular Plan - Growth;20.1963;07-Oct-2022
-106369;INF903J01EY9;INF903J01EZ6;Sundaram Global Brand Fund Regular Plan - Income Distribution cum Capital Withdrawal (IDCW);17.3065;07-Oct-2022
+119602;INF903J01OB6;-;Sundaram Global Brand Fund Direct Plan - Growth;21.5320;10-Oct-2022
+119601;INF903J01NZ7;INF903J01OA8;Sundaram Global Brand Fund Direct Plan - Income Distribution cum Capital Withdrawal (IDCW);19.1516;10-Oct-2022
+106370;INF903J01EX1;-;Sundaram Global Brand Fund Regular Plan - Growth;20.1946;10-Oct-2022
+106369;INF903J01EY9;INF903J01EZ6;Sundaram Global Brand Fund Regular Plan - Income Distribution cum Capital Withdrawal (IDCW);17.3051;10-Oct-2022
 115127;INF209KB18D3;-;Aditya Birla Sun Life Gold ETF;45.9175;11-Oct-2022
 113434;INF846K01W80;-;Axis Gold ETF;43.6124;11-Oct-2022
 113049;INF179KC1981;-;HDFC Gold Exchange Traded Fund. - Growth Option;44.7062;11-Oct-2022
@@ -7019,13 +7019,13 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 148445;INF754K01LE1;-;BHARAT Bond ETF- April 2031;1068.9397;10-Oct-2022
 135859;INF754K01EL1;-;Edelweiss ETF - Nifty Bank;3988.3994;10-Oct-2022
 150476;-;-;HDFC NIFTY 100 ETF - Growth Option;173.7;11-Oct-2022
-150657;-;-;HDFC NIFTY200 MOMENTUM 30 ETF - Growth Option;190.32;11-Oct-2022
 135853;INF179KC1965;-;HDFC NIFTY 50 Exchange Traded Fund - Growth Plan;183.52;11-Oct-2022
 148461;INF179KC1AN8;-;HDFC NIFTY Banking Exchange Traded Fund - GROWTH;389.6;11-Oct-2022
 150621;INF179KC1DJ0;-;HDFC NIFTY GROWTH SECTORS 15 ETF - Growth Option;85.89;11-Oct-2022
 150477;-;-;HDFC NIFTY NEXT 50 ETF - Growth Option;416.19;11-Oct-2022
 150658;-;-;HDFC NIFTY100 Low Volatility 30 ETF - Growth Option;126.02;11-Oct-2022
 150620;INF179KC1DL6;-;HDFC NIFTY100 QUALITY 30 ETF - Growth Option;37.62;11-Oct-2022
+150657;-;-;HDFC NIFTY200 MOMENTUM 30 ETF - Growth Option;190.32;11-Oct-2022
 150619;INF179KC1DK8;-;HDFC NIFTY 50 VALUE 20 ETF - Growth Option;85.5;11-Oct-2022
 135854;INF179KC1973;-;HDFC S&P BSE Sensex Exchange Traded Fund - Growth Plan;619.9;11-Oct-2022
 150556;-;-;HDFC Silver ETF - Growth Option;57.8595;11-Oct-2022
