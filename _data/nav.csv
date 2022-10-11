@@ -467,13 +467,13 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 133517;INF955L01FU0;-;Baroda BNP Paribas Credit Risk Fund -Regular-Monthly IDCW;11.2844;10-Oct-2022
 133518;INF955L01FV8;-;Baroda BNP Paribas Credit Risk Fund -Regular-Quarterly IDCW;11.6752;10-Oct-2022
 148350;-;-;Baroda BNP Paribas Credit Risk Fund- Direct - Bonus Option- Segregated Portfolio- 1;0;14-Mar-2022
-148333;INF955L01IT6;-;Baroda BNP Paribas Credit Risk Fund- Direct- Growth Option- Segregated Portfolio- 1;0;10-Oct-2022
-148334;INF955L01IW0;INF955L01IX8;Baroda BNP Paribas Credit Risk Fund- Direct- Monthly IDCW Option- Segregated Portfolio- 1;0;10-Oct-2022
+148333;INF955L01IT6;-;Baroda BNP Paribas Credit Risk Fund- Direct- Growth Option- Segregated Portfolio- 1;0;11-Oct-2022
+148334;INF955L01IW0;INF955L01IX8;Baroda BNP Paribas Credit Risk Fund- Direct- Monthly IDCW Option- Segregated Portfolio- 1;0;11-Oct-2022
 148349;-;-;Baroda BNP Paribas Credit Risk Fund- Regular- Bonus Option- Segregated Portfolio- 1;0;14-Mar-2022
-148330;INF955L01IO7;-;Baroda BNP Paribas Credit Risk Fund- Regular- Growth Option- Segregated Portfolio- 1;0;10-Oct-2022
-148331;INF955L01IR0;INF955L01IS8;Baroda BNP Paribas Credit Risk Fund- Regular- Monthly IDCW Option- Segregated Portfolio- 1;0;10-Oct-2022
-148332;INF955L01IP4;INF955L01IQ2;Baroda BNP Paribas Credit Risk Fund- Regular- Quarterly IDCW Option- Segregated Portfolio- 1;0;10-Oct-2022
-148335;INF955L01IU4;INF955L01IV2;Baroda BNP Paribas Credit Risk Fund-Direct- Quarterly IDCW Option- Segregated Portfolio- 1;0;10-Oct-2022
+148330;INF955L01IO7;-;Baroda BNP Paribas Credit Risk Fund- Regular- Growth Option- Segregated Portfolio- 1;0;11-Oct-2022
+148331;INF955L01IR0;INF955L01IS8;Baroda BNP Paribas Credit Risk Fund- Regular- Monthly IDCW Option- Segregated Portfolio- 1;0;11-Oct-2022
+148332;INF955L01IP4;INF955L01IQ2;Baroda BNP Paribas Credit Risk Fund- Regular- Quarterly IDCW Option- Segregated Portfolio- 1;0;11-Oct-2022
+148335;INF955L01IU4;INF955L01IV2;Baroda BNP Paribas Credit Risk Fund-Direct- Quarterly IDCW Option- Segregated Portfolio- 1;0;11-Oct-2022
 119084;INF740K01OV8;INF740K01OW6;DSP Credit Risk Fund - Direct Plan -  IDCW - Monthly;10.6231;10-Oct-2022
 119082;INF740K01OS4;-;DSP Credit Risk Fund - Direct Plan - Growth;35.4079;10-Oct-2022
 119083;INF740K01OT2;INF740K01OU0;DSP Credit Risk Fund - Direct Plan - IDCW;12.3084;10-Oct-2022
@@ -792,21 +792,21 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 149026;INF00XX01BA8;INF00XX01AW4;ITI Dynamic Bond Fund - Regular Plan - Half Yearly IDCW Option;10.4174;10-Oct-2022
 149022;INF00XX01AY0;INF00XX01AU8;ITI Dynamic Bond Fund - Regular Plan - Monthly IDCW Option;10.0209;10-Oct-2022
 149024;INF00XX01AZ7;INF00XX01AV6;ITI Dynamic Bond Fund - Regular Plan - Quarterly IDCW Option;10.4171;10-Oct-2022
-120432;-;INF192K01CZ8;JM Dynamic Bond Fund (Direct) - Daily IDCW;10.1018;10-Oct-2022
-120434;INF192K01DB7;INF192K01DC5;JM Dynamic Bond Fund (Direct) - IDCW;36.0844;10-Oct-2022
-133414;INF192K01IL5;INF192K01IM3;JM Dynamic Bond Fund (Direct) - Monthly IDCW;36.3619;10-Oct-2022
-120433;-;INF192K01DA9;JM Dynamic Bond Fund (Direct) - Weekly IDCW;10.5482;10-Oct-2022
-122323;INF192K01EX9;-;JM Dynamic Bond Fund (Regular) - Bonus Option - Principal Units;34.0194;10-Oct-2022
-105639;-;INF192K01668;JM Dynamic Bond Fund (Regular) - Daily IDCW;10.0447;10-Oct-2022
-101806;INF192K01700;-;JM Dynamic Bond Fund (Regular) - Growth Option;34.0083;10-Oct-2022
-133389;INF192K01IN1;-;JM Dynamic Bond Fund (Regular) - Half Yearly Bonus Option - Principal Units;34.3009;10-Oct-2022
-101805;INF192K01684;INF192K01692;JM Dynamic Bond Fund (Regular) - IDCW;34.1149;10-Oct-2022
-133390;INF192K01IJ9;INF192K01IK7;JM Dynamic Bond Fund (Regular) - Monthly IDCW;34.2768;10-Oct-2022
-105637;-;INF192K01676;JM Dynamic Bond Fund (Regular) - Weekly IDCW;10.5366;10-Oct-2022
+120432;-;INF192K01CZ8;JM Dynamic Bond Fund (Direct) - Daily IDCW;10.1060;11-Oct-2022
+120434;INF192K01DB7;INF192K01DC5;JM Dynamic Bond Fund (Direct) - IDCW;36.0994;11-Oct-2022
+133414;INF192K01IL5;INF192K01IM3;JM Dynamic Bond Fund (Direct) - Monthly IDCW;36.3770;11-Oct-2022
+120433;-;INF192K01DA9;JM Dynamic Bond Fund (Direct) - Weekly IDCW;10.5526;11-Oct-2022
+122323;INF192K01EX9;-;JM Dynamic Bond Fund (Regular) - Bonus Option - Principal Units;34.0332;11-Oct-2022
+105639;-;INF192K01668;JM Dynamic Bond Fund (Regular) - Daily IDCW;10.0488;11-Oct-2022
+101806;INF192K01700;-;JM Dynamic Bond Fund (Regular) - Growth Option;34.0221;11-Oct-2022
+133389;INF192K01IN1;-;JM Dynamic Bond Fund (Regular) - Half Yearly Bonus Option - Principal Units;34.3149;11-Oct-2022
+101805;INF192K01684;INF192K01692;JM Dynamic Bond Fund (Regular) - IDCW;34.1288;11-Oct-2022
+133390;INF192K01IJ9;INF192K01IK7;JM Dynamic Bond Fund (Regular) - Monthly IDCW;34.2907;11-Oct-2022
+105637;-;INF192K01676;JM Dynamic Bond Fund (Regular) - Weekly IDCW;10.5409;11-Oct-2022
 101807;INF192K01734;INF192K01742;JM Dynamic Bond Fund (Regular)- Premium Plan IDCW;10.2458;16-Mar-2021
-122315;INF192K01EZ4;-;JM Dynamic Bond Fund - (Direct) - Bonus Option-Principal Units;35.7564;10-Oct-2022
-120435;INF192K01DD3;-;JM Dynamic Bond Fund - (Direct) - Growth Option;35.8913;10-Oct-2022
-133388;INF192K01IP6;-;JM Dynamic Bond Fund - (Direct) - Half Yearly Bonus Option - Principal Units;36.1143;10-Oct-2022
+122315;INF192K01EZ4;-;JM Dynamic Bond Fund - (Direct) - Bonus Option-Principal Units;35.7713;11-Oct-2022
+120435;INF192K01DD3;-;JM Dynamic Bond Fund - (Direct) - Growth Option;35.9063;11-Oct-2022
+133388;INF192K01IP6;-;JM Dynamic Bond Fund - (Direct) - Half Yearly Bonus Option - Principal Units;36.1294;11-Oct-2022
 105638;-;INF192K01718;JM Dynamic Bond Fund - Premium Plan - Daily Dividend Option;10.0470;06-May-2020
 101808;INF192K01759;-;JM Dynamic Bond Fund - Premium Plan - Growth Option;29.1520;14-Jan-2020
 119753;INF174K01JX6;-;Kotak Dynamic Bond Fund - Direct Plan - Standard Income Distribution cum capital withdrawal option;11.3539;10-Oct-2022
@@ -1432,24 +1432,24 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 147153;INF00XX01192;-;ITI Liquid Fund - Regular Plan - Growth Option;1138.1792;10-Oct-2022
 147156;INF00XX01267;INF00XX01234;ITI Liquid Fund - Regular Plan - Monthly IDCW Option;1003.2231;10-Oct-2022
 147164;-;INF00XX01218;ITI Liquid Fund - Regular Plan - Weekly IDCW Option;1001.8551;10-Oct-2022
-120410;INF192K01CN4;-;JM Liquid Fund (Direct) - Bonus Option - Bonus Option - Principal units;19.1984;10-Oct-2022
-120411;-;INF192K01CH6;JM Liquid Fund (Direct) - Daily IDCW;10.4302;10-Oct-2022
-120406;INF192K01CM6;-;JM Liquid Fund (Direct) - Growth Option;59.6798;10-Oct-2022
-120408;INF192K01CK0;INF192K01CL8;JM Liquid Fund (Direct) - Quarterly IDCW;33.8825;10-Oct-2022
-120407;INF192K01CI4;INF192K01CJ2;JM Liquid Fund (Direct) - Weekly IDCW;11.0157;10-Oct-2022
-100244;INF192K01866;INF192K01874;JM Liquid Fund (Regular) - Quarterly IDCW;33.5126;10-Oct-2022
-100247;INF192K01981;-;JM Liquid Fund (Regular) - Super Institutional Plan - Growth Option;34.0387;10-Oct-2022
-100233;INF192K01841;INF192K01858;JM Liquid Fund (Regular) - Weekly IDCW;11.0130;10-Oct-2022
-100234;INF192K01882;-;JM Liquid Fund - Growth Option;59.2088;10-Oct-2022
-148414;-;-;JM Liquid Fund - Unclaimed Application Refund Amount I.E.F. (Direct) - Growth Plan;41.4437;10-Oct-2022
-148413;-;-;JM Liquid Fund - Unclaimed Brokerage I.E.F. (Direct) - Growth Plan;41.4437;10-Oct-2022
-148415;-;-;JM Liquid Fund - Withheld Brokerage I.E.F. (Direct) - Growth Plan;41.4437;10-Oct-2022
+120410;INF192K01CN4;-;JM Liquid Fund (Direct) - Bonus Option - Bonus Option - Principal units;19.1998;11-Oct-2022
+120411;-;INF192K01CH6;JM Liquid Fund (Direct) - Daily IDCW;10.4302;11-Oct-2022
+120406;INF192K01CM6;-;JM Liquid Fund (Direct) - Growth Option;59.6841;11-Oct-2022
+120408;INF192K01CK0;INF192K01CL8;JM Liquid Fund (Direct) - Quarterly IDCW;33.8850;11-Oct-2022
+120407;INF192K01CI4;INF192K01CJ2;JM Liquid Fund (Direct) - Weekly IDCW;11.0060;11-Oct-2022
+100244;INF192K01866;INF192K01874;JM Liquid Fund (Regular) - Quarterly IDCW;33.5150;11-Oct-2022
+100247;INF192K01981;-;JM Liquid Fund (Regular) - Super Institutional Plan - Growth Option;34.0410;11-Oct-2022
+100233;INF192K01841;INF192K01858;JM Liquid Fund (Regular) - Weekly IDCW;11.0035;11-Oct-2022
+100234;INF192K01882;-;JM Liquid Fund - Growth Option;59.2130;11-Oct-2022
+148414;-;-;JM Liquid Fund - Unclaimed Application Refund Amount I.E.F. (Direct) - Growth Plan;41.4437;11-Oct-2022
+148413;-;-;JM Liquid Fund - Unclaimed Brokerage I.E.F. (Direct) - Growth Plan;41.4437;11-Oct-2022
+148415;-;-;JM Liquid Fund - Withheld Brokerage I.E.F. (Direct) - Growth Plan;41.4437;11-Oct-2022
 139258;INF192K01LB0;-;JM Liquid Fund Unclaimed Dividend (Direct) Growth Plan;57.8229;24-Jan-2022
 139260;INF192K01LD6;-;JM Liquid Fund Unclaimed Dividend IEF (Direct) Growth Plan;41.4437;24-Jan-2022
 139257;INF192K01LA2;-;JM Liquid Fund Unclaimed Redemption (Direct) Growth Plan;57.8230;24-Jan-2022
 139259;INF192K01LC8;-;JM Liquid Fund Unclaimed Redemption IEF (Direct) Growth Plan;41.4437;24-Jan-2022
-101549;INF192K01890;-;JM Liquid Fund (Regular) - Bonus Option - Principal Units;18.9588;10-Oct-2022
-101078;-;INF192K01833;JM Liquid Fund (Regular) - Daily IDCW;10.4302;10-Oct-2022
+101549;INF192K01890;-;JM Liquid Fund (Regular) - Bonus Option - Principal Units;18.9601;11-Oct-2022
+101078;-;INF192K01833;JM Liquid Fund (Regular) - Daily IDCW;10.4302;11-Oct-2022
 119764;INF174K01NH1;-;Kotak Liquid - Daily Reinvestment of Income Distribution cum capital withdrawal option - Direct;1222.81;10-Oct-2022
 119766;INF174K01NE8;-;Kotak Liquid - Growth - Direct;4409.2066;10-Oct-2022
 100833;INF174K01NL3;-;Kotak Liquid Regular Plan Daily Reinvestment of Income Distribution cum capital withdrawal option;1222.81;10-Oct-2022
@@ -1565,18 +1565,18 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 143260;INF879O01035;-;Parag Parikh Liquid Fund- Regular Plan- Growth;1213.7730;10-Oct-2022
 143261;INF879O01043;INF879O01050;Parag Parikh Liquid Fund- Regular Plan- Monthly IDCW;1005.0688;10-Oct-2022
 143266;-;INF879O01142;Parag Parikh Liquid Fund- Regular Plan- Weekly Reinvestment of IDCW;1001.0000;10-Oct-2022
-120837;INF966L01820;-;quant Liquid Fund - Growth Option - Direct Plan;35.1603;10-Oct-2022
-103225;INF966L01317;-;quant Liquid Fund - Growth Option - Regular Plan;34.503;10-Oct-2022
-120838;INF966L01796;INF966L01812;quant Liquid Fund - Monthly IDCW Option - Direct Plan;15.5493;10-Oct-2022
-103228;INF966L01291;INF966L01309;quant Liquid Fund - Monthly IDCW Option - Regular Plan;15.197;10-Oct-2022
-120839;INF966L01788;INF966L01804;quant Liquid Fund - Weekly IDCW Option - Direct Plan;14.037;10-Oct-2022
-103227;INF966L01499;INF966L01283;quant Liquid Fund - Weekly IDCW Option - Regular Plan;13.3661;10-Oct-2022
-120836;-;INF966L01770;quant Liquid Fund-Daily IDCW Option - Direct Plan;13.2547;10-Oct-2022
-103226;-;INF966L01275;quant Liquid Fund-Daily IDCW Option - Regular Plan;12.9104;10-Oct-2022
-148513;-;-;quant Liquid Fund-Unclaimed Dividend Investor Education Plan-Growth Option;10.9337;10-Oct-2022
-148510;-;-;quant Liquid Fund-Unclaimed Dividend-Growth Option;10.9343;10-Oct-2022
-148511;-;-;quant Liquid Fund-Unclaimed Redemption Investor Education Plan-Growth Option;10.9337;10-Oct-2022
-148512;-;-;quant Liquid Fund-Unclaimed Redemption Plan-Growth Option;10.9412;10-Oct-2022
+120837;INF966L01820;-;quant Liquid Fund - Growth Option - Direct Plan;35.1614;11-Oct-2022
+103225;INF966L01317;-;quant Liquid Fund - Growth Option - Regular Plan;34.5039;11-Oct-2022
+120838;INF966L01796;INF966L01812;quant Liquid Fund - Monthly IDCW Option - Direct Plan;15.5498;11-Oct-2022
+103228;INF966L01291;INF966L01309;quant Liquid Fund - Monthly IDCW Option - Regular Plan;15.1974;11-Oct-2022
+120839;INF966L01788;INF966L01804;quant Liquid Fund - Weekly IDCW Option - Direct Plan;14.0224;11-Oct-2022
+103227;INF966L01499;INF966L01283;quant Liquid Fund - Weekly IDCW Option - Regular Plan;13.3515;11-Oct-2022
+120836;-;INF966L01770;quant Liquid Fund-Daily IDCW Option - Direct Plan;13.2526;11-Oct-2022
+103226;-;INF966L01275;quant Liquid Fund-Daily IDCW Option - Regular Plan;12.9082;11-Oct-2022
+148513;-;-;quant Liquid Fund-Unclaimed Dividend Investor Education Plan-Growth Option;10.9341;11-Oct-2022
+148510;-;-;quant Liquid Fund-Unclaimed Dividend-Growth Option;10.9347;11-Oct-2022
+148511;-;-;quant Liquid Fund-Unclaimed Redemption Investor Education Plan-Growth Option;10.9341;11-Oct-2022
+148512;-;-;quant Liquid Fund-Unclaimed Redemption Plan-Growth Option;10.9416;11-Oct-2022
 103736;-;INF082J01135;Quantum Liquid Fund - Direct Plan Daily IDCW;10.0090;10-Oct-2022
 103734;INF082J01127;-;Quantum Liquid Fund - Direct Plan Growth Option;29.3870;10-Oct-2022
 103735;INF082J01143;INF082J01200;Quantum Liquid Fund - Direct Plan Monthly IDCW;10.0335;10-Oct-2022
@@ -1839,16 +1839,16 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 104722;-;INF205K01HV6;Invesco India Treasury Advantage Fund - Regular - Weekly IDCW (Reinvestment);1328.6826;10-Oct-2022
 105024;-;INF205K01HU8;Invesco India Treasury Advantage Fund - Regular Daily IDCW (Reinvestment);1488.677;10-Oct-2022
 104725;INF205K01IB6;INF205K01IA8;Invesco India Treasury Advantage Fund - Weekly IDCW (Payout / Reinvestment);1150.8132;10-Oct-2022
-143610;INF192K01FL1;-;JM Low Duration Fund (Direct) - Bonus Option - Principal Units;18.8064;10-Oct-2022
-143604;-;INF192K01DT9;JM Low Duration Fund (Direct) - Daily IDCW;10.8500;10-Oct-2022
-143606;-;INF192K01DV5;JM Low Duration Fund (Direct) - Fortnightly IDCW;11.1417;10-Oct-2022
-143612;INF192K01DW3;-;JM Low Duration Fund (Direct) - Growth;31.2342;10-Oct-2022
-143611;-;INF192K01DU7;JM Low Duration Fund (Direct) - Weekly IDCW;11.4536;10-Oct-2022
-143603;-;INF192K01AV1;JM Low Duration Fund (Regular) - Daily IDCW;10.8196;10-Oct-2022
-143605;-;INF192K01AX7;JM Low Duration Fund (Regular) - Fortnightly IDCW ;11.0979;10-Oct-2022
-143607;INF192K01AY5;-;JM Low Duration Fund (Regular) - Growth Option;30.7586;10-Oct-2022
-143608;-;INF192K01AW9;JM Low Duration Fund (Regular) - Weekly IDCW;11.4128;10-Oct-2022
-143609;INF192K01FJ5;-;JM Low Duration Fund - Bonus Option - Principal Units;18.5311;10-Oct-2022
+143610;INF192K01FL1;-;JM Low Duration Fund (Direct) - Bonus Option - Principal Units;18.7991;11-Oct-2022
+143604;-;INF192K01DT9;JM Low Duration Fund (Direct) - Daily IDCW;10.8458;11-Oct-2022
+143606;-;INF192K01DV5;JM Low Duration Fund (Direct) - Fortnightly IDCW;11.1200;11-Oct-2022
+143612;INF192K01DW3;-;JM Low Duration Fund (Direct) - Growth;31.2221;11-Oct-2022
+143611;-;INF192K01DU7;JM Low Duration Fund (Direct) - Weekly IDCW;11.4492;11-Oct-2022
+143603;-;INF192K01AV1;JM Low Duration Fund (Regular) - Daily IDCW;10.8152;11-Oct-2022
+143605;-;INF192K01AX7;JM Low Duration Fund (Regular) - Fortnightly IDCW ;11.0800;11-Oct-2022
+143607;INF192K01AY5;-;JM Low Duration Fund (Regular) - Growth Option;30.7463;11-Oct-2022
+143608;-;INF192K01AW9;JM Low Duration Fund (Regular) - Weekly IDCW;11.4082;11-Oct-2022
+143609;INF192K01FJ5;-;JM Low Duration Fund - Bonus Option - Principal Units;18.5237;11-Oct-2022
 133812;INF178L01AZ9;INF178L01AY2;Kotak Low Duration Fund - Direct Plan- Standard Income Distribution cum capital withdrawal option;1257.5481;10-Oct-2022
 133810;INF178L01AX4;-;Kotak Low Duration Fund- Direct Plan- Growth Option;2959.2546;10-Oct-2022
 133805;INF178L01202;-;Kotak Low Duration Fund- Regular Plan-Growth Option;2771.3674;10-Oct-2022
@@ -2024,30 +2024,30 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 116894;INF846K01BP2;-;Axis Strategic Bond Fund - Regular Plan - Growth Option;22.5424;10-Oct-2022
 116896;INF846K01BR8;INF846K01BT4;Axis Strategic Bond Fund - Regular Plan - Half Yearly IDCW;10.5426;10-Oct-2022
 116895;INF846K01BQ0;INF846K01BS6;Axis Strategic Bond Fund - Regular Plan - Quarterly IDCW;9.9966;10-Oct-2022
-150292;-;-;Baroda BNP Paribas Medium Duration - Regular Plan - Monthly IDCW - Segregated Portfolio - 1;0;10-Oct-2022
-150295;-;-;Baroda BNP Paribas Medium Duration - Regular Plan - Quarterly IDCW - Segregated Portfolio - 1;0;10-Oct-2022
-150304;-;-;Baroda BNP Paribas Medium Duration Fund  - Direct Plan - Weekly IDCW - Segregated Portfolio - 1;0;10-Oct-2022
-150305;-;-;Baroda BNP Paribas Medium Duration Fund - Defunct Plan - Daily IDCW Option - Segregated Portfolio - 1;0;10-Oct-2022
-150301;-;-;Baroda BNP Paribas Medium Duration Fund - Defunct Plan - Growth Option - Segregated Portfolio - 1;0;10-Oct-2022
-150300;-;-;Baroda BNP Paribas Medium Duration Fund - Defunct Plan - Monthly IDCW Option - Segregated Portfolio - 1;0;10-Oct-2022
-150290;-;-;Baroda BNP Paribas Medium Duration Fund - Defunct Plan - Weekly IDCW Option - Segregated Portfolio - 1;0;10-Oct-2022
+150292;-;-;Baroda BNP Paribas Medium Duration - Regular Plan - Monthly IDCW - Segregated Portfolio - 1;0;11-Oct-2022
+150295;-;-;Baroda BNP Paribas Medium Duration - Regular Plan - Quarterly IDCW - Segregated Portfolio - 1;0;11-Oct-2022
+150304;-;-;Baroda BNP Paribas Medium Duration Fund  - Direct Plan - Weekly IDCW - Segregated Portfolio - 1;0;11-Oct-2022
+150305;-;-;Baroda BNP Paribas Medium Duration Fund - Defunct Plan - Daily IDCW Option - Segregated Portfolio - 1;0;11-Oct-2022
+150301;-;-;Baroda BNP Paribas Medium Duration Fund - Defunct Plan - Growth Option - Segregated Portfolio - 1;0;11-Oct-2022
+150300;-;-;Baroda BNP Paribas Medium Duration Fund - Defunct Plan - Monthly IDCW Option - Segregated Portfolio - 1;0;11-Oct-2022
+150290;-;-;Baroda BNP Paribas Medium Duration Fund - Defunct Plan - Weekly IDCW Option - Segregated Portfolio - 1;0;11-Oct-2022
 150247;INF251K01LY6;INF251K01MG1;BARODA BNP PARIBAS Medium Duration Fund - Direct Plan - Annual IDCW Option;10.3174;10-Oct-2022
 150245;INF251K01LW0;INF251K01ME6;BARODA BNP PARIBAS Medium Duration Fund - Direct Plan - Calendar Quarterly IDCW Option;9.9843;10-Oct-2022
-150293;-;-;Baroda BNP Paribas Medium Duration Fund - Direct Plan - Daily IDCW - Segregated Portfolio - 1;0;10-Oct-2022
-150294;-;-;Baroda BNP Paribas Medium Duration Fund - Direct Plan - Growth - Segregated Portfolio - 1;0;10-Oct-2022
+150293;-;-;Baroda BNP Paribas Medium Duration Fund - Direct Plan - Daily IDCW - Segregated Portfolio - 1;0;11-Oct-2022
+150294;-;-;Baroda BNP Paribas Medium Duration Fund - Direct Plan - Growth - Segregated Portfolio - 1;0;11-Oct-2022
 150241;INF251K01LU4;-;BARODA BNP PARIBAS Medium Duration Fund - Direct Plan - Growth Option;16.3574;10-Oct-2022
 150246;INF251K01LX8;INF251K01MF3;BARODA BNP PARIBAS Medium Duration Fund - Direct Plan - Half yearly IDCW Option;10.0000;10-Oct-2022
-150306;-;-;Baroda BNP Paribas Medium Duration Fund - Direct Plan - Monthly IDCW - Segregated Portfolio - 1;0;10-Oct-2022
+150306;-;-;Baroda BNP Paribas Medium Duration Fund - Direct Plan - Monthly IDCW - Segregated Portfolio - 1;0;11-Oct-2022
 150244;INF251K01LV2;INF251K01MD8;BARODA BNP PARIBAS Medium Duration Fund - Direct Plan - Monthly IDCW Option;10.3445;10-Oct-2022
-150303;-;-;Baroda BNP Paribas Medium Duration Fund - Direct Plan - Quarterly IDCW - Segregated Portfolio - 1;0;10-Oct-2022
+150303;-;-;Baroda BNP Paribas Medium Duration Fund - Direct Plan - Quarterly IDCW - Segregated Portfolio - 1;0;11-Oct-2022
 150249;INF251K01LP4;INF251K01LZ3;BARODA BNP PARIBAS Medium Duration Fund - Regular Plan - Annual IDCW Option;10.2109;10-Oct-2022
 150242;INF251K01LQ2;INF251K01MA4;BARODA BNP PARIBAS Medium Duration Fund - Regular Plan - Calendar Quarterly IDCW Option;9.9837;10-Oct-2022
-150288;-;-;Baroda BNP Paribas Medium Duration Fund - Regular Plan - Daily IDCW - Segregated Portfolio - 1;0;10-Oct-2022
-150291;-;-;Baroda BNP Paribas Medium Duration Fund - Regular Plan - Growth - Segregated Portfolio - 1;0;10-Oct-2022
+150288;-;-;Baroda BNP Paribas Medium Duration Fund - Regular Plan - Daily IDCW - Segregated Portfolio - 1;0;11-Oct-2022
+150291;-;-;Baroda BNP Paribas Medium Duration Fund - Regular Plan - Growth - Segregated Portfolio - 1;0;11-Oct-2022
 150240;INF251K01LT6;-;BARODA BNP PARIBAS Medium Duration Fund - Regular Plan - Growth Option;15.4169;10-Oct-2022
 150248;INF251K01LR0;INF251K01MB2;BARODA BNP PARIBAS Medium Duration Fund - Regular Plan - Half Yearly IDCW Option;10.1608;10-Oct-2022
 150243;INF251K01LS8;INF251K01MC0;BARODA BNP PARIBAS Medium Duration Fund - Regular Plan - Monthly IDCW Option;10.0003;10-Oct-2022
-150289;-;-;Baroda BNP Paribas Medium Duration Fund - Regular Plan - Weekly IDCW - Segregated Portfolio - 1;0;10-Oct-2022
+150289;-;-;Baroda BNP Paribas Medium Duration Fund - Regular Plan - Weekly IDCW - Segregated Portfolio - 1;0;11-Oct-2022
 118924;INF740K01MZ3;-;DSP Bond Fund - Direct Plan - Growth;69.6693;10-Oct-2022
 118922;INF740K01NB2;INF740K01ND8;DSP Bond Fund - Direct Plan - IDCW;11.3656;10-Oct-2022
 118921;INF740K01NA4;INF740K01NC0;DSP Bond Fund - Direct Plan - IDCW - Monthly;11.0568;10-Oct-2022
@@ -2272,12 +2272,12 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 118396;INF194K01S35;INF194K01S27;IDFC Bond Fund - Income Plan-Direct Plan-Quarterly IDCW;12.2010;10-Oct-2022
 108768;INF194K01HF5;-;IDFC Bond Fund - Short Term - Regular Plan - Growth;46.5254;10-Oct-2022
 108767;INF194K01HH1;INF194K01HG3;IDFC Bond Fund - Short Term - Regular Plan - Monthly IDCW;10.3198;10-Oct-2022
-120428;INF192K01CX3;-;JM Medium to Long Duration Fund (Direct) - Bonus Option - Principal Units;23.7741;10-Oct-2022
-120430;INF192K01CW5;-;JM Medium to Long Duration Fund (Direct) - Growth Option;55.3963;10-Oct-2022
-120431;INF192K01CU9;INF192K01CV7;JM Medium to Long Duration Fund (Direct) - Quarterly IDCW;19.5746;10-Oct-2022
-100223;INF192K01AB3;-;JM Medium to Long Duration Fund (Regular) - Growth Option;50.4254;10-Oct-2022
-100222;INF192K01999;INF192K01AA5;JM Medium to Long Duration Fund (Regular) - Quarterly IDCW;17.1449;10-Oct-2022
-101181;INF192K01AC1;-;JM Medium to Long Duration Fund (Regular) - Bonus Option- Principal Units;20.6304;10-Oct-2022
+120428;INF192K01CX3;-;JM Medium to Long Duration Fund (Direct) - Bonus Option - Principal Units;23.8160;11-Oct-2022
+120430;INF192K01CW5;-;JM Medium to Long Duration Fund (Direct) - Growth Option;55.4939;11-Oct-2022
+120431;INF192K01CU9;INF192K01CV7;JM Medium to Long Duration Fund (Direct) - Quarterly IDCW;19.6091;11-Oct-2022
+100223;INF192K01AB3;-;JM Medium to Long Duration Fund (Regular) - Growth Option;50.5134;11-Oct-2022
+100222;INF192K01999;INF192K01AA5;JM Medium to Long Duration Fund (Regular) - Quarterly IDCW;17.1748;11-Oct-2022
+101181;INF192K01AC1;-;JM Medium to Long Duration Fund (Regular) - Bonus Option- Principal Units;20.6664;11-Oct-2022
 119734;INF174K01JD8;-;Kotak Bond Fund - Direct Plan - Standard IDCW option;22.7867;10-Oct-2022
 119735;INF174K01JC0;-;Kotak Bond Fund - Growth - Direct;68.4631;10-Oct-2022
 100300;INF174K01EQ1;INF174K01EP3;Kotak Bond Fund - Regular Plan - Standard IDCW Option;38.4446;10-Oct-2022
@@ -2686,16 +2686,16 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 147714;INF00XX01473;-;ITI Overnight Fund - Regular Plan - Growth Option;1107.0160;10-Oct-2022
 147718;INF00XX01549;INF00XX01515;ITI Overnight Fund - Regular Plan - Monthly IDCW Option;1002.9784;10-Oct-2022
 147712;-;INF00XX01499;ITI Overnight Fund - Regular Plan - Weekly IDCW Option;1001.9180;10-Oct-2022
-147838;-;INF192K01LY2;JM Overnight Fund (Direct) - Daily IDCW;1000.0000;10-Oct-2022
-147835;INF192K01LZ9;INF192K01MA0;JM Overnight Fund (Direct) - Weekly IDCW;1000.9688;10-Oct-2022
-147839;-;INF192K01LU0;JM Overnight Fund (Regular) - Daily IDCW;1000.0000;10-Oct-2022
-147836;INF192K01LX4;-;JM Overnight Fund (Regular) - Growth;1104.7183;10-Oct-2022
-147834;INF192K01LV8;INF192K01LW6;JM Overnight Fund (Regular) - Weekly IDCW;1000.9552;10-Oct-2022
-147837;INF192K01MB8;-;JM Overnight Fund - (Direct) - Growth;1106.9137;10-Oct-2022
-149828;-;-;JM Overnight Fund - (Direct) - Unclaimed IDCW - Growth Plan;1106.9139;10-Oct-2022
-149827;-;-;JM Overnight Fund - (Direct) - Unclaimed IDCW I.E.F. - Growth Plan;1073.9936;10-Oct-2022
-149829;-;-;JM Overnight Fund - (Direct) - Unclaimed Redemption - Growth Plan;1106.9141;10-Oct-2022
-149826;-;-;JM Overnight Fund - (Direct) - Unclaimed Redemption I.E.F. - Growth Plan;1073.9936;10-Oct-2022
+147838;-;INF192K01LY2;JM Overnight Fund (Direct) - Daily IDCW;1000.0000;11-Oct-2022
+147835;INF192K01LZ9;INF192K01MA0;JM Overnight Fund (Direct) - Weekly IDCW;1000.0000;11-Oct-2022
+147839;-;INF192K01LU0;JM Overnight Fund (Regular) - Daily IDCW;1000.0000;11-Oct-2022
+147836;INF192K01LX4;-;JM Overnight Fund (Regular) - Growth;1104.8993;11-Oct-2022
+147834;INF192K01LV8;INF192K01LW6;JM Overnight Fund (Regular) - Weekly IDCW;1000.0000;11-Oct-2022
+147837;INF192K01MB8;-;JM Overnight Fund - (Direct) - Growth;1107.0972;11-Oct-2022
+149828;-;-;JM Overnight Fund - (Direct) - Unclaimed IDCW - Growth Plan;1107.0974;11-Oct-2022
+149827;-;-;JM Overnight Fund - (Direct) - Unclaimed IDCW I.E.F. - Growth Plan;1073.9936;11-Oct-2022
+149829;-;-;JM Overnight Fund - (Direct) - Unclaimed Redemption - Growth Plan;1107.0976;11-Oct-2022
+149826;-;-;JM Overnight Fund - (Direct) - Unclaimed Redemption I.E.F. - Growth Plan;1073.9936;11-Oct-2022
 146141;INF174KA1BF9;-;Kotak Overnight Fund -Direct Plan-Growth Option;1161.7098;10-Oct-2022
 146142;INF174KA1BC6;-;Kotak Overnight Fund -Regular plan-Growth Option;1157.9423;10-Oct-2022
 146140;-;INF174KA1BE2;Kotak Overnight Fund-Direct Plan- Daily Reinvestment of Income Distribution cum capital withdrawal option;1003.6055;10-Oct-2022
@@ -2962,10 +2962,10 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 105192;-;INF205K01UU1;Invesco India Short Term Fund - Plan B - Weekly IDCW (Reinvestment);1013.2605;10-Oct-2022
 105190;-;INF205K01UV9;Invesco India Short Term Fund - Weekly IDCW (Reinvestment);1016.7435;10-Oct-2022
 116110;INF205K01UL0;INF205K01UM8;Invesco India Short Term Fund- Discretionary IDCW (Payout / Reinvestment);2188.4584;10-Oct-2022
-150545;INF192K01MP8;-;JM Short Duration Fund (Direct) - Growth;10.0243;10-Oct-2022
-150544;INF192K01MQ6;INF192K01MR4;JM Short Duration Fund (Direct) - IDCW;10.0244;10-Oct-2022
-150542;INF192K01MM5;-;JM Short Duration Fund (Regular) - Growth;10.0141;10-Oct-2022
-150543;INF192K01MN3;INF192K01MO1;JM Short Duration Fund (Regular) - IDCW;10.0141;10-Oct-2022
+150545;INF192K01MP8;-;JM Short Duration Fund (Direct) - Growth;10.0211;11-Oct-2022
+150544;INF192K01MQ6;INF192K01MR4;JM Short Duration Fund (Direct) - IDCW;10.0212;11-Oct-2022
+150542;INF192K01MM5;-;JM Short Duration Fund (Regular) - Growth;10.0106;11-Oct-2022
+150543;INF192K01MN3;INF192K01MO1;JM Short Duration Fund (Regular) - IDCW;10.0106;11-Oct-2022
 120469;-;INF192K01DZ6;JM Short Term Fund (Direct) - Daily Dividend Option;14.6036;25-Sep-2020
 120470;INF192K01DX1;INF192K01DY9;JM Short Term Fund (Direct) - Dividend Option;10.6757;25-Sep-2020
 120471;INF192K01EA7;-;JM Short Term Fund (Direct) - Growth Option;26.9629;25-Sep-2020
@@ -3517,10 +3517,10 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 147542;INF00XX01408;-;ITI Long Term Equity Fund - Direct Plan - IDCW Option;14.0546;10-Oct-2022
 147544;INF00XX01374;-;ITI Long Term Equity Fund - Regular Plan - Growth Option;13.7606;10-Oct-2022
 147543;INF00XX01382;-;ITI Long Term Equity Fund - Regular Plan - IDCW Option;13.1587;10-Oct-2022
-120494;INF192K01CE3;-;JM Tax Gain Fund (Direct) - Growth Option;31.0543;10-Oct-2022
-120493;INF192K01CD5;-;JM Tax Gain Fund (Direct) - IDCW;30.2887;10-Oct-2022
-107288;INF192K01650;-;JM Tax Gain Fund (Regular) - Growth option;28.0507;10-Oct-2022
-107287;INF192K01643;-;JM Tax Gain Fund (Regular) - IDCW;28.0504;10-Oct-2022
+120494;INF192K01CE3;-;JM Tax Gain Fund (Direct) - Growth Option;30.5692;11-Oct-2022
+120493;INF192K01CD5;-;JM Tax Gain Fund (Direct) - IDCW;29.8155;11-Oct-2022
+107288;INF192K01650;-;JM Tax Gain Fund (Regular) - Growth option;27.6118;11-Oct-2022
+107287;INF192K01643;-;JM Tax Gain Fund (Regular) - IDCW;27.6115;11-Oct-2022
 103339;INF174K01369;-;Kotak Tax Saver-Scheme-Growth;73.565;10-Oct-2022
 119773;INF174K01LI3;-;Kotak Tax Saver-Scheme-Growth - Direct;83.3;10-Oct-2022
 103338;INF174K01385;INF174K01377;Kotak Tax Saver-Scheme-Payout of Income Distribution cum capital withdrawal option;27.531;10-Oct-2022
@@ -3597,10 +3597,10 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 135598;INF663L01FQ8;-;PGIM India ELSS Tax Saver Fund - Regular Plan - Growth Option;23.83;10-Oct-2022
 147481;INF879O01100;-;Parag Parikh Tax Saver Fund- Direct Growth;20.3420;10-Oct-2022
 147482;INF879O01092;-;Parag Parikh Tax Saver Fund- Regular Growth;19.5321;10-Oct-2022
-120847;INF966L01986;-;quant Tax Plan - Growth Option - Direct Plan;262.7604;10-Oct-2022
-100175;INF966L01135;-;quant Tax Plan - Growth Option - Regular Plan;242.4078;10-Oct-2022
-120846;INF966L01960;INF966L01127;quant Tax Plan - IDCW Option - Direct Plan;35.0265;10-Oct-2022
-100174;INF966L01119;-;quant Tax Plan - IDCW Option - Regular Plan;33.6369;10-Oct-2022
+120847;INF966L01986;-;quant Tax Plan - Growth Option - Direct Plan;257.9168;11-Oct-2022
+100175;INF966L01135;-;quant Tax Plan - Growth Option - Regular Plan;237.9282;11-Oct-2022
+120846;INF966L01960;INF966L01127;quant Tax Plan - IDCW Option - Direct Plan;34.3808;11-Oct-2022
+100174;INF966L01119;-;quant Tax Plan - IDCW Option - Regular Plan;33.0154;11-Oct-2022
 111549;INF082J01069;-;Quantum Tax Saving Fund - Direct Plan Growth Option;77.81;10-Oct-2022
 111550;INF082J01077;INF082J01085;Quantum Tax Saving Fund - Direct Plan IDCW;77.81;10-Oct-2022
 141070;INF082J01366;-;Quantum Tax Saving Fund - Regular Plan Growth Option;76.17;10-Oct-2022
@@ -3625,10 +3625,10 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 100474;INF277K01I60;-;Tata India Tax Savings Fund- Regular Plan - Payout of IDCW Option;72.1581;10-Oct-2022
 132756;INF277K01I86;-;Tata India Tax Savings Fund-Growth-Direct Plan;31.5824;10-Oct-2022
 132757;INF277K01I52;-;Tata India Tax Savings Fund-Growth-Regular Plan;28.4720;10-Oct-2022
-118866;INF044D01CG6;INF044D01AA3;Taurus Taxshield - Direct Plan - Growth;121.98;10-Oct-2022
-118867;INF044D01CH4;INF044D01CI2;Taurus Taxshield - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;56.22;10-Oct-2022
-100480;INF044D01AC9;-;Taurus Taxshield - Regular Plan - Growth;113.91;10-Oct-2022
-108402;INF044D01997;-;Taurus Taxshield - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;53.36;10-Oct-2022
+118866;INF044D01CG6;INF044D01AA3;Taurus Taxshield - Direct Plan - Growth;120.52;11-Oct-2022
+118867;INF044D01CH4;INF044D01CI2;Taurus Taxshield - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;55.54;11-Oct-2022
+100480;INF044D01AC9;-;Taurus Taxshield - Regular Plan - Growth;112.55;11-Oct-2022
+108402;INF044D01997;-;Taurus Taxshield - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;52.73;11-Oct-2022
 119307;INF582M01765;-;Union Long Term Equity Fund - Direct Plan - Growth Option;44.77;10-Oct-2022
 119306;INF582M01781;INF582M01773;Union Long Term Equity Fund - Direct Plan - IDCW Option;44.77;10-Oct-2022
 116051;INF582M01302;-;Union Long Term Equity Fund - Growth Option;42.25;10-Oct-2022
@@ -3689,10 +3689,10 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 149765;INF205KA1486;INF205KA1502;Invesco India Flexi Cap Fund - Direct Plan - IDCW;10.45;10-Oct-2022
 149766;INF205KA1460;-;Invesco India Flexi Cap Fund - Growth;10.33;10-Oct-2022
 149764;INF205KA1452;INF205KA1478;Invesco India Flexi Cap Fund - IDCW;10.33;10-Oct-2022
-120492;INF192K01CC7;-;JM Flexicap Fund (Direct) - Growth Option;58.4069;10-Oct-2022
-120491;INF192K01CA1;INF192K01CB9;JM Flexicap Fund (Direct) - IDCW;53.0890;10-Oct-2022
-109522;INF192K01635;-;JM Flexicap Fund (Regular) - Growth option;53.1485;10-Oct-2022
-109523;INF192K01619;INF192K01627;JM Flexicap Fund (Regular) - IDCW;40.9550;10-Oct-2022
+120492;INF192K01CC7;-;JM Flexicap Fund (Direct) - Growth Option;57.5041;11-Oct-2022
+120491;INF192K01CA1;INF192K01CB9;JM Flexicap Fund (Direct) - IDCW;52.2684;11-Oct-2022
+109522;INF192K01635;-;JM Flexicap Fund (Regular) - Growth option;52.3259;11-Oct-2022
+109523;INF192K01619;INF192K01627;JM Flexicap Fund (Regular) - IDCW;40.3211;11-Oct-2022
 112090;INF174K01336;-;Kotak Flexicap Fund - Growth;52.549;10-Oct-2022
 120166;INF174K01LS2;-;Kotak Flexicap Fund - Growth - Direct;57.785;10-Oct-2022
 112089;INF174K01351;INF174K01344;Kotak Flexicap Fund - Payout of Income Distribution cum capital withdrawal option;31.732;10-Oct-2022
@@ -3731,12 +3731,12 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 133836;INF663L01FJ3;-;PGIM India Flexi Cap Fund - Regular Plan - Growth Option;24.84;10-Oct-2022
 122639;INF879O01027;-;Parag Parikh Flexi Cap Fund - Direct Plan - Growth;50.6906;10-Oct-2022
 122640;INF879O01019;-;Parag Parikh Flexi Cap Fund - Regular Plan - Growth;47.4834;10-Oct-2022
-109830;INF966L01457;-;quant Flexi Cap Fund - Growth Option - Regular Plan;61.12;10-Oct-2022
-120843;INF966L01911;-;quant Flexi Cap Fund - Growth Option-Direct Plan;65.5586;10-Oct-2022
-120842;INF966L01895;INF966L01903;quant Flexi Cap Fund - IDCW Option - Direct Plan;44.5896;10-Oct-2022
-109831;INF966L01432;INF966L01440;quant Flexi Cap Fund - IDCW Option - Regular Plan;43.5986;10-Oct-2022
-149450;INF0K1H01024;-;Samco Flexi Cap Fund - Direct Plan - Growth Option;9.54;10-Oct-2022
-149449;INF0K1H01016;-;Samco Flexi Cap Fund - Regular Plan - Growth Option;9.44;10-Oct-2022
+109830;INF966L01457;-;quant Flexi Cap Fund - Growth Option - Regular Plan;59.9983;11-Oct-2022
+120843;INF966L01911;-;quant Flexi Cap Fund - Growth Option-Direct Plan;64.3584;11-Oct-2022
+120842;INF966L01895;INF966L01903;quant Flexi Cap Fund - IDCW Option - Direct Plan;43.7733;11-Oct-2022
+109831;INF966L01432;INF966L01440;quant Flexi Cap Fund - IDCW Option - Regular Plan;42.7984;11-Oct-2022
+149450;INF0K1H01024;-;Samco Flexi Cap Fund - Direct Plan - Growth Option;9.43;11-Oct-2022
+149449;INF0K1H01016;-;Samco Flexi Cap Fund - Regular Plan - Growth Option;9.33;11-Oct-2022
 119718;INF200K01UG1;-;SBI Flexicap Fund - DIRECT PLAN - Growth Option;82.0645;10-Oct-2022
 119717;INF200K01UE6;INF200K01UF3;SBI Flexicap Fund - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);41.0183;10-Oct-2022
 103216;INF200K01230;INF200K01248;SBI Flexicap Fund - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);33.6843;10-Oct-2022
@@ -3757,10 +3757,10 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 144544;INF277K011L7;-;TATA Flexi Cap Fund Regular Plan - Payout of Income Distribution cum capital withdrawal option ;15.6954;10-Oct-2022
 144545;-;INF277K010L9;TATA Flexi Cap Fund Regular Plan - Reinvestment of Income Distribution cum capital withdrawal option ;15.6954;10-Oct-2022
 144546;INF277K015K0;-;Tata Flexi Cap Fund-Direct Plan-Growth;16.8151;10-Oct-2022
-118884;INF044D01BV7;INF044D01BW5;Taurus Flexi Cap Fund - Direct Plan -  Payout of Income Distribution cum Capital Withdrawal option;79.83;10-Oct-2022
-118883;INF044D01BU9;-;Taurus Flexi Cap Fund - Direct Plan - Growth;158.22;10-Oct-2022
-100476;INF044D01989;-;Taurus Flexi Cap Fund - Regular Plan - Growth ;152.32;10-Oct-2022
-111640;INF044D01955;INF044D01963;Taurus Flexi Cap Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;73.92;10-Oct-2022
+118884;INF044D01BV7;INF044D01BW5;Taurus Flexi Cap Fund - Direct Plan -  Payout of Income Distribution cum Capital Withdrawal option;78.68;11-Oct-2022
+118883;INF044D01BU9;-;Taurus Flexi Cap Fund - Direct Plan - Growth;155.95;11-Oct-2022
+100476;INF044D01989;-;Taurus Flexi Cap Fund - Regular Plan - Growth ;150.13;11-Oct-2022
+111640;INF044D01955;INF044D01963;Taurus Flexi Cap Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;72.85;11-Oct-2022
 119292;INF582M01633;-;Union Flexi Cap Fund - Direct Plan - Growth Option;35.70;10-Oct-2022
 119293;INF582M01658;INF582M01641;Union Flexi Cap Fund - Direct Plan - IDCW Option;31.19;10-Oct-2022
 115270;INF582M01104;-;Union Flexi Cap Fund - Growth Option;33.10;10-Oct-2022
@@ -3829,10 +3829,10 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 148482;INF205KA1205;INF205KA1221;Invesco India Focused 20 Equity Fund - Direct Plan - IDCW (Payout / Reinvestment);13.88;10-Oct-2022
 148483;INF205KA1189;-;Invesco India Focused 20 Equity Fund - Growth;14.85;10-Oct-2022
 148484;INF205KA1171;INF205KA1197;Invesco India Focused 20 Equity Fund - IDCW (Payout / Reinvestment);13.36;10-Oct-2022
-120488;INF192K01BW7;-;JM Focused Fund (Direct)  - Growth Option;13.2685;10-Oct-2022
-120487;INF192K01BU1;INF192K01BV9;JM Focused Fund (Direct) -  IDCW;13.0035;10-Oct-2022
-107410;INF192K01577;-;JM Focused Fund (Regular) - Growth Option;11.7642;10-Oct-2022
-107409;INF192K01551;INF192K01569;JM Focused Fund (Regular) - IDCW;11.7637;10-Oct-2022
+120488;INF192K01BW7;-;JM Focused Fund (Direct)  - Growth Option;13.0518;11-Oct-2022
+120487;INF192K01BU1;INF192K01BV9;JM Focused Fund (Direct) -  IDCW;12.7911;11-Oct-2022
+107410;INF192K01577;-;JM Focused Fund (Regular) - Growth Option;11.5718;11-Oct-2022
+107409;INF192K01551;INF192K01569;JM Focused Fund (Regular) - IDCW;11.5713;11-Oct-2022
 147473;INF174KA1EN7;-;Kotak Focused equity Fund- Direct Plan- Growth option;17.206;10-Oct-2022
 147477;INF174KA1EK3;-;Kotak Focused Equity Fund- Regular plan _ Growth Option;16.283;10-Oct-2022
 147472;INF174KA1EM9;INF174KA1EL1;Kotak Focused Equity Fund- Regular Plan-Income Distribution cum capital withdrawal option;16.283;10-Oct-2022
@@ -3857,10 +3857,10 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 118692;INF204K01F95;-;Nippon India Focused Equity Fund - Direct Plan Growth Plan - Growth Option;86.7575;10-Oct-2022
 104638;INF204K01GF4;INF204K01GG2;NIPPON INDIA FOCUSED EQUITY FUND - IDCW OPTION;29.9935;10-Oct-2022
 104637;INF204K01GE7;-;Nippon India Focused Equity Fund -Growth Plan -Growth Option;80.3704;10-Oct-2022
-109275;INF966L01374;-;quant Focused Fund - Growth Option - Regular Plan;56.2271;10-Oct-2022
-120834;INF966L01853;-;quant Focused Fund - Growth Option-Direct Plan;59.693;10-Oct-2022
-120835;INF966L01838;INF966L01846;quant Focused Fund - IDCW Option - Direct Plan;34.8906;10-Oct-2022
-109274;INF966L01358;INF966L01366;quant Focused Fund - IDCW Option - Regular Plan;41.7416;10-Oct-2022
+109275;INF966L01374;-;quant Focused Fund - Growth Option - Regular Plan;55.2902;11-Oct-2022
+120834;INF966L01853;-;quant Focused Fund - Growth Option-Direct Plan;58.7016;11-Oct-2022
+120835;INF966L01838;INF966L01846;quant Focused Fund - IDCW Option - Direct Plan;34.3112;11-Oct-2022
+109274;INF966L01358;INF966L01366;quant Focused Fund - IDCW Option - Regular Plan;41.0461;11-Oct-2022
 119834;INF200K01RH5;INF200K01RI3;SBI Focused Equity Fund - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);61.8212;10-Oct-2022
 119727;INF200K01RJ1;-;SBI FOCUSED EQUITY FUND - DIRECT PLAN -GROWTH;253.6839;10-Oct-2022
 102765;INF200K01388;INF200K01396;SBI Focused Equity Fund - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);42.3310;10-Oct-2022
@@ -3982,12 +3982,12 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 106255;INF204K01331;INF204K01349;Nippon India Vision Fund Institutional Dividend Plan;258.7308;04-Jun-2018
 100379;INF204K01398;-;Nippon India Vision Fund-GROWTH PLAN-Bonus Option;139.4305;10-Oct-2022
 100380;INF204K01406;-;Nippon India Vision Fund-GROWTH PLAN-Growth Option;827.8460;10-Oct-2022
-104515;INF966L01424;-;quant Large & Mid Cap Fund - Bonus Option - Regular Plan;70.8521;10-Oct-2022
-120824;INF966L01655;-;quant Large & Mid Cap Fund - Bonus Option-Direct Plan;70.8521;10-Oct-2022
-104513;INF966L01341;-;quant Large & Mid Cap Fund - Growth Option;70.804;10-Oct-2022
-120826;INF966L01648;-;quant Large & Mid Cap Fund - Growth Option-Direct Plan;74.4884;10-Oct-2022
-120825;INF966L01622;INF966L01630;quant Large & Mid Cap Fund - IDCW Option - Direct Plan;34.735;10-Oct-2022
-104514;INF966L01325;INF966L01333;quant Large & Mid Cap Fund - IDCW Option - Regular Plan;43.1239;10-Oct-2022
+104515;INF966L01424;-;quant Large & Mid Cap Fund - Bonus Option - Regular Plan;69.5239;11-Oct-2022
+120824;INF966L01655;-;quant Large & Mid Cap Fund - Bonus Option-Direct Plan;69.5239;11-Oct-2022
+104513;INF966L01341;-;quant Large & Mid Cap Fund - Growth Option;69.4768;11-Oct-2022
+120826;INF966L01648;-;quant Large & Mid Cap Fund - Growth Option-Direct Plan;73.0954;11-Oct-2022
+120825;INF966L01622;INF966L01630;quant Large & Mid Cap Fund - IDCW Option - Direct Plan;34.0855;11-Oct-2022
+104514;INF966L01325;INF966L01333;quant Large & Mid Cap Fund - IDCW Option - Regular Plan;42.3155;11-Oct-2022
 119720;INF200K01UH9;INF200K01UI7;SBI Large & Midcap Fund - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);215.2155;10-Oct-2022
 101530;INF200K01289;INF200K01297;SBI Large & Midcap Fund - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);176.1708;10-Oct-2022
 119721;INF200K01UJ5;-;SBI LARGE & MIDCAP FUND -DIRECT PLAN -Growth;412.9080;10-Oct-2022
@@ -4083,18 +4083,18 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 148352;INF00XX01812;INF00XX01820;ITI Large Cap Fund - Direct Plan - IDCW Option;12.1814;10-Oct-2022
 148351;INF00XX01770;-;ITI Large Cap Fund - Regular Plan - Growth Option;11.6968;10-Oct-2022
 148354;INF00XX01788;INF00XX01796;ITI Large Cap Fund - Regular Plan - IDCW Option;11.6968;10-Oct-2022
-134958;INF192K01JU4;INF192K01JV2;JM Large Cap Fund (Direct) - Annual IDCW;44.7583;10-Oct-2022
-120490;INF192K01BZ0;-;JM Large Cap Fund (Direct) - Growth Option;108.6574;10-Oct-2022
-134957;INF192K01JR0;INF192K01JZ3;JM Large Cap Fund (Direct) - Half Yearly IDCW ;44.4461;10-Oct-2022
-120489;INF192K01BX5;INF192K01BY3;JM Large Cap Fund (Direct) - IDCW;43.6253;10-Oct-2022
-134956;INF192K01JJ7;INF192K01JK5;JM Large Cap Fund (Direct) - Monthly IDCW ;44.3534;10-Oct-2022
-134960;INF192K01JN9;INF192K01JO7;JM Large Cap Fund (Direct) - Quarterly IDCW;44.7664;10-Oct-2022
-134961;INF192K01JS8;INF192K01JT6;JM Large Cap Fund (Regular) - Annual IDCW;19.5798;10-Oct-2022
-100219;INF192K01601;-;JM Large Cap Fund (Regular) - Growth Option;98.0822;10-Oct-2022
-134955;INF192K01JP4;INF192K01JQ2;JM Large Cap Fund (Regular) - Half Yearly IDCW;16.0791;10-Oct-2022
-100218;INF192K01585;INF192K01593;JM Large Cap Fund (Regular) - IDCW ;19.0406;10-Oct-2022
-134959;INF192K01JH1;INF192K01JI9;JM Large Cap Fund (Regular) - Monthly IDCW;15.2403;10-Oct-2022
-134954;INF192K01JL3;INF192K01JM1;JM Large Cap Fund (Regular) - Quarterly IDCW;22.1350;10-Oct-2022
+134958;INF192K01JU4;INF192K01JV2;JM Large Cap Fund (Direct) - Annual IDCW;44.1617;11-Oct-2022
+120490;INF192K01BZ0;-;JM Large Cap Fund (Direct) - Growth Option;107.2088;11-Oct-2022
+134957;INF192K01JR0;INF192K01JZ3;JM Large Cap Fund (Direct) - Half Yearly IDCW ;43.8535;11-Oct-2022
+120489;INF192K01BX5;INF192K01BY3;JM Large Cap Fund (Direct) - IDCW;43.0438;11-Oct-2022
+134956;INF192K01JJ7;INF192K01JK5;JM Large Cap Fund (Direct) - Monthly IDCW ;43.7621;11-Oct-2022
+134960;INF192K01JN9;INF192K01JO7;JM Large Cap Fund (Direct) - Quarterly IDCW;44.1696;11-Oct-2022
+134961;INF192K01JS8;INF192K01JT6;JM Large Cap Fund (Regular) - Annual IDCW;19.3184;11-Oct-2022
+100219;INF192K01601;-;JM Large Cap Fund (Regular) - Growth Option;96.7728;11-Oct-2022
+134955;INF192K01JP4;INF192K01JQ2;JM Large Cap Fund (Regular) - Half Yearly IDCW;15.8645;11-Oct-2022
+100218;INF192K01585;INF192K01593;JM Large Cap Fund (Regular) - IDCW ;18.7864;11-Oct-2022
+134959;INF192K01JH1;INF192K01JI9;JM Large Cap Fund (Regular) - Monthly IDCW;15.0368;11-Oct-2022
+134954;INF192K01JL3;INF192K01JM1;JM Large Cap Fund (Regular) - Quarterly IDCW;21.8395;11-Oct-2022
 114458;INF174K01153;-;Kotak Bluechip Fund - Growth;369.692;10-Oct-2022
 120152;INF174K01KW6;-;Kotak Bluechip Fund - Growth - Direct;411.411;10-Oct-2022
 120153;INF174K01KY2;INF174K01KX4;Kotak Bluechip Fund - Payout of Income Distribution cum capital withdrawal option - Direct;54.411;10-Oct-2022
@@ -4130,10 +4130,10 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 138308;INF663L01GW4;-;PGIM India Large Cap Fund - Growth;237.35;10-Oct-2022
 138310;INF223J01267;-;PGIM India Large Cap Fund Wealth Plan - Growth Option;34.74;28-Jul-2019
 138309;INF223J01242;-;PGIM India Large Cap Fund Wealth Plan -Dividend Option;11.63;28-Jul-2019
-150440;INF966L01AT0;-;quant Large Cap Fund - Growth Option - Direct Plan;9.8785;10-Oct-2022
-150441;INF966L01AW4;-;quant Large Cap Fund - Growth Option - Regular Plan;9.8449;10-Oct-2022
-150439;INF966L01AU8;INF966L01AV6;quant Large Cap Fund - IDCW Option - Direct Plan;9.8795;10-Oct-2022
-150442;INF966L01AX2;INF966L01AY0;quant Large Cap Fund - IDCW Option - Regular Plan;9.8429;10-Oct-2022
+150440;INF966L01AT0;-;quant Large Cap Fund - Growth Option - Direct Plan;9.7055;11-Oct-2022
+150441;INF966L01AW4;-;quant Large Cap Fund - Growth Option - Regular Plan;9.6718;11-Oct-2022
+150439;INF966L01AU8;INF966L01AV6;quant Large Cap Fund - IDCW Option - Direct Plan;9.7064;11-Oct-2022
+150442;INF966L01AX2;INF966L01AY0;quant Large Cap Fund - IDCW Option - Regular Plan;9.6699;11-Oct-2022
 119585;INF200K01QV8;INF200K01QW6;SBI Blue Chip Fund - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);43.1387;10-Oct-2022
 103616;INF200K01164;INF200K01172;SBI Blue Chip Fund - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);34.8046;10-Oct-2022
 119598;INF200K01QX4;-;SBI BLUE CHIP FUND-DIRECT PLAN -GROWTH;66.4700;10-Oct-2022
@@ -4148,10 +4148,10 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 100475;INF277K01931;-;Tata Large Cap Fund -Regular Plan - Growth Option;326.5346;10-Oct-2022
 119159;INF277K01QX2;INF277K01QY0;Tata Large Cap Fund- Direct Plan - Payout of IDCW Option;82.7636;10-Oct-2022
 102036;INF277K01EG3;INF277K01923;Tata Large Cap Fund- Regular Plan - Payout of IDCW Option;71.1797;10-Oct-2022
-118870;INF044D01BX3;-;Taurus Largecap Equity Fund - Direct Plan - Growth;113.39;10-Oct-2022
-118871;INF044D01BY1;INF044D01BZ8;Taurus Largecap Equity Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;49.95;10-Oct-2022
-101209;INF044D01773;-;Taurus Largecap Equity Fund - Regular Plan - Growth;107.52;10-Oct-2022
-108403;INF044D01740;INF044D01757;Taurus Largecap Equity Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;47.10;10-Oct-2022
+118870;INF044D01BX3;-;Taurus Largecap Equity Fund - Direct Plan - Growth;111.41;11-Oct-2022
+118871;INF044D01BY1;INF044D01BZ8;Taurus Largecap Equity Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;49.08;11-Oct-2022
+101209;INF044D01773;-;Taurus Largecap Equity Fund - Regular Plan - Growth;105.64;11-Oct-2022
+108403;INF044D01740;INF044D01757;Taurus Largecap Equity Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;46.28;11-Oct-2022
 141248;INF582M01CU7;-;Union Largecap Fund - Direct Plan - Growth Option;16.67;10-Oct-2022
 141249;INF582M01CV5;INF582M01CW3;Union Largecap Fund - Direct Plan - IDCW Option;16.67;10-Oct-2022
 141247;INF582M01CQ5;-;Union Largecap Fund - Regular Plan - Growth Option;16.07;10-Oct-2022
@@ -4243,10 +4243,10 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 125307;INF663L01DV3;-;PGIM India Midcap Opportunities Fund - Direct Plan - Growth Option;50.31;10-Oct-2022
 125306;INF663L01EA5;INF663L01EB3;PGIM India Midcap Opportunities Fund - Regular Plan - Dividend Option - Payout;23.1;10-Oct-2022
 125305;INF663L01DZ4;-;PGIM India Midcap Opportunities Fund - Regular Plan - Growth Option;45.04;10-Oct-2022
-120841;INF966L01887;-;quant Mid Cap Fund - Growth Option - Direct Plan;142.0986;10-Oct-2022
-101065;INF966L01176;-;quant Mid Cap Fund - Growth Option - Regular Plan;131.715;10-Oct-2022
-120840;INF966L01861;INF966L01879;quant Mid Cap Fund - IDCW Option - Direct Plan;50.1541;10-Oct-2022
-101066;INF966L01150;INF966L01168;quant Mid Cap Fund - IDCW Option - Regular Plan;46.7481;10-Oct-2022
+120841;INF966L01887;-;quant Mid Cap Fund - Growth Option - Direct Plan;139.2999;11-Oct-2022
+101065;INF966L01176;-;quant Mid Cap Fund - Growth Option - Regular Plan;129.114;11-Oct-2022
+120840;INF966L01861;INF966L01879;quant Mid Cap Fund - IDCW Option - Direct Plan;49.1663;11-Oct-2022
+101066;INF966L01150;INF966L01168;quant Mid Cap Fund - IDCW Option - Regular Plan;45.825;11-Oct-2022
 119716;INF200K01TP4;-;SBI Magnum MIDCAP FUND - DIRECT PLAN - GROWTH;163.1576;10-Oct-2022
 119715;INF200K01TN9;INF200K01TO7;SBI Magnum MidCap Fund - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);92.5000;10-Oct-2022
 102941;INF200K01560;-;SBI Magnum MIDCAP FUND - REGULAR PLAN - GROWTH;149.1326;10-Oct-2022
@@ -4261,10 +4261,10 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 119177;INF277K01PW6;INF277K01PX4;Tata Mid Cap Growth Fund - Direct Plan- IDCW Option;89.1058;10-Oct-2022
 102328;INF277K01626;-;Tata Mid Cap Growth Fund Regular Plan- Growth Option;245.3743;10-Oct-2022
 102326;INF277K01DS0;INF277K01642;Tata Mid Cap Growth Fund-Regular Plan - IDCW Option;67.7649;10-Oct-2022
-118872;INF044D01CA9;-;Taurus Discovery (Midcap) Fund - Direct Plan - Growth;78.03;10-Oct-2022
-118873;INF044D01CB7;INF044D01CC5;Taurus Discovery (Midcap) Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;69.32;10-Oct-2022
-100477;INF044D01815;-;Taurus Discovery (Midcap) Fund - Regular Plan - Growth;74.70;10-Oct-2022
-111642;INF044D01781;INF044D01799;Taurus Discovery (Midcap) Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;66.59;10-Oct-2022
+118872;INF044D01CA9;-;Taurus Discovery (Midcap) Fund - Direct Plan - Growth;76.93;11-Oct-2022
+118873;INF044D01CB7;INF044D01CC5;Taurus Discovery (Midcap) Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;68.34;11-Oct-2022
+100477;INF044D01815;-;Taurus Discovery (Midcap) Fund - Regular Plan - Growth;73.65;11-Oct-2022
+111642;INF044D01781;INF044D01799;Taurus Discovery (Midcap) Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;65.65;11-Oct-2022
 148073;INF582M01GI3;-;Union Midcap Fund - Direct Plan - Growth Option;30.06;10-Oct-2022
 148074;INF582M01GK9;INF582M01GJ1;Union Midcap Fund - Direct Plan - IDCW Option;30.06;10-Oct-2022
 148071;INF582M01GM5;-;Union Midcap Fund - Regular Plan - Growth Option;29.09;10-Oct-2022
@@ -4337,10 +4337,10 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 106253;INF204K01448;-;Nippon India Multi Cap Fund Institutional Plan Growth Plan Growth Option;21.9544;25-Apr-2017
 101162;INF204K01471;-;Nippon India Multi Cap Fund-Growth Plan-Bonus Option;164.8361;10-Oct-2022
 101161;INF204K01489;-;Nippon India Multi Cap Fund-Growth Plan-Growth Option;164.8361;10-Oct-2022
-100631;INF966L01234;-;quant Active Fund-GROWTH OPTION - Regular Plan;440.3616;10-Oct-2022
-120823;INF966L01614;-;quant Active Fund-GROWTH OPTION-Direct Plan;465.3127;10-Oct-2022
-120822;INF966L01598;INF966L01606;quant Active Fund-IDCW Option - Direct Plan;53.8881;10-Oct-2022
-100630;INF966L01218;INF966L01226;quant Active Fund-IDCW Option - Regular Plan;50.395;10-Oct-2022
+100631;INF966L01234;-;quant Active Fund-GROWTH OPTION - Regular Plan;431.9516;11-Oct-2022
+120823;INF966L01614;-;quant Active Fund-GROWTH OPTION-Direct Plan;456.4461;11-Oct-2022
+120822;INF966L01598;INF966L01606;quant Active Fund-IDCW Option - Direct Plan;52.8613;11-Oct-2022
+100630;INF966L01218;INF966L01226;quant Active Fund-IDCW Option - Regular Plan;49.4325;11-Oct-2022
 149887;INF200KA19E0;INF200KA10F6;SBI Multicap Fund- Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);10.8720;10-Oct-2022
 149882;INF200KA18E2;-;SBI Multicap Fund- Direct Plan- Growth option;10.8724;10-Oct-2022
 149886;INF200KA15E8;-;SBI Multicap Fund- Regular Plan- Growth Option;10.7955;10-Oct-2022
@@ -4699,18 +4699,18 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 134924;INF204KA13G0;INF204KA14G8;NIPPON INDIA - US EQUITY OPPORTUNITES FUND - IDCW Option;20.2012;10-Oct-2022
 134923;INF204KA15G5;-;Nippon India US Equity Opportunites Fund- Direct Plan- Growth Plan- Growth Option;21.8387;10-Oct-2022
 134922;INF204KA12G2;-;Nippon India US Equity Opportunites Fund- Growth Plan- Growth Option;20.2012;10-Oct-2022
-148564;INF966L01AD4;-;quant ESG Equity Fund - Growth Option - Direct Plan;22.1541;10-Oct-2022
-148560;INF966L01AB8;-;quant ESG Equity Fund - Growth Option - Regular Plan;21.5545;10-Oct-2022
-148563;INF966L01AE2;INF966L01AG7;quant ESG Equity Fund - IDCW Option - Direct Plan;22.1308;10-Oct-2022
-148561;INF966L01AC6;INF966L01AF9;quant ESG Equity Fund - IDCW Option - Regular Plan;21.4843;10-Oct-2022
-106170;INF966L01523;-;quant Infrastructure Fund - Growth Option;22.7778;10-Oct-2022
-120833;INF966L01721;-;quant Infrastructure Fund - Growth Option-Direct Plan;24.0621;10-Oct-2022
-120832;INF966L01705;INF966L01713;quant Infrastructure Fund - IDCW Option - Direct Plan;24.0465;10-Oct-2022
-106169;INF966L01507;INF966L01515;quant Infrastructure Fund - IDCW Option - Regular Plan;22.7252;10-Oct-2022
-148925;INF966L01AK9;-;quant Quantamental Fund - Growth Option - Direct Plan;13.1428;10-Oct-2022
-148923;INF966L01AH5;-;quant Quantamental Fund - Growth Option - Regular Plan;12.8039;10-Oct-2022
-148924;INF966L01AL7;INF966L01AM5;quant Quantamental Fund - IDCW Option - Direct Plan;13.1485;10-Oct-2022
-148922;INF966L01AI3;INF966L01AJ1;quant Quantamental Fund - IDCW Option - Regular Plan;12.8123;10-Oct-2022
+148564;INF966L01AD4;-;quant ESG Equity Fund - Growth Option - Direct Plan;21.7697;11-Oct-2022
+148560;INF966L01AB8;-;quant ESG Equity Fund - Growth Option - Regular Plan;21.1794;11-Oct-2022
+148563;INF966L01AE2;INF966L01AG7;quant ESG Equity Fund - IDCW Option - Direct Plan;21.7469;11-Oct-2022
+148561;INF966L01AC6;INF966L01AF9;quant ESG Equity Fund - IDCW Option - Regular Plan;21.1103;11-Oct-2022
+106170;INF966L01523;-;quant Infrastructure Fund - Growth Option;22.338;11-Oct-2022
+120833;INF966L01721;-;quant Infrastructure Fund - Growth Option-Direct Plan;23.5986;11-Oct-2022
+120832;INF966L01705;INF966L01713;quant Infrastructure Fund - IDCW Option - Direct Plan;23.5833;11-Oct-2022
+106169;INF966L01507;INF966L01515;quant Infrastructure Fund - IDCW Option - Regular Plan;22.2865;11-Oct-2022
+148925;INF966L01AK9;-;quant Quantamental Fund - Growth Option - Direct Plan;12.9211;11-Oct-2022
+148923;INF966L01AH5;-;quant Quantamental Fund - Growth Option - Regular Plan;12.5873;11-Oct-2022
+148924;INF966L01AL7;INF966L01AM5;quant Quantamental Fund - IDCW Option - Direct Plan;12.9268;11-Oct-2022
+148922;INF966L01AI3;INF966L01AJ1;quant Quantamental Fund - IDCW Option - Regular Plan;12.5956;11-Oct-2022
 147372;INF082J01382;-;QUANTUM INDIA ESG EQUITY FUND - DIRECT PLAN - GROWTH OPTION;16.83;10-Oct-2022
 147371;INF082J01390;-;QUANTUM INDIA ESG EQUITY FUND - REGULAR PLAN - GROWTH OPTION;16.46;10-Oct-2022
 133859;INF200KA1507;-;SBI BANKING & FINANCIAL SERVICES FUND - DIRECT PLAN - GROWTH;27.3582;10-Oct-2022
@@ -4830,20 +4830,20 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 135818;-;INF277K014B2;TATA Resources & Energy Fund Regular Plan - Reinvestment of Income Distribution cum capital withdrawal option ;25.3080;10-Oct-2022
 135813;INF277K015B9;-;Tata Resources & Energy Fund-Direct Plan-Growth;31.0423;10-Oct-2022
 135815;INF277K012B6;-;Tata Resources & Energy Fund-Regular Plan-Growth;27.6623;10-Oct-2022
-118868;INF044D01CN2;-;Taurus Banking & Financial Services Fund - Direct Plan - Growth;38.74;10-Oct-2022
-118869;INF044D01CO0;INF044D01CP7;Taurus Banking & Financial Services Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;38.30;10-Oct-2022
-117312;INF044D01BI4;-;Taurus Banking & Financial Services Fund - Regular Plan - Growth;35.41;10-Oct-2022
-117313;INF044D01BJ2;INF044D01BK0;Taurus Banking & Financial Services Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;31.70;10-Oct-2022
-111903;INF044D01823;-;Taurus Ethical Fund -  Regular Plan - Bonus Option;85.78;10-Oct-2022
-118876;INF044D01CJ0;-;Taurus Ethical Fund - Direct Plan - Growth;93.30;10-Oct-2022
-118877;INF044D01CK8;INF044D01CL6;Taurus Ethical Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;62.63;10-Oct-2022
-111787;INF044D01864;-;Taurus Ethical Fund - Regular Plan - Growth;85.79;10-Oct-2022
-111788;INF044D01831;INF044D01849;Taurus Ethical Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;57.99;10-Oct-2022
-118878;INF044D01CM4;-;Taurus Ethical Fund-Direct Plan-Bonus Option #;30.57;10-Oct-2022
-118879;INF044D01CD3;-;Taurus Infrastructure Fund - Direct Plan - Growth ;42.51;10-Oct-2022
-118880;INF044D01CE1;INF044D01CF8;Taurus Infrastructure Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;39.59;10-Oct-2022
-105417;INF044D01906;-;Taurus Infrastructure Fund - Regular Plan - Growth;40.14;10-Oct-2022
-105418;INF044D01872;INF044D01880;Taurus Infrastructure Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;37.70;10-Oct-2022
+118868;INF044D01CN2;-;Taurus Banking & Financial Services Fund - Direct Plan - Growth;38.33;11-Oct-2022
+118869;INF044D01CO0;INF044D01CP7;Taurus Banking & Financial Services Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;37.88;11-Oct-2022
+117312;INF044D01BI4;-;Taurus Banking & Financial Services Fund - Regular Plan - Growth;35.03;11-Oct-2022
+117313;INF044D01BJ2;INF044D01BK0;Taurus Banking & Financial Services Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;31.36;11-Oct-2022
+111903;INF044D01823;-;Taurus Ethical Fund -  Regular Plan - Bonus Option;84.46;11-Oct-2022
+118876;INF044D01CJ0;-;Taurus Ethical Fund - Direct Plan - Growth;91.87;11-Oct-2022
+118877;INF044D01CK8;INF044D01CL6;Taurus Ethical Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;61.67;11-Oct-2022
+111787;INF044D01864;-;Taurus Ethical Fund - Regular Plan - Growth;84.48;11-Oct-2022
+111788;INF044D01831;INF044D01849;Taurus Ethical Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;57.11;11-Oct-2022
+118878;INF044D01CM4;-;Taurus Ethical Fund-Direct Plan-Bonus Option #;30.10;11-Oct-2022
+118879;INF044D01CD3;-;Taurus Infrastructure Fund - Direct Plan - Growth ;41.84;11-Oct-2022
+118880;INF044D01CE1;INF044D01CF8;Taurus Infrastructure Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;38.97;11-Oct-2022
+105417;INF044D01906;-;Taurus Infrastructure Fund - Regular Plan - Growth;39.50;11-Oct-2022
+105418;INF044D01872;INF044D01880;Taurus Infrastructure Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;37.10;11-Oct-2022
 120733;INF789F01SN3;-;UTI Banking and Financial Services Fund - Direct Plan - Growth Option;131.6233;10-Oct-2022
 120732;INF789F01SL7;INF789F01SM5;UTI Banking and Financial Services Fund - Direct Plan - IDCW;51.5149;10-Oct-2022
 102401;INF789F01372;-;UTI Banking and Financial Services Fund - Regular Plan - Growth Option;118.919;10-Oct-2022
@@ -4947,10 +4947,10 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 149019;INF663L01W06;-;PGIM India Small Cap Fund - Direct Plan- Growth Option;11.45;10-Oct-2022
 149020;INF663L01W30;-;PGIM India Small Cap Fund - Regular Plan - Growth Option;11.19;10-Oct-2022
 149032;INF663L01W48;INF663L01W5;PGIM India Small Cap Fund - Regular Plan - IDCW Option;11.19;10-Oct-2022
-100177;INF966L01AA0;-;quant Small Cap Fund - Growth - Regular Plan;135.3533;10-Oct-2022
-120828;INF966L01689;-;quant Small Cap Fund - Growth Option - Direct Plan;142.8966;10-Oct-2022
-120827;INF966L01663;INF966L01671;quant Small Cap Fund - IDCW Option - Direct Plan;111.6807;10-Oct-2022
-100176;INF966L01036;INF966L01044;quant Small Cap Fund - IDCW Option - Regular Plan;107.6226;10-Oct-2022
+100177;INF966L01AA0;-;quant Small Cap Fund - Growth - Regular Plan;132.5706;11-Oct-2022
+120828;INF966L01689;-;quant Small Cap Fund - Growth Option - Direct Plan;139.9653;11-Oct-2022
+120827;INF966L01663;INF966L01671;quant Small Cap Fund - IDCW Option - Direct Plan;109.3898;11-Oct-2022
+100176;INF966L01036;INF966L01044;quant Small Cap Fund - IDCW Option - Regular Plan;105.4102;11-Oct-2022
 125497;INF200K01T51;-;SBI Small Cap Fund - Direct Plan - Growth;128.2879;10-Oct-2022
 125496;INF200K01T69;INF200K01T77;SBI Small Cap Fund - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);87.5601;10-Oct-2022
 125494;INF200K01T28;-;SBI Small Cap Fund - Regular Plan - Growth;115.1501;10-Oct-2022
@@ -5025,10 +5025,10 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 148970;INF00XX01AR4;INF00XX01AS2;ITI Value Fund - Direct Plan - IDCW Option;10.1441;10-Oct-2022
 148973;INF00XX01AN3;-;ITI Value Fund - Regular Plan - Growth Option;9.8361;10-Oct-2022
 148971;INF00XX01AO1;INF00XX01AP8;ITI Value Fund - Regular Plan - IDCW Option;9.8361;10-Oct-2022
-120486;INF192K01BT3;-;JM Value Fund (Direct) - Growth Option;55.3052;10-Oct-2022
-120485;INF192K01BR7;INF192K01BS5;JM Value Fund (Direct) - IDCW;37.6824;10-Oct-2022
-100254;INF137A01037;-;JM Value Fund (Regular) - Growth Option;50.6778;10-Oct-2022
-106168;INF137A01011;INF137A01029;JM Value Fund (Regular) - IDCW;35.3874;10-Oct-2022
+120486;INF192K01BT3;-;JM Value Fund (Direct) - Growth Option;54.5278;11-Oct-2022
+120485;INF192K01BR7;INF192K01BS5;JM Value Fund (Direct) - IDCW;37.1527;11-Oct-2022
+100254;INF137A01037;-;JM Value Fund (Regular) - Growth Option;49.9646;11-Oct-2022
+106168;INF137A01011;INF137A01029;JM Value Fund (Regular) - IDCW;34.8894;11-Oct-2022
 119404;INF917K01HD4;-;L&T India Value Fund-Direct Plan-Growth;62.471;10-Oct-2022
 119403;INF917K01HC6;INF917K01HB8;L&T India Value Fund-Direct Plan-IDCW;42.583;10-Oct-2022
 118102;INF677K01023;-;L&T India Value Fund-Regular Plan-Growth;57.474;10-Oct-2022
@@ -5037,10 +5037,10 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 118784;INF204K01K49;-;Nippon India Value Fund - Direct Plan Growth Plan;133.6792;10-Oct-2022
 103086;INF204K01GC1;INF204K01GD9;NIPPON INDIA VALUE FUND - IDCW Option;31.4723;10-Oct-2022
 103085;INF204K01GB3;-;Nippon India Value Fund- Growth Plan;124.5549;10-Oct-2022
-149335;INF966L01AN3;-;Quant Value Fund - Growth Option  - Direct Plan;10.9314;10-Oct-2022
-149337;INF966L01AQ6;-;Quant Value Fund - Growth Option - Regular Plan;10.7351;10-Oct-2022
-149338;INF966L01AO1;INF966L01AP8;Quant Value Fund - IDCW Option - Direct Plan;10.403;10-Oct-2022
-149336;INF966L01AR4;INF966L01AS2;Quant Value Fund - IDCW Option- Regular Plan;10.7133;10-Oct-2022
+149335;INF966L01AN3;-;Quant Value Fund - Growth Option  - Direct Plan;10.7653;11-Oct-2022
+149337;INF966L01AQ6;-;Quant Value Fund - Growth Option - Regular Plan;10.5714;11-Oct-2022
+149338;INF966L01AO1;INF966L01AP8;Quant Value Fund - IDCW Option - Direct Plan;10.245;11-Oct-2022
+149336;INF966L01AR4;INF966L01AS2;Quant Value Fund - IDCW Option- Regular Plan;10.55;11-Oct-2022
 103490;INF082J01036;-;Quantum Long Term Equity Value Fund - Direct Plan Growth Option;78.11;10-Oct-2022
 103491;INF082J01044;INF082J01051;Quantum Long Term Equity Value Fund - Direct Plan IDCW;78.78;10-Oct-2022
 141068;INF082J01242;-;Quantum Long Term Equity Value Fund - Regular Plan Growth Option;76.47;10-Oct-2022
@@ -5154,26 +5154,26 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 143532;INF205K013Q9;INF205K015Q4;Invesco India Equity & Bond Fund - Direct Plan - IDCW (Payout / Reinvestment);15.2826;10-Oct-2022
 143536;INF205K011Q3;-;Invesco India Equity & Bond Fund - Regular Plan - Growth;14.3383;10-Oct-2022
 143534;INF205K010Q5;INF205K012Q1;Invesco India Equity & Bond Fund - Regular Plan - IDCW (Payout / Reinvestment);14.3391;10-Oct-2022
-130904;INF192K01HB8;-;JM Equity Hybrid Fund (Direct) - Annual Bonus Option;75.9037;10-Oct-2022
-131477;INF192K01HJ1;INF192K01HK9;JM Equity Hybrid Fund (Direct) - Annual IDCW;25.5725;10-Oct-2022
-133401;INF192K01GP0;-;JM Equity Hybrid Fund (Direct) - Bonus Option - Principal Units;77.5796;10-Oct-2022
-120484;INF192K01BQ9;-;JM Equity Hybrid Fund (Direct) - Growth Option;75.7851;10-Oct-2022
-133409;INF192K01HV6;-;JM Equity Hybrid Fund (Direct) - Half Yearly Bonus Option - Principal Units;77.5796;10-Oct-2022
-133402;INF192K01HH5;INF192K01HI3;JM Equity Hybrid Fund (Direct) - Half Yearly IDCW;54.5313;10-Oct-2022
-120483;INF192K01BO4;INF192K01BP1;JM Equity Hybrid Fund (Direct) - IDCW;41.7812;10-Oct-2022
-133412;INF192K01HN3;INF192K01HO1;JM Equity Hybrid Fund (Direct) - Monthly IDCW;54.5160;10-Oct-2022
-133411;INF192K01HZ7;-;JM Equity Hybrid Fund (Direct) - Quarterly Bonus Option - Principal Units;77.5796;10-Oct-2022
-133406;INF192K01HR4;INF192K01HS2;JM Equity Hybrid Fund (Direct) - Quarterly IDCW;19.1769;10-Oct-2022
-133407;INF192K01GZ9;-;JM Equity Hybrid Fund (Regular) - Annual Bonus Option - Principal Units;71.0582;10-Oct-2022
-131476;INF192K01HF9;INF192K01HG7;JM Equity Hybrid Fund (Regular) - Annual IDCW;19.2018;10-Oct-2022
-133400;INF192K01GN5;-;JM Equity Hybrid Fund (Regular) - Bonus Option - Principal Units;71.0582;10-Oct-2022
-133403;INF192K01HT0;-;JM Equity Hybrid Fund (Regular) - Half Yearly Bonus Option - Principal Units;71.0582;10-Oct-2022
-133408;INF192K01HD4;INF192K01HE2;JM Equity Hybrid Fund (Regular) - Half Yearly IDCW ;50.4666;10-Oct-2022
-100220;INF192K01528;INF192K01536;JM Equity Hybrid Fund (Regular) - IDCW ;19.3391;10-Oct-2022
-133404;INF192K01HL7;INF192K01HM5;JM Equity Hybrid Fund (Regular) - Monthly IDCW;50.0655;10-Oct-2022
-133410;INF192K01HX2;-;JM Equity Hybrid Fund (Regular) - Quarterly Bonus Option - Principal Units;71.0582;10-Oct-2022
-133405;INF192K01HP8;INF192K01HQ6;JM Equity Hybrid Fund (Regular) - Quarterly IDCW;17.8697;10-Oct-2022
-100221;INF192K01544;-;JM Equity Hybrid Fund (Regular) -Growth Option;69.1429;10-Oct-2022
+130904;INF192K01HB8;-;JM Equity Hybrid Fund (Direct) - Annual Bonus Option;75.0252;11-Oct-2022
+131477;INF192K01HJ1;INF192K01HK9;JM Equity Hybrid Fund (Direct) - Annual IDCW;25.2766;11-Oct-2022
+133401;INF192K01GP0;-;JM Equity Hybrid Fund (Direct) - Bonus Option - Principal Units;76.6818;11-Oct-2022
+120484;INF192K01BQ9;-;JM Equity Hybrid Fund (Direct) - Growth Option;74.9080;11-Oct-2022
+133409;INF192K01HV6;-;JM Equity Hybrid Fund (Direct) - Half Yearly Bonus Option - Principal Units;76.6818;11-Oct-2022
+133402;INF192K01HH5;INF192K01HI3;JM Equity Hybrid Fund (Direct) - Half Yearly IDCW;53.9002;11-Oct-2022
+120483;INF192K01BO4;INF192K01BP1;JM Equity Hybrid Fund (Direct) - IDCW;41.2977;11-Oct-2022
+133412;INF192K01HN3;INF192K01HO1;JM Equity Hybrid Fund (Direct) - Monthly IDCW;53.8850;11-Oct-2022
+133411;INF192K01HZ7;-;JM Equity Hybrid Fund (Direct) - Quarterly Bonus Option - Principal Units;76.6818;11-Oct-2022
+133406;INF192K01HR4;INF192K01HS2;JM Equity Hybrid Fund (Direct) - Quarterly IDCW;18.9549;11-Oct-2022
+133407;INF192K01GZ9;-;JM Equity Hybrid Fund (Regular) - Annual Bonus Option - Principal Units;70.2332;11-Oct-2022
+131476;INF192K01HF9;INF192K01HG7;JM Equity Hybrid Fund (Regular) - Annual IDCW;18.9789;11-Oct-2022
+133400;INF192K01GN5;-;JM Equity Hybrid Fund (Regular) - Bonus Option - Principal Units;70.2332;11-Oct-2022
+133403;INF192K01HT0;-;JM Equity Hybrid Fund (Regular) - Half Yearly Bonus Option - Principal Units;70.2332;11-Oct-2022
+133408;INF192K01HD4;INF192K01HE2;JM Equity Hybrid Fund (Regular) - Half Yearly IDCW ;49.8807;11-Oct-2022
+100220;INF192K01528;INF192K01536;JM Equity Hybrid Fund (Regular) - IDCW ;19.1146;11-Oct-2022
+133404;INF192K01HL7;INF192K01HM5;JM Equity Hybrid Fund (Regular) - Monthly IDCW;49.4843;11-Oct-2022
+133410;INF192K01HX2;-;JM Equity Hybrid Fund (Regular) - Quarterly Bonus Option - Principal Units;70.2332;11-Oct-2022
+133405;INF192K01HP8;INF192K01HQ6;JM Equity Hybrid Fund (Regular) - Quarterly IDCW;17.6622;11-Oct-2022
+100221;INF192K01544;-;JM Equity Hybrid Fund (Regular) -Growth Option;68.3402;11-Oct-2022
 133036;INF174K01E92;-;Kotak Equity Hybrid - Growth;40.588;10-Oct-2022
 133035;INF174K01F00;-;Kotak Equity Hybrid - Growth - Direct;45.92;10-Oct-2022
 119767;INF174K01LL7;INF174K01LM5;Kotak Equity Hybrid - Payout of Income Distribution cum  capital withdrawal option - Direct;28.149;10-Oct-2022
@@ -5247,10 +5247,10 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 139823;INF663L01OE6;INF663L01OF3;PGIM India Hybrid Equity Fund-Direct Plan-Quarterly Divdend Option;21.55;05-Mar-2021
 139821;INF663L01NY6;INF663L01NZ3;PGIM India Hybrid Equity Fund-Monthly Dividend Option;21.26;10-Oct-2022
 139822;INF663L01OC0;INF663L01OD8;PGIM India Hybrid Equity Fund-Quarterly Dividend Option;20.99;05-Mar-2021
-101070;INF966L01267;-;quant Absolute Fund - Growth Option - Regular Plan;300.8325;10-Oct-2022
-120819;INF966L01556;-;quant Absolute Fund-Growth Option-Direct Plan;315.4144;10-Oct-2022
-101069;INF966L01242;INF966L01259;quant Absolute Fund-IDCW Option - Regular Plan;41.5017;10-Oct-2022
-120818;INF966L01531;INF966L01549;quant Absolute Fund-IDCW Option-Direct Plan;43.6788;10-Oct-2022
+101070;INF966L01267;-;quant Absolute Fund - Growth Option - Regular Plan;296.7679;11-Oct-2022
+120819;INF966L01556;-;quant Absolute Fund-Growth Option-Direct Plan;311.1672;11-Oct-2022
+101069;INF966L01242;INF966L01259;quant Absolute Fund-IDCW Option - Regular Plan;40.941;11-Oct-2022
+120818;INF966L01531;INF966L01549;quant Absolute Fund-IDCW Option-Direct Plan;43.0906;11-Oct-2022
 119609;INF200K01RY0;-;SBI EQUITY HYBRID FUND - DIRECT PLAN - Growth;222.2113;10-Oct-2022
 119604;INF200K01RW4;INF200K01RX2;SBI Equity Hybrid Fund - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);65.0237;10-Oct-2022
 101551;INF200K01115;INF200K01123;SBI Equity Hybrid Fund - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);43.4323;10-Oct-2022
@@ -5359,26 +5359,26 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 147615;INF00XX01457;INF00XX01465;ITI Arbitrage Fund - Direct Plan - IDCW Option;11.1641;10-Oct-2022
 147618;INF00XX01416;-;ITI Arbitrage Fund - Regular Plan - Growth Option;10.9062;10-Oct-2022
 147616;INF00XX01424;INF00XX01432;ITI Arbitrage Fund - Regular Plan - IDCW Option;10.9062;10-Oct-2022
-133395;INF192K01GX4;-;JM Arbitrage Fund (Direct) - Annual Bonus Option - Principal Units;14.7041;10-Oct-2022
-135173;INF192K01KY4;INF192K01KZ1;JM Arbitrage Fund (Direct) - Annual IDCW;13.0272;10-Oct-2022
-130604;INF192K01GL9;-;JM Arbitrage Fund (Direct) - Bonus Option - Principal Units;15.3209;10-Oct-2022
-120482;INF192K01BN6;-;JM Arbitrage Fund (Direct) - Growth Option;28.6274;10-Oct-2022
-133397;INF192K01ID2;-;JM Arbitrage Fund (Direct) - Half Yearly Bonus Option - Principal Units;28.6685;10-Oct-2022
-135171;INF192K01KU2;INF192K01KV0;JM Arbitrage Fund (Direct) - Half Yearly IDCW;13.2451;10-Oct-2022
-135172;INF192K01KM9;INF192K01KN7;JM Arbitrage Fund (Direct) - Monthly IDCW;11.5604;10-Oct-2022
-133398;INF192K01IH3;-;JM Arbitrage Fund (Direct) - Quarterly Bonus Option - Principal Units;28.6769;10-Oct-2022
-135174;INF192K01KQ0;INF192K01KR8;JM Arbitrage Fund (Direct) - Quarterly IDCW;13.5997;10-Oct-2022
-120481;INF192K01BL0;INF192K01BM8;JM Arbitrage Fund (Direct)- IDCW;13.4902;10-Oct-2022
-133394;INF192K01GV8;-;JM Arbitrage Fund (Regular) - Annual Bonus Option - Principal Units;27.6124;10-Oct-2022
-135167;INF192K01KW8;INF192K01KX6;JM Arbitrage Fund (Regular) - Annual IDCW;12.0834;10-Oct-2022
-130603;INF192K01GJ3;-;JM Arbitrage Fund (Regular) - Bonus Option - Principal Units;14.8692;10-Oct-2022
-103780;INF192K01510;-;JM Arbitrage Fund (Regular) - Growth Option;27.3508;10-Oct-2022
-133399;INF192K01IB6;-;JM Arbitrage Fund (Regular) - Half Yearly Bonus Option - Principal Units;27.6594;10-Oct-2022
-135170;INF192K01KS6;INF192K01KT4;JM Arbitrage Fund (Regular) - Half Yearly IDCW;12.1716;10-Oct-2022
-103781;INF192K01494;INF192K01502;JM Arbitrage Fund (Regular) - IDCW ;12.6945;10-Oct-2022
-135168;INF192K01KK3;INF192K01KL1;JM Arbitrage Fund (Regular) - Monthly IDCW;10.7533;10-Oct-2022
-133396;INF192K01IF7;-;JM Arbitrage Fund (Regular) - Quarterly Bonus Option - Principal Units;27.6594;10-Oct-2022
-135169;INF192K01KO5;INF192K01KP2;JM Arbitrage Fund (Regular) - Quarterly IDCW;12.3518;10-Oct-2022
+133395;INF192K01GX4;-;JM Arbitrage Fund (Direct) - Annual Bonus Option - Principal Units;14.7074;11-Oct-2022
+135173;INF192K01KY4;INF192K01KZ1;JM Arbitrage Fund (Direct) - Annual IDCW;13.0301;11-Oct-2022
+130604;INF192K01GL9;-;JM Arbitrage Fund (Direct) - Bonus Option - Principal Units;15.3243;11-Oct-2022
+120482;INF192K01BN6;-;JM Arbitrage Fund (Direct) - Growth Option;28.6337;11-Oct-2022
+133397;INF192K01ID2;-;JM Arbitrage Fund (Direct) - Half Yearly Bonus Option - Principal Units;28.6748;11-Oct-2022
+135171;INF192K01KU2;INF192K01KV0;JM Arbitrage Fund (Direct) - Half Yearly IDCW;13.2480;11-Oct-2022
+135172;INF192K01KM9;INF192K01KN7;JM Arbitrage Fund (Direct) - Monthly IDCW;11.5629;11-Oct-2022
+133398;INF192K01IH3;-;JM Arbitrage Fund (Direct) - Quarterly Bonus Option - Principal Units;28.6832;11-Oct-2022
+135174;INF192K01KQ0;INF192K01KR8;JM Arbitrage Fund (Direct) - Quarterly IDCW;13.6027;11-Oct-2022
+120481;INF192K01BL0;INF192K01BM8;JM Arbitrage Fund (Direct)- IDCW;13.4932;11-Oct-2022
+133394;INF192K01GV8;-;JM Arbitrage Fund (Regular) - Annual Bonus Option - Principal Units;27.6181;11-Oct-2022
+135167;INF192K01KW8;INF192K01KX6;JM Arbitrage Fund (Regular) - Annual IDCW;12.0859;11-Oct-2022
+130603;INF192K01GJ3;-;JM Arbitrage Fund (Regular) - Bonus Option - Principal Units;14.8722;11-Oct-2022
+103780;INF192K01510;-;JM Arbitrage Fund (Regular) - Growth Option;27.3564;11-Oct-2022
+133399;INF192K01IB6;-;JM Arbitrage Fund (Regular) - Half Yearly Bonus Option - Principal Units;27.6651;11-Oct-2022
+135170;INF192K01KS6;INF192K01KT4;JM Arbitrage Fund (Regular) - Half Yearly IDCW;12.1741;11-Oct-2022
+103781;INF192K01494;INF192K01502;JM Arbitrage Fund (Regular) - IDCW ;12.6971;11-Oct-2022
+135168;INF192K01KK3;INF192K01KL1;JM Arbitrage Fund (Regular) - Monthly IDCW;10.7555;11-Oct-2022
+133396;INF192K01IF7;-;JM Arbitrage Fund (Regular) - Quarterly Bonus Option - Principal Units;27.6651;11-Oct-2022
+135169;INF192K01KO5;INF192K01KP2;JM Arbitrage Fund (Regular) - Quarterly IDCW;12.3543;11-Oct-2022
 105968;INF174K01302;-;Kotak Equity Arbitrage Fund - Growth;30.8806;10-Oct-2022
 119771;INF174K01LC6;-;Kotak Equity Arbitrage Fund - Growth - Direct;32.4732;10-Oct-2022
 105967;INF174K01328;INF174K01310;Kotak Equity Arbitrage Fund - Payout of Income Distribution cum capital withdrawal option;10.7347;10-Oct-2022
@@ -5906,10 +5906,10 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 148458;INF204KB10W1;INF204KB11W9;NIPPON INDIA MULTI ASSET FUND - DIRECT Plan - IDCW Option;13.3948;10-Oct-2022
 148460;INF204KB17V8;INF204KB18V6;NIPPON INDIA MULTI ASSET FUND - IDCW Option;12.9812;10-Oct-2022
 148459;INF204KB16V0;-;Nippon India Multi Asset Fund - Regular Plan - Growth Option;12.9812;10-Oct-2022
-120820;INF966L01564;INF966L01572;quant Multi Asset Fund - IDCW Option - Direct Plan;80.6428;10-Oct-2022
-101071;INF966L01184;INF966L01192;quant Multi Asset Fund - IDCW Option - Regular Plan;77.8301;10-Oct-2022
-101072;INF966L01200;-;quant Multi Asset Fund-GROWTH OPTION - Regular Plan;84.8123;10-Oct-2022
-120821;INF966L01580;-;quant Multi Asset Fund-GROWTH OPTION-Direct Plan;87.4727;10-Oct-2022
+120820;INF966L01564;INF966L01572;quant Multi Asset Fund - IDCW Option - Direct Plan;79.7862;11-Oct-2022
+101071;INF966L01184;INF966L01192;quant Multi Asset Fund - IDCW Option - Regular Plan;76.9998;11-Oct-2022
+101072;INF966L01200;-;quant Multi Asset Fund-GROWTH OPTION - Regular Plan;83.9075;11-Oct-2022
+120821;INF966L01580;-;quant Multi Asset Fund-GROWTH OPTION-Direct Plan;86.5438;11-Oct-2022
 119840;INF200K01TX8;INF200K01TY6;SBI Multi Asset Allocation Fund - Direct Plan - Annual Income Distribution cum Capital Withdrawal Option (IDCW);23.8278;10-Oct-2022
 119843;INF200K01TZ3;-;SBI MULTI ASSET ALLOCATION FUND - DIRECT PLAN - GROWTH;41.8207;10-Oct-2022
 119841;INF200K01UA4;INF200K01UB2;SBI Multi Asset Allocation Fund - Direct Plan - Monthly Income Distribution cum Capital Withdrawal Option (IDCW);18.7790;10-Oct-2022
@@ -6108,10 +6108,10 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 122729;INF204K01V61;-;Reliance Yearly Interval Fund - Series 9 - Growth Plan - Growth Option;13.7202;14-Jul-2017
 102056;INF200K01750;INF200K01768;SBI Magnum Income Plus Fund - Savings Plan (D);11.1062;05-Oct-2012
 102055;INF200K01743;-;SBI Magnum Income Plus Fund - Savings Plan (G);12.5326;05-Oct-2012
-139619;-;-;Taurus Investor Education Pool - Unclaimed Dividend - Growth;10.0000;10-Oct-2022
-139618;-;-;Taurus Investor Education Pool - Unclaimed Redemption - Growth;10.0000;10-Oct-2022
-139616;-;-;Taurus Unclaimed Dividend - Growth;14.5785;10-Oct-2022
-139617;-;-;Taurus Unclaimed Redemption - Growth;14.5797;10-Oct-2022
+139619;-;-;Taurus Investor Education Pool - Unclaimed Dividend - Growth;10.0000;11-Oct-2022
+139618;-;-;Taurus Investor Education Pool - Unclaimed Redemption - Growth;10.0000;11-Oct-2022
+139616;-;-;Taurus Unclaimed Dividend - Growth;14.5803;11-Oct-2022
+139617;-;-;Taurus Unclaimed Redemption - Growth;14.5816;11-Oct-2022
 131897;INF084M01DQ0;INF084M01DR8;Aditya Birla Sun Life Active Debt Multi Manager FoF Scheme - DIRECT - IDCW;20.1179;10-Oct-2022
 131898;INF084M01DP2;-;Aditya Birla Sun Life Active Debt Multi Manager FoF Scheme - Direct Plan - Growth Option;32.128;10-Oct-2022
 131895;INF084M01AI3;INF084M01AJ1;Aditya Birla Sun Life Active Debt Multi Manager FoF Scheme - REGULAR - IDCW;19.241;10-Oct-2022
@@ -6965,10 +6965,10 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 150329;-;INF277KA1422;Tata Nifty SDL Plus AAA PSU Bond Dec 6040 Index Fund-Regular Plan- IDCW Reinvestment;10.0107;10-Oct-2022
 119287;INF277K01PK1;-;Tata S&P BSE Sensex Index Fund - Direct Plan;150.1931;10-Oct-2022
 101746;INF277K01758;-;Tata S&P BSE Sensex Index Fund -Regular Plan;143.1300;10-Oct-2022
-118881;INF044D01CQ5;-;Taurus Nifty 50 Index Fund - Direct Plan - Growth;34.8068;10-Oct-2022
-118882;INF044D01CR3;INF044D01CS1;Taurus Nifty 50 Index Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;32.5750;10-Oct-2022
-112948;INF044D01948;-;Taurus Nifty 50 Index Fund - Regular Plan - Growth;32.9478;10-Oct-2022
-112949;INF044D01914;INF044D01922;Taurus Nifty 50 Index Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;21.0057;10-Oct-2022
+118881;INF044D01CQ5;-;Taurus Nifty 50 Index Fund - Direct Plan - Growth;34.3141;11-Oct-2022
+118882;INF044D01CR3;INF044D01CS1;Taurus Nifty 50 Index Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;32.1139;11-Oct-2022
+112948;INF044D01948;-;Taurus Nifty 50 Index Fund - Regular Plan - Growth;32.4813;11-Oct-2022
+112949;INF044D01914;INF044D01922;Taurus Nifty 50 Index Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;20.7082;11-Oct-2022
 143341;INF789FC12T1;-;UTI Nifty Next 50 Index Fund - Direct Plan - Growth Option;15.4464;10-Oct-2022
 143340;INF789FC11T3;-;UTI Nifty Next 50 Index Fund - Regular Plan - Growth Option;15.0899;10-Oct-2022
 148703;INF789F1AUT5;-;UTI Nifty 200 Momentum 30 Index Fund - Direct Plan - Growth Option;13.117;10-Oct-2022
