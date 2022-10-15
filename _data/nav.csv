@@ -1460,13 +1460,13 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 100828;-;INF174K01FY2;Kotak Liquid-Regular (Dividend);1002.9403;21-Oct-2016
 100829;INF174K01NM1;-;Kotak Liquid-Regular (Growth);2893.5255;21-Oct-2016
 129923;INF917K01QI4;-;L&T Liquid Fund - Direct Plan - Bonus;1877.9353;30-Dec-2014
-122235;-;INF917K01HE2;L&T Liquid Fund - Direct Plan - Weekly IDCW;1001.4062;14-Oct-2022
-119791;INF917K01HG7;-;L&T Liquid Fund - Direct Plan -Daily IDCW;1014.3496;14-Oct-2022
-119790;INF917K01HF9;-;L&T Liquid Fund - Direct Plan -Growth;2989.0553;14-Oct-2022
-112458;INF917K01BK2;INF917K01JG3;L&T Liquid Fund - Regular Plan - Weekly IDCW;1003.1701;14-Oct-2022
+122235;-;INF917K01HE2;L&T Liquid Fund - Direct Plan - Weekly IDCW;1001.5755;15-Oct-2022
+119791;INF917K01HG7;-;L&T Liquid Fund - Direct Plan -Daily IDCW;1014.5211;15-Oct-2022
+119790;INF917K01HF9;-;L&T Liquid Fund - Direct Plan -Growth;2989.5606;15-Oct-2022
+112458;INF917K01BK2;INF917K01JG3;L&T Liquid Fund - Regular Plan - Weekly IDCW;1003.338;15-Oct-2022
 129924;INF917K01QH6;-;L&T Liquid Fund -Regular Plan - Bonus;2318.6887;20-Nov-2017
-112445;INF917K01JB4;-;L&T Liquid Fund -Regular Plan - Daily IDCW;1011.7794;14-Oct-2022
-112457;INF917K01JH1;-;L&T Liquid Fund -Regular Plan - Growth;2972.9308;14-Oct-2022
+112445;INF917K01JB4;-;L&T Liquid Fund -Regular Plan - Daily IDCW;1011.9487;15-Oct-2022
+112457;INF917K01JH1;-;L&T Liquid Fund -Regular Plan - Growth;2973.4284;15-Oct-2022
 120248;INF767K01DL5;INF767K01DM3;LIC MF Liquid Fund-Direct Plan-Daily IDCW;1013.6;15-Oct-2022
 120249;INF767K01DN1;-;LIC MF Liquid Fund-Direct Plan-Growth;3965.1202;15-Oct-2022
 101184;INF767K01IQ3;INF767K01IR1;LIC MF Liquid Fund-Regular Plan-Daily IDCW;1000.1;15-Oct-2022
@@ -1565,18 +1565,18 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 143260;INF879O01035;-;Parag Parikh Liquid Fund- Regular Plan- Growth;1214.8445;16-Oct-2022
 143261;INF879O01043;INF879O01050;Parag Parikh Liquid Fund- Regular Plan- Monthly IDCW;1005.9554;16-Oct-2022
 143266;-;INF879O01142;Parag Parikh Liquid Fund- Regular Plan- Weekly Reinvestment of IDCW;1001.8830;16-Oct-2022
-120837;INF966L01820;-;quant Liquid Fund - Growth Option - Direct Plan;35.1761;14-Oct-2022
-103225;INF966L01317;-;quant Liquid Fund - Growth Option - Regular Plan;34.5177;14-Oct-2022
-120838;INF966L01796;INF966L01812;quant Liquid Fund - Monthly IDCW Option - Direct Plan;15.5563;14-Oct-2022
-103228;INF966L01291;INF966L01309;quant Liquid Fund - Monthly IDCW Option - Regular Plan;15.2035;14-Oct-2022
-120839;INF966L01788;INF966L01804;quant Liquid Fund - Weekly IDCW Option - Direct Plan;14.0283;14-Oct-2022
-103227;INF966L01499;INF966L01283;quant Liquid Fund - Weekly IDCW Option - Regular Plan;13.3568;14-Oct-2022
-120836;-;INF966L01770;quant Liquid Fund-Daily IDCW Option - Direct Plan;13.2507;14-Oct-2022
-103226;-;INF966L01275;quant Liquid Fund-Daily IDCW Option - Regular Plan;12.9059;14-Oct-2022
-148513;-;-;quant Liquid Fund-Unclaimed Dividend Investor Education Plan-Growth Option;10.9387;14-Oct-2022
-148510;-;-;quant Liquid Fund-Unclaimed Dividend-Growth Option;10.9393;14-Oct-2022
-148511;-;-;quant Liquid Fund-Unclaimed Redemption Investor Education Plan-Growth Option;10.9387;14-Oct-2022
-148512;-;-;quant Liquid Fund-Unclaimed Redemption Plan-Growth Option;10.9464;14-Oct-2022
+120837;INF966L01820;-;quant Liquid Fund - Growth Option - Direct Plan;35.188;16-Oct-2022
+103225;INF966L01317;-;quant Liquid Fund - Growth Option - Regular Plan;34.5289;16-Oct-2022
+120838;INF966L01796;INF966L01812;quant Liquid Fund - Monthly IDCW Option - Direct Plan;15.5616;16-Oct-2022
+103228;INF966L01291;INF966L01309;quant Liquid Fund - Monthly IDCW Option - Regular Plan;15.2084;16-Oct-2022
+120839;INF966L01788;INF966L01804;quant Liquid Fund - Weekly IDCW Option - Direct Plan;14.0331;16-Oct-2022
+103227;INF966L01499;INF966L01283;quant Liquid Fund - Weekly IDCW Option - Regular Plan;13.3611;16-Oct-2022
+120836;-;INF966L01770;quant Liquid Fund-Daily IDCW Option - Direct Plan;13.2552;16-Oct-2022
+103226;-;INF966L01275;quant Liquid Fund-Daily IDCW Option - Regular Plan;12.9101;16-Oct-2022
+148513;-;-;quant Liquid Fund-Unclaimed Dividend Investor Education Plan-Growth Option;10.9424;16-Oct-2022
+148510;-;-;quant Liquid Fund-Unclaimed Dividend-Growth Option;10.943;16-Oct-2022
+148511;-;-;quant Liquid Fund-Unclaimed Redemption Investor Education Plan-Growth Option;10.9424;16-Oct-2022
+148512;-;-;quant Liquid Fund-Unclaimed Redemption Plan-Growth Option;10.9502;16-Oct-2022
 103736;-;INF082J01135;Quantum Liquid Fund - Direct Plan Daily IDCW;10.0090;16-Oct-2022
 103734;INF082J01127;-;Quantum Liquid Fund - Direct Plan Growth Option;29.4122;16-Oct-2022
 103735;INF082J01143;INF082J01200;Quantum Liquid Fund - Direct Plan Monthly IDCW;10.0421;16-Oct-2022
@@ -2700,14 +2700,14 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 146142;INF174KA1BC6;-;Kotak Overnight Fund -Regular plan-Growth Option;1158.695;14-Oct-2022
 146140;-;INF174KA1BE2;Kotak Overnight Fund-Direct Plan- Daily Reinvestment of Income Distribution cum capital withdrawal option;1003.6055;14-Oct-2022
 146138;-;INF174KA1BB8;Kotak Overnight Fund-Regular Plan- Daily Reinvestment of Income Distribution cum capital withdrawal option;1004.7568;14-Oct-2022
-118066;INF917K01EL4;INF917K01EM2;L&T Overnight Fund  - Regular Plan - Monthly IDCW;1015.6421;14-Oct-2022
-119283;INF917K01EN0;-;L&T Overnight Fund - Direct Plan - Growth;1700.0486;14-Oct-2022
-119284;-;INF917K01EO8;L&T Overnight Fund - Direct Plan- Daily IDCW;1023.3;14-Oct-2022
-119282;INF917K01ER1;-;L&T Overnight Fund - Direct Plan- Monthly IDCW;1072.7952;14-Oct-2022
-119285;-;INF917K01EP5;L&T Overnight Fund - Direct Plan- Weekly IDCW;1002.0856;14-Oct-2022
-118056;-;INF917K01EJ8;L&T Overnight Fund - Regular Plan - Daily IDCW;1023.3;14-Oct-2022
-118058;INF917K01EI0;-;L&T Overnight Fund - Regular Plan - Growth;1616.7297;14-Oct-2022
-118065;-;INF917K01EK6;L&T Overnight Fund - Regular Plan - Weekly IDCW;1000.6806;14-Oct-2022
+118066;INF917K01EL4;INF917K01EM2;L&T Overnight Fund  - Regular Plan - Monthly IDCW;1015.8073;15-Oct-2022
+119283;INF917K01EN0;-;L&T Overnight Fund - Direct Plan - Growth;1700.3298;15-Oct-2022
+119284;-;INF917K01EO8;L&T Overnight Fund - Direct Plan- Daily IDCW;1023.473;15-Oct-2022
+119282;INF917K01ER1;-;L&T Overnight Fund - Direct Plan- Monthly IDCW;1072.9726;15-Oct-2022
+119285;-;INF917K01EP5;L&T Overnight Fund - Direct Plan- Weekly IDCW;1002.2514;15-Oct-2022
+118056;-;INF917K01EJ8;L&T Overnight Fund - Regular Plan - Daily IDCW;1023.4663;15-Oct-2022
+118058;INF917K01EI0;-;L&T Overnight Fund - Regular Plan - Growth;1616.9927;15-Oct-2022
+118065;-;INF917K01EK6;L&T Overnight Fund - Regular Plan - Weekly IDCW;1000.8434;15-Oct-2022
 147516;-;INF767K01QG7;LIC MF Overnight Fund-Direct Plan-Daily IDCW;1037.9574;15-Oct-2022
 147515;INF767K01QI3;-;LIC MF Overnight Fund-Direct Plan-Growth;1130.0545;15-Oct-2022
 147513;INF767K01QE2;INF767K01QF9;LIC MF Overnight Fund-Direct Plan-IDCW;1129.7954;15-Oct-2022
@@ -4561,10 +4561,10 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 120595;INF109K01Z22;INF109K01Z30;ICICI Prudential Technology Fund - Direct Plan -  IDCW;98.94;14-Oct-2022
 100363;INF109K01506;-;ICICI Prudential Technology Fund - Growth;130.04;14-Oct-2022
 115294;INF109K01FO9;INF109K01514;ICICI Prudential Technology Fund - IDCW;53.47;14-Oct-2022
-120186;INF109K01Z71;-;ICICI Prudential US Bluechip Equity Fund - Direct Plan -  Growth;43.48;13-Oct-2022
-120185;INF109K01Z55;INF109K01Z63;ICICI Prudential US Bluechip Equity Fund - Direct Plan -  IDCW;43.48;13-Oct-2022
-117620;INF109K01E35;-;ICICI Prudential US Bluechip Equity Fund - Growth;39.89;13-Oct-2022
-117619;INF109K01E43;INF109K01E50;ICICI Prudential US Bluechip Equity Fund - IDCW;39.89;13-Oct-2022
+120186;INF109K01Z71;-;ICICI Prudential US Bluechip Equity Fund - Direct Plan -  Growth;42.27;14-Oct-2022
+120185;INF109K01Z55;INF109K01Z63;ICICI Prudential US Bluechip Equity Fund - Direct Plan -  IDCW;42.27;14-Oct-2022
+117620;INF109K01E35;-;ICICI Prudential US Bluechip Equity Fund - Growth;38.78;14-Oct-2022
+117619;INF109K01E43;INF109K01E50;ICICI Prudential US Bluechip Equity Fund - IDCW;38.78;14-Oct-2022
 143353;INF397L01KM2;-;IDBI Banking & Financial Services Fund - Direct Plan (Growth);14.13;14-Oct-2022
 143352;INF397L01KJ8;INF397L01KK6;IDBI Banking & Financial Services Fund - Direct Plan (IDCW);14.13;14-Oct-2022
 143351;INF397L01KI0;-;IDBI Banking & Financial Services Fund - Regular Plan (Growth);13.32;14-Oct-2022
@@ -6254,10 +6254,10 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 120702;INF109K01X73;-;ICICI Prudential Debt Management Fund (FOF) - Direct Plan - Growth;37.7236;14-Oct-2022
 102141;INF109K01878;-;ICICI Prudential Debt Management Fund (FOF) - Growth;36.4469;14-Oct-2022
 102143;INF109K01FS0;INF109K01886;ICICI Prudential Debt Management Fund (FOF ) - IDCW;34.9072;14-Oct-2022
-147648;INF109KC1F34;-;ICICI Prudential Global Advantage Fund (FOF) - Direct Plan - Growth Option;10.8255;13-Oct-2022
-147645;INF109KC1F42;-;ICICI Prudential Global Advantage Fund (FOF) - Direct Plan - IDCW;10.8255;13-Oct-2022
-147647;INF109KC1F00;-;ICICI Prudential Global Advantage Fund (FOF) - Growth Option;10.6171;13-Oct-2022
-147646;INF109KC1F18;-;ICICI Prudential Global Advantage Fund (FOF) - IDCW;10.6168;13-Oct-2022
+147648;INF109KC1F34;-;ICICI Prudential Global Advantage Fund (FOF) - Direct Plan - Growth Option;10.8664;14-Oct-2022
+147645;INF109KC1F42;-;ICICI Prudential Global Advantage Fund (FOF) - Direct Plan - IDCW;10.8664;14-Oct-2022
+147647;INF109KC1F00;-;ICICI Prudential Global Advantage Fund (FOF) - Growth Option;10.6570;14-Oct-2022
+147646;INF109KC1F18;-;ICICI Prudential Global Advantage Fund (FOF) - IDCW;10.6567;14-Oct-2022
 120313;INF109K01W82;-;ICICI Prudential Income Optimizer Fund (FOF) - Direct Plan - Growth;48.0361;14-Oct-2022
 120314;INF109K01W66;INF109K01W74;ICICI Prudential Income Optimizer Fund (FOF) - Direct Plan - IDCW;43.8230;14-Oct-2022
 102139;INF109K01811;-;ICICI Prudential Income Optimizer Fund (FOF) - Growth;45.4749;14-Oct-2022
@@ -6274,10 +6274,10 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 149160;INF109KC1S05;INF109KC1R97;ICICI Prudential Nifty Alpha Low - Volatility 30 ETF FOF - Direct Plan - IDCW;9.3718;14-Oct-2022
 149157;INF109KC1R55;-;ICICI Prudential Nifty Alpha Low - Volatility 30 ETF FOF - Growth;9.3127;14-Oct-2022
 149159;INF109KC1R71;INF109KC1R63;ICICI Prudential Nifty Alpha Low - Volatility 30 ETF FOF - IDCW;9.3127;14-Oct-2022
-149441;INF109KC1Y15;-;ICICI Prudential Passive Multi-Asset Fund of Funds - Direct Plan - Growth;9.9832;13-Oct-2022
-149442;INF109KC1Y23;INF109KC1Y31;ICICI Prudential Passive Multi-Asset Fund of Funds - Direct Plan - IDCW;9.9901;13-Oct-2022
-149439;INF109KC1X81;-;ICICI Prudential Passive Multi-Asset Fund of Funds - Growth;9.9510;13-Oct-2022
-149440;INF109KC1X99;INF109KC1Y07;ICICI Prudential Passive Multi-Asset Fund of Funds - IDCW;9.9509;13-Oct-2022
+149441;INF109KC1Y15;-;ICICI Prudential Passive Multi-Asset Fund of Funds - Direct Plan - Growth;9.9470;14-Oct-2022
+149442;INF109KC1Y23;INF109KC1Y31;ICICI Prudential Passive Multi-Asset Fund of Funds - Direct Plan - IDCW;9.9540;14-Oct-2022
+149439;INF109KC1X81;-;ICICI Prudential Passive Multi-Asset Fund of Funds - Growth;9.9149;14-Oct-2022
+149440;INF109KC1X99;INF109KC1Y07;ICICI Prudential Passive Multi-Asset Fund of Funds - IDCW;9.9148;14-Oct-2022
 102134;INF109K01DW7;INF109K01803;ICICI Prudential Passive Strategy Fund (FOF) - IDCW;90.9717;14-Oct-2022
 120243;INF109K01W33;INF109K01W41;ICICI Prudential Passive Strategy Fund (FOF) - Direct Plan -  IDCW;94.8297;14-Oct-2022
 120242;INF109K01W58;-;ICICI Prudential Passive Strategy Fund (FOF) - Direct Plan - Growth;103.8383;14-Oct-2022
@@ -6499,14 +6499,14 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 148737;INF336L01PV0;-;HSBC Global Equity Climate Change Fund of Fund - Direct - Growth;7.8139;14-Oct-2022
 148735;INF336L01PY4;-;HSBC Global Equity Climate Change Fund of Fund - Regular - Growth;7.7171;14-Oct-2022
 148736;INF336L01PZ1;INF336L01QA2;HSBC Global Equity Climate Change Fund of Fund IDCW;7.7171;14-Oct-2022
-123654;INF109KA1CE0;-;ICICI Prudential Global Stable Equity Fund (FOF) - Direct - Growth;20.02;13-Oct-2022
-123652;INF109KA1CG5;INF109KA1CF7;ICICI Prudential Global Stable Equity Fund (FOF) - Direct - IDCW;20.02;13-Oct-2022
-123651;INF109KA1CB6;-;ICICI Prudential Global Stable Equity Fund (FOF) - Growth;18.81;13-Oct-2022
-123653;INF109KA1CD2;INF109KA1CC4;ICICI Prudential Global Stable Equity Fund (FOF) - IDCW;18.81;13-Oct-2022
-149455;INF109KC1Z55;-;ICICI Prudential Strategic Metal and Energy Equity Fund of Fund - Direct Plan Growth;12.3759;13-Oct-2022
-149458;INF109KC1Z63;INF109KC1Z71;ICICI Prudential Strategic Metal and Energy Equity Fund of Fund - Direct Plan IDCW;12.3762;13-Oct-2022
-149456;INF109KC1Z22;-;ICICI Prudential Strategic Metal and Energy Equity Fund of Fund - Growth;12.2844;13-Oct-2022
-149457;INF109KC1Z30;INF109KC1Z48;ICICI Prudential Strategic Metal and Energy Equity Fund of Fund - IDCW;12.2843;13-Oct-2022
+123654;INF109KA1CE0;-;ICICI Prudential Global Stable Equity Fund (FOF) - Direct - Growth;20.66;14-Oct-2022
+123652;INF109KA1CG5;INF109KA1CF7;ICICI Prudential Global Stable Equity Fund (FOF) - Direct - IDCW;20.66;14-Oct-2022
+123651;INF109KA1CB6;-;ICICI Prudential Global Stable Equity Fund (FOF) - Growth;19.41;14-Oct-2022
+123653;INF109KA1CD2;INF109KA1CC4;ICICI Prudential Global Stable Equity Fund (FOF) - IDCW;19.41;14-Oct-2022
+149455;INF109KC1Z55;-;ICICI Prudential Strategic Metal and Energy Equity Fund of Fund - Direct Plan Growth;11.8800;14-Oct-2022
+149458;INF109KC1Z63;INF109KC1Z71;ICICI Prudential Strategic Metal and Energy Equity Fund of Fund - Direct Plan IDCW;11.8803;14-Oct-2022
+149456;INF109KC1Z22;-;ICICI Prudential Strategic Metal and Energy Equity Fund of Fund - Growth;11.7918;14-Oct-2022
+149457;INF109KC1Z30;INF109KC1Z48;ICICI Prudential Strategic Metal and Energy Equity Fund of Fund - IDCW;11.7917;14-Oct-2022
 149098;INF194KB1CF2;-;IDFC US EQUITY FUND OF FUND - GROWTH - DIRECT PLAN;8.535;14-Oct-2022
 149100;INF194KB1CC9;-;IDFC US EQUITY FUND OF FUND - GROWTH - REGULAR PLAN;8.421;14-Oct-2022
 149099;INF194KB1CG0;-;IDFC US EQUITY FUND OF FUND - IDCW - DIRECT PLAN;8.535;14-Oct-2022
@@ -6739,10 +6739,10 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 149962;INF336L01QI5;INF336L01QJ3;HSBC CRISIL IBX 50:50 Gilt Plus SDL Apr 2028 Index Fund - Direct - Payout of IDCW;10.0223;14-Oct-2022
 149963;INF336L01QK1;-;HSBC CRISIL IBX 50:50 Gilt Plus SDL Apr 2028 Index Fund - Regular - Growth;10.0112;14-Oct-2022
 149964;INF336L01QL9;INF336L01QM7;HSBC CRISIL IBX 50:50 Gilt Plus SDL Apr 2028 Index Fund - Regular - payout of IDCW;10.0112;14-Oct-2022
-149219;INF109KC1U50;-;ICICI Prudential NASDAQ 100 Index Fund - Direct Plan - Growth;7.9103;13-Oct-2022
-149221;INF109KC1U68;INF109KC1U76;ICICI Prudential NASDAQ 100 Index Fund - Direct Plan - IDCW;7.9096;13-Oct-2022
-149218;INF109KC1U27;-;ICICI Prudential NASDAQ 100 Index Fund - Growth;7.8709;13-Oct-2022
-149220;INF109KC1U35;INF109KC1U43;ICICI Prudential NASDAQ 100 Index Fund - IDCW;7.8704;13-Oct-2022
+149219;INF109KC1U50;-;ICICI Prudential NASDAQ 100 Index Fund - Direct Plan - Growth;7.6662;14-Oct-2022
+149221;INF109KC1U68;INF109KC1U76;ICICI Prudential NASDAQ 100 Index Fund - Direct Plan - IDCW;7.6656;14-Oct-2022
+149218;INF109KC1U27;-;ICICI Prudential NASDAQ 100 Index Fund - Growth;7.6279;14-Oct-2022
+149220;INF109KC1U35;INF109KC1U43;ICICI Prudential NASDAQ 100 Index Fund - IDCW;7.6275;14-Oct-2022
 150452;INF109KC11D8;-;ICICI Prudential Nifty 200 Momentum 30 Index Fund - Direct Plan - Growth;10.3658;14-Oct-2022
 150453;INF109KC12D6;INF109KC13D4;ICICI Prudential Nifty 200 Momentum 30 Index Fund - Direct Plan - IDCW;10.3653;14-Oct-2022
 150454;INF109KC18C5;-;ICICI Prudential Nifty 200 Momentum 30 Index Fund - Growth;10.3527;14-Oct-2022
