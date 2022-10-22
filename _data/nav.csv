@@ -1315,24 +1315,24 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 100878;INF179K01KP9;-;HDFC Liquid Fund-Premium Plan - Dividend-Weekly;10;14-Apr-2015
 100881;INF179K01KS3;-;HDFC Liquid Fund-Premium Plus Plan - Dividend-Weekly;10;14-May-2012
 100872;INF179K01KQ7;-;HDFC Liquid Fund-PREMIUM PLUS- Growth;10.0000;17-Dec-2012
-118902;INF336L01BN7;-;HSBC Cash Fund -  Growth;2162.2456;21-Oct-2022
-120038;INF336L01CC8;-;HSBC Cash Fund -  Growth Direct;2176.5937;21-Oct-2022
-118901;-;INF336L01BM9;HSBC Cash Fund - Daily IDCW;1001.3789;21-Oct-2022
-120037;-;INF336L01CB0;HSBC Cash Fund - Daily IDCW Direct Plan;1000.9401;21-Oct-2022
+118902;INF336L01BN7;-;HSBC Cash Fund -  Growth;2163.3557;24-Oct-2022
+120038;INF336L01CC8;-;HSBC Cash Fund -  Growth Direct;2177.7286;24-Oct-2022
+118901;-;INF336L01BM9;HSBC Cash Fund - Daily IDCW;1001.3789;24-Oct-2022
+120037;-;INF336L01CB0;HSBC Cash Fund - Daily IDCW Direct Plan;1000.9401;24-Oct-2022
 101702;INF336L01305;INF336L01297;HSBC Cash Fund - Dividend - Monthly;10.0651;28-Dec-2012
 101699;INF336L01339;-;HSBC Cash Fund - Growth;11.4467;28-Dec-2012
 101694;INF336L01370;INF336L01362;HSBC Cash Fund - Inst. - Dividend - Monthly;10.0000;28-Dec-2012
 101691;INF336L01289;-;HSBC Cash Fund - Inst. - Growth;18.2843;28-Dec-2012
 118910;INF336L01BT4;-;HSBC Cash Fund - Institutional Plan - Growth;2775.0401;11-Jul-2018
-118903;INF336L01BP2;INF336L01BO5;HSBC Cash Fund - Monthly IDCW;1006.3059;21-Oct-2022
-120039;INF336L01BZ1;INF336L01CA2;HSBC Cash Fund - Monthly IDCW Direct Plan;1042.1009;21-Oct-2022
+118903;INF336L01BP2;INF336L01BO5;HSBC Cash Fund - Monthly IDCW;1006.8225;24-Oct-2022
+120039;INF336L01BZ1;INF336L01CA2;HSBC Cash Fund - Monthly IDCW Direct Plan;1042.6441;24-Oct-2022
 101696;INF336L01271;-;HSBC Cash Fund - Regular - Growth;17.9770;28-Dec-2012
-118906;INF336L01BK3;-;HSBC Cash Fund - Regular - IDCW;1019.3000;21-Oct-2022
-118908;-;INF336L01BR8;HSBC Cash Fund - Regular - Weekly IDCW;1000.5976;21-Oct-2022
-118904;INF336L01LJ4;INF336L01BQ0;HSBC Cash Fund - Weekly IDCW;1107.9357;21-Oct-2022
-120040;INF336L01LK2;INF336L01CD6;HSBC Cash Fund - Weekly IDCW Direct Plan;1195.6786;21-Oct-2022
-118909;-;INF336L01BS6;HSBC Cash Fund-Institutional Plan - Daily IDCW;1562.8262;21-Oct-2022
-118907;INF336L01BL1;-;HSBC Cash Fund-Regular-Growth;3121.3268;21-Oct-2022
+118906;INF336L01BK3;-;HSBC Cash Fund - Regular - IDCW;1019.3000;24-Oct-2022
+118908;-;INF336L01BR8;HSBC Cash Fund - Regular - Weekly IDCW;1001.0460;24-Oct-2022
+118904;INF336L01LJ4;INF336L01BQ0;HSBC Cash Fund - Weekly IDCW;1108.5045;24-Oct-2022
+120040;INF336L01LK2;INF336L01CD6;HSBC Cash Fund - Weekly IDCW Direct Plan;1196.3020;24-Oct-2022
+118909;-;INF336L01BS6;HSBC Cash Fund-Institutional Plan - Daily IDCW;1562.8262;24-Oct-2022
+118907;INF336L01BL1;-;HSBC Cash Fund-Regular-Growth;3122.7252;24-Oct-2022
 100357;INF109K01UU5;INF109K01UT7;ICICI Prudential Liquid Fund -Quarterly IDCW;101.4288;16-Sep-2022
 100359;INF109K01VJ6;-;ICICI Prudential Liquid Institutional Plus Fund - Div - Daily;118.5152;24-Apr-2020
 130933;INF109KA1G94;-;ICICI Prudential Liquid Fund - Bonus;121.0704;08-Mar-2017
@@ -2610,18 +2610,18 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 101996;INF179KB1HS3;-;HDFC Overnight Fund - Growth Option;3216.3559;21-Oct-2022
 119110;INF179KB1HT1;-;HDFC Overnight Fund - Growth Option - Direct Plan;3240.1965;21-Oct-2022
 101997;-;-;HDFC Overnight Fund - IDCW Option (Daily);1042.66;21-Oct-2022
-147289;-;INF336L01OM2;HSBC Overnight Fund - Daily IDCW;1000.0064;21-Oct-2022
-147291;-;INF336L01OG4;HSBC Overnight Fund - Daily IDCW Direct Plan;1000.0067;21-Oct-2022
-147290;INF336L01OL4;-;HSBC Overnight Fund - Growth;1135.7178;21-Oct-2022
-147287;INF336L01OF6;-;HSBC Overnight Fund - Growth - Direct;1141.5723;21-Oct-2022
-147301;INF336L01OQ3;INF336L01OO8;HSBC Overnight Fund - Monthly IDCW;1003.9335;21-Oct-2022
+147289;-;INF336L01OM2;HSBC Overnight Fund - Daily IDCW;1000.0064;24-Oct-2022
+147291;-;INF336L01OG4;HSBC Overnight Fund - Daily IDCW Direct Plan;1000.0067;24-Oct-2022
+147290;INF336L01OL4;-;HSBC Overnight Fund - Growth;1136.2639;24-Oct-2022
+147287;INF336L01OF6;-;HSBC Overnight Fund - Growth - Direct;1142.1353;24-Oct-2022
+147301;INF336L01OQ3;INF336L01OO8;HSBC Overnight Fund - Monthly IDCW;1004.4161;24-Oct-2022
 147300;INF336L01OK6;INF336L01OI0;HSBC Overnight Fund - Monthly IDCW Payout Direct Plan;1000.6823;31-May-2022
-150501;-;-;HSBC Overnight Fund - Unclaimed IDCW Above three years;1000.0000;21-Oct-2022
-150499;-;-;HSBC Overnight Fund - Unclaimed IDCW Below three years;1013.1542;21-Oct-2022
-150500;-;-;HSBC Overnight Fund - Unclaimed Redemption above three years;1000.0000;21-Oct-2022
-150502;-;-;HSBC Overnight Fund - Unclaimed Redemption Below three years;1013.1542;21-Oct-2022
-147288;INF336L01OP5;INF336L01ON0;HSBC Overnight Fund - Weekly IDCW;1000.5137;21-Oct-2022
-147296;INF336L01OJ8;INF336L01OH2;HSBC Overnight Fund - Weekly IDCW Direct Plan;1000.4841;21-Oct-2022
+150501;-;-;HSBC Overnight Fund - Unclaimed IDCW Above three years;1000.0000;24-Oct-2022
+150499;-;-;HSBC Overnight Fund - Unclaimed IDCW Below three years;1013.6538;24-Oct-2022
+150500;-;-;HSBC Overnight Fund - Unclaimed Redemption above three years;1000.0000;24-Oct-2022
+150502;-;-;HSBC Overnight Fund - Unclaimed Redemption Below three years;1013.6538;24-Oct-2022
+147288;INF336L01OP5;INF336L01ON0;HSBC Overnight Fund - Weekly IDCW;1000.9941;24-Oct-2022
+147296;INF336L01OJ8;INF336L01OH2;HSBC Overnight Fund - Weekly IDCW Direct Plan;1000.9782;24-Oct-2022
 145546;INF109KC19F6;INF109KC10G3;ICICI Prudential Overnight Fund - Annual IDCW;1032.7746;16-Sep-2022
 145547;-;INF109KC18E1;ICICI Prudential Overnight Fund - Daily IDCW;1000.0050;21-Oct-2022
 145550;INF109KC13H5;INF109KC14H3;ICICI Prudential Overnight Fund - Direct Plan - Annual IDCW;1033.5731;16-Sep-2022
@@ -4701,10 +4701,10 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 149327;INF204KC1311;INF204KC1329;Nippon India Taiwan Equity Fund- Direct Plan- IDCW option;5.7113;21-Oct-2022
 149328;INF204KC1279;-;Nippon India Taiwan Equity fund- Regular Plan- Growth Option;5.6286;21-Oct-2022
 149325;INF204KC1287;INF204KC1295;Nippon India Taiwan Equity Fund- Regular Plan- IDCW option;5.6286;21-Oct-2022
-134925;INF204KA16G3;INF204KA17G1;NIPPON INDIA - US EQUITY OPPORTUNITES FUND - Direct Plan - IDCW Option;22.4341;20-Oct-2022
-134924;INF204KA13G0;INF204KA14G8;NIPPON INDIA - US EQUITY OPPORTUNITES FUND - IDCW Option;20.7451;20-Oct-2022
-134923;INF204KA15G5;-;Nippon India US Equity Opportunites Fund- Direct Plan- Growth Plan- Growth Option;22.4341;20-Oct-2022
-134922;INF204KA12G2;-;Nippon India US Equity Opportunites Fund- Growth Plan- Growth Option;20.7451;20-Oct-2022
+134925;INF204KA16G3;INF204KA17G1;NIPPON INDIA - US EQUITY OPPORTUNITES FUND - Direct Plan - IDCW Option;22.8073;21-Oct-2022
+134924;INF204KA13G0;INF204KA14G8;NIPPON INDIA - US EQUITY OPPORTUNITES FUND - IDCW Option;21.0895;21-Oct-2022
+134923;INF204KA15G5;-;Nippon India US Equity Opportunites Fund- Direct Plan- Growth Plan- Growth Option;22.8073;21-Oct-2022
+134922;INF204KA12G2;-;Nippon India US Equity Opportunites Fund- Growth Plan- Growth Option;21.0895;21-Oct-2022
 148564;INF966L01AD4;-;quant ESG Equity Fund - Growth Option - Direct Plan;22.1615;21-Oct-2022
 148560;INF966L01AB8;-;quant ESG Equity Fund - Growth Option - Regular Plan;21.5566;21-Oct-2022
 148563;INF966L01AE2;INF966L01AG7;quant ESG Equity Fund - IDCW Option - Direct Plan;22.1383;21-Oct-2022
@@ -5908,10 +5908,10 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 104898;INF109K01787;-;ICICI Prudential Multi-Asset Fund-Institutional Option - I;43.0129;18-Jun-2018
 148454;INF247L01AI8;-;Motilal Oswal Multi Asset Fund - Direct Plan - Growth Option;10.9518;21-Oct-2022
 148455;INF247L01AJ6;-;Motilal Oswal Multi Asset Fund - Regular Plan - Growth Option;10.6190;21-Oct-2022
-148457;INF204KB19V4;-;Nippon India Multi Asset Fund - Direct Plan - Growth Option;13.4592;20-Oct-2022
-148458;INF204KB10W1;INF204KB11W9;NIPPON INDIA MULTI ASSET FUND - DIRECT Plan - IDCW Option;13.4592;20-Oct-2022
-148460;INF204KB17V8;INF204KB18V6;NIPPON INDIA MULTI ASSET FUND - IDCW Option;13.0378;20-Oct-2022
-148459;INF204KB16V0;-;Nippon India Multi Asset Fund - Regular Plan - Growth Option;13.0378;20-Oct-2022
+148457;INF204KB19V4;-;Nippon India Multi Asset Fund - Direct Plan - Growth Option;13.4877;21-Oct-2022
+148458;INF204KB10W1;INF204KB11W9;NIPPON INDIA MULTI ASSET FUND - DIRECT Plan - IDCW Option;13.4877;21-Oct-2022
+148460;INF204KB17V8;INF204KB18V6;NIPPON INDIA MULTI ASSET FUND - IDCW Option;13.0649;21-Oct-2022
+148459;INF204KB16V0;-;Nippon India Multi Asset Fund - Regular Plan - Growth Option;13.0649;21-Oct-2022
 120820;INF966L01564;INF966L01572;quant Multi Asset Fund - IDCW Option - Direct Plan;80.8132;21-Oct-2022
 101071;INF966L01184;INF966L01192;quant Multi Asset Fund - IDCW Option - Regular Plan;77.9535;21-Oct-2022
 101072;INF966L01200;-;quant Multi Asset Fund-GROWTH OPTION - Regular Plan;84.9471;21-Oct-2022
@@ -6343,10 +6343,10 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 119781;INF174K01MP6;-;Kotak Gold Fund Growth - Direct;20.9951;21-Oct-2022
 114757;INF174K01AU1;INF174K01AV9;Kotak Gold Fund Payout of Income Distribution cum capital withdrawal option;20.1175;21-Oct-2022
 119780;INF174K01MQ4;INF174K01MR2;Kotak Gold Fund Payout of Income Distribution cum capital withdrawal option- Direct;20.9948;21-Oct-2022
-119777;INF174K01LN3;-;Kotak Multi Asset Allocator Fund of Fund - Dynamic - Direct Growth - Direct;149.035;20-Oct-2022
-119776;INF174K01LO1;-;Kotak Multi Asset Allocator Fund of Fund - Dynamic - Direct Payout of Income Distribution cum capital withdrawal option;146.354;20-Oct-2022
-102574;INF174K01468;-;Kotak Multi Asset Allocator Fund of Fund - Dynamic - Growth;141.266;20-Oct-2022
-102573;INF174K01484;INF174K01476;Kotak Multi Asset Allocator Fund of Fund - Dynamic - Payout of Income Distribution cum capital withdrawal option;137.509;20-Oct-2022
+119777;INF174K01LN3;-;Kotak Multi Asset Allocator Fund of Fund - Dynamic - Direct Growth - Direct;149.419;21-Oct-2022
+119776;INF174K01LO1;-;Kotak Multi Asset Allocator Fund of Fund - Dynamic - Direct Payout of Income Distribution cum capital withdrawal option;146.731;21-Oct-2022
+102574;INF174K01468;-;Kotak Multi Asset Allocator Fund of Fund - Dynamic - Growth;141.626;21-Oct-2022
+102573;INF174K01484;INF174K01476;Kotak Multi Asset Allocator Fund of Fund - Dynamic - Payout of Income Distribution cum capital withdrawal option;137.86;21-Oct-2022
 148501;INF769K01GD1;INF769K01GF6;Mirae Asset Equity Allocator Fund  of Fund Direct IDCW;16.157;21-Oct-2022
 148503;INF769K01GA7;INF769K01GC3;Mirae Asset Equity Allocator Fund  of Fund Regular IDCW;16.115;21-Oct-2022
 148500;INF769K01GE9;-;Mirae Asset Equity Allocator Fund of Fund Direct Growth;16.149;21-Oct-2022
@@ -6533,18 +6533,18 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 126352;INF205K01A32;INF205K01A40;Invesco India - Invesco Pan European Equity Fund of Fund - Direct Plan - IDCW (Payout / Reinvestment);12.1993;21-Oct-2022
 126351;INF205K01ZZ9;-;Invesco India - Invesco Pan European Equity Fund of Fund - Regular Plan - Growth Option;11.3522;21-Oct-2022
 126350;INF205K01A08;INF205K01A16;Invesco India - Invesco Pan European Equity Fund of Fund - Regular Plan - IDCW (Payout / Reinvestment);11.3519;21-Oct-2022
-106441;INF174K01DV3;-;Kotak Global Emerging Market Fund - Growth;17.656;20-Oct-2022
-119779;INF174K01LW4;-;Kotak Global Emerging Market Fund - Growth - Direct;18.895;20-Oct-2022
-106442;INF174K01DX9;INF174K01DW1;Kotak Global Emerging Market Fund - Payout of Income Distribution cum capital withdrawal option;17.657;20-Oct-2022
-119778;INF174K01LX2;-;Kotak Global Emerging Market Fund - Payout of Income Distribution cum capital withdrawal option - Direct;18.974;20-Oct-2022
-149056;INF174KA1HD1;-;Kotak Global Innovation Fund of Fund - Regular Plan-Growth;6.5713;20-Oct-2022
-149060;INF174KA1HH2;INF174KA1HI0;Kotak Global Innovation Fund of Fund- Direct Plan - IDCW Option;6.6763;20-Oct-2022
-149059;INF174KA1HG4;-;Kotak Global Innovation Fund of Fund- Direct Plan -Growth;6.6763;20-Oct-2022
-149058;INF174KA1HE9;INF174KA1HF6;Kotak Global Innovation Fund of Fund- Regular Plan -IDCW Option;6.5715;20-Oct-2022
-148646;INF174KA1FO2;-;Kotak International REIT FOF - Direct Plan - Growth;8.5305;20-Oct-2022
-148649;INF174KA1FN4;-;Kotak International REIT FOF - Direct Plan - Payout of Income Distribution cum capital withdrawal option;8.5305;20-Oct-2022
-148645;INF174KA1FL8;-;Kotak International REIT FOF - Regular Plan - Growth;8.3865;20-Oct-2022
-148647;INF174KA1FK0;-;Kotak International REIT FOF - Regular Plan - Payout of Income Distribution cum capital withdrawal option;8.3865;20-Oct-2022
+106441;INF174K01DV3;-;Kotak Global Emerging Market Fund - Growth;17.691;21-Oct-2022
+119779;INF174K01LW4;-;Kotak Global Emerging Market Fund - Growth - Direct;18.933;21-Oct-2022
+106442;INF174K01DX9;INF174K01DW1;Kotak Global Emerging Market Fund - Payout of Income Distribution cum capital withdrawal option;17.692;21-Oct-2022
+119778;INF174K01LX2;-;Kotak Global Emerging Market Fund - Payout of Income Distribution cum capital withdrawal option - Direct;19.012;21-Oct-2022
+149056;INF174KA1HD1;-;Kotak Global Innovation Fund of Fund - Regular Plan-Growth;6.6465;21-Oct-2022
+149060;INF174KA1HH2;INF174KA1HI0;Kotak Global Innovation Fund of Fund- Direct Plan - IDCW Option;6.7529;21-Oct-2022
+149059;INF174KA1HG4;-;Kotak Global Innovation Fund of Fund- Direct Plan -Growth;6.7529;21-Oct-2022
+149058;INF174KA1HE9;INF174KA1HF6;Kotak Global Innovation Fund of Fund- Regular Plan -IDCW Option;6.6467;21-Oct-2022
+148646;INF174KA1FO2;-;Kotak International REIT FOF - Direct Plan - Growth;8.2192;21-Oct-2022
+148649;INF174KA1FN4;-;Kotak International REIT FOF - Direct Plan - Payout of Income Distribution cum capital withdrawal option;8.2192;21-Oct-2022
+148645;INF174KA1FL8;-;Kotak International REIT FOF - Regular Plan - Growth;8.0803;21-Oct-2022
+148647;INF174KA1FK0;-;Kotak International REIT FOF - Regular Plan - Payout of Income Distribution cum capital withdrawal option;8.0803;21-Oct-2022
 148662;INF174KA1FQ7;-;Kotak NASDAQ 100 Fund of Fund - Direct Plan - Growth;9.4717;20-Oct-2022
 148661;INF174KA1FR5;-;Kotak NASDAQ 100 Fund of Fund - Regular Plan - Growth;9.4059;20-Oct-2022
 133832;INF178L01CM3;INF178L01CN1;Kotak US Equity Fund - Direct Plan - Dividend option;20.129;25-Feb-2020
@@ -6567,23 +6567,23 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 149911;-;-;Navi NASDAQ 100 Fund of Fund- Regular- Growth;8.076;20-Oct-2022
 149830;INF959L01FV0;-;Navi US Total Stock Market Fund of Fund- Direct Plan- Growth;9.3624;20-Oct-2022
 149831;INF959L01FW8;-;Navi US Total Stock Market Fund of Fund- Regular Plan- Growth;9.3572;20-Oct-2022
-138457;INF223J01NJ4;-;PGIM India Emerging Markets Equity Fund - Direct Plan - Dividend;8.5;20-Oct-2022
-138456;INF223J01NL0;-;PGIM India Emerging Markets Equity Fund - Direct Plan - Growth;12.35;20-Oct-2022
-138454;INF223J01AW4;INF223J01AX2;PGIM India Emerging Markets Equity Fund - Dividend;10.25;20-Oct-2022
-138453;INF223J01AY0;-;PGIM India Emerging Markets Equity Fund - Growth;11.15;20-Oct-2022
+138457;INF223J01NJ4;-;PGIM India Emerging Markets Equity Fund - Direct Plan - Dividend;8.53;21-Oct-2022
+138456;INF223J01NL0;-;PGIM India Emerging Markets Equity Fund - Direct Plan - Growth;12.39;21-Oct-2022
+138454;INF223J01AW4;INF223J01AX2;PGIM India Emerging Markets Equity Fund - Dividend;10.29;21-Oct-2022
+138453;INF223J01AY0;-;PGIM India Emerging Markets Equity Fund - Growth;11.19;21-Oct-2022
 138525;INF223J01AV6;-;PGIM India Global Equity Opportunities Fund - Bonus;11.75;04-Jan-2017
-138527;INF223J01NG0;-;PGIM India Global Equity Opportunities Fund - Direct Plan - Dividend;27.13;20-Oct-2022
-138528;INF223J01NF2;-;PGIM India Global Equity Opportunities Fund - Direct Plan - Growth;27.13;20-Oct-2022
-138524;INF223J01AS2;INF223J01AT0;PGIM India Global Equity Opportunities Fund - Dividend;20.66;20-Oct-2022
-138523;INF223J01AU8;-;PGIM India Global Equity Opportunities Fund - Growth;24.61;20-Oct-2022
-149298;INF663L01W63;-;PGIM India Global Select Real Estate Securities Fund of Fund - Direct Plan - Growth Option;7.97;20-Oct-2022
-149300;INF663L01W71;INF663L01W89;PGIM India Global Select Real Estate Securities Fund of Fund - Direct Plan - IDCW Option;7.97;20-Oct-2022
-149299;INF663L01W97;-;PGIM India Global Select Real Estate Securities Fund of Fund - Regular Plan - Growth Option;7.91;20-Oct-2022
-149301;INF663L01X05;INF663L01X13;PGIM India Global Select Real Estate Securities Fund of Fund - Regular Plan - IDCW Option;7.91;20-Oct-2022
-148760;INF200KA1U28;-;SBI International Access - US Equity FoF - Direct Plan - Growth;10.2361;20-Oct-2022
-148762;INF200KA1T96;-;SBI International Access - US Equity FoF - Regular Plan - Growth;10.1020;20-Oct-2022
-148761;INF200KA1U36;INF200KA1U44;SBI International Access- US Equity FoF Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);10.2364;20-Oct-2022
-148759;INF200KA1U02;INF200KA1U10;SBI International Access- US Equity FoF Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);10.1023;20-Oct-2022
+138527;INF223J01NG0;-;PGIM India Global Equity Opportunities Fund - Direct Plan - Dividend;27.24;21-Oct-2022
+138528;INF223J01NF2;-;PGIM India Global Equity Opportunities Fund - Direct Plan - Growth;27.24;21-Oct-2022
+138524;INF223J01AS2;INF223J01AT0;PGIM India Global Equity Opportunities Fund - Dividend;20.75;21-Oct-2022
+138523;INF223J01AU8;-;PGIM India Global Equity Opportunities Fund - Growth;24.71;21-Oct-2022
+149298;INF663L01W63;-;PGIM India Global Select Real Estate Securities Fund of Fund - Direct Plan - Growth Option;7.91;21-Oct-2022
+149300;INF663L01W71;INF663L01W89;PGIM India Global Select Real Estate Securities Fund of Fund - Direct Plan - IDCW Option;7.91;21-Oct-2022
+149299;INF663L01W97;-;PGIM India Global Select Real Estate Securities Fund of Fund - Regular Plan - Growth Option;7.85;21-Oct-2022
+149301;INF663L01X05;INF663L01X13;PGIM India Global Select Real Estate Securities Fund of Fund - Regular Plan - IDCW Option;7.85;21-Oct-2022
+148760;INF200KA1U28;-;SBI International Access - US Equity FoF - Direct Plan - Growth;10.4811;21-Oct-2022
+148762;INF200KA1T96;-;SBI International Access - US Equity FoF - Regular Plan - Growth;10.3436;21-Oct-2022
+148761;INF200KA1U36;INF200KA1U44;SBI International Access- US Equity FoF Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);10.4815;21-Oct-2022
+148759;INF200KA1U02;INF200KA1U10;SBI International Access- US Equity FoF Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);10.3439;21-Oct-2022
 119602;INF903J01OB6;-;Sundaram Global Brand Fund Direct Plan - Growth;22.3102;20-Oct-2022
 119601;INF903J01NZ7;INF903J01OA8;Sundaram Global Brand Fund Direct Plan - Income Distribution cum Capital Withdrawal (IDCW);19.8437;20-Oct-2022
 106370;INF903J01EX1;-;Sundaram Global Brand Fund Regular Plan - Growth;20.9174;20-Oct-2022
