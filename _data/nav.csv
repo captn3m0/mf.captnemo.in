@@ -1467,10 +1467,10 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 129924;INF917K01QH6;-;L&T Liquid Fund -Regular Plan - Bonus;2318.6887;20-Nov-2017
 112445;INF917K01JB4;-;L&T Liquid Fund -Regular Plan - Daily IDCW;1011.7794;04-Nov-2022
 112457;INF917K01JH1;-;L&T Liquid Fund -Regular Plan - Growth;2983.5181;04-Nov-2022
-120248;INF767K01DL5;INF767K01DM3;LIC MF Liquid Fund-Direct Plan-Daily IDCW;1013.6;04-Nov-2022
-120249;INF767K01DN1;-;LIC MF Liquid Fund-Direct Plan-Growth;3978.7118;04-Nov-2022
-101184;INF767K01IQ3;INF767K01IR1;LIC MF Liquid Fund-Regular Plan-Daily IDCW;1000.1;04-Nov-2022
-101185;INF767K01IS9;-;LIC MF Liquid Fund-Regular Plan-Growth;3933.6854;04-Nov-2022
+120248;INF767K01DL5;INF767K01DM3;LIC MF Liquid Fund-Direct Plan-Daily IDCW;1013.6;05-Nov-2022
+120249;INF767K01DN1;-;LIC MF Liquid Fund-Direct Plan-Growth;3979.3693;05-Nov-2022
+101184;INF767K01IQ3;INF767K01IR1;LIC MF Liquid Fund-Regular Plan-Daily IDCW;1000.1;05-Nov-2022
+101185;INF767K01IS9;-;LIC MF Liquid Fund-Regular Plan-Growth;3934.3204;05-Nov-2022
 139535;-;INF174V01051;Mahindra Manulife Liquid Fund - Direct Plan - Daily IDCW;1009.1095;06-Nov-2022
 139536;-;INF174V01069;Mahindra Manulife Liquid Fund - Direct Plan - Weekly IDCW;1003.5035;06-Nov-2022
 139538;INF174V01044;-;Mahindra Manulife Liquid Fund - Direct Plan -Growth;1425.9339;06-Nov-2022
@@ -1610,10 +1610,10 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 149745;-;-;Sundaram Liquid Fund (Formerly Known as Principal Cash Management Fund) Unclaimed Redemption More 3 Years;1000.0000;21-Jan-2022
 149659;-;INF173K01DC5;Sundaram Liquid Fund (Formerly Principal Cash Management Fund) - Weekly Income Distribution CUM Capital Withdrawal Option;1007.8768;04-Nov-2022
 149665;-;INF173K01GY2;Sundaram Liquid Fund(Formerly Known as Principal Cash Management Fund)- Direct Plan - Income Distribution CUM Capital Withdrawal Option - Weekly;1008.3588;04-Nov-2022
-102672;INF277K01YD8;-;Tata Liquid Fund -Regular Plan - Growth Option;3426.5472;04-Nov-2022
-119862;-;INF277K012D2;Tata Liquid Fund- Direct Plan - Daily Reinvestment of IDCW Option;1001.5187;04-Nov-2022
-119861;INF277K01YE6;-;Tata Liquid Fund- Direct Plan-Growth Option;3457.1202;04-Nov-2022
-101714;-;INF277K011D4;Tata Liquid Fund- Regular Plan - Daily Reinvestment of IDCW Option;1001.5157;04-Nov-2022
+102672;INF277K01YD8;-;Tata Liquid Fund -Regular Plan - Growth Option;3427.7094;06-Nov-2022
+119862;-;INF277K012D2;Tata Liquid Fund- Direct Plan - Daily Reinvestment of IDCW Option;1001.5187;06-Nov-2022
+119861;INF277K01YE6;-;Tata Liquid Fund- Direct Plan-Growth Option;3458.3148;06-Nov-2022
+101714;-;INF277K011D4;Tata Liquid Fund- Regular Plan - Daily Reinvestment of IDCW Option;1001.5157;06-Nov-2022
 104240;INF044D01542;INF044D01559;Taurus Liquid Fund-Dividend;1013.9743;03-Nov-2020
 104241;INF044D01575;-;Taurus Liquid Fund-Growth;2368.5909;03-Nov-2020
 148842;-;INF0GCD01263;TRUSTMF Liquid Fund-Direct Plan-Daily Income Distribution cum Capital Withdrawal;1047.2954;04-Nov-2022
@@ -2708,14 +2708,14 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 118056;-;INF917K01EJ8;L&T Overnight Fund - Regular Plan - Daily IDCW;1023.3;04-Nov-2022
 118058;INF917K01EI0;-;L&T Overnight Fund - Regular Plan - Growth;1622.1872;04-Nov-2022
 118065;-;INF917K01EK6;L&T Overnight Fund - Regular Plan - Weekly IDCW;1000.6427;04-Nov-2022
-147516;-;INF767K01QG7;LIC MF Overnight Fund-Direct Plan-Daily IDCW;1040.4836;04-Nov-2022
-147515;INF767K01QI3;-;LIC MF Overnight Fund-Direct Plan-Growth;1133.7531;04-Nov-2022
-147513;INF767K01QE2;INF767K01QF9;LIC MF Overnight Fund-Direct Plan-IDCW;1133.4941;04-Nov-2022
-147514;-;INF767K01QH5;LIC MF Overnight Fund-Direct Plan-Weekly IDCW;1001.052;04-Nov-2022
+147516;-;INF767K01QG7;LIC MF Overnight Fund-Direct Plan-Daily IDCW;1040.6464;05-Nov-2022
+147515;INF767K01QI3;-;LIC MF Overnight Fund-Direct Plan-Growth;1133.9303;05-Nov-2022
+147513;INF767K01QE2;INF767K01QF9;LIC MF Overnight Fund-Direct Plan-IDCW;1133.6712;05-Nov-2022
+147514;-;INF767K01QH5;LIC MF Overnight Fund-Direct Plan-Weekly IDCW;1001.2085;05-Nov-2022
 147517;-;INF767K01QB8;LIC MF Overnight Fund-Regular Plan-Daily IDCW;1012.1231;13-Jan-2022
-147519;INF767K01QD4;-;LIC MF Overnight Fund-Regular Plan-Growth;1128.8923;04-Nov-2022
+147519;INF767K01QD4;-;LIC MF Overnight Fund-Regular Plan-Growth;1129.0647;05-Nov-2022
 147512;INF767K01PZ9;INF767K01QA0;LIC MF Overnight Fund-Regular Plan-IDCW;1114.1676;03-Aug-2022
-147518;-;INF767K01QC6;LIC MF Overnight Fund-Regular Plan-Weekly IDCW;1041.6216;04-Nov-2022
+147518;-;INF767K01QC6;LIC MF Overnight Fund-Regular Plan-Weekly IDCW;1041.7804;05-Nov-2022
 147563;-;INF174V01846;Mahindra Manulife Overnight Fund - Direct Plan - Daily IDCW;1073.8718;06-Nov-2022
 147564;INF174V01838;-;Mahindra Manulife Overnight Fund - Direct Plan -Growth;1132.4507;06-Nov-2022
 147566;-;INF174V01820;Mahindra Manulife Overnight Fund - Regular Plan - Daily IDCW;1055.7595;06-Nov-2022
@@ -2779,10 +2779,10 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 149821;INF903JA1KZ9;-;Sundaram Overnight Fund Unclaimed IDCW upto three years;1035.1674;04-Nov-2022
 149819;INF903JA1KY2;-;Sundaram Overnight Fund Unclaimed Redemption  beyond three years;1000.0000;04-Nov-2022
 149818;INF903JA1LA0;-;Sundaram Overnight Fund Unclaimed Redemption upto three years;1035.1626;04-Nov-2022
-146978;-;INF277K019T3;TATA Overnight Fund Direct Plan - Daily Reinvestment of Income Distribution cum capital withdrawal option   ;1000.0000;04-Nov-2022
-146979;-;INF277K017T7;TATA Overnight Fund Regular Plan - Daily Reinvestment of Income Distribution cum capital withdrawal option   ;1000.0000;04-Nov-2022
-146980;INF277K018T5;-;Tata Overnight Fund-Direct Plan-Growth;1153.7326;04-Nov-2022
-146977;INF277K016T9;-;Tata Overnight Fund-Regular Plan-Growth;1149.3183;04-Nov-2022
+146978;-;INF277K019T3;TATA Overnight Fund Direct Plan - Daily Reinvestment of Income Distribution cum capital withdrawal option   ;1000.0000;06-Nov-2022
+146979;-;INF277K017T7;TATA Overnight Fund Regular Plan - Daily Reinvestment of Income Distribution cum capital withdrawal option   ;1000.0000;06-Nov-2022
+146980;INF277K018T5;-;Tata Overnight Fund-Direct Plan-Growth;1154.0894;06-Nov-2022
+146977;INF277K016T9;-;Tata Overnight Fund-Regular Plan-Growth;1149.6666;06-Nov-2022
 149796;-;INF0GCD01461;TRUST MF OVERNIGHT FUND-DIRECT PLAN-DAILY IDCW REINVESTMENT;1035.672;04-Nov-2022
 149797;INF0GCD01453;-;TRUST MF OVERNIGHT FUND-DIRECT PLAN-GROWTH;1035.6836;04-Nov-2022
 149798;-;INF0GCD01446;TRUST MF OVERNIGHT FUND-REGULAR PLAN-DAILY IDCW REINVESTMENT;1035.386;04-Nov-2022
@@ -6130,38 +6130,38 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 139618;-;-;Taurus Investor Education Pool - Unclaimed Redemption - Growth;10.0000;04-Nov-2022
 139616;-;-;Taurus Unclaimed Dividend - Growth;14.6557;04-Nov-2022
 139617;-;-;Taurus Unclaimed Redemption - Growth;14.6570;04-Nov-2022
-131897;INF084M01DQ0;INF084M01DR8;Aditya Birla Sun Life Active Debt Multi Manager FoF Scheme - DIRECT - IDCW;20.1943;03-Nov-2022
-131898;INF084M01DP2;-;Aditya Birla Sun Life Active Debt Multi Manager FoF Scheme - Direct Plan - Growth Option;32.25;03-Nov-2022
-131895;INF084M01AI3;INF084M01AJ1;Aditya Birla Sun Life Active Debt Multi Manager FoF Scheme - REGULAR - IDCW;19.3086;03-Nov-2022
-131896;INF084M01AH5;-;Aditya Birla Sun Life Active Debt Multi Manager FoF Scheme - Regular Plan - Growth Option;30.7886;03-Nov-2022
-131865;INF084M01DM9;-;Aditya Birla Sun Life Asset Allocator FoF- Direct Plan - Growth Option;22.3127;03-Nov-2022
-131864;INF084M01AE2;-;Aditya Birla Sun Life Asset Allocator FoF- Regular Plan - Growth Option;43.5111;03-Nov-2022
-131866;INF084M01DN7;INF084M01DO5;Aditya Birla Sun Life Asset Allocator FoF-DIRECT - IDCW;21.2612;03-Nov-2022
-131863;INF084M01AF9;INF084M01AG7;Aditya Birla Sun Life Asset Allocator FoF-REGULAR - IDCW;40.0676;03-Nov-2022
-132187;INF084M01EX4;INF084M01EY2;Aditya Birla Sun Life Financial Planning Fund - Aggressive Plan - Direct - IDCW;34.3101;03-Nov-2022
-132186;INF084M01EW6;-;Aditya Birla Sun Life Financial Planning Fund - Aggressive Plan - Direct Plan - Growth Option;37.4644;03-Nov-2022
-132180;INF084M01101;-;Aditya Birla Sun Life Financial Planning Fund - Aggressive Plan - Regular Plan - Growth Option;34.8306;03-Nov-2022
-132181;INF084M01119;INF084M01127;Aditya Birla Sun Life Financial Planning Fund - Aggressive Plan -Regular - IDCW;31.8812;03-Nov-2022
-132183;INF084M01EQ8;-;Aditya Birla Sun Life Financial Planning Fund - Conservative Plan - Direct Plan - Growth Option;26.0016;03-Nov-2022
-132178;INF084M01044;-;Aditya Birla Sun life Financial Planning Fund - Conservative Plan - Regular Plan - Growth Option;24.7213;03-Nov-2022
-132184;INF084M01ER6;INF084M01ES4;Aditya Birla Sun Life Financial Planning Fund - Conservative Plan -Direct - IDCW;17.6545;03-Nov-2022
-132179;INF084M01051;INF084M01069;Aditya Birla Sun Life Financial Planning Fund - Conservative Plan -Regular - IDCW;22.4912;03-Nov-2022
-132185;INF084M01ET2;-;Aditya Birla Sun Life Financial Planning Fund - Moderate Plan - Direct Plan - Growth Option;30.4587;03-Nov-2022
-132174;INF084M01077;-;Aditya Birla Sun Life Financial Planning Fund - Moderate Plan - Regular Plan - Growth Option;28.8985;03-Nov-2022
-132175;INF084M01085;INF084M01093;Aditya Birla Sun Life Financial Planning Fund -Moderate  Plan -  Regular -  IDCW;25.9199;03-Nov-2022
-132189;INF084M01EU0;INF084M01EV8;Aditya Birla Sun Life Financial Planning Fund -Moderate  Plan - Direct - IDCW;27.6175;03-Nov-2022
-120546;INF209K01YU5;-;Aditya Birla Sun Life Gold Fund - Growth - Direct Plan;15.7087;03-Nov-2022
-120545;INF209K01YT7;-;Aditya Birla Sun Life Gold Fund-DIRECT - IDCW;15.7109;03-Nov-2022
-116796;INF209K01PF4;-;Aditya Birla Sun Life Gold Fund-Growth;15.2561;03-Nov-2022
-116795;INF209K01PG2;INF209K01PH0;Aditya Birla Sun Life Gold Fund-REGULAR - IDCW;15.2551;03-Nov-2022
-150688;INF209KB15M0;-;Aditya Birla Sun Life Multi - Index Fund of Funds-Direct Growth;10.1259;03-Nov-2022
-150689;INF209KB16M8;INF209KB17M6;Aditya Birla Sun Life Multi- Index Fund Of Fund-Direct IDCW;10.1259;03-Nov-2022
-150691;INF209KB13M5;INF209KB14M3;Aditya Birla Sun Life Multi- Index Fund Of Fund-Regular IDCW;10.123;03-Nov-2022
-150690;INF209KB12M7;-;Aditya Birla Sun Life Multi-Index Fund Of Fund-Regular Growth;10.123;03-Nov-2022
-149780;INF209KB16F2;-;Aditya Birla Sun Life Silver ETF FOF-Direct Growth;9.3844;03-Nov-2022
-149781;INF209KB17F0;INF209KB18F8;Aditya Birla Sun Life Silver ETF FOF-Direct IDCW;9.382;03-Nov-2022
-149783;INF209KB13F9;-;Aditya Birla Sun Life Silver ETF FOF-Regular Growth;9.3435;03-Nov-2022
-149784;INF209KB14F7;INF209KB15F4;Aditya Birla Sun Life Silver ETF FOF-Regular IDCW;9.3435;03-Nov-2022
+131897;INF084M01DQ0;INF084M01DR8;Aditya Birla Sun Life Active Debt Multi Manager FoF Scheme - DIRECT - IDCW;20.1986;04-Nov-2022
+131898;INF084M01DP2;-;Aditya Birla Sun Life Active Debt Multi Manager FoF Scheme - Direct Plan - Growth Option;32.2568;04-Nov-2022
+131895;INF084M01AI3;INF084M01AJ1;Aditya Birla Sun Life Active Debt Multi Manager FoF Scheme - REGULAR - IDCW;19.3125;04-Nov-2022
+131896;INF084M01AH5;-;Aditya Birla Sun Life Active Debt Multi Manager FoF Scheme - Regular Plan - Growth Option;30.7948;04-Nov-2022
+131865;INF084M01DM9;-;Aditya Birla Sun Life Asset Allocator FoF- Direct Plan - Growth Option;22.3143;04-Nov-2022
+131864;INF084M01AE2;-;Aditya Birla Sun Life Asset Allocator FoF- Regular Plan - Growth Option;43.5129;04-Nov-2022
+131866;INF084M01DN7;INF084M01DO5;Aditya Birla Sun Life Asset Allocator FoF-DIRECT - IDCW;21.2628;04-Nov-2022
+131863;INF084M01AF9;INF084M01AG7;Aditya Birla Sun Life Asset Allocator FoF-REGULAR - IDCW;40.0693;04-Nov-2022
+132187;INF084M01EX4;INF084M01EY2;Aditya Birla Sun Life Financial Planning Fund - Aggressive Plan - Direct - IDCW;34.3428;04-Nov-2022
+132186;INF084M01EW6;-;Aditya Birla Sun Life Financial Planning Fund - Aggressive Plan - Direct Plan - Growth Option;37.5001;04-Nov-2022
+132180;INF084M01101;-;Aditya Birla Sun Life Financial Planning Fund - Aggressive Plan - Regular Plan - Growth Option;34.863;04-Nov-2022
+132181;INF084M01119;INF084M01127;Aditya Birla Sun Life Financial Planning Fund - Aggressive Plan -Regular - IDCW;31.9108;04-Nov-2022
+132183;INF084M01EQ8;-;Aditya Birla Sun Life Financial Planning Fund - Conservative Plan - Direct Plan - Growth Option;26.0254;04-Nov-2022
+132178;INF084M01044;-;Aditya Birla Sun life Financial Planning Fund - Conservative Plan - Regular Plan - Growth Option;24.7436;04-Nov-2022
+132184;INF084M01ER6;INF084M01ES4;Aditya Birla Sun Life Financial Planning Fund - Conservative Plan -Direct - IDCW;17.6706;04-Nov-2022
+132179;INF084M01051;INF084M01069;Aditya Birla Sun Life Financial Planning Fund - Conservative Plan -Regular - IDCW;22.5115;04-Nov-2022
+132185;INF084M01ET2;-;Aditya Birla Sun Life Financial Planning Fund - Moderate Plan - Direct Plan - Growth Option;30.4835;04-Nov-2022
+132174;INF084M01077;-;Aditya Birla Sun Life Financial Planning Fund - Moderate Plan - Regular Plan - Growth Option;28.9215;04-Nov-2022
+132175;INF084M01085;INF084M01093;Aditya Birla Sun Life Financial Planning Fund -Moderate  Plan -  Regular -  IDCW;25.9406;04-Nov-2022
+132189;INF084M01EU0;INF084M01EV8;Aditya Birla Sun Life Financial Planning Fund -Moderate  Plan - Direct - IDCW;27.64;04-Nov-2022
+120546;INF209K01YU5;-;Aditya Birla Sun Life Gold Fund - Growth - Direct Plan;15.7669;04-Nov-2022
+120545;INF209K01YT7;-;Aditya Birla Sun Life Gold Fund-DIRECT - IDCW;15.7691;04-Nov-2022
+116796;INF209K01PF4;-;Aditya Birla Sun Life Gold Fund-Growth;15.3125;04-Nov-2022
+116795;INF209K01PG2;INF209K01PH0;Aditya Birla Sun Life Gold Fund-REGULAR - IDCW;15.3114;04-Nov-2022
+150688;INF209KB15M0;-;Aditya Birla Sun Life Multi - Index Fund of Funds-Direct Growth;10.1283;04-Nov-2022
+150689;INF209KB16M8;INF209KB17M6;Aditya Birla Sun Life Multi- Index Fund Of Fund-Direct IDCW;10.1283;04-Nov-2022
+150691;INF209KB13M5;INF209KB14M3;Aditya Birla Sun Life Multi- Index Fund Of Fund-Regular IDCW;10.1253;04-Nov-2022
+150690;INF209KB12M7;-;Aditya Birla Sun Life Multi-Index Fund Of Fund-Regular Growth;10.1253;04-Nov-2022
+149780;INF209KB16F2;-;Aditya Birla Sun Life Silver ETF FOF-Direct Growth;9.6106;04-Nov-2022
+149781;INF209KB17F0;INF209KB18F8;Aditya Birla Sun Life Silver ETF FOF-Direct IDCW;9.6081;04-Nov-2022
+149783;INF209KB13F9;-;Aditya Birla Sun Life Silver ETF FOF-Regular Growth;9.5686;04-Nov-2022
+149784;INF209KB14F7;INF209KB15F4;Aditya Birla Sun Life Silver ETF FOF-Regular IDCW;9.5686;04-Nov-2022
 147905;INF846K01V73;INF846K01V65;Axis All Seasons Debt Fund of Fund - Regular Plan - Quarterly IDCW;10.9361;03-Nov-2022
 147895;INF846K01U25;INF846K01U17;Axis All Seasons Debt Fund of Funds - Direct Plan - Annual IDCW;11.5582;03-Nov-2022
 147889;INF846K01U09;-;Axis All Seasons Debt Fund of Funds - Direct Plan - Growth Option;11.8058;03-Nov-2022
@@ -6357,10 +6357,10 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 119781;INF174K01MP6;-;Kotak Gold Fund Growth - Direct;21.177;04-Nov-2022
 114757;INF174K01AU1;INF174K01AV9;Kotak Gold Fund Payout of Income Distribution cum capital withdrawal option;20.2891;04-Nov-2022
 119780;INF174K01MQ4;INF174K01MR2;Kotak Gold Fund Payout of Income Distribution cum capital withdrawal option- Direct;21.1768;04-Nov-2022
-119777;INF174K01LN3;-;Kotak Multi Asset Allocator Fund of Fund - Dynamic - Direct Growth - Direct;152.479;03-Nov-2022
-119776;INF174K01LO1;-;Kotak Multi Asset Allocator Fund of Fund - Dynamic - Direct Payout of Income Distribution cum capital withdrawal option;149.736;03-Nov-2022
-102574;INF174K01468;-;Kotak Multi Asset Allocator Fund of Fund - Dynamic - Growth;144.486;03-Nov-2022
-102573;INF174K01484;INF174K01476;Kotak Multi Asset Allocator Fund of Fund - Dynamic - Payout of Income Distribution cum capital withdrawal option;140.643;03-Nov-2022
+119777;INF174K01LN3;-;Kotak Multi Asset Allocator Fund of Fund - Dynamic - Direct Growth - Direct;152.692;04-Nov-2022
+119776;INF174K01LO1;-;Kotak Multi Asset Allocator Fund of Fund - Dynamic - Direct Payout of Income Distribution cum capital withdrawal option;149.944;04-Nov-2022
+102574;INF174K01468;-;Kotak Multi Asset Allocator Fund of Fund - Dynamic - Growth;144.684;04-Nov-2022
+102573;INF174K01484;INF174K01476;Kotak Multi Asset Allocator Fund of Fund - Dynamic - Payout of Income Distribution cum capital withdrawal option;140.836;04-Nov-2022
 148501;INF769K01GD1;INF769K01GF6;Mirae Asset Equity Allocator Fund  of Fund Direct IDCW;16.623;04-Nov-2022
 148503;INF769K01GA7;INF769K01GC3;Mirae Asset Equity Allocator Fund  of Fund Regular IDCW;16.579;04-Nov-2022
 148500;INF769K01GE9;-;Mirae Asset Equity Allocator Fund of Fund Direct Growth;16.614;04-Nov-2022
@@ -6375,18 +6375,18 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 149787;INF769K01HY5;INF769K01IA3;Mirae Asset Nifty India Manufacturing ETF FOF - Direct Plan- IDCW;10.822;04-Nov-2022
 149788;INF769K01HW9;-;Mirae Asset Nifty India Manufacturing ETF FOF - Regular Plan - Growth;10.787;04-Nov-2022
 149789;INF769K01HV1;INF769K01HX7;Mirae Asset Nifty India Manufacturing ETF FOF - Regular Plan - IDCW;10.826;04-Nov-2022
-148928;INF769K01HH0;-;Mirae Asset NYSE FANG + ETF Fund of Fund Direct Growth;7.583;03-Nov-2022
-148929;INF769K01HG2;-;Mirae Asset NYSE FANG + ETF Fund of Fund Regular Growth;7.534;03-Nov-2022
-149170;INF769K01HR9;-;Mirae Asset S&P 500 Top 50 ETF Fund of Fund Direct Growth;9.259;03-Nov-2022
-149171;INF769K01HQ1;-;Mirae Asset S&P 500 Top 50 ETF Fund of Fund Regular Growth;9.216;03-Nov-2022
+148928;INF769K01HH0;-;Mirae Asset NYSE FANG + ETF Fund of Fund Direct Growth;7.426;04-Nov-2022
+148929;INF769K01HG2;-;Mirae Asset NYSE FANG + ETF Fund of Fund Regular Growth;7.378;04-Nov-2022
+149170;INF769K01HR9;-;Mirae Asset S&P 500 Top 50 ETF Fund of Fund Direct Growth;9.046;04-Nov-2022
+149171;INF769K01HQ1;-;Mirae Asset S&P 500 Top 50 ETF Fund of Fund Regular Growth;9.004;04-Nov-2022
 149240;INF247L01AQ1;-;Motilal Oswal 5 Year G-Sec Fund Of Fund Direct -Growth;10.1153;04-Nov-2022
 149241;INF247L01AR9;-;Motilal Oswal 5 Year G-Sec Fund Of Fund Regular -Growth;10.1067;04-Nov-2022
 148747;INF247L01AL2;-;Motilal Oswal Asset Allocation FOF- A- Direct Growth;11.6112;04-Nov-2022
 148748;INF247L01AM0;-;Motilal Oswal Asset Allocation FOF- A- Regular Growth;11.5029;04-Nov-2022
 148750;INF247L01AN8;-;Motilal Oswal Asset Allocation FOF- C- Direct Growth;11.2027;04-Nov-2022
 148749;INF247L01AO6;-;Motilal Oswal Asset Allocation FOF- C- Regular Growth;11.0923;04-Nov-2022
-145552;INF247L01718;-;Motilal Oswal Nasdaq 100 Fund of Fund- Direct Plan Growth;18.5552;03-Nov-2022
-145551;INF247L01700;-;Motilal Oswal Nasdaq 100 Fund of Fund- Regular Plan Growth;18.2655;03-Nov-2022
+145552;INF247L01718;-;Motilal Oswal Nasdaq 100 Fund of Fund- Direct Plan Growth;18.8899;04-Nov-2022
+145551;INF247L01700;-;Motilal Oswal Nasdaq 100 Fund of Fund- Regular Plan Growth;18.5948;04-Nov-2022
 148666;INF204KB16Y4;-;Nippon India Asset Allocator FoF - Direct Plan - Growth Option;13.1451;04-Nov-2022
 148664;INF204KB17Y2;INF204KB18Y0;NIPPON INDIA ASSET ALLOCATOR FOF - DIRECT Plan - IDCW Option;13.1451;04-Nov-2022
 148665;INF204KB14Y9;INF204KB15Y6;NIPPON INDIA ASSET ALLOCATOR FOF - IDCW Option;12.9052;04-Nov-2022
@@ -6429,18 +6429,18 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 150343;-;INF277KA1489;Tata Nifty India Digital ETF Fund of Fund-Regular Plan-IDCW Reinvestment;8.9058;04-Nov-2022
 150714;-;-;UTI Gold ETF Fund of Fund - Direct Plan - Growth Option;9.986;04-Nov-2022
 150715;-;-;UTI Gold ETF Fund of Fund - Regular Plan - Growth Opton;9.9851;04-Nov-2022
-132141;INF084M01EC8;INF084M01ED6;Aditya Birla Sun Life Global Emerging Opportunities Fund - Direct - IDCW;16.4585;03-Nov-2022
-132140;INF084M01EB0;-;Aditya Birla Sun Life Global Emerging Opportunities Fund - Direct plan - Growth Option;18.6088;03-Nov-2022
-132139;INF084M01AU8;INF084M01AV6;Aditya Birla Sun Life Global Emerging Opportunities Fund - Regular - IDCW;18.0375;03-Nov-2022
-132138;INF084M01AT0;-;Aditya Birla SUn Life Global Emerging Opportunities Fund - Regular Plan - Growth Option;18.0347;03-Nov-2022
-132009;INF084M01EH7;-;Aditya Birla Sun Life Global Excellence Equity Fund Of Fund - Retail Plan - Direct Plan - Growth Option;20.3949;03-Nov-2022
-132005;INF084M01AZ7;-;Aditya Birla Sun Life Global Excellence Equity Fund Of Fund- Retail Plan - Regular Plan - Growth Option;19.4859;03-Nov-2022
-132010;INF084M01EI5;INF084M01EJ3;Aditya Birla Sun Life Global Excellence Equity Fund Of Fund-DIRECT - RETAIL - IDCW;20.4125;03-Nov-2022
-132003;INF084M01BA8;INF084M01BB6;Aditya Birla Sun Life Global Excellence Equity Fund Of Fund-REGULAR - RETAIL - IDCW;19.4982;03-Nov-2022
-149289;INF209KB19C3;INF209KB10D0;Aditya Birla Sun Life Nasdaq 100 FOF-Direct IDCW;7.3989;03-Nov-2022
-149291;INF209KB18C5;-;Aditya Birla Sun Life Nasdaq 100 FOF-Direct-Growth;7.3979;03-Nov-2022
-149290;INF209KB15C1;-;Aditya Birla Sun Life Nasdaq 100 FOF-Regular Growth;7.361;03-Nov-2022
-149292;INF209KB16C9;INF209KB17C7;Aditya Birla Sun Life Nasdaq 100 FOF-Regular IDCW;7.3604;03-Nov-2022
+132141;INF084M01EC8;INF084M01ED6;Aditya Birla Sun Life Global Emerging Opportunities Fund - Direct - IDCW;16.0078;04-Nov-2022
+132140;INF084M01EB0;-;Aditya Birla Sun Life Global Emerging Opportunities Fund - Direct plan - Growth Option;18.0993;04-Nov-2022
+132139;INF084M01AU8;INF084M01AV6;Aditya Birla Sun Life Global Emerging Opportunities Fund - Regular - IDCW;17.5434;04-Nov-2022
+132138;INF084M01AT0;-;Aditya Birla SUn Life Global Emerging Opportunities Fund - Regular Plan - Growth Option;17.5407;04-Nov-2022
+132009;INF084M01EH7;-;Aditya Birla Sun Life Global Excellence Equity Fund Of Fund - Retail Plan - Direct Plan - Growth Option;19.8859;04-Nov-2022
+132005;INF084M01AZ7;-;Aditya Birla Sun Life Global Excellence Equity Fund Of Fund- Retail Plan - Regular Plan - Growth Option;18.9992;04-Nov-2022
+132010;INF084M01EI5;INF084M01EJ3;Aditya Birla Sun Life Global Excellence Equity Fund Of Fund-DIRECT - RETAIL - IDCW;19.903;04-Nov-2022
+132003;INF084M01BA8;INF084M01BB6;Aditya Birla Sun Life Global Excellence Equity Fund Of Fund-REGULAR - RETAIL - IDCW;19.0113;04-Nov-2022
+149289;INF209KB19C3;INF209KB10D0;Aditya Birla Sun Life Nasdaq 100 FOF-Direct IDCW;7.3256;04-Nov-2022
+149291;INF209KB18C5;-;Aditya Birla Sun Life Nasdaq 100 FOF-Direct-Growth;7.3247;04-Nov-2022
+149290;INF209KB15C1;-;Aditya Birla Sun Life Nasdaq 100 FOF-Regular Growth;7.288;04-Nov-2022
+149292;INF209KB16C9;INF209KB17C7;Aditya Birla Sun Life Nasdaq 100 FOF-Regular IDCW;7.2874;04-Nov-2022
 148485;INF846K01X06;-;Axis Global Equity Alpha Fund of Fund - Direct Plan - Growth Option;11.6957;03-Nov-2022
 148487;INF846K01X14;INF846K01X22;Axis Global Equity Alpha Fund of Fund - Direct Plan - IDCW;11.6954;03-Nov-2022
 148486;INF846K01X30;-;Axis Global Equity Alpha Fund of Fund - Regular Plan - Growth Option;11.3950;03-Nov-2022
@@ -6485,18 +6485,18 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 119280;INF740K01PG6;INF740K01PH4;DSP World Mining Fund - Direct Plan - IDCW;14.6051;03-Nov-2022
 112293;INF740K01730;-;DSP World Mining Fund - Regular Plan - Growth;13.8147;03-Nov-2022
 112347;INF740K01748;INF740K01AL8;DSP World Mining Fund - Regular Plan - IDCW;13.8147;03-Nov-2022
-140256;INF843K01AW7;-;Edelweiss ASEAN Equity Off-shore Fund - Direct Plan - Growth Option;24.795;03-Nov-2022
-140255;INF843K01609;-;Edelweiss ASEAN Equity Off-shore Fund - Regular Plan - Growth Option;22.644;03-Nov-2022
-140327;INF843K01IZ3;-;Edelweiss Emerging Markets Opportunities Equity Offshore Fund - Direct Plan - Growth Option;12.7713;03-Nov-2022
-140328;INF843K01IY6;-;Edelweiss Emerging Markets Opportunities Equity Offshore Fund - Regular Plan - Growth Option;12.0363;03-Nov-2022
-140296;INF843K01GI3;-;Edelweiss Europe Dynamic Equity Offshore Fund - Growth Option - Direct Plan;14.529;03-Nov-2022
-140295;INF843K01GJ1;-;Edelweiss Europe Dynamic Equity Offshore Fund - Growth Option - Regular Plan;13.4697;03-Nov-2022
-140243;INF843K01AU1;-;Edelweiss Greater China Equity Off-shore Fund - Direct Plan - Growth Option;32.435;03-Nov-2022
-140242;INF843K01138;-;Edelweiss Greater China Equity Off-shore Fund - Regular Plan - Growth Option;29.589;03-Nov-2022
-148063;INF754K01LB7;-;Edelweiss US Technology Equity Fund of Fund- Direct Plan- Growth;12.8231;03-Nov-2022
-148064;INF754K01LC5;-;Edelweiss US Technology Equity Fund of Fund- Regular Plan- Growth;12.481;03-Nov-2022
-140274;INF843K01EC1;-;Edelweiss US Value Equity Offshore Fund - Direct Plan - Growth Option;26.4441;03-Nov-2022
-140273;INF843K01ED9;-;Edelweiss US Value Equity Offshore Fund - Regular Plan - Growth Option;24.5073;03-Nov-2022
+140256;INF843K01AW7;-;Edelweiss ASEAN Equity Off-shore Fund - Direct Plan - Growth Option;24.976;04-Nov-2022
+140255;INF843K01609;-;Edelweiss ASEAN Equity Off-shore Fund - Regular Plan - Growth Option;22.809;04-Nov-2022
+140327;INF843K01IZ3;-;Edelweiss Emerging Markets Opportunities Equity Offshore Fund - Direct Plan - Growth Option;13.1531;04-Nov-2022
+140328;INF843K01IY6;-;Edelweiss Emerging Markets Opportunities Equity Offshore Fund - Regular Plan - Growth Option;12.3959;04-Nov-2022
+140296;INF843K01GI3;-;Edelweiss Europe Dynamic Equity Offshore Fund - Growth Option - Direct Plan;14.672;04-Nov-2022
+140295;INF843K01GJ1;-;Edelweiss Europe Dynamic Equity Offshore Fund - Growth Option - Regular Plan;13.6019;04-Nov-2022
+140243;INF843K01AU1;-;Edelweiss Greater China Equity Off-shore Fund - Direct Plan - Growth Option;33.769;04-Nov-2022
+140242;INF843K01138;-;Edelweiss Greater China Equity Off-shore Fund - Regular Plan - Growth Option;30.806;04-Nov-2022
+148063;INF754K01LB7;-;Edelweiss US Technology Equity Fund of Fund- Direct Plan- Growth;12.54;04-Nov-2022
+148064;INF754K01LC5;-;Edelweiss US Technology Equity Fund of Fund- Regular Plan- Growth;12.2051;04-Nov-2022
+140274;INF843K01EC1;-;Edelweiss US Value Equity Offshore Fund - Direct Plan - Growth Option;26.6984;04-Nov-2022
+140273;INF843K01ED9;-;Edelweiss US Value Equity Offshore Fund - Regular Plan - Growth Option;24.7424;04-Nov-2022
 118550;INF090I01JP4;INF090I01JQ2;Franklin India Feeder - Franklin U S Opportunities Fund - Direct - IDCW ;44.2157;03-Nov-2022
 116632;INF090I01EV3;INF090I01EU5;Franklin India Feeder - Franklin U S Opportunities Fund - IDCW ;40.1535;03-Nov-2022
 116633;INF090I01EW1;-;Franklin India Feeder - Franklin U.S. Opportunities Fund - Growth;40.1535;03-Nov-2022
@@ -6549,20 +6549,20 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 126352;INF205K01A32;INF205K01A40;Invesco India - Invesco Pan European Equity Fund of Fund - Direct Plan - IDCW (Payout / Reinvestment);12.8835;04-Nov-2022
 126351;INF205K01ZZ9;-;Invesco India - Invesco Pan European Equity Fund of Fund - Regular Plan - Growth Option;11.9872;04-Nov-2022
 126350;INF205K01A08;INF205K01A16;Invesco India - Invesco Pan European Equity Fund of Fund - Regular Plan - IDCW (Payout / Reinvestment);11.987;04-Nov-2022
-106441;INF174K01DV3;-;Kotak Global Emerging Market Fund - Growth;17.463;03-Nov-2022
-119779;INF174K01LW4;-;Kotak Global Emerging Market Fund - Growth - Direct;18.692;03-Nov-2022
-106442;INF174K01DX9;INF174K01DW1;Kotak Global Emerging Market Fund - Payout of Income Distribution cum capital withdrawal option;17.464;03-Nov-2022
-119778;INF174K01LX2;-;Kotak Global Emerging Market Fund - Payout of Income Distribution cum capital withdrawal option - Direct;18.77;03-Nov-2022
-149056;INF174KA1HD1;-;Kotak Global Innovation Fund of Fund - Regular Plan-Growth;6.5493;03-Nov-2022
-149060;INF174KA1HH2;INF174KA1HI0;Kotak Global Innovation Fund of Fund- Direct Plan - IDCW Option;6.6572;03-Nov-2022
-149059;INF174KA1HG4;-;Kotak Global Innovation Fund of Fund- Direct Plan -Growth;6.6571;03-Nov-2022
-149058;INF174KA1HE9;INF174KA1HF6;Kotak Global Innovation Fund of Fund- Regular Plan -IDCW Option;6.5494;03-Nov-2022
-148646;INF174KA1FO2;-;Kotak International REIT FOF - Direct Plan - Growth;8.5963;03-Nov-2022
-148649;INF174KA1FN4;-;Kotak International REIT FOF - Direct Plan - Payout of Income Distribution cum capital withdrawal option;8.5962;03-Nov-2022
-148645;INF174KA1FL8;-;Kotak International REIT FOF - Regular Plan - Growth;8.4483;03-Nov-2022
-148647;INF174KA1FK0;-;Kotak International REIT FOF - Regular Plan - Payout of Income Distribution cum capital withdrawal option;8.4483;03-Nov-2022
-148662;INF174KA1FQ7;-;Kotak NASDAQ 100 Fund of Fund - Direct Plan - Growth;9.0659;03-Nov-2022
-148661;INF174KA1FR5;-;Kotak NASDAQ 100 Fund of Fund - Regular Plan - Growth;9.0016;03-Nov-2022
+106441;INF174K01DV3;-;Kotak Global Emerging Market Fund - Growth;17.935;04-Nov-2022
+119779;INF174K01LW4;-;Kotak Global Emerging Market Fund - Growth - Direct;19.197;04-Nov-2022
+106442;INF174K01DX9;INF174K01DW1;Kotak Global Emerging Market Fund - Payout of Income Distribution cum capital withdrawal option;17.936;04-Nov-2022
+119778;INF174K01LX2;-;Kotak Global Emerging Market Fund - Payout of Income Distribution cum capital withdrawal option - Direct;19.278;04-Nov-2022
+149056;INF174KA1HD1;-;Kotak Global Innovation Fund of Fund - Regular Plan-Growth;6.5965;04-Nov-2022
+149060;INF174KA1HH2;INF174KA1HI0;Kotak Global Innovation Fund of Fund- Direct Plan - IDCW Option;6.7054;04-Nov-2022
+149059;INF174KA1HG4;-;Kotak Global Innovation Fund of Fund- Direct Plan -Growth;6.7054;04-Nov-2022
+149058;INF174KA1HE9;INF174KA1HF6;Kotak Global Innovation Fund of Fund- Regular Plan -IDCW Option;6.5967;04-Nov-2022
+148646;INF174KA1FO2;-;Kotak International REIT FOF - Direct Plan - Growth;8.5998;04-Nov-2022
+148649;INF174KA1FN4;-;Kotak International REIT FOF - Direct Plan - Payout of Income Distribution cum capital withdrawal option;8.5997;04-Nov-2022
+148645;INF174KA1FL8;-;Kotak International REIT FOF - Regular Plan - Growth;8.4515;04-Nov-2022
+148647;INF174KA1FK0;-;Kotak International REIT FOF - Regular Plan - Payout of Income Distribution cum capital withdrawal option;8.4515;04-Nov-2022
+148662;INF174KA1FQ7;-;Kotak NASDAQ 100 Fund of Fund - Direct Plan - Growth;9.0006;04-Nov-2022
+148661;INF174KA1FR5;-;Kotak NASDAQ 100 Fund of Fund - Regular Plan - Growth;8.9367;04-Nov-2022
 133832;INF178L01CM3;INF178L01CN1;Kotak US Equity Fund - Direct Plan - Dividend option;20.129;25-Feb-2020
 133831;INF178L01CL5;-;Kotak US Equity Fund - Direct Plan - Growth option;20.131;25-Feb-2020
 133830;INF178L01CJ9;INF178L01CK7;Kotak US Equity Fund - Standard Plan - Dividend option;19.213;25-Feb-2020
@@ -6575,27 +6575,27 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 149231;INF174V01BA8;INF174V01AZ7;Mahindra Manulife Asia Pacific REITs FOF - Direct Plan - IDCW;7.8459;04-Nov-2022
 149228;INF174V01AV6;-;Mahindra Manulife Asia Pacific REITs FOF - Regular Plan - Growth;7.7605;04-Nov-2022
 149229;INF174V01AX2;INF174V01AW4;Mahindra Manulife Asia Pacific REITs FOF - Regular Plan - IDCW;7.7605;04-Nov-2022
-150594;INF769K01IP1;-;Mirae Asset Global Electric & Autonomous Vehicles ETFs Fund of Fund - Regular Plan - Growth;9.304;03-Nov-2022
-150595;INF769K01IQ9;-;Mirae Asset Global Electric & Autonomous Vehicles ETFs Fund of Fund- Direct Plan - Growth;9.311;03-Nov-2022
-150597;INF769K01IS5;-;Mirae Asset Global X Artificial Intelligence & Technology ETF Fund of Fund - Direct Plan- Growth;9.169;03-Nov-2022
-150596;INF769K01IR7;-;Mirae Asset Global X Artificial Intelligence & Technology ETF Fund of Fund - Regular Plan - Growth;9.166;03-Nov-2022
+150594;INF769K01IP1;-;Mirae Asset Global Electric & Autonomous Vehicles ETFs Fund of Fund - Regular Plan - Growth;9.553;04-Nov-2022
+150595;INF769K01IQ9;-;Mirae Asset Global Electric & Autonomous Vehicles ETFs Fund of Fund- Direct Plan - Growth;9.561;04-Nov-2022
+150597;INF769K01IS5;-;Mirae Asset Global X Artificial Intelligence & Technology ETF Fund of Fund - Direct Plan- Growth;9.212;04-Nov-2022
+150596;INF769K01IR7;-;Mirae Asset Global X Artificial Intelligence & Technology ETF Fund of Fund - Regular Plan - Growth;9.209;04-Nov-2022
 149910;-;-;Navi NASDAQ 100 Fund of Fund- Direct- Growth;7.843;03-Nov-2022
 149911;-;-;Navi NASDAQ 100 Fund of Fund- Regular- Growth;7.8349;03-Nov-2022
 149830;INF959L01FV0;-;Navi US Total Stock Market Fund of Fund- Direct Plan- Growth;9.544;03-Nov-2022
 149831;INF959L01FW8;-;Navi US Total Stock Market Fund of Fund- Regular Plan- Growth;9.5387;03-Nov-2022
-138457;INF223J01NJ4;-;PGIM India Emerging Markets Equity Fund - Direct Plan - Dividend;8.57;03-Nov-2022
-138456;INF223J01NL0;-;PGIM India Emerging Markets Equity Fund - Direct Plan - Growth;12.45;03-Nov-2022
-138454;INF223J01AW4;INF223J01AX2;PGIM India Emerging Markets Equity Fund - Dividend;10.33;03-Nov-2022
-138453;INF223J01AY0;-;PGIM India Emerging Markets Equity Fund - Growth;11.24;03-Nov-2022
+138457;INF223J01NJ4;-;PGIM India Emerging Markets Equity Fund - Direct Plan - Dividend;8.7;04-Nov-2022
+138456;INF223J01NL0;-;PGIM India Emerging Markets Equity Fund - Direct Plan - Growth;12.63;04-Nov-2022
+138454;INF223J01AW4;INF223J01AX2;PGIM India Emerging Markets Equity Fund - Dividend;10.48;04-Nov-2022
+138453;INF223J01AY0;-;PGIM India Emerging Markets Equity Fund - Growth;11.4;04-Nov-2022
 138525;INF223J01AV6;-;PGIM India Global Equity Opportunities Fund - Bonus;11.75;04-Jan-2017
-138527;INF223J01NG0;-;PGIM India Global Equity Opportunities Fund - Direct Plan - Dividend;27.02;03-Nov-2022
-138528;INF223J01NF2;-;PGIM India Global Equity Opportunities Fund - Direct Plan - Growth;27.02;03-Nov-2022
-138524;INF223J01AS2;INF223J01AT0;PGIM India Global Equity Opportunities Fund - Dividend;20.57;03-Nov-2022
-138523;INF223J01AU8;-;PGIM India Global Equity Opportunities Fund - Growth;24.5;03-Nov-2022
-149298;INF663L01W63;-;PGIM India Global Select Real Estate Securities Fund of Fund - Direct Plan - Growth Option;8.09;03-Nov-2022
-149300;INF663L01W71;INF663L01W89;PGIM India Global Select Real Estate Securities Fund of Fund - Direct Plan - IDCW Option;8.09;03-Nov-2022
-149299;INF663L01W97;-;PGIM India Global Select Real Estate Securities Fund of Fund - Regular Plan - Growth Option;8.03;03-Nov-2022
-149301;INF663L01X05;INF663L01X13;PGIM India Global Select Real Estate Securities Fund of Fund - Regular Plan - IDCW Option;8.03;03-Nov-2022
+138527;INF223J01NG0;-;PGIM India Global Equity Opportunities Fund - Direct Plan - Dividend;27.19;04-Nov-2022
+138528;INF223J01NF2;-;PGIM India Global Equity Opportunities Fund - Direct Plan - Growth;27.19;04-Nov-2022
+138524;INF223J01AS2;INF223J01AT0;PGIM India Global Equity Opportunities Fund - Dividend;20.7;04-Nov-2022
+138523;INF223J01AU8;-;PGIM India Global Equity Opportunities Fund - Growth;24.65;04-Nov-2022
+149298;INF663L01W63;-;PGIM India Global Select Real Estate Securities Fund of Fund - Direct Plan - Growth Option;8.2;04-Nov-2022
+149300;INF663L01W71;INF663L01W89;PGIM India Global Select Real Estate Securities Fund of Fund - Direct Plan - IDCW Option;8.2;04-Nov-2022
+149299;INF663L01W97;-;PGIM India Global Select Real Estate Securities Fund of Fund - Regular Plan - Growth Option;8.13;04-Nov-2022
+149301;INF663L01X05;INF663L01X13;PGIM India Global Select Real Estate Securities Fund of Fund - Regular Plan - IDCW Option;8.13;04-Nov-2022
 148760;INF200KA1U28;-;SBI International Access - US Equity FoF - Direct Plan - Growth;10.4873;04-Nov-2022
 148762;INF200KA1T96;-;SBI International Access - US Equity FoF - Regular Plan - Growth;10.3469;04-Nov-2022
 148761;INF200KA1U36;INF200KA1U44;SBI International Access- US Equity FoF Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);10.4877;04-Nov-2022
@@ -6731,10 +6731,10 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 149950;INF754K01OG0;-;Edelweiss CRISIL PSU Plus SDL 50:50 Oct 2025 Index Fund - Direct Plan Growth;10.0519;04-Nov-2022
 149947;INF754K01OD7;INF754K01OE5;Edelweiss CRISIL PSU Plus SDL 50:50 Oct 2025 Index Fund - Regular Plan - IDCW Payout;10.0392;04-Nov-2022
 149949;INF754K01OC9;-;Edelweiss CRISIL PSU Plus SDL 50:50 Oct 2025 Index Fund - Regular Plan Growth;10.0388;04-Nov-2022
-148556;INF754K01LW3;INF754K01LX1;Edelweiss MSCI India Domestic & World Healthcare 45 Index Fund - Direct Plan - IDCW Option;12.7637;03-Nov-2022
-148558;INF754K01LS1;INF754K01LT9;Edelweiss MSCI India Domestic & World Healthcare 45 Index Fund - Regular Plan - IDCW Option;12.61;03-Nov-2022
-148555;INF754K01LV5;-;Edelweiss MSCI India Domestic & World Healthcare 45 Index Fund Direct Plan - Growth;12.7637;03-Nov-2022
-148557;INF754K01LR3;-;Edelweiss MSCI India Domestic & World Healthcare 45 index Fund Regular Plan - Growth;12.61;03-Nov-2022
+148556;INF754K01LW3;INF754K01LX1;Edelweiss MSCI India Domestic & World Healthcare 45 Index Fund - Direct Plan - IDCW Option;12.7001;04-Nov-2022
+148558;INF754K01LS1;INF754K01LT9;Edelweiss MSCI India Domestic & World Healthcare 45 Index Fund - Regular Plan - IDCW Option;12.547;04-Nov-2022
+148555;INF754K01LV5;-;Edelweiss MSCI India Domestic & World Healthcare 45 Index Fund Direct Plan - Growth;12.7001;04-Nov-2022
+148557;INF754K01LR3;-;Edelweiss MSCI India Domestic & World Healthcare 45 index Fund Regular Plan - Growth;12.547;04-Nov-2022
 149254;INF754K01NJ6;-;Edelweiss Nifty 100 Quality 30 Index Fund Direct Plan Growth;9.9375;04-Nov-2022
 149255;INF754K01NK4;INF754K01NL2;Edelweiss Nifty 100 Quality 30 Index Fund Direct Plan IDCW;9.7984;04-Nov-2022
 149256;INF754K01NF4;-;Edelweiss Nifty 100 Quality 30 Index Fund Regular Plan Growth;9.8721;04-Nov-2022
@@ -7158,8 +7158,8 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 149786;INF769K01IB1;-;Mirae Asset Nifty India Manufacturing ETF;85.633;04-Nov-2022
 149918;INF769K01IC9;-;Mirae Asset Nifty Midcap 150 ETF Regular Growth Option;12.022;04-Nov-2022
 147906;INF769K01FN2;-;Mirae Asset Nifty Next 50 ETF (MANxt50ETF);434.615;04-Nov-2022
-148927;INF769K01HF4;-;Mirae Asset NYSE FANG + ETF;34.165;03-Nov-2022
-149169;INF769K01HP3;-;Mirae Asset S&P 500 Top 50 ETF;24.966;03-Nov-2022
+148927;INF769K01HF4;-;Mirae Asset NYSE FANG + ETF;34.808;04-Nov-2022
+149169;INF769K01HP3;-;Mirae Asset S&P 500 Top 50 ETF;25.196;04-Nov-2022
 150642;INF247L01BM8;-;Motilal Oswal Gold and Silver ETFs Fund of Funds(Direct Plan);10.0282;04-Nov-2022
 150641;INF247L01BN6;-;Motilal Oswal Gold and Silver ETFs Fund of Funds(Regular Plan);10.0260;04-Nov-2022
 114984;INF247L01AP3;-;Motilal Oswal Nasdaq 100 ETF (MOFN100);86.5957;04-Nov-2022
