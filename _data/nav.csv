@@ -1262,12 +1262,12 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 109351;INF760K01CX7;INF760K01CY5;CANARA ROBECO LIQUID FUND - REGULAR PLAN - MONTHLY IDCW (Payout/Reinvestment);1003.2198;13-Nov-2022
 109350;INF760K01BZ4;INF760K01CZ2;CANARA ROBECO LIQUID FUND - REGULAR PLAN - WEEKLY IDCW (Payout/Reinvestment);1000.6961;13-Nov-2022
 139235;INF760K01IC8;-;Canara Robeco Liquid Fund -Unclaimed Redemption and Dividend Plan -Direct Growth Option;1431.7532;13-Nov-2022
-119125;INF740K01QL4;-;DSP Liquidity Fund - Direct Plan - Growth;3136.4638;12-Nov-2022
-119124;-;INF740KA1OB6;DSP Liquidity Fund - Direct Plan - IDCW - Daily;1001.1038;12-Nov-2022
-119123;INF740KA1OC4;INF740KA1OD2;DSP Liquidity Fund - Direct Plan - IDCW - Weekly;1001.2477;12-Nov-2022
-103347;INF740K01FK9;-;DSP Liquidity Fund - Regular Plan - Growth;3108.9732;12-Nov-2022
-103348;INF740K01FM5;INF740K01FL7;DSP Liquidity Fund - Regular Plan - IDCW - Weekly;1001.2423;12-Nov-2022
-103349;-;INF740KA1OE0;DSP Liquidity Fund- Regular Plan - IDCW - Daily;1001.1011;12-Nov-2022
+119125;INF740K01QL4;-;DSP Liquidity Fund - Direct Plan - Growth;3137;13-Nov-2022
+119124;-;INF740KA1OB6;DSP Liquidity Fund - Direct Plan - IDCW - Daily;1000.9329;13-Nov-2022
+119123;INF740KA1OC4;INF740KA1OD2;DSP Liquidity Fund - Direct Plan - IDCW - Weekly;1001.4189;13-Nov-2022
+103347;INF740K01FK9;-;DSP Liquidity Fund - Regular Plan - Growth;3109.4961;13-Nov-2022
+103348;INF740K01FM5;INF740K01FL7;DSP Liquidity Fund - Regular Plan - IDCW - Weekly;1001.4107;13-Nov-2022
+103349;-;INF740KA1OE0;DSP Liquidity Fund- Regular Plan - IDCW - Daily;1000.9329;13-Nov-2022
 140194;INF754K01GY9;-;Edelweiss Liquid Fund - Direct Plan - Bonus Option;1647.1555;11-Nov-2022
 140196;INF754K01GM4;-;Edelweiss Liquid Fund - Direct Plan - Growth Option;2831.2157;11-Nov-2022
 140198;INF754K01GO0;INF754K01GN2;Edelweiss Liquid Fund - Direct Plan - IDCW Option;2831.2302;11-Nov-2022
@@ -2570,16 +2570,16 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 147531;INF760K01JM5;-;CANARA ROBECO OVERNIGHT FUND - DIRECT PLAN - GROWTH OPTION;1133.6016;13-Nov-2022
 147533;-;INF760K01JP8;CANARA ROBECO OVERNIGHT FUND - REGULAR PLAN - DAILY IDCW (Reinvestment);1001.0000;13-Nov-2022
 147534;INF760K01JO1;-;CANARA ROBECO OVERNIGHT FUND - REGULAR PLAN - GROWTH OPTION;1132.8038;13-Nov-2022
-146062;INF740KA1MC8;-;DSP Overnight Fund - Direct Plan - Growth;1172.5402;11-Nov-2022
-146065;-;INF740KA1OR2;DSP Overnight Fund - Direct Plan - IDCW - Daily;1000.0028;11-Nov-2022
-146064;INF740KA1OS0;INF740KA1OT8;DSP Overnight Fund - Direct Plan - IDCW - Weekly;1000.1963;11-Nov-2022
-146061;INF740KA1MB0;-;DSP Overnight Fund - Regular Plan - Growth;1168.7318;11-Nov-2022
-146066;-;INF740KA1OU6;DSP Overnight Fund - Regular Plan - IDCW - Daily;1000.0028;11-Nov-2022
-146063;INF740KA1OV4;INF740KA1OW2;DSP Overnight Fund - Regular Plan - IDCW - Weekly;1000.2049;11-Nov-2022
-149313;-;-;Unclaimed IDCW - Beyond 3 years (Invested in DSP Overnight Fund);10.0000;11-Nov-2022
-149312;-;-;Unclaimed IDCW - Upto 3 years (Invested in DSP Overnight Fund);10.4447;11-Nov-2022
-149311;-;-;Unclaimed Redemption - Beyond 3 years (Invested in DSP Overnight Fund);10.0000;11-Nov-2022
-149310;-;-;Unclaimed Redemption - Upto 3 years (Invested in DSP Overnight Fund);10.4447;11-Nov-2022
+146062;INF740KA1MC8;-;DSP Overnight Fund - Direct Plan - Growth;1172.9047;13-Nov-2022
+146065;-;INF740KA1OR2;DSP Overnight Fund - Direct Plan - IDCW - Daily;1000.0028;13-Nov-2022
+146064;INF740KA1OS0;INF740KA1OT8;DSP Overnight Fund - Direct Plan - IDCW - Weekly;1000.5055;13-Nov-2022
+146061;INF740KA1MB0;-;DSP Overnight Fund - Regular Plan - Growth;1169.0893;13-Nov-2022
+146066;-;INF740KA1OU6;DSP Overnight Fund - Regular Plan - IDCW - Daily;1000.0028;13-Nov-2022
+146063;INF740KA1OV4;INF740KA1OW2;DSP Overnight Fund - Regular Plan - IDCW - Weekly;1000.5366;13-Nov-2022
+149313;-;-;Unclaimed IDCW - Beyond 3 years (Invested in DSP Overnight Fund);10;13-Nov-2022
+149312;-;-;Unclaimed IDCW - Upto 3 years (Invested in DSP Overnight Fund);10.4479;13-Nov-2022
+149311;-;-;Unclaimed Redemption - Beyond 3 years (Invested in DSP Overnight Fund);10;13-Nov-2022
+149310;-;-;Unclaimed Redemption - Upto 3 years (Invested in DSP Overnight Fund);10.4479;13-Nov-2022
 147551;INF754K01KD5;INF754K01KC7;Edelweiss Overnight Fund - Direct Plan - Annual - IDCW Option;1134.788;11-Nov-2022
 147557;-;INF754K01JW7;Edelweiss Overnight Fund - Direct Plan - Daily - IDCW Option;1000.0268;11-Nov-2022
 147550;INF754K01JZ0;INF754K01JY3;Edelweiss Overnight Fund - Direct Plan - Fortnightly - IDCW Option;1050.7261;11-May-2022
@@ -4713,10 +4713,10 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 149327;INF204KC1311;INF204KC1329;Nippon India Taiwan Equity Fund- Direct Plan- IDCW option;6.5869;11-Nov-2022
 149328;INF204KC1279;-;Nippon India Taiwan Equity fund- Regular Plan- Growth Option;6.4857;11-Nov-2022
 149325;INF204KC1287;INF204KC1295;Nippon India Taiwan Equity Fund- Regular Plan- IDCW option;6.4857;11-Nov-2022
-134925;INF204KA16G3;INF204KA17G1;NIPPON INDIA - US EQUITY OPPORTUNITES FUND - Direct Plan - IDCW Option;23.0542;10-Nov-2022
-134924;INF204KA13G0;INF204KA14G8;NIPPON INDIA - US EQUITY OPPORTUNITES FUND - IDCW Option;21.3031;10-Nov-2022
-134923;INF204KA15G5;-;Nippon India US Equity Opportunites Fund- Direct Plan- Growth Plan- Growth Option;23.0542;10-Nov-2022
-134922;INF204KA12G2;-;Nippon India US Equity Opportunites Fund- Growth Plan- Growth Option;21.3031;10-Nov-2022
+134925;INF204KA16G3;INF204KA17G1;NIPPON INDIA - US EQUITY OPPORTUNITES FUND - Direct Plan - IDCW Option;23.0184;11-Nov-2022
+134924;INF204KA13G0;INF204KA14G8;NIPPON INDIA - US EQUITY OPPORTUNITES FUND - IDCW Option;21.2693;11-Nov-2022
+134923;INF204KA15G5;-;Nippon India US Equity Opportunites Fund- Direct Plan- Growth Plan- Growth Option;23.0184;11-Nov-2022
+134922;INF204KA12G2;-;Nippon India US Equity Opportunites Fund- Growth Plan- Growth Option;21.2693;11-Nov-2022
 148564;INF966L01AD4;-;quant ESG Equity Fund - Growth Option - Direct Plan;22.8094;11-Nov-2022
 148560;INF966L01AB8;-;quant ESG Equity Fund - Growth Option - Regular Plan;22.1606;11-Nov-2022
 148563;INF966L01AE2;INF966L01AG7;quant ESG Equity Fund - IDCW Option - Direct Plan;22.7855;11-Nov-2022
@@ -5886,12 +5886,12 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 149676;INF173K01262;INF173K01270;Sundaram Equity Savings Fund (Formerly Known as Principal Equity Savings Fund) -Quarterly Income Distribution CUM Capital Withdrawal;15.3071;11-Nov-2022
 149678;INF173K01HF9;INF173K01HG7;Sundaram Equity Savings Fund (Formerly Known as Principal Equity Savings Fund)- Direct Plan - Income Distribution CUM Capital Withdrawal Option - Quarterly;21.2693;11-Nov-2022
 149675;INF173K01247;INF173K01254;Sundaram Equity Savings Fund (Formerly Known as Principal Equity Savings Fund)- Half Yearly Income Distribution CUM Capital Withdrawal;13.9639;11-Nov-2022
-101906;INF277K01907;-;Tata Equity Savings Fund -Regular Plan-Growth Option;42.1774;10-Nov-2022
-119960;INF277K01QH5;-;Tata Equity Savings Fund- Direct Plan- Growth Option;46.6431;10-Nov-2022
-102118;INF277K01EF5;INF277K01915;Tata Equity Savings Fund- Regular Plan - Periodic Payout of IDCW Option;20.2068;10-Nov-2022
-101609;INF277K01EE8;INF277K01899;TATA Equity Savings Fund- Regular Plan -Monthly Payout of IDCW option;14.9718;10-Nov-2022
-119958;INF277K01QI3;INF277K01QJ1;Tata Equity Savings Fund-Direct Plan - Monthly Payout of IDCW Option;17.6741;10-Nov-2022
-119959;INF277K01QK9;INF277K01QL7;Tata Equity Savings Fund-Direct Plan - Periodic Payout of IDCWS Option;22.7924;10-Nov-2022
+101906;INF277K01907;-;Tata Equity Savings Fund -Regular Plan-Growth Option;42.4557;11-Nov-2022
+119960;INF277K01QH5;-;Tata Equity Savings Fund- Direct Plan- Growth Option;46.9521;11-Nov-2022
+102118;INF277K01EF5;INF277K01915;Tata Equity Savings Fund- Regular Plan - Periodic Payout of IDCW Option;20.3402;11-Nov-2022
+101609;INF277K01EE8;INF277K01899;TATA Equity Savings Fund- Regular Plan -Monthly Payout of IDCW option;15.0706;11-Nov-2022
+119958;INF277K01QI3;INF277K01QJ1;Tata Equity Savings Fund-Direct Plan - Monthly Payout of IDCW Option;17.7912;11-Nov-2022
+119959;INF277K01QK9;INF277K01QL7;Tata Equity Savings Fund-Direct Plan - Periodic Payout of IDCWS Option;22.9434;11-Nov-2022
 144312;INF582M01EC1;-;Union Equity Savings Fund - Direct Plan - Growth Option;13.84;11-Nov-2022
 144313;INF582M01EE7;INF582M01ED9;Union Equity Savings Fund - Direct Plan - IDCW Option;13.84;11-Nov-2022
 144310;INF582M01EG2;-;Union Equity Savings Fund - Regular Plan - Growth Option;13.49;11-Nov-2022
@@ -5920,10 +5920,10 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 104898;INF109K01787;-;ICICI Prudential Multi-Asset Fund-Institutional Option - I;43.0129;18-Jun-2018
 148454;INF247L01AI8;-;Motilal Oswal Multi Asset Fund - Direct Plan - Growth Option;11.0575;11-Nov-2022
 148455;INF247L01AJ6;-;Motilal Oswal Multi Asset Fund - Regular Plan - Growth Option;10.7147;11-Nov-2022
-148457;INF204KB19V4;-;Nippon India Multi Asset Fund - Direct Plan - Growth Option;13.8919;10-Nov-2022
-148458;INF204KB10W1;INF204KB11W9;NIPPON INDIA MULTI ASSET FUND - DIRECT Plan - IDCW Option;13.8919;10-Nov-2022
-148460;INF204KB17V8;INF204KB18V6;NIPPON INDIA MULTI ASSET FUND - IDCW Option;13.4448;10-Nov-2022
-148459;INF204KB16V0;-;Nippon India Multi Asset Fund - Regular Plan - Growth Option;13.4448;10-Nov-2022
+148457;INF204KB19V4;-;Nippon India Multi Asset Fund - Direct Plan - Growth Option;13.9970;11-Nov-2022
+148458;INF204KB10W1;INF204KB11W9;NIPPON INDIA MULTI ASSET FUND - DIRECT Plan - IDCW Option;13.9970;11-Nov-2022
+148460;INF204KB17V8;INF204KB18V6;NIPPON INDIA MULTI ASSET FUND - IDCW Option;13.5459;11-Nov-2022
+148459;INF204KB16V0;-;Nippon India Multi Asset Fund - Regular Plan - Growth Option;13.5459;11-Nov-2022
 120820;INF966L01564;INF966L01572;quant Multi Asset Fund - IDCW Option - Direct Plan;83.3458;11-Nov-2022
 101071;INF966L01184;INF966L01192;quant Multi Asset Fund - IDCW Option - Regular Plan;80.3163;11-Nov-2022
 101072;INF966L01200;-;quant Multi Asset Fund-GROWTH OPTION - Regular Plan;87.5203;11-Nov-2022
@@ -5936,12 +5936,12 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 103408;INF200K01800;-;SBI MULTI ASSET ALLOCATION FUND - REGULAR PLAN - GROWTH;39.0965;11-Nov-2022
 103400;INF200K01818;INF200K01826;SBI Multi Asset Allocation Fund - Regular Plan - Monthly Income Distribution cum Capital Withdrawal Option (IDCW);17.4817;11-Nov-2022
 103401;INF200K01834;INF200K01842;SBI Multi Asset Allocation Fund - Regular Plan - Quarterly Income Distribution cum Capital Withdrawal Option (IDCW);17.4649;11-Nov-2022
-148052;-;INF277K010Z9;Tata Multi Asset Opportnities Fund-Direct Plan-Dividend Reinvestment;17.0804;10-Nov-2022
-148049;INF277K011Z7;-;Tata Multi Asset Opportunities Fund-Direct Plan-Dividend Payout;17.0804;10-Nov-2022
-148053;INF277K019Y3;-;Tata Multi Asset Opportunities Fund-Direct Plan-Growth;17.0804;10-Nov-2022
-148054;INF277K014Z1;-;Tata Multi Asset Opportunities Fund-Regular Plan-Dividend Payout;16.2550;10-Nov-2022
-148051;-;INF277K013Z3;Tata Multi Asset Opportunities Fund-Regular Plan-Dividend Reinvestment;16.2550;10-Nov-2022
-148050;INF277K012Z5;-;Tata Multi Asset Opportunities Fund-Regular Plan-Growth;16.2550;10-Nov-2022
+148052;-;INF277K010Z9;Tata Multi Asset Opportnities Fund-Direct Plan-Dividend Reinvestment;17.1971;11-Nov-2022
+148049;INF277K011Z7;-;Tata Multi Asset Opportunities Fund-Direct Plan-Dividend Payout;17.1971;11-Nov-2022
+148053;INF277K019Y3;-;Tata Multi Asset Opportunities Fund-Direct Plan-Growth;17.1971;11-Nov-2022
+148054;INF277K014Z1;-;Tata Multi Asset Opportunities Fund-Regular Plan-Dividend Payout;16.3653;11-Nov-2022
+148051;-;INF277K013Z3;Tata Multi Asset Opportunities Fund-Regular Plan-Dividend Reinvestment;16.3653;11-Nov-2022
+148050;INF277K012Z5;-;Tata Multi Asset Opportunities Fund-Regular Plan-Growth;16.3653;11-Nov-2022
 111599;INF789F01AP6;-;UTI - Multi Asset Fund - Regular Plan - Growth Option;45.5035;11-Nov-2022
 120760;INF789F01VE6;-;UTI - Multi Asset Fund- Direct Plan - Growth Option;49.1581;11-Nov-2022
 120761;INF789F01VC0;INF789F01VD8;UTI Multi Asset Fund - Direct Plan - IDCW;21.969;11-Nov-2022
@@ -6600,10 +6600,10 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 149300;INF663L01W71;INF663L01W89;PGIM India Global Select Real Estate Securities Fund of Fund - Direct Plan - IDCW Option;8.65;10-Nov-2022
 149299;INF663L01W97;-;PGIM India Global Select Real Estate Securities Fund of Fund - Regular Plan - Growth Option;8.59;10-Nov-2022
 149301;INF663L01X05;INF663L01X13;PGIM India Global Select Real Estate Securities Fund of Fund - Regular Plan - IDCW Option;8.59;10-Nov-2022
-148760;INF200KA1U28;-;SBI International Access - US Equity FoF - Direct Plan - Growth;10.9661;10-Nov-2022
-148762;INF200KA1T96;-;SBI International Access - US Equity FoF - Regular Plan - Growth;10.8180;10-Nov-2022
-148761;INF200KA1U36;INF200KA1U44;SBI International Access- US Equity FoF Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);10.9664;10-Nov-2022
-148759;INF200KA1U02;INF200KA1U10;SBI International Access- US Equity FoF Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);10.8183;10-Nov-2022
+148760;INF200KA1U28;-;SBI International Access - US Equity FoF - Direct Plan - Growth;11.0220;11-Nov-2022
+148762;INF200KA1T96;-;SBI International Access - US Equity FoF - Regular Plan - Growth;10.8729;11-Nov-2022
+148761;INF200KA1U36;INF200KA1U44;SBI International Access- US Equity FoF Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);11.0223;11-Nov-2022
+148759;INF200KA1U02;INF200KA1U10;SBI International Access- US Equity FoF Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);10.8733;11-Nov-2022
 119602;INF903J01OB6;-;Sundaram Global Brand Fund Direct Plan - Growth;23.3200;10-Nov-2022
 119601;INF903J01NZ7;INF903J01OA8;Sundaram Global Brand Fund Direct Plan - Income Distribution cum Capital Withdrawal (IDCW);20.7417;10-Nov-2022
 106370;INF903J01EX1;-;Sundaram Global Brand Fund Regular Plan - Growth;21.8487;10-Nov-2022
@@ -7099,7 +7099,7 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 149156;INF846K016C7;-;Axis NIFTY India Consumption ETF;79.2082;11-Nov-2022
 148799;INF846K01Y96;-;Axis IT ETF;305.7171;11-Nov-2022
 150610;INF846K011K1;-;Axis Silver ETF;64.5228;11-Nov-2022
-142589;-;INF740KA1EU7;DSP NIFTY 1D Rate Liquid ETF - IDCW - Daily Reinvest;1000.0000;11-Nov-2022
+142589;-;INF740KA1EU7;DSP NIFTY 1D Rate Liquid ETF - IDCW - Daily Reinvest;1000.0000;13-Nov-2022
 149286;INF740KA1QK2;-;DSP Nifty 50 Equal Weight ETF;210.9996;11-Nov-2022
 149392;INF740KA1CL0;-;DSP Nifty 50 ETF;185.5930;11-Nov-2022
 149403;INF740KA1QL0;-;DSP Nifty Midcap 150 Quality 50 ETF;166.0497;11-Nov-2022
