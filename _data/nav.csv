@@ -6385,6 +6385,8 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 148748;INF247L01AM0;-;Motilal Oswal Asset Allocation FOF- A- Regular Growth;11.7490;16-Nov-2022
 148750;INF247L01AN8;-;Motilal Oswal Asset Allocation FOF- C- Direct Growth;11.3968;16-Nov-2022
 148749;INF247L01AO6;-;Motilal Oswal Asset Allocation FOF- C- Regular Growth;11.2824;16-Nov-2022
+150642;INF247L01BM8;-;Motilal Oswal Gold and Silver ETFs Fund of Funds(Direct Plan);10.4859;16-Nov-2022
+150641;INF247L01BN6;-;Motilal Oswal Gold and Silver ETFs Fund of Funds(Regular Plan);10.4824;16-Nov-2022
 145552;INF247L01718;-;Motilal Oswal Nasdaq 100 Fund of Fund- Direct Plan Growth;19.9154;16-Nov-2022
 145551;INF247L01700;-;Motilal Oswal Nasdaq 100 Fund of Fund- Regular Plan Growth;19.6017;16-Nov-2022
 148666;INF204KB16Y4;-;Nippon India Asset Allocator FoF - Direct Plan - Growth Option;13.2506;16-Nov-2022
@@ -6604,10 +6606,10 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 148762;INF200KA1T96;-;SBI International Access - US Equity FoF - Regular Plan - Growth;10.7952;16-Nov-2022
 148761;INF200KA1U36;INF200KA1U44;SBI International Access- US Equity FoF Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);10.9446;16-Nov-2022
 148759;INF200KA1U02;INF200KA1U10;SBI International Access- US Equity FoF Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);10.7955;16-Nov-2022
-119602;INF903J01OB6;-;Sundaram Global Brand Fund Direct Plan - Growth;23.7762;15-Nov-2022
-119601;INF903J01NZ7;INF903J01OA8;Sundaram Global Brand Fund Direct Plan - Income Distribution cum Capital Withdrawal (IDCW);21.1475;15-Nov-2022
-106370;INF903J01EX1;-;Sundaram Global Brand Fund Regular Plan - Growth;22.2724;15-Nov-2022
-106369;INF903J01EY9;INF903J01EZ6;Sundaram Global Brand Fund Regular Plan - Income Distribution cum Capital Withdrawal (IDCW);19.0855;15-Nov-2022
+119602;INF903J01OB6;-;Sundaram Global Brand Fund Direct Plan - Growth;23.5097;16-Nov-2022
+119601;INF903J01NZ7;INF903J01OA8;Sundaram Global Brand Fund Direct Plan - Income Distribution cum Capital Withdrawal (IDCW);20.9104;16-Nov-2022
+106370;INF903J01EX1;-;Sundaram Global Brand Fund Regular Plan - Growth;22.0220;16-Nov-2022
+106369;INF903J01EY9;INF903J01EZ6;Sundaram Global Brand Fund Regular Plan - Income Distribution cum Capital Withdrawal (IDCW);18.8710;16-Nov-2022
 115127;INF209KB18D3;-;Aditya Birla Sun Life Gold ETF;48.6568;16-Nov-2022
 113434;INF846K01W80;-;Axis Gold ETF;46.2143;16-Nov-2022
 113049;INF179KC1981;-;HDFC Gold Exchange Traded Fund. - Growth Option;47.3737;16-Nov-2022
@@ -7178,8 +7180,6 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 147906;INF769K01FN2;-;Mirae Asset Nifty Next 50 ETF (MANxt50ETF);435.372;16-Nov-2022
 148927;INF769K01HF4;-;Mirae Asset NYSE FANG + ETF;38.001;16-Nov-2022
 149169;INF769K01HP3;-;Mirae Asset S&P 500 Top 50 ETF;26.232;16-Nov-2022
-150642;INF247L01BM8;-;Motilal Oswal Gold and Silver ETFs Fund of Funds(Direct Plan);10.4859;16-Nov-2022
-150641;INF247L01BN6;-;Motilal Oswal Gold and Silver ETFs Fund of Funds(Regular Plan);10.4824;16-Nov-2022
 114984;INF247L01AP3;-;Motilal Oswal Nasdaq 100 ETF (MOFN100);93.9275;16-Nov-2022
 149438;INF247L01AU3;-;Motilal Oswal Nasdaq Q50 ETF;52.6440;16-Nov-2022
 149801;INF247L01AX7;-;Motilal Oswal Nifty 200 Momentum 30 ETF;40.2958;16-Nov-2022
