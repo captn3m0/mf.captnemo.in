@@ -1315,24 +1315,24 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 100878;INF179K01KP9;-;HDFC Liquid Fund-Premium Plan - Dividend-Weekly;10;14-Apr-2015
 100881;INF179K01KS3;-;HDFC Liquid Fund-Premium Plus Plan - Dividend-Weekly;10;14-May-2012
 100872;INF179K01KQ7;-;HDFC Liquid Fund-PREMIUM PLUS- Growth;10.0000;17-Dec-2012
-118902;INF336L01BN7;-;HSBC Cash Fund -  Growth;2172.8794;18-Nov-2022
-120038;INF336L01CC8;-;HSBC Cash Fund -  Growth Direct;2187.4621;18-Nov-2022
-118901;-;INF336L01BM9;HSBC Cash Fund - Daily IDCW;1001.3789;18-Nov-2022
-120037;-;INF336L01CB0;HSBC Cash Fund - Daily IDCW Direct Plan;1000.9401;18-Nov-2022
+118902;INF336L01BN7;-;HSBC Cash Fund -  Growth;2173.6203;20-Nov-2022
+120038;INF336L01CC8;-;HSBC Cash Fund -  Growth Direct;2188.2194;20-Nov-2022
+118901;-;INF336L01BM9;HSBC Cash Fund - Daily IDCW;1001.3789;20-Nov-2022
+120037;-;INF336L01CB0;HSBC Cash Fund - Daily IDCW Direct Plan;1000.9401;20-Nov-2022
 101702;INF336L01305;INF336L01297;HSBC Cash Fund - Dividend - Monthly;10.0651;28-Dec-2012
 101699;INF336L01339;-;HSBC Cash Fund - Growth;11.4467;28-Dec-2012
 101694;INF336L01370;INF336L01362;HSBC Cash Fund - Inst. - Dividend - Monthly;10.0000;28-Dec-2012
 101691;INF336L01289;-;HSBC Cash Fund - Inst. - Growth;18.2843;28-Dec-2012
 118910;INF336L01BT4;-;HSBC Cash Fund - Institutional Plan - Growth;2775.0401;11-Jul-2018
-118903;INF336L01BP2;INF336L01BO5;HSBC Cash Fund - Monthly IDCW;1006.5490;18-Nov-2022
-120039;INF336L01BZ1;INF336L01CA2;HSBC Cash Fund - Monthly IDCW Direct Plan;1042.3499;18-Nov-2022
+118903;INF336L01BP2;INF336L01BO5;HSBC Cash Fund - Monthly IDCW;1006.8922;20-Nov-2022
+120039;INF336L01BZ1;INF336L01CA2;HSBC Cash Fund - Monthly IDCW Direct Plan;1042.7108;20-Nov-2022
 101696;INF336L01271;-;HSBC Cash Fund - Regular - Growth;17.9770;28-Dec-2012
-118906;INF336L01BK3;-;HSBC Cash Fund - Regular - IDCW;1019.3000;18-Nov-2022
-118908;-;INF336L01BR8;HSBC Cash Fund - Regular - Weekly IDCW;1000.7602;18-Nov-2022
-118904;INF336L01LJ4;INF336L01BQ0;HSBC Cash Fund - Weekly IDCW;1108.0431;18-Nov-2022
-120040;INF336L01LK2;INF336L01CD6;HSBC Cash Fund - Weekly IDCW Direct Plan;1195.7872;18-Nov-2022
-118909;-;INF336L01BS6;HSBC Cash Fund-Institutional Plan - Daily IDCW;1562.8262;18-Nov-2022
-118907;INF336L01BL1;-;HSBC Cash Fund-Regular-Growth;3135.0388;18-Nov-2022
+118906;INF336L01BK3;-;HSBC Cash Fund - Regular - IDCW;1019.3000;20-Nov-2022
+118908;-;INF336L01BR8;HSBC Cash Fund - Regular - Weekly IDCW;1001.1015;20-Nov-2022
+118904;INF336L01LJ4;INF336L01BQ0;HSBC Cash Fund - Weekly IDCW;1108.4209;20-Nov-2022
+120040;INF336L01LK2;INF336L01CD6;HSBC Cash Fund - Weekly IDCW Direct Plan;1196.2013;20-Nov-2022
+118909;-;INF336L01BS6;HSBC Cash Fund-Institutional Plan - Daily IDCW;1562.8262;20-Nov-2022
+118907;INF336L01BL1;-;HSBC Cash Fund-Regular-Growth;3136.1078;20-Nov-2022
 100357;INF109K01UU5;INF109K01UT7;ICICI Prudential Liquid Fund -Quarterly IDCW;101.4288;16-Sep-2022
 100359;INF109K01VJ6;-;ICICI Prudential Liquid Institutional Plus Fund - Div - Daily;118.5152;24-Apr-2020
 130933;INF109KA1G94;-;ICICI Prudential Liquid Fund - Bonus;121.0704;08-Mar-2017
@@ -2610,18 +2610,18 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 101996;INF179KB1HS3;-;HDFC Overnight Fund - Growth Option;3230.3665;18-Nov-2022
 119110;INF179KB1HT1;-;HDFC Overnight Fund - Growth Option - Direct Plan;3254.5609;18-Nov-2022
 101997;-;-;HDFC Overnight Fund - IDCW Option (Daily);1042.66;18-Nov-2022
-147289;-;INF336L01OM2;HSBC Overnight Fund - Daily IDCW;1000.0064;18-Nov-2022
-147291;-;INF336L01OG4;HSBC Overnight Fund - Daily IDCW Direct Plan;1000.0067;18-Nov-2022
-147290;INF336L01OL4;-;HSBC Overnight Fund - Growth;1140.7371;18-Nov-2022
-147287;INF336L01OF6;-;HSBC Overnight Fund - Growth - Direct;1146.7492;18-Nov-2022
-147301;INF336L01OQ3;INF336L01OO8;HSBC Overnight Fund - Monthly IDCW;1003.7760;18-Nov-2022
+147289;-;INF336L01OM2;HSBC Overnight Fund - Daily IDCW;1000.0064;20-Nov-2022
+147291;-;INF336L01OG4;HSBC Overnight Fund - Daily IDCW Direct Plan;1000.0067;20-Nov-2022
+147290;INF336L01OL4;-;HSBC Overnight Fund - Growth;1141.0820;20-Nov-2022
+147287;INF336L01OF6;-;HSBC Overnight Fund - Growth - Direct;1147.1052;20-Nov-2022
+147301;INF336L01OQ3;INF336L01OO8;HSBC Overnight Fund - Monthly IDCW;1004.0794;20-Nov-2022
 147300;INF336L01OK6;INF336L01OI0;HSBC Overnight Fund - Monthly IDCW Payout Direct Plan;1000.6823;31-May-2022
-150501;-;-;HSBC Overnight Fund - Unclaimed IDCW Above three years;1000.0000;18-Nov-2022
-150499;-;-;HSBC Overnight Fund - Unclaimed IDCW Below three years;1017.7489;18-Nov-2022
-150500;-;-;HSBC Overnight Fund - Unclaimed Redemption above three years;1000.0000;18-Nov-2022
-150502;-;-;HSBC Overnight Fund - Unclaimed Redemption Below three years;1017.7489;18-Nov-2022
-147288;INF336L01OP5;INF336L01ON0;HSBC Overnight Fund - Weekly IDCW;1000.4940;18-Nov-2022
-147296;INF336L01OJ8;INF336L01OH2;HSBC Overnight Fund - Weekly IDCW Direct Plan;1000.4835;18-Nov-2022
+150501;-;-;HSBC Overnight Fund - Unclaimed IDCW Above three years;1000.0000;20-Nov-2022
+150499;-;-;HSBC Overnight Fund - Unclaimed IDCW Below three years;1018.0649;20-Nov-2022
+150500;-;-;HSBC Overnight Fund - Unclaimed Redemption above three years;1000.0000;20-Nov-2022
+150502;-;-;HSBC Overnight Fund - Unclaimed Redemption Below three years;1018.0649;20-Nov-2022
+147288;INF336L01OP5;INF336L01ON0;HSBC Overnight Fund - Weekly IDCW;1000.7957;20-Nov-2022
+147296;INF336L01OJ8;INF336L01OH2;HSBC Overnight Fund - Weekly IDCW Direct Plan;1000.7947;20-Nov-2022
 145546;INF109KC19F6;INF109KC10G3;ICICI Prudential Overnight Fund - Annual IDCW;1032.7746;16-Sep-2022
 145547;-;INF109KC18E1;ICICI Prudential Overnight Fund - Daily IDCW;1000.0050;18-Nov-2022
 145550;INF109KC13H5;INF109KC14H3;ICICI Prudential Overnight Fund - Direct Plan - Annual IDCW;1033.5731;16-Sep-2022
@@ -6602,10 +6602,10 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 149300;INF663L01W71;INF663L01W89;PGIM India Global Select Real Estate Securities Fund of Fund - Direct Plan - IDCW Option;8.51;17-Nov-2022
 149299;INF663L01W97;-;PGIM India Global Select Real Estate Securities Fund of Fund - Regular Plan - Growth Option;8.44;17-Nov-2022
 149301;INF663L01X05;INF663L01X13;PGIM India Global Select Real Estate Securities Fund of Fund - Regular Plan - IDCW Option;8.44;17-Nov-2022
-148760;INF200KA1U28;-;SBI International Access - US Equity FoF - Direct Plan - Growth;10.9347;17-Nov-2022
-148762;INF200KA1T96;-;SBI International Access - US Equity FoF - Regular Plan - Growth;10.7856;17-Nov-2022
-148761;INF200KA1U36;INF200KA1U44;SBI International Access- US Equity FoF Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);10.9351;17-Nov-2022
-148759;INF200KA1U02;INF200KA1U10;SBI International Access- US Equity FoF Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);10.7859;17-Nov-2022
+148760;INF200KA1U28;-;SBI International Access - US Equity FoF - Direct Plan - Growth;10.9477;18-Nov-2022
+148762;INF200KA1T96;-;SBI International Access - US Equity FoF - Regular Plan - Growth;10.7983;18-Nov-2022
+148761;INF200KA1U36;INF200KA1U44;SBI International Access- US Equity FoF Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);10.9481;18-Nov-2022
+148759;INF200KA1U02;INF200KA1U10;SBI International Access- US Equity FoF Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);10.7986;18-Nov-2022
 119602;INF903J01OB6;-;Sundaram Global Brand Fund Direct Plan - Growth;23.5072;17-Nov-2022
 119601;INF903J01NZ7;INF903J01OA8;Sundaram Global Brand Fund Direct Plan - Income Distribution cum Capital Withdrawal (IDCW);20.9082;17-Nov-2022
 106370;INF903J01EX1;-;Sundaram Global Brand Fund Regular Plan - Growth;22.0189;17-Nov-2022
