@@ -1429,12 +1429,12 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 120249;INF767K01DN1;-;LIC MF Liquid Fund-Direct Plan-Growth;3993.2373;25-Nov-2022
 101184;INF767K01IQ3;INF767K01IR1;LIC MF Liquid Fund-Regular Plan-Daily IDCW;1000.1;25-Nov-2022
 101185;INF767K01IS9;-;LIC MF Liquid Fund-Regular Plan-Growth;3947.7281;25-Nov-2022
-139535;-;INF174V01051;Mahindra Manulife Liquid Fund - Direct Plan - Daily IDCW;1011.5603;26-Nov-2022
-139536;-;INF174V01069;Mahindra Manulife Liquid Fund - Direct Plan - Weekly IDCW;1003.3341;26-Nov-2022
-139538;INF174V01044;-;Mahindra Manulife Liquid Fund - Direct Plan -Growth;1430.9046;26-Nov-2022
-139534;-;INF174V01028;Mahindra Manulife Liquid Fund - Regular Plan - Daily IDCW;1000.3445;26-Nov-2022
-139537;INF174V01010;-;Mahindra Manulife Liquid Fund - Regular Plan - Growth;1419.8039;26-Nov-2022
-139541;-;INF174V01036;Mahindra Manulife Liquid Fund - Regular Plan - Weekly IDCW;1009.7520;26-Nov-2022
+139535;-;INF174V01051;Mahindra Manulife Liquid Fund - Direct Plan - Daily IDCW;1011.5603;27-Nov-2022
+139536;-;INF174V01069;Mahindra Manulife Liquid Fund - Direct Plan - Weekly IDCW;1003.5094;27-Nov-2022
+139538;INF174V01044;-;Mahindra Manulife Liquid Fund - Direct Plan -Growth;1431.1546;27-Nov-2022
+139534;-;INF174V01028;Mahindra Manulife Liquid Fund - Regular Plan - Daily IDCW;1000.3445;27-Nov-2022
+139537;INF174V01010;-;Mahindra Manulife Liquid Fund - Regular Plan - Growth;1420.0478;27-Nov-2022
+139541;-;INF174V01036;Mahindra Manulife Liquid Fund - Regular Plan - Weekly IDCW;1009.9254;27-Nov-2022
 139540;-;-;Mahindra Manulife Liquid Fund - Unclaimed Redemption / IDCW Beyond 3 years;1000.0000;30-Nov-2021
 139539;-;-;Mahindra Manulife Liquid Fund - Unclaimed Redemption / IDCW Upto three years;1218.6343;30-Nov-2021
 118859;INF769K01CM1;-;Mirae Asset Cash Management Fund - Direct Plan - Growth;2322.4667;27-Nov-2022
@@ -1535,12 +1535,12 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 148510;-;-;quant Liquid Fund-Unclaimed Dividend-Growth Option;11.0188;25-Nov-2022
 148511;-;-;quant Liquid Fund-Unclaimed Redemption Investor Education Plan-Growth Option;11.0181;25-Nov-2022
 148512;-;-;quant Liquid Fund-Unclaimed Redemption Plan-Growth Option;11.0281;25-Nov-2022
-103736;-;INF082J01135;Quantum Liquid Fund - Direct Plan Daily IDCW;10.0090;26-Nov-2022
-103734;INF082J01127;-;Quantum Liquid Fund - Direct Plan Growth Option;29.6148;26-Nov-2022
-103735;INF082J01143;INF082J01200;Quantum Liquid Fund - Direct Plan Monthly IDCW;10.0135;26-Nov-2022
-141065;-;INF082J01317;Quantum Liquid Fund - Regular Plan Daily IDCW;10.0007;26-Nov-2022
-141066;INF082J01309;-;Quantum Liquid Fund - Regular Plan Growth Option;29.4844;26-Nov-2022
-141067;INF082J01325;INF082J01333;Quantum Liquid Fund - Regular Plan Monthly IDCW;10.0088;26-Nov-2022
+103736;-;INF082J01135;Quantum Liquid Fund - Direct Plan Daily IDCW;10.0090;27-Nov-2022
+103734;INF082J01127;-;Quantum Liquid Fund - Direct Plan Growth Option;29.6198;27-Nov-2022
+103735;INF082J01143;INF082J01200;Quantum Liquid Fund - Direct Plan Monthly IDCW;10.0152;27-Nov-2022
+141065;-;INF082J01317;Quantum Liquid Fund - Regular Plan Daily IDCW;10.0007;27-Nov-2022
+141066;INF082J01309;-;Quantum Liquid Fund - Regular Plan Growth Option;29.4893;27-Nov-2022
+141067;INF082J01325;INF082J01333;Quantum Liquid Fund - Regular Plan Monthly IDCW;10.0104;27-Nov-2022
 119804;INF200K01UR8;INF200K01US6;SBI Liquid Fund - Direct Paln - Fortnightly Income Distribution cum Capital Withdrawal Option (IDCW);1123.9368;25-Nov-2022
 119805;-;INF200K01UQ0;SBI Liquid Fund - Direct Plan - Daily Income Distribution cum Capital Withdrawal Option (IDCW);1110.6498;25-Nov-2022
 119799;INF200K01UU2;INF200K01UV0;SBI Liquid Fund - Direct Plan - Weekly Income Distribution cum Capital Withdrawal Option (IDCW);1175.5257;25-Nov-2022
@@ -1582,20 +1582,20 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 148833;INF0GCD01198;-;TRUSTMF Liquid Fund-Regular Plan-Growth;1063.5557;25-Nov-2022
 148843;INF0GCD01248;INF0GCD01230;TRUSTMF Liquid Fund-Regular Plan-Monthly Income Distribution cum Capital Withdrawal;1027.0844;25-Nov-2022
 148836;INF0GCD01214;INF0GCD01222;TRUSTMF Liquid Fund-Regular Plan-Weekly Income Distribution cum Capital Withdrawal;1023.5912;25-Nov-2022
-115401;-;INF582M01021;Union Liquid Fund - Daily IDCW Option;1000.7927;26-Nov-2022
-119301;-;INF582M01682;Union Liquid Fund - Direct Plan - Daily IDCW Option;1000.7927;26-Nov-2022
-119305;INF582M01724;INF582M01708;Union Liquid Fund - Direct Plan - Fortnightly IDCW Option;1000.6761;26-Nov-2022
-119303;INF582M01674;-;Union Liquid Fund - Direct Plan - Growth Option;2119.4017;26-Nov-2022
-119302;INF582M01732;INF582M01716;Union Liquid Fund - Direct Plan - Monthly IDCW Option;1000.6755;26-Nov-2022
-119304;-;INF582M01690;Union Liquid Fund - Direct Plan - Weekly IDCW Option;1001.4972;26-Nov-2022
-115399;INF582M01062;INF582M01047;Union Liquid Fund - Fortnightly IDCW Option;1000.6821;26-Nov-2022
-115398;INF582M01013;-;Union Liquid Fund - Growth Option;2099.0346;26-Nov-2022
-115400;INF582M01070;INF582M01054;Union Liquid Fund - Monthly IDCW Option;1000.6754;26-Nov-2022
+115401;-;INF582M01021;Union Liquid Fund - Daily IDCW Option;1000.7927;27-Nov-2022
+119301;-;INF582M01682;Union Liquid Fund - Direct Plan - Daily IDCW Option;1000.7927;27-Nov-2022
+119305;INF582M01724;INF582M01708;Union Liquid Fund - Direct Plan - Fortnightly IDCW Option;1000.8411;27-Nov-2022
+119303;INF582M01674;-;Union Liquid Fund - Direct Plan - Growth Option;2119.7725;27-Nov-2022
+119302;INF582M01732;INF582M01716;Union Liquid Fund - Direct Plan - Monthly IDCW Option;1000.8524;27-Nov-2022
+119304;-;INF582M01690;Union Liquid Fund - Direct Plan - Weekly IDCW Option;1001.6738;27-Nov-2022
+115399;INF582M01062;INF582M01047;Union Liquid Fund - Fortnightly IDCW Option;1000.8452;27-Nov-2022
+115398;INF582M01013;-;Union Liquid Fund - Growth Option;2099.3961;27-Nov-2022
+115400;INF582M01070;INF582M01054;Union Liquid Fund - Monthly IDCW Option;1000.8462;27-Nov-2022
 142345;-;-;Union Liquid Fund - Unclaimed Amounts Plan - IDCW Beyond 3 years;1000.0000;30-Nov-2021
 142344;-;-;Union Liquid Fund - Unclaimed Amounts Plan - IDCW Upto 3 years;1167.6169;30-Nov-2021
 142343;-;-;Union Liquid Fund - Unclaimed Amounts Plan - Redemption Beyond 3 years;1000.0000;30-Nov-2021
 142342;-;-;Union Liquid Fund - Unclaimed Amounts Plan - Redemption Upto 3 years;1167.3290;30-Nov-2021
-115402;-;INF582M01039;Union Liquid Fund - Weekly IDCW Option;1001.6652;26-Nov-2022
+115402;-;INF582M01039;Union Liquid Fund - Weekly IDCW Option;1001.8377;27-Nov-2022
 134427;INF789FA1K63;INF789FA1K71;UTI Liquid Cash Plan - Direct Plan - Annual IDCW;1584.7666;25-Nov-2022
 120558;-;INF789F01XP8;UTI Liquid Cash Plan - Direct Plan - Daily IDCW (Reinvestment);1053.362;25-Nov-2022
 141768;INF789FA1K89;INF789FA1K97;UTI Liquid Cash Plan - Direct Plan - Flexi IDCW;1305.2849;25-Nov-2022
@@ -2646,12 +2646,12 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 147519;INF767K01QD4;-;LIC MF Overnight Fund-Regular Plan-Growth;1132.5639;25-Nov-2022
 147512;INF767K01PZ9;INF767K01QA0;LIC MF Overnight Fund-Regular Plan-IDCW;1114.1676;03-Aug-2022
 147518;-;INF767K01QC6;LIC MF Overnight Fund-Regular Plan-Weekly IDCW;1045.0008;25-Nov-2022
-147563;-;INF174V01846;Mahindra Manulife Overnight Fund - Direct Plan - Daily IDCW;1075.4525;26-Nov-2022
-147564;INF174V01838;-;Mahindra Manulife Overnight Fund - Direct Plan -Growth;1136.0284;26-Nov-2022
-147566;-;INF174V01820;Mahindra Manulife Overnight Fund - Regular Plan - Daily IDCW;1059.2224;26-Nov-2022
-147565;INF174V01812;-;Mahindra Manulife Overnight Fund - Regular Plan - Growth;1132.1696;26-Nov-2022
-149471;-;-;Mahindra Manulife Overnight Fund - Unclaimed Redemption/IDCW beyond 3 years;1000.0000;26-Nov-2022
-149470;-;-;Mahindra Manulife Overnight Fund - Unclaimed Redemption/IDCW upto 3 years;1041.7917;26-Nov-2022
+147563;-;INF174V01846;Mahindra Manulife Overnight Fund - Direct Plan - Daily IDCW;1075.6299;27-Nov-2022
+147564;INF174V01838;-;Mahindra Manulife Overnight Fund - Direct Plan -Growth;1136.2150;27-Nov-2022
+147566;-;INF174V01820;Mahindra Manulife Overnight Fund - Regular Plan - Daily IDCW;1059.4033;27-Nov-2022
+147565;INF174V01812;-;Mahindra Manulife Overnight Fund - Regular Plan - Growth;1132.3525;27-Nov-2022
+149471;-;-;Mahindra Manulife Overnight Fund - Unclaimed Redemption/IDCW beyond 3 years;1000.0000;27-Nov-2022
+149470;-;-;Mahindra Manulife Overnight Fund - Unclaimed Redemption/IDCW upto 3 years;1041.9629;27-Nov-2022
 147737;-;INF769K01FJ0;Mirae Asset Overnight Fund Direct Daily IDCW;1000.0008;27-Nov-2022
 147738;INF769K01FF8;INF769K01FI2;Mirae Asset Overnight Fund Direct Monthly IDCW;1000.5048;27-Nov-2022
 147736;INF769K01FG6;-;Mirae Asset Overnight Fund Direct Plan Growth;1125.0532;27-Nov-2022
@@ -2717,16 +2717,16 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 149797;INF0GCD01453;-;TRUST MF OVERNIGHT FUND-DIRECT PLAN-GROWTH;1039.1062;25-Nov-2022
 149798;-;INF0GCD01446;TRUST MF OVERNIGHT FUND-REGULAR PLAN-DAILY IDCW REINVESTMENT;1038.787;25-Nov-2022
 149795;INF0GCD01438;-;TRUST MF OVERNIGHT FUND-REGULAR-GROWTH;1038.6621;25-Nov-2022
-147002;-;INF582M01FB0;Union Overnight Fund - Direct Plan - Daily IDCW Option;1000.7630;26-Nov-2022
-147003;INF582M01FA2;-;Union Overnight Fund - Direct Plan - Growth Option;1155.4801;26-Nov-2022
-147006;INF582M01FG9;INF582M01FE4;Union Overnight Fund - Direct Plan - Monthly IDCW Option;1000.7688;26-Nov-2022
-146998;-;INF582M01FK1;Union Overnight Fund - Regular Plan - Daily IDCW Option;1000.9203;26-Nov-2022
-146997;INF582M01FJ3;-;Union Overnight Fund - Regular Plan - Growth Option;1151.2972;26-Nov-2022
-147000;INF582M01FP0;INF582M01FN5;Union Overnight Fund - Regular Plan - Monthly IDCW Option;1000.7529;26-Nov-2022
-149451;-;-;Union Overnight Fund - Unclaimed Amounts Plan - IDCW Beyond 3 years;1000.0000;26-Nov-2022
-149452;-;-;Union Overnight Fund - Unclaimed Amounts Plan - IDCW Upto 3 years;1041.7194;26-Nov-2022
-149453;-;-;Union Overnight Fund - Unclaimed Amounts Plan - Redemption Beyond 3 years;1000.0000;26-Nov-2022
-149454;-;-;Union Overnight Fund - Unclaimed Amounts Plan - Redemption Upto 3 years;1041.7142;26-Nov-2022
+147002;-;INF582M01FB0;Union Overnight Fund - Direct Plan - Daily IDCW Option;1000.7630;27-Nov-2022
+147003;INF582M01FA2;-;Union Overnight Fund - Direct Plan - Growth Option;1155.6761;27-Nov-2022
+147006;INF582M01FG9;INF582M01FE4;Union Overnight Fund - Direct Plan - Monthly IDCW Option;1000.9736;27-Nov-2022
+146998;-;INF582M01FK1;Union Overnight Fund - Regular Plan - Daily IDCW Option;1000.9203;27-Nov-2022
+146997;INF582M01FJ3;-;Union Overnight Fund - Regular Plan - Growth Option;1151.4892;27-Nov-2022
+147000;INF582M01FP0;INF582M01FN5;Union Overnight Fund - Regular Plan - Monthly IDCW Option;1000.9105;27-Nov-2022
+149451;-;-;Union Overnight Fund - Unclaimed Amounts Plan - IDCW Beyond 3 years;1000.0000;27-Nov-2022
+149452;-;-;Union Overnight Fund - Unclaimed Amounts Plan - IDCW Upto 3 years;1041.8958;27-Nov-2022
+149453;-;-;Union Overnight Fund - Unclaimed Amounts Plan - Redemption Beyond 3 years;1000.0000;27-Nov-2022
+149454;-;-;Union Overnight Fund - Unclaimed Amounts Plan - Redemption Upto 3 years;1041.8909;27-Nov-2022
 100814;INF789F01604;-;UTI - Overnight  Fund - Regular Plan - Growth Option;2975.3166;25-Nov-2022
 120785;INF789FB1S71;-;UTI - Overnight Fund - Direct Plan - Growth Option;3003.6921;25-Nov-2022
 124266;-;INF789FB1S89;UTI Overnight Fund - Direct Plan - Daily IDCW;1371.6621;25-Nov-2022
