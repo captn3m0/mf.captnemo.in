@@ -268,14 +268,14 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 132849;INF179KA1D17;-;HDFC Corporate Bond Fund - IDCW Option - Direct Plan;17.6887;25-Nov-2022
 113071;INF179K01DD0;INF179K01DE8;HDFC Corporate Bond Fund - Quarterly IDCW Option;10.3954;25-Nov-2022
 118986;INF179K01XB2;INF179K01XC0;HDFC Corporate Bond Fund - Quarterly IDCW Option - Direct Plan;10.2373;25-Nov-2022
-148492;INF336L01PH9;-;HSBC Corporate Bond Fund - Direct Plan - Growth;10.8159;25-Nov-2022
-148496;INF336L01PO5;-;HSBC Corporate Bond Fund - Regular Plan - Growth;10.7190;25-Nov-2022
-148494;INF336L01PI7;INF336L01PJ5;HSBC Corporate Bond Fund Direct Half Yearly IDCW;10.1630;25-Nov-2022
-148493;INF336L01PL1;INF336L01PK3;HSBC Corporate Bond Fund Direct Monthly IDCW;10.1322;25-Nov-2022
-148495;INF336L01PM9;INF336L01PN7;HSBC Corporate Bond Fund Direct Quarterly IDCW;10.1614;25-Nov-2022
-148499;INF336L01PP2;INF336L01PQ0;HSBC Corporate Bond Fund Half Yearly IDCW;10.1192;25-Nov-2022
-148497;INF336L01PS6;INF336L01PR8;HSBC Corporate Bond Fund Monthly IDCW;10.0541;25-Nov-2022
-148498;INF336L01PT4;INF336L01PU2;HSBC Corporate Bond Fund Quarterly IDCW;10.1261;25-Nov-2022
+148492;INF336L01PH9;-;HSBC Dynamic Bond Fund - Direct Growth;10.8159;25-Nov-2022
+148493;INF336L01PL1;INF336L01PK3;HSBC Dynamic Bond Fund - Direct Monthly IDCW;10.1322;25-Nov-2022
+148494;INF336L01PI7;INF336L01PJ5;HSBC Dynamic Bond Fund - Direct Monthly IDCW;10.1630;25-Nov-2022
+148495;INF336L01PM9;INF336L01PN7;HSBC Dynamic Bond Fund - Direct Monthly IDCW;10.1614;25-Nov-2022
+148496;INF336L01PO5;-;HSBC Dynamic Bond Fund - Regular Growth;10.7190;25-Nov-2022
+148497;INF336L01PS6;INF336L01PR8;HSBC Dynamic Bond Fund - Regular Monthly IDCW;10.0541;25-Nov-2022
+148498;INF336L01PT4;INF336L01PU2;HSBC Dynamic Bond Fund - Regular Monthly IDCW;10.1261;25-Nov-2022
+148499;INF336L01PP2;INF336L01PQ0;HSBC Dynamic Bond Fund - Regular Monthly IDCW;10.1192;25-Nov-2022
 130947;INF109KA1I84;-;ICICI Prudential Corporate Bond Fund - Bonus;14.9782;24-Apr-2020
 111988;INF109K01CR9;-;ICICI Prudential Corporate Bond Fund - Daily IDCW;10.1065;16-Sep-2022
 120695;INF109K013B8;-;ICICI Prudential Corporate Bond Fund - Direct Plan - Daily IDCW;10.1008;16-Sep-2022
@@ -691,21 +691,21 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 101873;INF179K01871;INF179K01889;HDFC Dynamic Debt Fund - Quarterly IDCW Option;12.0818;25-Nov-2022
 119074;INF179K01WG3;INF179K01WH1;HDFC Dynamic Debt Fund - Yearly IDCW - Direct Plan;14.4729;25-Nov-2022
 101875;INF179K01921;INF179K01939;HDFC Dynamic Debt Fund - Yearly IDCW Option;13.1993;25-Nov-2022
-106738;-;INF336L01453;HSBC Flexi Debt Fund - Fortnightly IDCW;10.6221;25-Nov-2022
-120047;-;INF336L01CN5;HSBC Flexi Debt Fund - Fortnightly IDCW Direct Plan;10.0679;07-Jan-2016
-120048;INF336L01CO3;-;HSBC Flexi Debt Fund - Growth Direct;31.3835;25-Nov-2022
-110439;INF336L01487;INF336L01479;HSBC Flexi Debt Fund - Half-yearly IDCW;10.9865;25-Nov-2022
-120049;INF336L01CP0;INF336L01CQ8;HSBC Flexi Debt Fund - Half-yearly IDCW Direct Plan;10.1153;25-Nov-2022
-106739;INF336L01503;INF336L01495;HSBC Flexi Debt Fund - Monthly IDCW;10.6048;25-Nov-2022
-120050;INF336L01CR6;INF336L01CS4;HSBC Flexi Debt Fund - Monthly IDCW Direct Plan;10.5184;25-Nov-2022
-110438;INF336L01529;INF336L01511;HSBC Flexi Debt Fund - Quarterly IDCW;14.4148;25-Nov-2022
-120051;INF336L01CT2;INF336L01CU0;HSBC Flexi Debt Fund - Quarterly IDCW Direct Plan;11.2376;25-Nov-2022
-106770;-;INF336L01537;HSBC Flexi Debt Fund - Reg. Fortnightly IDCW;14.2003;27-Aug-2018
-110440;INF336L01560;INF336L01552;HSBC Flexi Debt Fund - Regular Half-yearly IDCW;19.7070;25-Nov-2022
-106741;INF336L01586;INF336L01578;HSBC Flexi Debt Fund - Regular Monthly IDCW;17.2942;25-Nov-2022
-108220;INF336L01602;INF336L01594;HSBC Flexi Debt Fund - Regular Quarterly IDCW;17.0006;25-Nov-2022
-106737;INF336L01461;-;HSBC Flexi Debt Fund-Growth;29.0816;25-Nov-2022
-106736;INF336L01545;-;HSBC Flexi Debt Fund-Reg.Growth;27.8663;25-Nov-2022
+120048;INF336L01CO3;-;HSBC Dynamic Bond Fund - Direct Growth;31.3835;25-Nov-2022
+120049;INF336L01CP0;INF336L01CQ8;HSBC Dynamic Bond Fund - Direct Monthly IDCW;10.1153;25-Nov-2022
+120050;INF336L01CR6;INF336L01CS4;HSBC Dynamic Bond Fund - Direct Monthly IDCW;10.5184;25-Nov-2022
+120051;INF336L01CT2;INF336L01CU0;HSBC Dynamic Bond Fund - Direct Monthly IDCW;11.2376;25-Nov-2022
+120047;-;INF336L01CN5;HSBC Dynamic Bond Fund - Direct Monthly IDCW;10.0679;07-Jan-2016
+106736;INF336L01545;-;HSBC Dynamic Bond Fund - Growth;27.8663;25-Nov-2022
+106737;INF336L01461;-;HSBC Dynamic Bond Fund - Regular Growth;29.0816;25-Nov-2022
+106738;-;INF336L01453;HSBC Dynamic Bond Fund - Regular Monthly IDCW;10.6221;25-Nov-2022
+106739;INF336L01503;INF336L01495;HSBC Dynamic Bond Fund - Regular Monthly IDCW;10.6048;25-Nov-2022
+106741;INF336L01586;INF336L01578;HSBC Dynamic Bond Fund - Regular Monthly IDCW;17.2942;25-Nov-2022
+106770;-;INF336L01537;HSBC Dynamic Bond Fund - Regular Monthly IDCW;14.2003;27-Aug-2018
+108220;INF336L01602;INF336L01594;HSBC Dynamic Bond Fund - Regular Monthly IDCW;17.0006;25-Nov-2022
+110438;INF336L01529;INF336L01511;HSBC Dynamic Bond Fund - Regular Monthly IDCW;14.4148;25-Nov-2022
+110439;INF336L01487;INF336L01479;HSBC Dynamic Bond Fund - Regular Monthly IDCW;10.9865;25-Nov-2022
+110440;INF336L01560;INF336L01552;HSBC Dynamic Bond Fund - Regular Monthly IDCW;19.7070;25-Nov-2022
 113218;INF109K01GO7;INF109K01GP4;ICICI Prudential All Seasons Bond Fund - Annual IDCW;11.0061;25-Nov-2022
 130937;INF109KA1H36;-;ICICI Prudential All Seasons Bond Fund - Bonus;17.0248;24-Apr-2020
 120601;INF109K012E4;INF109K013E2;ICICI Prudential All Seasons Bond Fund - Direct Plan - Annual IDCW;10.9842;25-Nov-2022
@@ -1234,26 +1234,26 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 103347;INF740K01FK9;-;DSP Liquidity Fund - Regular Plan - Growth;3115.9261;25-Nov-2022
 103348;INF740K01FM5;INF740K01FL7;DSP Liquidity Fund - Regular Plan - IDCW - Weekly;1001.0819;25-Nov-2022
 103349;-;INF740KA1OE0;DSP Liquidity Fund- Regular Plan - IDCW - Daily;1000.9329;25-Nov-2022
-140194;INF754K01GY9;-;Edelweiss Liquid Fund - Direct Plan - Bonus Option;1651.2491;25-Nov-2022
-140196;INF754K01GM4;-;Edelweiss Liquid Fund - Direct Plan - Growth Option;2838.2519;25-Nov-2022
-140198;INF754K01GO0;INF754K01GN2;Edelweiss Liquid Fund - Direct Plan - IDCW Option;2838.2664;25-Nov-2022
-140192;INF754K01GX1;INF754K01GT9;Edelweiss Liquid Fund - Direct Plan Annual - IDCW Option;2838.2431;25-Nov-2022
-140193;-;INF754K01GP7;Edelweiss Liquid Fund - Direct Plan daily - IDCW Option;1026.623;25-Nov-2022
-140199;INF754K01GV5;INF754K01GR3;Edelweiss Liquid Fund - Direct Plan Fortnightly - IDCW Option;2243.1924;25-Nov-2022
-140197;INF754K01GW3;INF754K01GS1;Edelweiss Liquid Fund - Direct Plan Monthly - IDCW Option;1004.2681;25-Nov-2022
-140195;INF754K01GU7;INF754K01GQ5;Edelweiss Liquid Fund - Direct Plan weekly - IDCW Option;2174.0236;25-Nov-2022
-140189;INF754K01HR1;-;Edelweiss Liquid Fund - Regular Plan - Bonus Option;1627.785;25-Nov-2022
-140182;INF754K01GZ6;-;Edelweiss Liquid Fund - Regular Plan - Growth Option;2794.7139;25-Nov-2022
-140190;INF754K01GK8;INF754K01GL6;Edelweiss Liquid Fund - Regular Plan - IDCW Option;2794.7162;25-Nov-2022
-140188;INF754K01HQ3;INF754K01HP5;Edelweiss Liquid Fund - Regular Plan Annual - IDCW Option;1933.7011;25-Nov-2022
-140181;-;INF754K01HA7;Edelweiss Liquid Fund - Regular Plan Daily - IDCW Option;1034.8013;25-Nov-2022
-140184;INF754K01HK6;INF754K01HC3;Edelweiss Liquid Fund - Regular Plan Fortnightly - IDCW Option;2156.7257;25-Nov-2022
-140183;INF754K01HL4;INF754K01HD1;Edelweiss Liquid Fund - Regular Plan Monthly - IDCW Option;1022.6513;25-Nov-2022
-140185;INF754K01HJ8;INF754K01HB5;Edelweiss Liquid Fund - Regular Plan Weekly - IDCW Option;1048.8598;25-Nov-2022
-140176;INF754K01HE9;-;Edelweiss Liquid Fund - Retail Plan - Growth Option;2541.5975;25-Nov-2022
-140178;-;INF754K01HG4;Edelweiss Liquid Fund - Retail Plan - Weekly Dividend Option;1231.6079;25-Nov-2022
-140177;-;INF754K01HF6;Edelweiss Liquid Fund - Retail Plan Daily - IDCW Option;1034.564;25-Nov-2022
-140180;-;INF754K01HI0;Edelweiss Liquid Fund - Retail Plan Monthly - IDCW Option;1243.3884;25-Nov-2022
+140194;INF754K01GY9;-;Edelweiss Liquid Fund - Direct Plan - Bonus Option;1651.536;26-Nov-2022
+140196;INF754K01GM4;-;Edelweiss Liquid Fund - Direct Plan - Growth Option;2838.7451;26-Nov-2022
+140198;INF754K01GO0;INF754K01GN2;Edelweiss Liquid Fund - Direct Plan - IDCW Option;2838.7597;26-Nov-2022
+140192;INF754K01GX1;INF754K01GT9;Edelweiss Liquid Fund - Direct Plan Annual - IDCW Option;2838.7364;26-Nov-2022
+140193;-;INF754K01GP7;Edelweiss Liquid Fund - Direct Plan daily - IDCW Option;1026.8014;26-Nov-2022
+140199;INF754K01GV5;INF754K01GR3;Edelweiss Liquid Fund - Direct Plan Fortnightly - IDCW Option;2243.5822;26-Nov-2022
+140197;INF754K01GW3;INF754K01GS1;Edelweiss Liquid Fund - Direct Plan Monthly - IDCW Option;1004.4427;26-Nov-2022
+140195;INF754K01GU7;INF754K01GQ5;Edelweiss Liquid Fund - Direct Plan weekly - IDCW Option;2174.4025;26-Nov-2022
+140189;INF754K01HR1;-;Edelweiss Liquid Fund - Regular Plan - Bonus Option;1628.0578;26-Nov-2022
+140182;INF754K01GZ6;-;Edelweiss Liquid Fund - Regular Plan - Growth Option;2795.1812;26-Nov-2022
+140190;INF754K01GK8;INF754K01GL6;Edelweiss Liquid Fund - Regular Plan - IDCW Option;2795.1835;26-Nov-2022
+140188;INF754K01HQ3;INF754K01HP5;Edelweiss Liquid Fund - Regular Plan Annual - IDCW Option;1934.0245;26-Nov-2022
+140181;-;INF754K01HA7;Edelweiss Liquid Fund - Regular Plan Daily - IDCW Option;1034.9744;26-Nov-2022
+140184;INF754K01HK6;INF754K01HC3;Edelweiss Liquid Fund - Regular Plan Fortnightly - IDCW Option;2157.0863;26-Nov-2022
+140183;INF754K01HL4;INF754K01HD1;Edelweiss Liquid Fund - Regular Plan Monthly - IDCW Option;1022.8223;26-Nov-2022
+140185;INF754K01HJ8;INF754K01HB5;Edelweiss Liquid Fund - Regular Plan Weekly - IDCW Option;1049.0352;26-Nov-2022
+140176;INF754K01HE9;-;Edelweiss Liquid Fund - Retail Plan - Growth Option;2542.0225;26-Nov-2022
+140178;-;INF754K01HG4;Edelweiss Liquid Fund - Retail Plan - Weekly Dividend Option;1231.814;26-Nov-2022
+140177;-;INF754K01HF6;Edelweiss Liquid Fund - Retail Plan Daily - IDCW Option;1034.737;26-Nov-2022
+140180;-;INF754K01HI0;Edelweiss Liquid Fund - Retail Plan Monthly - IDCW Option;1243.6029;26-Nov-2022
 100541;-;INF090I01BA3;Franklin India Liquid Fund - Regular Plan - Daily - IDCW;1509.5582;25-Nov-2022
 100538;INF090I01BB1;-;Franklin India Liquid Fund - Regular Plan - Growth;5024.6940;25-Nov-2022
 100537;INF090I01BL0;INF090I01BI6;Franklin India Liquid Fund - Regular Plan - Weekly - IDCW;1245.2638;25-Nov-2022
@@ -1283,22 +1283,22 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 100872;INF179K01KQ7;-;HDFC Liquid Fund-PREMIUM PLUS- Growth;10.0000;17-Dec-2012
 118902;INF336L01BN7;-;HSBC Cash Fund -  Growth;2175.4669;25-Nov-2022
 120038;INF336L01CC8;-;HSBC Cash Fund -  Growth Direct;2190.1070;25-Nov-2022
-118901;-;INF336L01BM9;HSBC Cash Fund - Daily IDCW;1001.3789;25-Nov-2022
-120037;-;INF336L01CB0;HSBC Cash Fund - Daily IDCW Direct Plan;1000.9401;25-Nov-2022
 101702;INF336L01305;INF336L01297;HSBC Cash Fund - Dividend - Monthly;10.0651;28-Dec-2012
-101699;INF336L01339;-;HSBC Cash Fund - Growth;11.4467;28-Dec-2012
 101694;INF336L01370;INF336L01362;HSBC Cash Fund - Inst. - Dividend - Monthly;10.0000;28-Dec-2012
 101691;INF336L01289;-;HSBC Cash Fund - Inst. - Growth;18.2843;28-Dec-2012
 118910;INF336L01BT4;-;HSBC Cash Fund - Institutional Plan - Growth;2775.0401;11-Jul-2018
-118903;INF336L01BP2;INF336L01BO5;HSBC Cash Fund - Monthly IDCW;1003.0049;25-Nov-2022
-120039;INF336L01BZ1;INF336L01CA2;HSBC Cash Fund - Monthly IDCW Direct Plan;1038.6248;25-Nov-2022
-101696;INF336L01271;-;HSBC Cash Fund - Regular - Growth;17.9770;28-Dec-2012
-118906;INF336L01BK3;-;HSBC Cash Fund - Regular - IDCW;1019.3000;25-Nov-2022
-118908;-;INF336L01BR8;HSBC Cash Fund - Regular - Weekly IDCW;1000.7760;25-Nov-2022
-118904;INF336L01LJ4;INF336L01BQ0;HSBC Cash Fund - Weekly IDCW;1108.0607;25-Nov-2022
-120040;INF336L01LK2;INF336L01CD6;HSBC Cash Fund - Weekly IDCW Direct Plan;1195.8021;25-Nov-2022
-118909;-;INF336L01BS6;HSBC Cash Fund-Institutional Plan - Daily IDCW;1562.8262;25-Nov-2022
-118907;INF336L01BL1;-;HSBC Cash Fund-Regular-Growth;3138.7721;25-Nov-2022
+120037;-;INF336L01CB0;HSBC Liquid Fund - Direct Daily IDCW;1000.9401;25-Nov-2022
+120039;INF336L01BZ1;INF336L01CA2;HSBC Liquid Fund - Direct Monthly IDCW;1038.6248;25-Nov-2022
+120040;INF336L01LK2;INF336L01CD6;HSBC Liquid Fund - Direct Weekly IDCW;1195.8021;25-Nov-2022
+101696;INF336L01271;-;HSBC Liquid Fund - Growth;17.9770;28-Dec-2012
+118906;INF336L01BK3;-;HSBC Liquid Fund - IDCW;1019.3000;25-Nov-2022
+118909;-;INF336L01BS6;HSBC Liquid Fund - Institutional Daily IDCW;1562.8262;25-Nov-2022
+118901;-;INF336L01BM9;HSBC Liquid Fund - Regular Daily IDCW;1001.3789;25-Nov-2022
+118907;INF336L01BL1;-;HSBC Liquid Fund - Regular Growth;3138.7721;25-Nov-2022
+101699;INF336L01339;-;HSBC Liquid Fund - Regular Growth;11.4467;28-Dec-2012
+118903;INF336L01BP2;INF336L01BO5;HSBC Liquid Fund - Regular Monthly IDCW;1003.0049;25-Nov-2022
+118904;INF336L01LJ4;INF336L01BQ0;HSBC Liquid Fund - Regular Weekly IDCW;1108.0607;25-Nov-2022
+118908;-;INF336L01BR8;HSBC Liquid Fund - Weekly IDCW;1000.7760;25-Nov-2022
 100357;INF109K01UU5;INF109K01UT7;ICICI Prudential Liquid Fund -Quarterly IDCW;101.4288;16-Sep-2022
 100359;INF109K01VJ6;-;ICICI Prudential Liquid Institutional Plus Fund - Div - Daily;118.5152;24-Apr-2020
 130933;INF109KA1G94;-;ICICI Prudential Liquid Fund - Bonus;121.0704;08-Mar-2017
@@ -1386,18 +1386,18 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 139388;-;-;Invesco India Liquid Fund - Unclaimed Redemption Plan - Above 3 Years;1000;27-Nov-2022
 139387;-;-;Invesco India Liquid Fund - Unclaimed Redemption Plan - Below 3 years;1431.4463;27-Nov-2022
 104485;-;INF205K01HO1;Invesco India Liquid Fund - Weekly IDCW (Reinvestment);1008.4756;27-Nov-2022
-147161;INF00XX01366;INF00XX01333;ITI Liquid Fund - Direct Plan - Annually IDCW Option;1152.2160;25-Nov-2022
-147158;-;INF00XX01291;ITI Liquid Fund - Direct Plan - Daily IDCW Option;1001.0000;25-Nov-2022
-147160;INF00XX01341;INF00XX01317;ITI Liquid Fund - Direct Plan - Fortnightly IDCW Option;1003.2711;25-Nov-2022
-147157;INF00XX01283;-;ITI Liquid Fund - Direct Plan - Growth Option;1151.4470;25-Nov-2022
-147163;INF00XX01358;INF00XX01325;ITI Liquid Fund - Direct Plan - Monthly IDCW Option;1005.9490;25-Nov-2022
-147159;-;INF00XX01309;ITI Liquid Fund - Direct Plan - Weekly IDCW Option;1001.4971;25-Nov-2022
-147162;INF00XX01275;INF00XX01242;ITI Liquid Fund - Regular Plan - Annually IDCW Option;1148.7262;25-Nov-2022
-147154;-;INF00XX01200;ITI Liquid Fund - Regular Plan - Daily IDCW Option;1001.0000;25-Nov-2022
-147155;INF00XX01259;INF00XX01226;ITI Liquid Fund - Regular Plan - Fortnightly Income Distribution cum capital withdrawal option Option;1003.2089;25-Nov-2022
-147153;INF00XX01192;-;ITI Liquid Fund - Regular Plan - Growth Option;1146.4463;25-Nov-2022
-147156;INF00XX01267;INF00XX01234;ITI Liquid Fund - Regular Plan - Monthly IDCW Option;1005.8314;25-Nov-2022
-147164;-;INF00XX01218;ITI Liquid Fund - Regular Plan - Weekly IDCW Option;1001.4821;25-Nov-2022
+147161;INF00XX01366;INF00XX01333;ITI Liquid Fund - Direct Plan - Annually IDCW Option;1152.4075;26-Nov-2022
+147158;-;INF00XX01291;ITI Liquid Fund - Direct Plan - Daily IDCW Option;1001.0000;26-Nov-2022
+147160;INF00XX01341;INF00XX01317;ITI Liquid Fund - Direct Plan - Fortnightly IDCW Option;1001.0000;26-Nov-2022
+147157;INF00XX01283;-;ITI Liquid Fund - Direct Plan - Growth Option;1151.6377;26-Nov-2022
+147163;INF00XX01358;INF00XX01325;ITI Liquid Fund - Direct Plan - Monthly IDCW Option;1001.0000;26-Nov-2022
+147159;-;INF00XX01309;ITI Liquid Fund - Direct Plan - Weekly IDCW Option;1001.6637;26-Nov-2022
+147162;INF00XX01275;INF00XX01242;ITI Liquid Fund - Regular Plan - Annually IDCW Option;1148.9107;26-Nov-2022
+147154;-;INF00XX01200;ITI Liquid Fund - Regular Plan - Daily IDCW Option;1001.0000;26-Nov-2022
+147155;INF00XX01259;INF00XX01226;ITI Liquid Fund - Regular Plan - Fortnightly Income Distribution cum capital withdrawal option Option;1001.0000;26-Nov-2022
+147153;INF00XX01192;-;ITI Liquid Fund - Regular Plan - Growth Option;1146.6311;26-Nov-2022
+147156;INF00XX01267;INF00XX01234;ITI Liquid Fund - Regular Plan - Monthly IDCW Option;1001.0000;26-Nov-2022
+147164;-;INF00XX01218;ITI Liquid Fund - Regular Plan - Weekly IDCW Option;1001.6436;26-Nov-2022
 120410;INF192K01CN4;-;JM Liquid Fund (Direct) - Bonus Option - Bonus Option - Principal units;19.3462;25-Nov-2022
 120411;-;INF192K01CH6;JM Liquid Fund (Direct) - Daily IDCW;10.4302;25-Nov-2022
 120406;INF192K01CM6;-;JM Liquid Fund (Direct) - Growth Option;60.1420;25-Nov-2022
@@ -1574,14 +1574,14 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 101714;-;INF277K011D4;Tata Liquid Fund- Regular Plan - Daily Reinvestment of IDCW Option;1001.5157;25-Nov-2022
 104240;INF044D01542;INF044D01559;Taurus Liquid Fund-Dividend;1013.9743;03-Nov-2020
 104241;INF044D01575;-;Taurus Liquid Fund-Growth;2368.5909;03-Nov-2020
-148842;-;INF0GCD01263;TRUSTMF Liquid Fund-Direct Plan-Daily Income Distribution cum Capital Withdrawal;1049.6991;25-Nov-2022
-148841;INF0GCD01255;-;TRUSTMF Liquid Fund-Direct Plan-Growth;1066.1072;25-Nov-2022
-148839;INF0GCD01305;INF0GCD01297;TRUSTMF Liquid Fund-Direct Plan-Monthly Income Distribution cum Capital Withdrawal;1028.8966;25-Nov-2022
-148837;INF0GCD01271;INF0GCD01289;TRUSTMF Liquid Fund-Direct Plan-Weekly Income Distribution cum Capital Withdrawal;1036.286;25-Nov-2022
-148834;-;INF0GCD01206;TRUSTMF Liquid Fund-Regular Plan-Daily Income Distribution cum Capital Withdrawal;1040.4523;25-Nov-2022
-148833;INF0GCD01198;-;TRUSTMF Liquid Fund-Regular Plan-Growth;1063.5557;25-Nov-2022
-148843;INF0GCD01248;INF0GCD01230;TRUSTMF Liquid Fund-Regular Plan-Monthly Income Distribution cum Capital Withdrawal;1027.0844;25-Nov-2022
-148836;INF0GCD01214;INF0GCD01222;TRUSTMF Liquid Fund-Regular Plan-Weekly Income Distribution cum Capital Withdrawal;1023.5912;25-Nov-2022
+148842;-;INF0GCD01263;TRUSTMF Liquid Fund-Direct Plan-Daily Income Distribution cum Capital Withdrawal;1049.9159;27-Nov-2022
+148841;INF0GCD01255;-;TRUSTMF Liquid Fund-Direct Plan-Growth;1066.4776;27-Nov-2022
+148839;INF0GCD01305;INF0GCD01297;TRUSTMF Liquid Fund-Direct Plan-Monthly Income Distribution cum Capital Withdrawal;1029.2541;27-Nov-2022
+148837;INF0GCD01271;INF0GCD01289;TRUSTMF Liquid Fund-Direct Plan-Weekly Income Distribution cum Capital Withdrawal;1036.6481;27-Nov-2022
+148834;-;INF0GCD01206;TRUSTMF Liquid Fund-Regular Plan-Daily Income Distribution cum Capital Withdrawal;1040.6607;27-Nov-2022
+148833;INF0GCD01198;-;TRUSTMF Liquid Fund-Regular Plan-Growth;1063.9165;27-Nov-2022
+148843;INF0GCD01248;INF0GCD01230;TRUSTMF Liquid Fund-Regular Plan-Monthly Income Distribution cum Capital Withdrawal;1027.466;27-Nov-2022
+148836;INF0GCD01214;INF0GCD01222;TRUSTMF Liquid Fund-Regular Plan-Weekly Income Distribution cum Capital Withdrawal;1023.9408;27-Nov-2022
 115401;-;INF582M01021;Union Liquid Fund - Daily IDCW Option;1000.7927;27-Nov-2022
 119301;-;INF582M01682;Union Liquid Fund - Direct Plan - Daily IDCW Option;1000.7927;27-Nov-2022
 119305;INF582M01724;INF582M01708;Union Liquid Fund - Direct Plan - Fortnightly IDCW Option;1000.8411;27-Nov-2022
@@ -1596,27 +1596,27 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 142343;-;-;Union Liquid Fund - Unclaimed Amounts Plan - Redemption Beyond 3 years;1000.0000;30-Nov-2021
 142342;-;-;Union Liquid Fund - Unclaimed Amounts Plan - Redemption Upto 3 years;1167.3290;30-Nov-2021
 115402;-;INF582M01039;Union Liquid Fund - Weekly IDCW Option;1001.8377;27-Nov-2022
-134427;INF789FA1K63;INF789FA1K71;UTI Liquid Cash Plan - Direct Plan - Annual IDCW;1585.0417;26-Nov-2022
-120558;-;INF789F01XP8;UTI Liquid Cash Plan - Direct Plan - Daily IDCW (Reinvestment);1053.3634;26-Nov-2022
-141768;INF789FA1K89;INF789FA1K97;UTI Liquid Cash Plan - Direct Plan - Flexi IDCW;1305.5116;26-Nov-2022
-140913;INF789FA1K06;INF789FA1K14;UTI Liquid Cash Plan - Direct Plan - Fortnightly IDCW;1155.0322;26-Nov-2022
-140504;INF789FA1K48;INF789FA1K55;UTI Liquid Cash Plan - Direct Plan - Half-Yearly IDCW;1238.126;26-Nov-2022
-120794;INF789F01XR4;INF789F01XS2;UTI Liquid Cash Plan - Direct Plan - Monthly IDCW;1057.3165;26-Nov-2022
-140024;INF789FA1K22;INF789FA1K30;UTI Liquid Cash Plan - Direct Plan - Quarterly IDCW;1496.9633;26-Nov-2022
-120777;-;INF789F01XT0;UTI Liquid Cash Plan - Direct Plan - Weekly IDCW;1119.1901;26-Nov-2022
-133973;INF789FA1J66;INF789FA1J74;UTI Liquid Cash Plan - Regular Plan - Annual IDCW;1578.5344;26-Nov-2022
-102010;-;INF789F01PG3;UTI Liquid Cash Plan - Regular Plan - Daily IDCW (Reinvestment);1066.1924;26-Nov-2022
-140517;INF789FA1J82;INF789FA1J90;UTI Liquid Cash Plan - Regular Plan - Flexi IDCW;1300.9919;26-Nov-2022
-139838;INF789FA1J09;INF789FA1J17;UTI Liquid Cash Plan - Regular Plan - Fortnightly IDCW;1154.2126;26-Nov-2022
-144475;INF789FA1J41;INF789FA1J58;UTI Liquid Cash Plan - Regular Plan - Half-Yearly IDCW;1099.0675;26-Nov-2022
-102011;INF789F01PI9;INF789F01PJ7;UTI Liquid Cash Plan - Regular Plan - Monthly IDCW;1054.4376;26-Nov-2022
-135721;INF789FA1J33;-;UTI Liquid Cash Plan - Regular Plan - Quarterly IDCW;1490.4879;26-Nov-2022
-102013;-;INF789F01PK5;UTI Liquid Cash Plan - Regular Plan - Weekly IDCW;1053.4968;26-Nov-2022
-120304;INF789F01XQ6;-;UTI-  Liquid Cash Plan - Direct Plan - Growth Option;3604.1101;26-Nov-2022
-102012;INF789F01PH1;-;UTI-  Liquid Cash Plan - Regular Plan - Growth Option;3579.918;26-Nov-2022
-102008;INF789F01BC2;INF789F01BA6;UTI-  Liquid Cash Plan- Discontinued - Regular Plan - Monthly Dividend Option;1080.165;26-Nov-2022
-102009;INF789F01BB4;-;UTI-  Liquid Cash Plan- Discontinued - Regular Plan -Growth;3281.0205;26-Nov-2022
-102007;-;INF789F01AZ5;UTI-  Liquid Cash Plan- Discontinued -Regular Plan Periodic Dividend Option;1136.1481;26-Nov-2022
+134427;INF789FA1K63;INF789FA1K71;UTI Liquid Cash Plan - Direct Plan - Annual IDCW;1585.3173;27-Nov-2022
+120558;-;INF789F01XP8;UTI Liquid Cash Plan - Direct Plan - Daily IDCW (Reinvestment);1053.3651;27-Nov-2022
+141768;INF789FA1K89;INF789FA1K97;UTI Liquid Cash Plan - Direct Plan - Flexi IDCW;1305.7386;27-Nov-2022
+140913;INF789FA1K06;INF789FA1K14;UTI Liquid Cash Plan - Direct Plan - Fortnightly IDCW;1155.2331;27-Nov-2022
+140504;INF789FA1K48;INF789FA1K55;UTI Liquid Cash Plan - Direct Plan - Half-Yearly IDCW;1238.3413;27-Nov-2022
+120794;INF789F01XR4;INF789F01XS2;UTI Liquid Cash Plan - Direct Plan - Monthly IDCW;1057.5004;27-Nov-2022
+140024;INF789FA1K22;INF789FA1K30;UTI Liquid Cash Plan - Direct Plan - Quarterly IDCW;1497.2236;27-Nov-2022
+120777;-;INF789F01XT0;UTI Liquid Cash Plan - Direct Plan - Weekly IDCW;1119.3847;27-Nov-2022
+133973;INF789FA1J66;INF789FA1J74;UTI Liquid Cash Plan - Regular Plan - Annual IDCW;1578.8049;27-Nov-2022
+102010;-;INF789F01PG3;UTI Liquid Cash Plan - Regular Plan - Daily IDCW (Reinvestment);1066.3752;27-Nov-2022
+140517;INF789FA1J82;INF789FA1J90;UTI Liquid Cash Plan - Regular Plan - Flexi IDCW;1301.2149;27-Nov-2022
+139838;INF789FA1J09;INF789FA1J17;UTI Liquid Cash Plan - Regular Plan - Fortnightly IDCW;1154.4104;27-Nov-2022
+144475;INF789FA1J41;INF789FA1J58;UTI Liquid Cash Plan - Regular Plan - Half-Yearly IDCW;1099.2559;27-Nov-2022
+102011;INF789F01PI9;INF789F01PJ7;UTI Liquid Cash Plan - Regular Plan - Monthly IDCW;1054.6183;27-Nov-2022
+135721;INF789FA1J33;-;UTI Liquid Cash Plan - Regular Plan - Quarterly IDCW;1490.7434;27-Nov-2022
+102013;-;INF789F01PK5;UTI Liquid Cash Plan - Regular Plan - Weekly IDCW;1053.6774;27-Nov-2022
+120304;INF789F01XQ6;-;UTI-  Liquid Cash Plan - Direct Plan - Growth Option;3604.7367;27-Nov-2022
+102012;INF789F01PH1;-;UTI-  Liquid Cash Plan - Regular Plan - Growth Option;3580.5317;27-Nov-2022
+102008;INF789F01BC2;INF789F01BA6;UTI-  Liquid Cash Plan- Discontinued - Regular Plan - Monthly Dividend Option;1080.3341;27-Nov-2022
+102009;INF789F01BB4;-;UTI-  Liquid Cash Plan- Discontinued - Regular Plan -Growth;3281.5342;27-Nov-2022
+102007;-;INF789F01AZ5;UTI-  Liquid Cash Plan- Discontinued -Regular Plan Periodic Dividend Option;1136.326;27-Nov-2022
 145969;-;INF03VN01019;WhiteOak Capital Liquid Fund- Direct plan-Daily Reinvestment of Income Distribution cum capital withdrawal option (IDCW);1000.9796;27-Nov-2022
 145966;INF03VN01027;INF03VN01035;WhiteOak Capital Liquid Fund- Direct plan-Fortnightly Payout/ Reinvestment of Income Distribution cum capital withdrawal option (IDCW);1001.6136;27-Nov-2022
 145971;INF03VN01043;-;WhiteOak Capital Liquid Fund- Direct plan-Growth Option;1181.9563;27-Nov-2022
@@ -1741,16 +1741,16 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 105544;INF179K01491;-;HDFC Low Duration Fund- Wholesale- Growth;41.8371;10-May-2019
 104344;INF336L01AH1;-;HSBC Low Duration Fund  - Growth;17.1429;25-Nov-2022
 104350;INF336L01AP4;-;HSBC Low Duration Fund  - Regular - Growth;24.3942;25-Nov-2022
-104351;-;INF336L01AG3;HSBC Low Duration Fund - Daily IDCW ;10.0519;25-Nov-2022
-120065;-;INF336L01EF7;HSBC Low Duration Fund - Daily IDCW Direct Plan;10.0846;25-Nov-2022
-120066;INF336L01EG5;-;HSBC Low Duration Fund - Growth Direct;18.3965;25-Nov-2022
+104342;-;INF336L01AO7;HSBC Low Duration Fund - Daily IDCW;10.0033;25-Nov-2022
+120066;INF336L01EG5;-;HSBC Low Duration Fund - Direct Growth;18.3965;25-Nov-2022
+120067;INF336L01EH3;INF336L01EI1;HSBC Low Duration Fund - Direct Monthly IDCW;10.0067;25-Nov-2022
+120063;-;INF336L01EJ9;HSBC Low Duration Fund - Direct Monthly IDCW;10.5271;25-Nov-2022
+120065;-;INF336L01EF7;HSBC Low Duration Fund - Direct Monthly IDCW;10.0846;25-Nov-2022
 104349;-;INF336L01AS8;HSBC Low Duration Fund - Inst.Plus - Daily IDCW;17.1524;11-Jun-2019
-104348;INF336L01AJ7;INF336L01AI9;HSBC Low Duration Fund - Monthly IDCW;10.3577;25-Nov-2022
-120067;INF336L01EH3;INF336L01EI1;HSBC Low Duration Fund - Monthly IDCW Direct Plan;10.0067;25-Nov-2022
-104342;-;INF336L01AO7;HSBC Low Duration Fund - Regular - Daily IDCW;10.0033;25-Nov-2022
-104343;-;INF336L01AQ2;HSBC Low Duration Fund - Regular - Weekly IDCW;10.0047;25-Nov-2022
-104352;-;INF336L01AL3;HSBC Low Duration Fund - Weekly IDCW;10.2653;25-Nov-2022
-120063;-;INF336L01EJ9;HSBC Low Duration Fund - Weekly IDCW Direct Plan;10.5271;25-Nov-2022
+104351;-;INF336L01AG3;HSBC Low Duration Fund - Regular Monthly IDCW;10.0519;25-Nov-2022
+104352;-;INF336L01AL3;HSBC Low Duration Fund - Regular Monthly IDCW;10.2653;25-Nov-2022
+104348;INF336L01AJ7;INF336L01AI9;HSBC Low Duration Fund - Regular Monthly IDCW;10.3577;25-Nov-2022
+104343;-;INF336L01AQ2;HSBC Low Duration Fund - Weekly IDCW;10.0047;25-Nov-2022
 130900;INF109KA1I92;-;ICICI Prudential Savings Fund - Bonus;154.9446;24-Apr-2020
 101618;INF109K01738;-;ICICI Prudential Savings Fund - Daily IDCW;105.6408;25-Nov-2022
 120397;-;INF109K01O66;ICICI Prudential Savings Fund - Direct Plan - Daily IDCW;105.6411;25-Nov-2022
@@ -2190,10 +2190,10 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 133366;INF179KA1Q38;-;HDFC Income Fund - Normal IDCW Option;15.1804;25-Nov-2022
 100123;INF179K01947;INF179K01954;HDFC Income Fund - Quarterly IDCW Option;11.0154;25-Nov-2022
 119068;INF179K01WJ7;INF179K01WK5;HDFC Income Fund - Quarterly IDCW- Direct Plan;12.1601;25-Nov-2022
-101685;INF336L01776;-;HSBC Debt Fund - Growth;35.4401;25-Nov-2022
-120059;INF336L01DE2;-;HSBC Debt Fund - Growth Direct;38.3475;25-Nov-2022
-101686;INF336L01784;INF336L01792;HSBC Debt Fund - Quarterly IDCW;10.6784;25-Nov-2022
-120101;INF336L01EO9;INF336L01EP6;HSBC Debt Fund - Quarterly IDCW Direct Plan;10.6538;25-Nov-2022
+120059;INF336L01DE2;-;HSBC Medium to Long Duration Fund - Direct Growth;38.3475;25-Nov-2022
+120101;INF336L01EO9;INF336L01EP6;HSBC Medium to Long Duration Fund - Direct IDCW;10.6538;25-Nov-2022
+101685;INF336L01776;-;HSBC Medium to Long Duration Fund - Regular Growth;35.4401;25-Nov-2022
+101686;INF336L01784;INF336L01792;HSBC Medium to Long Duration Fund - Regular IDCW;10.6784;25-Nov-2022
 130932;INF109KA1C72;-;ICICI Prudential Bond Fund - Bonus;12.4602;02-Jul-2018
 120619;INF109K01V83;-;ICICI Prudential Bond Fund - Direct Plan - Growth;34.3019;25-Nov-2022
 131480;INF109KA1X77;INF109KA1X69;ICICI Prudential Bond Fund - Direct Plan - Half Yearly IDCW;10.7272;25-Nov-2022
@@ -2518,22 +2518,22 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 149312;-;-;Unclaimed IDCW - Upto 3 years (Invested in DSP Overnight Fund);10.4679;25-Nov-2022
 149311;-;-;Unclaimed Redemption - Beyond 3 years (Invested in DSP Overnight Fund);10.0000;25-Nov-2022
 149310;-;-;Unclaimed Redemption - Upto 3 years (Invested in DSP Overnight Fund);10.4679;25-Nov-2022
-147551;INF754K01KD5;INF754K01KC7;Edelweiss Overnight Fund - Direct Plan - Annual - IDCW Option;1137.38;25-Nov-2022
-147557;-;INF754K01JW7;Edelweiss Overnight Fund - Direct Plan - Daily - IDCW Option;1000.0274;25-Nov-2022
+147551;INF754K01KD5;INF754K01KC7;Edelweiss Overnight Fund - Direct Plan - Annual - IDCW Option;1137.5655;26-Nov-2022
+147557;-;INF754K01JW7;Edelweiss Overnight Fund - Direct Plan - Daily - IDCW Option;1000.0274;26-Nov-2022
 147550;INF754K01JZ0;INF754K01JY3;Edelweiss Overnight Fund - Direct Plan - Fortnightly - IDCW Option;1050.7261;11-May-2022
-147570;INF754K01JV9;-;Edelweiss Overnight Fund - Direct Plan - Growth;1137.0102;25-Nov-2022
-147554;INF754K01KB9;INF754K01KA1;Edelweiss Overnight Fund - Direct Plan - Monthly - IDCW Option;1057.4931;25-Nov-2022
+147570;INF754K01JV9;-;Edelweiss Overnight Fund - Direct Plan - Growth;1137.195;26-Nov-2022
+147554;INF754K01KB9;INF754K01KA1;Edelweiss Overnight Fund - Direct Plan - Monthly - IDCW Option;1057.6655;26-Nov-2022
 147558;-;INF754K01JX5;Edelweiss Overnight Fund - Direct Plan - Weekly - IDCW Option;1065.6143;30-Mar-2022
-147556;INF754K01KM6;INF754K01KL8;Edelweiss Overnight Fund - Regular Plan - Annual - IDCW Option;1134.7828;25-Nov-2022
-147552;-;INF754K01KF0;Edelweiss Overnight Fund - Regular Plan - Daily - IDCW Option;1008.1128;25-Nov-2022
-147549;INF754K01KI4;INF754K01KH6;Edelweiss Overnight Fund - Regular Plan - Fortnightly - IDCW Option;1096.9308;25-Nov-2022
-147569;INF754K01KE3;-;Edelweiss Overnight Fund - Regular Plan - Growth;1134.7825;25-Nov-2022
-147555;INF754K01KK0;INF754K01KJ2;Edelweiss Overnight Fund - Regular Plan - Monthly - IDCW Option;1003.4378;25-Nov-2022
-147553;-;INF754K01KG8;Edelweiss Overnight Fund - Regular Plan - Weekly - IDCW Option;1016.2771;25-Nov-2022
-149476;-;-;Edelweiss Overnight Fund - Unclaimed IDCW Plan - Above 3 years;1000;25-Nov-2022
-149477;-;-;Edelweiss Overnight Fund - Unclaimed IDCW Plan - Upto 3 years;1040.3016;25-Nov-2022
-149479;-;-;Edelweiss Overnight Fund - Unclaimed Redemption Plan - Above 3 years;1000;25-Nov-2022
-149478;-;-;Edelweiss Overnight Fund - Unclaimed Redemption Plan - Upto 3 years;1040.3016;25-Nov-2022
+147556;INF754K01KM6;INF754K01KL8;Edelweiss Overnight Fund - Regular Plan - Annual - IDCW Option;1134.9656;26-Nov-2022
+147552;-;INF754K01KF0;Edelweiss Overnight Fund - Regular Plan - Daily - IDCW Option;1008.1128;26-Nov-2022
+147549;INF754K01KI4;INF754K01KH6;Edelweiss Overnight Fund - Regular Plan - Fortnightly - IDCW Option;1097.1092;26-Nov-2022
+147569;INF754K01KE3;-;Edelweiss Overnight Fund - Regular Plan - Growth;1134.9653;26-Nov-2022
+147555;INF754K01KK0;INF754K01KJ2;Edelweiss Overnight Fund - Regular Plan - Monthly - IDCW Option;1003.5993;26-Nov-2022
+147553;-;INF754K01KG8;Edelweiss Overnight Fund - Regular Plan - Weekly - IDCW Option;1016.4412;26-Nov-2022
+149476;-;-;Edelweiss Overnight Fund - Unclaimed IDCW Plan - Above 3 years;1000;26-Nov-2022
+149477;-;-;Edelweiss Overnight Fund - Unclaimed IDCW Plan - Upto 3 years;1040.4707;26-Nov-2022
+149479;-;-;Edelweiss Overnight Fund - Unclaimed Redemption Plan - Above 3 years;1000;26-Nov-2022
+149478;-;-;Edelweiss Overnight Fund - Unclaimed Redemption Plan - Upto 3 years;1040.4707;26-Nov-2022
 147215;-;INF090I01SM2;Franklin India Overnight Fund - Daily Dividend Plan - Daily - IDCW;1000.0000;25-Nov-2022
 147212;-;INF090I01ST7;Franklin India Overnight Fund - Direct Daily Dividend Plan - Daily - IDCW;1000.0000;25-Nov-2022
 147211;INF090I01SR1;INF090I01SQ3;Franklin India Overnight Fund - Direct Weekly Dividend Plan - Weekly - IDCW;1000.8193;25-Nov-2022
@@ -2548,18 +2548,18 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 101996;INF179KB1HS3;-;HDFC Overnight Fund - Growth Option;3233.9886;25-Nov-2022
 119110;INF179KB1HT1;-;HDFC Overnight Fund - Growth Option - Direct Plan;3258.2734;25-Nov-2022
 101997;-;-;HDFC Overnight Fund - IDCW Option (Daily);1042.66;25-Nov-2022
-147289;-;INF336L01OM2;HSBC Overnight Fund - Daily IDCW;1000.0064;25-Nov-2022
-147291;-;INF336L01OG4;HSBC Overnight Fund - Daily IDCW Direct Plan;1000.0067;25-Nov-2022
-147290;INF336L01OL4;-;HSBC Overnight Fund - Growth;1141.9928;25-Nov-2022
-147287;INF336L01OF6;-;HSBC Overnight Fund - Growth - Direct;1148.0445;25-Nov-2022
-147301;INF336L01OQ3;INF336L01OO8;HSBC Overnight Fund - Monthly IDCW;1000.6415;25-Nov-2022
-147300;INF336L01OK6;INF336L01OI0;HSBC Overnight Fund - Monthly IDCW Payout Direct Plan;1000.6823;31-May-2022
+147291;-;INF336L01OG4;HSBC Overnight Fund - Direct Daily IDCW;1000.0067;25-Nov-2022
+147287;INF336L01OF6;-;HSBC Overnight Fund - Direct Growth;1148.0445;25-Nov-2022
+147300;INF336L01OK6;INF336L01OI0;HSBC Overnight Fund - Direct Monthly IDCW;1000.6823;31-May-2022
+147296;INF336L01OJ8;INF336L01OH2;HSBC Overnight Fund - Direct Weekly IDCW;1000.4891;25-Nov-2022
+147289;-;INF336L01OM2;HSBC Overnight Fund - Regular Daily IDCW;1000.0064;25-Nov-2022
+147290;INF336L01OL4;-;HSBC Overnight Fund - Regular Growth;1141.9928;25-Nov-2022
+147301;INF336L01OQ3;INF336L01OO8;HSBC Overnight Fund - Regular Monthly IDCW;1000.6415;25-Nov-2022
+147288;INF336L01OP5;INF336L01ON0;HSBC Overnight Fund - Regular Weekly IDCW;1000.5174;25-Nov-2022
 150501;-;-;HSBC Overnight Fund - Unclaimed IDCW Above three years;1000.0000;25-Nov-2022
 150499;-;-;HSBC Overnight Fund - Unclaimed IDCW Below three years;1018.8985;25-Nov-2022
 150500;-;-;HSBC Overnight Fund - Unclaimed Redemption above three years;1000.0000;25-Nov-2022
 150502;-;-;HSBC Overnight Fund - Unclaimed Redemption Below three years;1018.8985;25-Nov-2022
-147288;INF336L01OP5;INF336L01ON0;HSBC Overnight Fund - Weekly IDCW;1000.5174;25-Nov-2022
-147296;INF336L01OJ8;INF336L01OH2;HSBC Overnight Fund - Weekly IDCW Direct Plan;1000.4891;25-Nov-2022
 145546;INF109KC19F6;INF109KC10G3;ICICI Prudential Overnight Fund - Annual IDCW;1032.7746;16-Sep-2022
 145547;-;INF109KC18E1;ICICI Prudential Overnight Fund - Daily IDCW;1000.0050;25-Nov-2022
 145550;INF109KC13H5;INF109KC14H3;ICICI Prudential Overnight Fund - Direct Plan - Annual IDCW;1033.5731;16-Sep-2022
@@ -2612,18 +2612,18 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 147878;INF205KA1114;-;Invesco India Overnight Fund - Regular Plan - Growth;1107.3343;27-Nov-2022
 147879;INF205KA1106;INF205KA1098;Invesco India Overnight Fund - Regular Plan - Monthly IDCW (Payout / Reinvestment);1004.7375;27-Nov-2022
 147881;-;INF205KA1080;Invesco India Overnight Fund - Regular Plan - Weekly IDCW (Reinvestment);1000.9992;27-Nov-2022
-147707;INF00XX01648;INF00XX01614;ITI Overnight Fund - Direct Plan - Annual IDCW Option;1111.5073;25-Nov-2022
-147708;-;INF00XX01572;ITI Overnight Fund - Direct Plan - Daily IDCW Option;1001.0000;25-Nov-2022
-147710;INF00XX01622;INF00XX01598;ITI Overnight Fund - Direct Plan - Fortnightly IDCW Option;1003.2231;25-Nov-2022
-147713;INF00XX01564;-;ITI Overnight Fund - Direct Plan - Growth Option;1118.5112;25-Nov-2022
-147717;INF00XX01630;INF00XX01606;ITI Overnight Fund - Direct Plan - Monthly IDCW Option;1005.7297;25-Nov-2022
-147711;-;INF00XX01580;ITI Overnight Fund - Direct Plan - Weekly IDCW option;1001.5308;25-Nov-2022
-147715;INF00XX01556;INF00XX01523;ITI Overnight Fund - Regular Plan - Annual IDCW Option;1045.4373;25-Nov-2022
-147709;-;INF00XX01481;ITI Overnight Fund - Regular Plan - Daily IDCW Option;1001.0000;25-Nov-2022
-147716;INF00XX01531;INF00XX01507;ITI Overnight Fund - Regular Plan - Fortnightly IDCW Option;1003.2527;25-Nov-2022
-147714;INF00XX01473;-;ITI Overnight Fund - Regular Plan - Growth Option;1114.9570;25-Nov-2022
-147718;INF00XX01549;INF00XX01515;ITI Overnight Fund - Regular Plan - Monthly IDCW Option;1005.6357;25-Nov-2022
-147712;-;INF00XX01499;ITI Overnight Fund - Regular Plan - Weekly IDCW Option;1001.5230;25-Nov-2022
+147707;INF00XX01648;INF00XX01614;ITI Overnight Fund - Direct Plan - Annual IDCW Option;1111.6905;26-Nov-2022
+147708;-;INF00XX01572;ITI Overnight Fund - Direct Plan - Daily IDCW Option;1001.0000;26-Nov-2022
+147710;INF00XX01622;INF00XX01598;ITI Overnight Fund - Direct Plan - Fortnightly IDCW Option;1001.0000;26-Nov-2022
+147713;INF00XX01564;-;ITI Overnight Fund - Direct Plan - Growth Option;1118.6941;26-Nov-2022
+147717;INF00XX01630;INF00XX01606;ITI Overnight Fund - Direct Plan - Monthly IDCW Option;1001.0000;26-Nov-2022
+147711;-;INF00XX01580;ITI Overnight Fund - Direct Plan - Weekly IDCW option;1001.6948;26-Nov-2022
+147715;INF00XX01556;INF00XX01523;ITI Overnight Fund - Regular Plan - Annual IDCW Option;1045.6053;26-Nov-2022
+147709;-;INF00XX01481;ITI Overnight Fund - Regular Plan - Daily IDCW Option;1001.0000;26-Nov-2022
+147716;INF00XX01531;INF00XX01507;ITI Overnight Fund - Regular Plan - Fortnightly IDCW Option;1001.0000;26-Nov-2022
+147714;INF00XX01473;-;ITI Overnight Fund - Regular Plan - Growth Option;1115.1362;26-Nov-2022
+147718;INF00XX01549;INF00XX01515;ITI Overnight Fund - Regular Plan - Monthly IDCW Option;1001.0000;26-Nov-2022
+147712;-;INF00XX01499;ITI Overnight Fund - Regular Plan - Weekly IDCW Option;1001.6845;26-Nov-2022
 147838;-;INF192K01LY2;JM Overnight Fund (Direct) - Daily IDCW;1000.0000;25-Nov-2022
 147835;INF192K01LZ9;INF192K01MA0;JM Overnight Fund (Direct) - Weekly IDCW;1000.4896;25-Nov-2022
 147839;-;INF192K01LU0;JM Overnight Fund (Regular) - Daily IDCW;1000.0000;25-Nov-2022
@@ -2678,8 +2678,8 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 147609;-;INF663L01T76;PGIM India Overnight Fund - Regular Plan - Daily Dividend Option;1000;25-Nov-2022
 147607;INF663L01T50;INF663L01T68;PGIM India Overnight Fund - Regular Plan - Weekly Dividend Option;1001.1208;25-Nov-2022
 147600;INF663L01T43;-;PGIM India Overnight Fund - Regular Plan- Growth Option;1129.7478;25-Nov-2022
-150631;INF0K1H01040;-;Samco Overnight Fund - Direct Plan - Growth Option;1008.0255;25-Nov-2022
-150632;INF0K1H01032;-;Samco Overnight Fund - Regular Plan - Growth Option;1007.7735;25-Nov-2022
+150631;INF0K1H01040;-;Samco Overnight Fund - Direct Plan - Growth Option;1008.3542;27-Nov-2022
+150632;INF0K1H01032;-;Samco Overnight Fund - Regular Plan - Growth Option;1008.0911;27-Nov-2022
 119831;-;INF200K01TJ7;SBI Overnight Fund - Direct Plan - Daily Income Distribution cum Capital Withdrawal Option (IDCW);1108.7491;25-Nov-2022
 119833;INF200K01TK5;-;SBI OVERNIGHT FUND - DIRECT PLAN - GROWTH;3572.1532;25-Nov-2022
 119832;INF200K01TL3;INF200K01TM1;SBI Overnight Fund - Direct Plan - Weekly Income Distribution cum Capital Withdrawal Option (IDCW);1132.1949;25-Nov-2022
@@ -2713,10 +2713,10 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 146979;-;INF277K017T7;TATA Overnight Fund Regular Plan - Daily Reinvestment of Income Distribution cum capital withdrawal option   ;1000.0000;25-Nov-2022
 146980;INF277K018T5;-;Tata Overnight Fund-Direct Plan-Growth;1157.5393;25-Nov-2022
 146977;INF277K016T9;-;Tata Overnight Fund-Regular Plan-Growth;1153.0370;25-Nov-2022
-149796;-;INF0GCD01461;TRUST MF OVERNIGHT FUND-DIRECT PLAN-DAILY IDCW REINVESTMENT;1039.102;25-Nov-2022
-149797;INF0GCD01453;-;TRUST MF OVERNIGHT FUND-DIRECT PLAN-GROWTH;1039.1062;25-Nov-2022
-149798;-;INF0GCD01446;TRUST MF OVERNIGHT FUND-REGULAR PLAN-DAILY IDCW REINVESTMENT;1038.787;25-Nov-2022
-149795;INF0GCD01438;-;TRUST MF OVERNIGHT FUND-REGULAR-GROWTH;1038.6621;25-Nov-2022
+149796;-;INF0GCD01461;TRUST MF OVERNIGHT FUND-DIRECT PLAN-DAILY IDCW REINVESTMENT;1039.446;27-Nov-2022
+149797;INF0GCD01453;-;TRUST MF OVERNIGHT FUND-DIRECT PLAN-GROWTH;1039.4513;27-Nov-2022
+149798;-;INF0GCD01446;TRUST MF OVERNIGHT FUND-REGULAR PLAN-DAILY IDCW REINVESTMENT;1039.131;27-Nov-2022
+149795;INF0GCD01438;-;TRUST MF OVERNIGHT FUND-REGULAR-GROWTH;1039.0043;27-Nov-2022
 147002;-;INF582M01FB0;Union Overnight Fund - Direct Plan - Daily IDCW Option;1000.7630;27-Nov-2022
 147003;INF582M01FA2;-;Union Overnight Fund - Direct Plan - Growth Option;1155.6761;27-Nov-2022
 147006;INF582M01FG9;INF582M01FE4;Union Overnight Fund - Direct Plan - Monthly IDCW Option;1000.9736;27-Nov-2022
@@ -2727,12 +2727,12 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 149452;-;-;Union Overnight Fund - Unclaimed Amounts Plan - IDCW Upto 3 years;1041.8958;27-Nov-2022
 149453;-;-;Union Overnight Fund - Unclaimed Amounts Plan - Redemption Beyond 3 years;1000.0000;27-Nov-2022
 149454;-;-;Union Overnight Fund - Unclaimed Amounts Plan - Redemption Upto 3 years;1041.8909;27-Nov-2022
-100814;INF789F01604;-;UTI - Overnight  Fund - Regular Plan - Growth Option;2975.8055;26-Nov-2022
-120785;INF789FB1S71;-;UTI - Overnight Fund - Direct Plan - Growth Option;3004.1897;26-Nov-2022
-124266;-;INF789FB1S89;UTI Overnight Fund - Direct Plan - Daily IDCW;1371.6621;26-Nov-2022
-120786;INF789FB1T05;INF789FB1S97;UTI Overnight Fund - Direct Plan - Periodic IDCW;1576.6376;26-Nov-2022
-124265;-;INF789FB1T13;UTI Overnight Fund - Regular Plan - Daily IDCW;1370.8617;26-Nov-2022
-100813;INF789F01588;INF789F01596;UTI Overnight Fund - Regular Plan - Periodic IDCW;1533.0309;26-Nov-2022
+100814;INF789F01604;-;UTI - Overnight  Fund - Regular Plan - Growth Option;2976.2943;27-Nov-2022
+120785;INF789FB1S71;-;UTI - Overnight Fund - Direct Plan - Growth Option;3004.6874;27-Nov-2022
+124266;-;INF789FB1S89;UTI Overnight Fund - Direct Plan - Daily IDCW;1371.6621;27-Nov-2022
+120786;INF789FB1T05;INF789FB1S97;UTI Overnight Fund - Direct Plan - Periodic IDCW;1576.8987;27-Nov-2022
+124265;-;INF789FB1T13;UTI Overnight Fund - Regular Plan - Daily IDCW;1370.8617;27-Nov-2022
+100813;INF789F01588;INF789F01596;UTI Overnight Fund - Regular Plan - Periodic IDCW;1533.2827;27-Nov-2022
 147591;-;INF03VN01332;WhiteOak Capital Overnight Fund- Direct plan-Daily Reinvestment of Income Distribution cum capital withdrawal option (IDCW);1000.3975;27-Nov-2022
 147595;INF03VN01340;INF03VN01357;WhiteOak Capital Overnight Fund- Direct plan-Fortnightly  Payout/ Reinvestment of Income Distribution cum capital withdrawal option (IDCW);1007.4968;27-Nov-2022
 147593;INF03VN01365;-;WhiteOak Capital Overnight Fund- Direct plan-Growth Option;1127.6693;27-Nov-2022
@@ -2829,14 +2829,14 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 119016;INF179K01YM7;-;HDFC Short Term  Debt Fund - Growth Option - Direct Plan;26.8505;25-Nov-2022
 133367;INF179KA1Q53;-;HDFC Short Term  Debt Fund - Normal IDCW - Direct Plan;17.957;25-Nov-2022
 133368;INF179KA1Q79;-;HDFC Short Term  Debt Fund - Normal IDCW Option;17.6389;25-Nov-2022
-101599;INF336L01917;-;HSBC Short Duration Fund - Growth;32.6785;25-Nov-2022
-120062;INF336L01DL7;-;HSBC Short Duration Fund - Growth Direct;35.6582;25-Nov-2022
-101600;INF336L01990;INF336L01AA6;HSBC Short Duration Fund - Monthly IDCW;11.8080;25-Nov-2022
-120060;INF336L01DM5;INF336L01EQ4;HSBC Short Duration Fund - Monthly IDCW Direct Plan ;13.5885;25-Nov-2022
-139768;INF336L01LF2;INF336L01LG0;HSBC Short Duration Fund - Quarterly IDCW;11.2191;25-Nov-2022
-139767;INF336L01LH8;INF336L01LI6;HSBC Short Duration Fund - Quarterly IDCW Direct Plan;10;20-Dec-2018
-104429;-;INF336L01982;HSBC Short Duration Fund - Weekly IDCW;10.2021;25-Nov-2022
-120061;-;INF336L01DN3;HSBC Short Duration Fund - Weekly IDCW Direct Plan;10.2246;25-Nov-2022
+120062;INF336L01DL7;-;HSBC Short Duration Fund - Direct Growth;35.6582;25-Nov-2022
+120060;INF336L01DM5;INF336L01EQ4;HSBC Short Duration Fund - Direct Monthly IDCW;13.5885;25-Nov-2022
+120061;-;INF336L01DN3;HSBC Short Duration Fund - Direct Monthly IDCW;10.2246;25-Nov-2022
+139767;INF336L01LH8;INF336L01LI6;HSBC Short Duration Fund - Direct Quarterly IDCW;10;20-Dec-2018
+101599;INF336L01917;-;HSBC Short Duration Fund - Regular Growth;32.6785;25-Nov-2022
+101600;INF336L01990;INF336L01AA6;HSBC Short Duration Fund - Regular Monthly IDCW;11.8080;25-Nov-2022
+104429;-;INF336L01982;HSBC Short Duration Fund - Regular Monthly IDCW;10.2021;25-Nov-2022
+139768;INF336L01LF2;INF336L01LG0;HSBC Short Duration Fund - Regular Quarterly IDCW;11.2191;25-Nov-2022
 122674;INF109KA1376;-;ICICI Prudential Short Term Fund - Bonus;42.3355;24-Apr-2020
 122909;INF109KA1368;-;ICICI Prudential Short Term Fund - Direct Plan - Bonus;40.9620;28-May-2019
 120754;INF109K013N3;-;ICICI Prudential Short Term Fund - Direct Plan - Growth Option;53.0899;25-Nov-2022
@@ -3090,14 +3090,14 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 145040;INF179KB11R3;-;HDFC Ultra Short Term Fund - Growth Option;12.6269;25-Nov-2022
 145037;INF179KB16R2;INF179KB15R4;HDFC Ultra Short Term Fund - Monthly IDCW Option;10.1969;25-Nov-2022
 145038;INF179KB14R7;INF179KB13R9;HDFC Ultra Short Term Fund - Weekly IDCW Option;10.0567;25-Nov-2022
-147907;INF336L01OW1;-;HSBC Ultra Short Duration Fund - Growth;1127.6407;25-Nov-2022
-147908;INF336L01OR1;-;HSBC Ultra Short Duration Fund - Growth - Direct;1135.9329;25-Nov-2022
-147909;-;INF336L01OX9;HSBC Ultra Short Duration Fund Daily IDCW;1031.7278;25-Nov-2022
-147915;INF336L01OV3;INF336L01OU5;HSBC Ultra Short Duration Fund Dir Monthly IDCW;1012.0756;25-Nov-2022
-147910;-;INF336L01OS9;HSBC Ultra Short Duration Fund Direct Daily IDCW;1079.9409;25-Nov-2022
-147912;-;INF336L01OT7;HSBC Ultra Short Duration Fund Direct Weekly IDCW;1007.8121;25-Nov-2022
-147916;INF336L01PA4;INF336L01OZ4;HSBC Ultra Short Duration Fund Monthly IDCW;1027.6583;25-Nov-2022
-147911;-;INF336L01OY7;HSBC Ultra Short Duration Fund Weekly IDCW;1041.8944;25-Nov-2022
+147910;-;INF336L01OS9;HSBC Ultra Short Duration Fund - Direct Daily IDCW;1079.9409;25-Nov-2022
+147908;INF336L01OR1;-;HSBC Ultra Short Duration Fund - Direct Growth;1135.9329;25-Nov-2022
+147915;INF336L01OV3;INF336L01OU5;HSBC Ultra Short Duration Fund - Direct Monthly IDCW;1012.0756;25-Nov-2022
+147912;-;INF336L01OT7;HSBC Ultra Short Duration Fund - Direct Weekly IDCW;1007.8121;25-Nov-2022
+147909;-;INF336L01OX9;HSBC Ultra Short Duration Fund - Regular Daily IDCW;1031.7278;25-Nov-2022
+147907;INF336L01OW1;-;HSBC Ultra Short Duration Fund - Regular Growth;1127.6407;25-Nov-2022
+147916;INF336L01PA4;INF336L01OZ4;HSBC Ultra Short Duration Fund - Regular Monthly IDCW;1027.6583;25-Nov-2022
+147911;-;INF336L01OY7;HSBC Ultra Short Duration Fund - Regular Weekly IDCW;1041.8944;25-Nov-2022
 145399;-;INF109KC1ND7;ICICI Prudential Ultra Short Term Fund - Daily IDCW;10.0494;25-Nov-2022
 120676;INF109K01T04;-;ICICI Prudential Ultra Short Term Fund - Direct Plan -  Growth;24.6847;25-Nov-2022
 120678;INF109K01T12;INF109K01T20;ICICI Prudential Ultra Short Term Fund - Direct Plan -  Half Yearly IDCW;10.7542;16-Sep-2022
@@ -3578,10 +3578,10 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 101762;INF179K01608;-;HDFC Flexi Cap Fund - Growth Plan;1171.018;25-Nov-2022
 118954;INF179K01VL5;INF179K01VM3;HDFC Flexi Cap Fund - IDCW Option - Direct Plan;70.698;25-Nov-2022
 101763;INF179K01582;INF179K01590;HDFC Flexi Cap Fund - IDCW Plan;62.351;25-Nov-2022
-102252;INF336L01AF5;-;HSBC Flexi Cap Fund - Growth;131.2501;25-Nov-2022
-120046;INF336L01DH5;-;HSBC Flexi Cap Fund - Growth Direct;143.4044;25-Nov-2022
-102251;INF336L01AE8;INF336L01AD0;HSBC Flexi Cap Fund - IDCW;35.3402;25-Nov-2022
-120045;INF336L01DF9;INF336L01DG7;HSBC Flexi Cap Fund - IDCW Direct Plan;31.8725;25-Nov-2022
+120046;INF336L01DH5;-;HSBC Flexi Cap Fund - Direct Growth;143.4044;25-Nov-2022
+120045;INF336L01DF9;INF336L01DG7;HSBC Flexi Cap Fund - Direct IDCW;31.8725;25-Nov-2022
+102252;INF336L01AF5;-;HSBC Flexi Cap Fund - Regular Growth;131.2501;25-Nov-2022
+102251;INF336L01AE8;INF336L01AD0;HSBC Flexi Cap Fund - Regular IDCW;35.3402;25-Nov-2022
 148990;INF109KC1R14;-;ICICI Prudential Flexicap Fund - Direct Plan - Growth;12.02;25-Nov-2022
 148991;INF109KC1R22;INF109KC1R30;ICICI Prudential Flexicap Fund - Direct Plan - IDCW;12.02;25-Nov-2022
 148989;INF109KC1Q80;-;ICICI Prudential Flexicap Fund - Growth;11.77;25-Nov-2022
@@ -3714,10 +3714,10 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 102760;INF179K01574;-;HDFC Focused 30 Fund - GROWTH PLAN;135.966;25-Nov-2022
 118949;INF179K01VI1;INF179K01VJ9;HDFC Focused 30 Fund - IDCW Option - Direct Plan;24.103;25-Nov-2022
 102761;INF179K01558;INF179K01566;HDFC Focused 30 Fund - IDCW PLAN;20.279;25-Nov-2022
-148411;INF336L01PB2;-;HSBC Focused Equity Fund - Direct Plan - Growth;17.1729;25-Nov-2022
-148409;INF336L01PE6;-;HSBC Focused Equity Fund - Regular Plan - Growth;16.5201;25-Nov-2022
-148412;INF336L01PC0;INF336L01PD8;HSBC Focused Equity Fund Direct Plan IDCW;15.2380;25-Nov-2022
-148410;INF336L01PF3;INF336L01PG1;HSBC Focused Equity Fund IDCW;14.6696;25-Nov-2022
+148411;INF336L01PB2;-;HSBC Focused Fund - Direct Growth;17.1729;25-Nov-2022
+148412;INF336L01PC0;INF336L01PD8;HSBC Focused Fund - Direct IDCW;15.2380;25-Nov-2022
+148409;INF336L01PE6;-;HSBC Focused Fund - Regular Growth;16.5201;25-Nov-2022
+148410;INF336L01PF3;INF336L01PG1;HSBC Focused Fund - Regular IDCW;14.6696;25-Nov-2022
 120722;INF109K018N2;-;ICICI Prudential Focused Equity Fund - Direct Plan - Growth;58.96;25-Nov-2022
 120723;INF109K016N6;INF109K017N4;ICICI Prudential Focused Equity Fund - Direct Plan - IDCW;38.87;25-Nov-2022
 111957;INF109K01BZ4;-;ICICI Prudential Focused Equity Fund - Growth;53.10;25-Nov-2022
@@ -3832,10 +3832,10 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 130498;INF179KA1RQ7;-;HDFC Large and Mid Cap Fund - Growth Option - Direct Plan;209.304;25-Nov-2022
 130497;INF179KA1RU9;-;HDFC Large and Mid Cap Fund - IDCW Option;27.114;25-Nov-2022
 130499;INF179KA1RR5;-;HDFC Large and Mid Cap Fund - IDCW Option - Direct Plan;33.294;25-Nov-2022
-146771;INF336L01NY9;-;HSBC Large and Mid Cap Equity Fund - Growth;15.9499;25-Nov-2022
-146772;INF336L01NV5;-;HSBC Large and Mid Cap Equity Fund - Growth Direct;16.9538;25-Nov-2022
-146770;INF336L01NW3;INF336L01NX1;HSBC Large and Midcap Equity Fund Direct Plan IDCW;16.9195;25-Nov-2022
-146769;INF336L01NZ6;INF336L01OA7;HSBC Large and Midcap Equity Fund IDCW;15.9499;25-Nov-2022
+146772;INF336L01NV5;-;HSBC Large & Mid Cap Fund - Direct Growth;16.9538;25-Nov-2022
+146770;INF336L01NW3;INF336L01NX1;HSBC Large & Mid Cap Fund - Direct IDCW;16.9195;25-Nov-2022
+146771;INF336L01NY9;-;HSBC Large & Mid Cap Fund - Regular Growth;15.9499;25-Nov-2022
+146769;INF336L01NZ6;INF336L01OA7;HSBC Large & Mid Cap Fund - Regular IDCW;15.9499;25-Nov-2022
 120596;INF109K011O5;-;ICICI Prudential Large & Mid Cap Fund - Direct Plan - Growth;646.65;25-Nov-2022
 120597;INF109K019N0;INF109K010O7;ICICI Prudential Large & Mid Cap Fund - Direct Plan - IDCW;35.39;25-Nov-2022
 100349;INF109K01431;-;ICICI Prudential Large & Mid Cap Fund - Growth;592.30;25-Nov-2022
@@ -3949,10 +3949,10 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 102000;INF179K01BE2;-;HDFC Top 100 Fund - Growth Option - Regular Plan;766.575;25-Nov-2022
 119017;INF179K01YT2;INF179K01YU0;HDFC Top 100 Fund - IDCW Option - Direct Plan;58.219;25-Nov-2022
 102001;INF179K01BC6;INF179K01BD4;HDFC Top 100 Fund - IDCW Option - Regular Plan;52.158;25-Nov-2022
-101594;INF336L01016;-;HSBC Large Cap Equity Fund - Growth;329.2597;25-Nov-2022
-120030;INF336L01CM7;-;HSBC Large Cap Equity Fund - Growth Direct;356.7700;25-Nov-2022
-101593;INF336L01024;INF336L01032;HSBC Large cap Equity Fund - IDCW;41.8500;25-Nov-2022
-120029;INF336L01CK1;INF336L01CL9;HSBC Large cap Equity Fund - IDCW Direct Plan;39.2018;25-Nov-2022
+120030;INF336L01CM7;-;HSBC Large Cap Fund - Direct Growth;356.7700;25-Nov-2022
+120029;INF336L01CK1;INF336L01CL9;HSBC Large Cap Fund - Direct IDCW;39.2018;25-Nov-2022
+101594;INF336L01016;-;HSBC Large Cap Fund - Regular Growth;329.2597;25-Nov-2022
+101593;INF336L01024;INF336L01032;HSBC Large Cap Fund - Regular IDCW;41.8500;25-Nov-2022
 120586;INF109K016L0;-;ICICI Prudential Bluechip Fund - Direct Plan - Growth;76.45;25-Nov-2022
 120585;INF109K014L5;INF109K015L2;ICICI Prudential Bluechip Fund - Direct Plan - IDCW;46.53;25-Nov-2022
 108466;INF109K01BL4;-;ICICI Prudential Bluechip Fund - Growth;70.68;25-Nov-2022
@@ -4089,10 +4089,10 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 105758;INF179K01CR2;-;HDFC Mid-Cap Opportunities Fund - Growth Plan;102.441;25-Nov-2022
 118988;INF179K01XO5;INF179K01XP2;HDFC Mid-Cap Opportunities Fund - IDCW Option - Direct Plan;51.607;25-Nov-2022
 105757;INF179K01CS0;INF179K01CT8;HDFC Mid-Cap Opportunities Fund - IDCW Plan;38.064;25-Nov-2022
-149154;INF336L01QB0;-;HSBC Mid Cap Fund - Direct - Growth;9.6118;25-Nov-2022
-149155;INF336L01QC8;INF336L01QD6;HSBC Mid Cap Fund - Direct - IDCW;9.6118;25-Nov-2022
-149153;INF336L01QE4;-;HSBC Mid Cap Fund - Regular - Growth;9.4547;25-Nov-2022
-149152;INF336L01QF1;INF336L01QG9;HSBC Mid Cap Fund - Regular - IDCW;9.4547;25-Nov-2022
+149154;INF336L01QB0;-;HSBC Midcap Fund - Direct Growth;9.6118;25-Nov-2022
+149155;INF336L01QC8;INF336L01QD6;HSBC Midcap Fund - Direct IDCW;9.6118;25-Nov-2022
+149153;INF336L01QE4;-;HSBC Midcap Fund - Regular Growth;9.4547;25-Nov-2022
+149152;INF336L01QF1;INF336L01QG9;HSBC Midcap Fund - Regular IDCW;9.4547;25-Nov-2022
 140461;INF397L01JK8;-;IDBI Midcap Fund Growth Direct;18.74;25-Nov-2022
 140460;INF397L01JO0;-;IDBI Midcap Fund Growth Regular;17.19;25-Nov-2022
 140458;INF397L01JH4;INF397L01JI2;IDBI Midcap Fund IDCW Direct;17.62;25-Nov-2022
@@ -4388,10 +4388,10 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 107524;INF179K01GF8;-;HDFC Infrastructure Fund - Growth Plan;24.132;25-Nov-2022
 118978;INF179K01WP4;INF179K01WR0;HDFC Infrastructure Fund - IDCW Option - Direct Plan;18.724;25-Nov-2022
 107525;INF179K01GE1;INF179K01GG6;HDFC Infrastructure Fund - IDCW Plan;13.135;25-Nov-2022
-103407;INF336L01255;-;HSBC Infrastructure Equity Fund - Growth;27.8862;25-Nov-2022
-120034;INF336L01DK9;-;HSBC Infrastructure Equity Fund - Growth Direct;30.6449;25-Nov-2022
-103406;INF336L01248;INF336L01230;HSBC Infrastructure Equity Fund - IDCW;23.7200;25-Nov-2022
-120033;INF336L01DI3;INF336L01DJ1;HSBC Infrastructure Equity Fund - IDCW Direct Plan;25.8411;25-Nov-2022
+120034;INF336L01DK9;-;HSBC Infrastructure Fund - Direct Growth;30.6449;25-Nov-2022
+120033;INF336L01DI3;INF336L01DJ1;HSBC Infrastructure Fund - Direct IDCW;25.8411;25-Nov-2022
+103407;INF336L01255;-;HSBC Infrastructure Fund - Regular Growth;27.8862;25-Nov-2022
+103406;INF336L01248;INF336L01230;HSBC Infrastructure Fund - Regular IDCW;23.7200;25-Nov-2022
 109445;INF109K01BU5;-;ICICI Prudential Banking and Financial Services Fund -  Growth;90.52;25-Nov-2022
 109446;INF109K01DY3;INF109K01BV3;ICICI Prudential Banking and Financial Services Fund -  IDCW;35.38;25-Nov-2022
 120244;INF109K013J1;-;ICICI Prudential Banking and Financial Services Fund - Direct Plan -  Growth;99.75;25-Nov-2022
@@ -4797,10 +4797,10 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 130503;INF179KA1RW5;-;HDFC Small Cap Fund - Growth Option - Direct Plan;88.117;25-Nov-2022
 130501;INF179KA1SA9;INF179KA1SB7;HDFC Small Cap Fund - IDCW Option;34.067;25-Nov-2022
 130504;INF179KA1RX3;INF179KA1RY1;HDFC Small Cap Fund - IDCW Option - Direct Plan;46.539;25-Nov-2022
-103006;INF336L01AV2;-;HSBC Small Cap Equity Fund - Growth;82.2500;25-Nov-2022
-120069;INF336L01DQ6;-;HSBC Small Cap Equity Fund - Growth Direct;90.7368;25-Nov-2022
-103007;INF336L01AU4;INF336L01AT6;HSBC Small Cap Equity Fund - IDCW;30.1357;25-Nov-2022
-120068;INF336L01DO1;INF336L01DP8;HSBC Small Cap Equity Fund - IDCW Direct Plan;34.3900;25-Nov-2022
+120069;INF336L01DQ6;-;HSBC Small Cap Fund - Direct Growth;90.7368;25-Nov-2022
+120068;INF336L01DO1;INF336L01DP8;HSBC Small Cap Fund - Direct IDCW;34.3900;25-Nov-2022
+103006;INF336L01AV2;-;HSBC Small Cap Fund - Regular Growth;82.2500;25-Nov-2022
+103007;INF336L01AU4;INF336L01AT6;HSBC Small Cap Fund - Regular IDCW;30.1357;25-Nov-2022
 149283;INF109KC1V18;-;ICICI Prudential Nifty Smallcap 250 Index Fund - Direct Plan - Growth;9.8056;25-Nov-2022
 149284;INF109KC1V26;INF109KC1V34;ICICI Prudential Nifty Smallcap 250 Index Fund - Direct Plan - IDCW;9.8053;25-Nov-2022
 149281;INF109KC1U84;-;ICICI Prudential Nifty Smallcap 250 Index Fund - Growth;9.7323;25-Nov-2022
@@ -5009,10 +5009,10 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 102948;INF179K01AS4;-;HDFC Hybrid Equity Fund - Growth Plan;86.461;25-Nov-2022
 119061;INF179K01XX6;INF179K01XY4;HDFC Hybrid Equity Fund - IDCW Option - Direct Plan;16.152;25-Nov-2022
 102947;INF179K01AQ8;INF179K01AR6;HDFC Hybrid Equity Fund - IDCW Plan;14.602;25-Nov-2022
-145227;INF336L01NK8;-;HSBC Equity Hybrid Fund - Growth;15.8037;25-Nov-2022
-145228;INF336L01NH4;-;HSBC Equity Hybrid Fund - Growth Direct;16.7649;25-Nov-2022
-145226;INF336L01NI2;INF336L01NJ0;HSBC Equity Hybrid Fund Direct Plan IDCW;14.5076;25-Nov-2022
-145225;INF336L01NL6;INF336L01NM4;HSBC Equity Hybrid Fund IDCW;13.7097;25-Nov-2022
+145226;INF336L01NI2;INF336L01NJ0;HSBC Aggressive Hybrid Fund - Direct Annual IDCW;14.5076;25-Nov-2022
+145228;INF336L01NH4;-;HSBC Aggressive Hybrid Fund - Direct Growth;16.7649;25-Nov-2022
+145225;INF336L01NL6;INF336L01NM4;HSBC Aggressive Hybrid Fund - Regular Annual IDCW;13.7097;25-Nov-2022
+145227;INF336L01NK8;-;HSBC Aggressive Hybrid Fund - Regular Growth;15.8037;25-Nov-2022
 136113;INF109KB1QK6;INF109KB1QJ8;ICICI Prudential Equity & Debt Fund - Annual IDCW;20.20;25-Nov-2022
 136114;INF109KB1QM2;INF109KB1QL4;ICICI Prudential Equity & Debt Fund - Direct Plan - Annual IDCW;21.67;25-Nov-2022
 120251;INF109K01Y07;-;ICICI Prudential Equity & Debt Fund - Direct Plan - Growth;267.14;25-Nov-2022
@@ -5375,12 +5375,12 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 119119;INF179K01XF3;INF179K01XG1;HDFC Hybrid Debt Fund - IDCW Monthly - Direct Plan;14.5099;25-Nov-2022
 102149;INF179K01AC8;INF179K01AD6;HDFC Hybrid Debt Fund - IDCW Quarterly;14.3793;25-Nov-2022
 119120;INF179K01XH9;INF179K01XI7;HDFC Hybrid Debt Fund - IDCW Quarterly - Direct Plan;15.4866;25-Nov-2022
-102262;INF336L01099;-;HSBC Regular Savings Fund - Growth;46.7289;25-Nov-2022
-102260;INF336L01107;INF336L01115;HSBC Regular Savings Fund - Monthly IDCW ;12.3333;25-Nov-2022
-120074;INF336L01DX2;INF336L01DY0;HSBC Regular Savings Fund - Monthly IDCW Direct Plan;16.0789;25-Nov-2022
-102261;INF336L01123;INF336L01131;HSBC Regular Savings Fund - Quarterly IDCW;16.4491;25-Nov-2022
-120075;INF336L01DZ7;INF336L01EA8;HSBC Regular Savings Fund - Quarterly IDCW Direct Plan;13.9985;25-Nov-2022
-120073;INF336L01DW4;-;HSBC Regular Savings Fund-Growth Direct;51.1280;25-Nov-2022
+120073;INF336L01DW4;-;HSBC Conservative Hybrid Fund - Direct Growth;51.1280;25-Nov-2022
+120074;INF336L01DX2;INF336L01DY0;HSBC Conservative Hybrid Fund - Direct Monthly IDCW;16.0789;25-Nov-2022
+120075;INF336L01DZ7;INF336L01EA8;HSBC Conservative Hybrid Fund - Direct Quarterly IDCW;13.9985;25-Nov-2022
+102262;INF336L01099;-;HSBC Conservative Hybrid Fund - Regular Growth;46.7289;25-Nov-2022
+102260;INF336L01107;INF336L01115;HSBC Conservative Hybrid Fund - Regular Monthly IDCW;12.3333;25-Nov-2022
+102261;INF336L01123;INF336L01131;HSBC Conservative Hybrid Fund - Regular Quarterly IDCW;16.4491;25-Nov-2022
 123183;INF109KA1301;-;ICICI Prudential Regular Savings Fund - Direct Plan - Bonus;46.3924;24-Apr-2020
 120616;INF109K01S39;-;ICICI Prudential Regular Savings Fund - Direct Plan - Growth;62.7232;25-Nov-2022
 120613;INF109K01S47;INF109K01S54;ICICI Prudential Regular Savings Fund - Direct Plan - Half Yearly IDCW;16.2984;25-Nov-2022
@@ -6003,18 +6003,18 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 149781;INF209KB17F0;INF209KB18F8;Aditya Birla Sun Life Silver ETF FOF-Direct IDCW;10.0721;25-Nov-2022
 149783;INF209KB13F9;-;Aditya Birla Sun Life Silver ETF FOF-Regular Growth;10.0275;25-Nov-2022
 149784;INF209KB14F7;INF209KB15F4;Aditya Birla Sun Life Silver ETF FOF-Regular IDCW;10.0275;25-Nov-2022
-147905;INF846K01V73;INF846K01V65;Axis All Seasons Debt Fund of Fund - Regular Plan - Quarterly IDCW;11.0301;24-Nov-2022
-147895;INF846K01U25;INF846K01U17;Axis All Seasons Debt Fund of Funds - Direct Plan - Annual IDCW;11.6599;24-Nov-2022
-147889;INF846K01U09;-;Axis All Seasons Debt Fund of Funds - Direct Plan - Growth Option;11.9096;24-Nov-2022
-147894;INF846K01U74;INF846K01U82;Axis All Seasons Debt Fund of Funds - Direct Plan - Half Yearly Dividend Option;10.5460;24-Nov-2022
-147891;INF846K01U90;INF846K01V08;Axis All Seasons Debt Fund of Funds - Direct Plan - IDCW;11.9169;24-Nov-2022
-147892;INF846K01U41;INF846K01U33;Axis All Seasons Debt Fund of Funds - Direct Plan - Monthly IDCW;11.9197;24-Nov-2022
-147893;INF846K01U66;INF846K01U58;Axis All Seasons Debt Fund of Funds - Direct Plan - Quarterly IDCW;11.1446;24-Nov-2022
-147898;INF846K01V32;INF846K01V24;Axis All Seasons Debt Fund of Funds - Regular Plan - Annual IDCW;11.5710;24-Nov-2022
-147890;INF846K01V16;-;Axis All Seasons Debt Fund of Funds - Regular Plan - Growth Option;11.7971;24-Nov-2022
-147897;INF846K01V81;INF846K01V99;Axis All Seasons Debt Fund of Funds - Regular Plan - Half Yearly IDCW;11.9477;24-Nov-2022
-147888;INF846K01W07;INF846K01W15;Axis All Seasons Debt Fund of Funds - Regular Plan - IDCW;11.7969;24-Nov-2022
-147896;INF846K01V57;INF846K01V40;Axis All Seasons Debt Fund of Funds - Regular Plan - Monthly IDCW;11.7964;24-Nov-2022
+147905;INF846K01V73;INF846K01V65;Axis All Seasons Debt Fund of Fund - Regular Plan - Quarterly IDCW;11.0269;25-Nov-2022
+147895;INF846K01U25;INF846K01U17;Axis All Seasons Debt Fund of Funds - Direct Plan - Annual IDCW;11.6566;25-Nov-2022
+147889;INF846K01U09;-;Axis All Seasons Debt Fund of Funds - Direct Plan - Growth Option;11.9063;25-Nov-2022
+147894;INF846K01U74;INF846K01U82;Axis All Seasons Debt Fund of Funds - Direct Plan - Half Yearly Dividend Option;10.5431;25-Nov-2022
+147891;INF846K01U90;INF846K01V08;Axis All Seasons Debt Fund of Funds - Direct Plan - IDCW;11.9136;25-Nov-2022
+147892;INF846K01U41;INF846K01U33;Axis All Seasons Debt Fund of Funds - Direct Plan - Monthly IDCW;11.9164;25-Nov-2022
+147893;INF846K01U66;INF846K01U58;Axis All Seasons Debt Fund of Funds - Direct Plan - Quarterly IDCW;11.1415;25-Nov-2022
+147898;INF846K01V32;INF846K01V24;Axis All Seasons Debt Fund of Funds - Regular Plan - Annual IDCW;11.5677;25-Nov-2022
+147890;INF846K01V16;-;Axis All Seasons Debt Fund of Funds - Regular Plan - Growth Option;11.7937;25-Nov-2022
+147897;INF846K01V81;INF846K01V99;Axis All Seasons Debt Fund of Funds - Regular Plan - Half Yearly IDCW;11.9442;25-Nov-2022
+147888;INF846K01W07;INF846K01W15;Axis All Seasons Debt Fund of Funds - Regular Plan - IDCW;11.7935;25-Nov-2022
+147896;INF846K01V57;INF846K01V40;Axis All Seasons Debt Fund of Funds - Regular Plan - Monthly IDCW;11.7930;25-Nov-2022
 149847;INF846K011G9;-;Axis Equity ETFs FOF - Direct Plan - Growth Option;10.9487;25-Nov-2022
 149846;INF846K012G7;INF846K013G5;Axis Equity ETFs FOF - Direct Plan - IDCW;10.9487;25-Nov-2022
 149844;INF846K014G3;-;Axis Equity ETFs FOF - Regular Plan - Growth Option;10.9355;25-Nov-2022
@@ -6288,22 +6288,22 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 149291;INF209KB18C5;-;Aditya Birla Sun Life Nasdaq 100 FOF-Direct-Growth;7.9462;25-Nov-2022
 149290;INF209KB15C1;-;Aditya Birla Sun Life Nasdaq 100 FOF-Regular Growth;7.9041;25-Nov-2022
 149292;INF209KB16C9;INF209KB17C7;Aditya Birla Sun Life Nasdaq 100 FOF-Regular IDCW;7.9034;25-Nov-2022
-148485;INF846K01X06;-;Axis Global Equity Alpha Fund of Fund - Direct Plan - Growth Option;12.5419;23-Nov-2022
-148487;INF846K01X14;INF846K01X22;Axis Global Equity Alpha Fund of Fund - Direct Plan - IDCW;12.5416;23-Nov-2022
-148486;INF846K01X30;-;Axis Global Equity Alpha Fund of Fund - Regular Plan - Growth Option;12.2116;23-Nov-2022
-148488;INF846K01X48;INF846K01X55;Axis Global Equity Alpha Fund of Fund - Regular Plan - IDCW;12.2116;23-Nov-2022
-148954;INF846K01Z20;-;Axis Global Innovation Fund of Fund - Direct Plan - Growth;8.92;23-Nov-2022
-148955;INF846K01Z38;INF846K01Z46;Axis Global Innovation Fund of Fund - Direct Plan - IDCW;8.92;23-Nov-2022
-148953;INF846K01Z53;-;Axis Global Innovation Fund of Fund - Regular Plan - Growth;8.76;23-Nov-2022
-148956;INF846K01Z61;INF846K01Z79;Axis Global Innovation Fund of Fund - Regular Plan - IDCW;8.76;23-Nov-2022
-148699;INF846K01Y39;-;Axis Greater China Equity Fund of Fund - Direct Plan - Growth Option;6.81;24-Nov-2022
-148700;INF846K01Y47;INF846K01Y54;Axis Greater China Equity Fund of Fund - Direct Plan - IDCW;6.81;24-Nov-2022
-148701;INF846K01Y62;-;Axis Greater China Equity Fund of Fund - Regular Plan - Growth Option;6.67;24-Nov-2022
-148702;INF846K01Y70;INF846K01Y88;Axis Greater China Equity Fund of Fund - Regular Plan - IDCW;6.67;24-Nov-2022
-150751;INF846K012K9;-;Axis NASDAQ 100 Fund of Fund - Direct Plan - Growth;10.5312;24-Nov-2022
-150749;INF846K013K7;INF846K014K5;Axis NASDAQ 100 Fund of Fund - Direct Plan - IDCW;10.5312;24-Nov-2022
-150750;INF846K015K2;-;Axis NASDAQ 100 Fund of Fund - Regular Plan - Growth;10.5282;24-Nov-2022
-150748;INF846K016K0;INF846K017K8;Axis NASDAQ 100 Fund of Fund - Regular Plan - IDCW;10.5282;24-Nov-2022
+148485;INF846K01X06;-;Axis Global Equity Alpha Fund of Fund - Direct Plan - Growth Option;12.5555;25-Nov-2022
+148487;INF846K01X14;INF846K01X22;Axis Global Equity Alpha Fund of Fund - Direct Plan - IDCW;12.5552;25-Nov-2022
+148486;INF846K01X30;-;Axis Global Equity Alpha Fund of Fund - Regular Plan - Growth Option;12.2241;25-Nov-2022
+148488;INF846K01X48;INF846K01X55;Axis Global Equity Alpha Fund of Fund - Regular Plan - IDCW;12.2241;25-Nov-2022
+148954;INF846K01Z20;-;Axis Global Innovation Fund of Fund - Direct Plan - Growth;8.94;25-Nov-2022
+148955;INF846K01Z38;INF846K01Z46;Axis Global Innovation Fund of Fund - Direct Plan - IDCW;8.94;25-Nov-2022
+148953;INF846K01Z53;-;Axis Global Innovation Fund of Fund - Regular Plan - Growth;8.78;25-Nov-2022
+148956;INF846K01Z61;INF846K01Z79;Axis Global Innovation Fund of Fund - Regular Plan - IDCW;8.78;25-Nov-2022
+148699;INF846K01Y39;-;Axis Greater China Equity Fund of Fund - Direct Plan - Growth Option;6.72;25-Nov-2022
+148700;INF846K01Y47;INF846K01Y54;Axis Greater China Equity Fund of Fund - Direct Plan - IDCW;6.72;25-Nov-2022
+148701;INF846K01Y62;-;Axis Greater China Equity Fund of Fund - Regular Plan - Growth Option;6.57;25-Nov-2022
+148702;INF846K01Y70;INF846K01Y88;Axis Greater China Equity Fund of Fund - Regular Plan - IDCW;6.57;25-Nov-2022
+150751;INF846K012K9;-;Axis NASDAQ 100 Fund of Fund - Direct Plan - Growth;10.3936;25-Nov-2022
+150749;INF846K013K7;INF846K014K5;Axis NASDAQ 100 Fund of Fund - Direct Plan - IDCW;10.3936;25-Nov-2022
+150750;INF846K015K2;-;Axis NASDAQ 100 Fund of Fund - Regular Plan - Growth;10.3905;25-Nov-2022
+150748;INF846K016K0;INF846K017K8;Axis NASDAQ 100 Fund of Fund - Regular Plan - IDCW;10.3905;25-Nov-2022
 150285;INF251K01QT5;-;Baroda BNP Paribas Funds Aqua Fund of Fund - Direct Plan - Growth Option;10.2044;24-Nov-2022
 150287;INF251K01QU3;INF251K01QV1;Baroda BNP Paribas Funds Aqua Fund of Fund - Direct Plan - IDCW Option;10.2044;24-Nov-2022
 150286;INF251K01QR9;INF251K01QS7;Baroda BNP Paribas Funds Aqua Fund of Fund - Regular Plan - IDCW Option;10.0273;24-Nov-2022
