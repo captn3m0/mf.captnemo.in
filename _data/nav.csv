@@ -4592,10 +4592,10 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 149327;INF204KC1311;INF204KC1329;Nippon India Taiwan Equity Fund- Direct Plan- IDCW option;6.9528;25-Nov-2022
 149328;INF204KC1279;-;Nippon India Taiwan Equity fund- Regular Plan- Growth Option;6.8415;25-Nov-2022
 149325;INF204KC1287;INF204KC1295;Nippon India Taiwan Equity Fund- Regular Plan- IDCW option;6.8415;25-Nov-2022
-134925;INF204KA16G3;INF204KA17G1;NIPPON INDIA - US EQUITY OPPORTUNITES FUND - Direct Plan - IDCW Option;23.3781;23-Nov-2022
-134924;INF204KA13G0;INF204KA14G8;NIPPON INDIA - US EQUITY OPPORTUNITES FUND - IDCW Option;21.5921;23-Nov-2022
-134923;INF204KA15G5;-;Nippon India US Equity Opportunites Fund- Direct Plan- Growth Plan- Growth Option;23.3781;23-Nov-2022
-134922;INF204KA12G2;-;Nippon India US Equity Opportunites Fund- Growth Plan- Growth Option;21.5921;23-Nov-2022
+134925;INF204KA16G3;INF204KA17G1;NIPPON INDIA - US EQUITY OPPORTUNITES FUND - Direct Plan - IDCW Option;23.3752;25-Nov-2022
+134924;INF204KA13G0;INF204KA14G8;NIPPON INDIA - US EQUITY OPPORTUNITES FUND - IDCW Option;21.5879;25-Nov-2022
+134923;INF204KA15G5;-;Nippon India US Equity Opportunites Fund- Direct Plan- Growth Plan- Growth Option;23.3752;25-Nov-2022
+134922;INF204KA12G2;-;Nippon India US Equity Opportunites Fund- Growth Plan- Growth Option;21.5879;25-Nov-2022
 148564;INF966L01AD4;-;quant ESG Equity Fund - Growth Option - Direct Plan;23.1402;25-Nov-2022
 148560;INF966L01AB8;-;quant ESG Equity Fund - Growth Option - Regular Plan;22.4644;25-Nov-2022
 148563;INF966L01AE2;INF966L01AG7;quant ESG Equity Fund - IDCW Option - Direct Plan;23.1157;25-Nov-2022
@@ -5761,10 +5761,10 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 104898;INF109K01787;-;ICICI Prudential Multi-Asset Fund-Institutional Option - I;43.0129;18-Jun-2018
 148454;INF247L01AI8;-;Motilal Oswal Multi Asset Fund - Direct Plan - Growth Option;11.2256;25-Nov-2022
 148455;INF247L01AJ6;-;Motilal Oswal Multi Asset Fund - Regular Plan - Growth Option;10.8730;25-Nov-2022
-148457;INF204KB19V4;-;Nippon India Multi Asset Fund - Direct Plan - Growth Option;14.0884;24-Nov-2022
-148458;INF204KB10W1;INF204KB11W9;NIPPON INDIA MULTI ASSET FUND - DIRECT Plan - IDCW Option;14.0884;24-Nov-2022
-148460;INF204KB17V8;INF204KB18V6;NIPPON INDIA MULTI ASSET FUND - IDCW Option;13.6269;24-Nov-2022
-148459;INF204KB16V0;-;Nippon India Multi Asset Fund - Regular Plan - Growth Option;13.6269;24-Nov-2022
+148457;INF204KB19V4;-;Nippon India Multi Asset Fund - Direct Plan - Growth Option;14.0866;25-Nov-2022
+148458;INF204KB10W1;INF204KB11W9;NIPPON INDIA MULTI ASSET FUND - DIRECT Plan - IDCW Option;14.0866;25-Nov-2022
+148460;INF204KB17V8;INF204KB18V6;NIPPON INDIA MULTI ASSET FUND - IDCW Option;13.6246;25-Nov-2022
+148459;INF204KB16V0;-;Nippon India Multi Asset Fund - Regular Plan - Growth Option;13.6246;25-Nov-2022
 120820;INF966L01564;INF966L01572;quant Multi Asset Fund - IDCW Option - Direct Plan;83.707;25-Nov-2022
 101071;INF966L01184;INF966L01192;quant Multi Asset Fund - IDCW Option - Regular Plan;80.6105;25-Nov-2022
 101072;INF966L01200;-;quant Multi Asset Fund-GROWTH OPTION - Regular Plan;87.8403;25-Nov-2022
@@ -6430,10 +6430,10 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 150595;INF769K01IQ9;-;Mirae Asset Global Electric & Autonomous Vehicles ETFs Fund of Fund- Direct Plan - Growth;9.887;24-Nov-2022
 150597;INF769K01IS5;-;Mirae Asset Global X Artificial Intelligence & Technology ETF Fund of Fund - Direct Plan- Growth;10.114;23-Nov-2022
 150596;INF769K01IR7;-;Mirae Asset Global X Artificial Intelligence & Technology ETF Fund of Fund - Regular Plan - Growth;10.109;23-Nov-2022
-149910;-;-;Navi NASDAQ 100 Fund of Fund- Direct- Growth;8.5887;23-Nov-2022
-149911;-;-;Navi NASDAQ 100 Fund of Fund- Regular- Growth;8.579;23-Nov-2022
-149830;INF959L01FV0;-;Navi US Total Stock Market Fund of Fund- Direct Plan- Growth;10.1746;23-Nov-2022
-149831;INF959L01FW8;-;Navi US Total Stock Market Fund of Fund- Regular Plan- Growth;10.1689;23-Nov-2022
+149910;-;-;Navi NASDAQ 100 Fund of Fund- Direct- Growth;8.5089;25-Nov-2022
+149911;-;-;Navi NASDAQ 100 Fund of Fund- Regular- Growth;8.4991;25-Nov-2022
+149830;INF959L01FV0;-;Navi US Total Stock Market Fund of Fund- Direct Plan- Growth;10.1613;25-Nov-2022
+149831;INF959L01FW8;-;Navi US Total Stock Market Fund of Fund- Regular Plan- Growth;10.1556;25-Nov-2022
 138457;INF223J01NJ4;-;PGIM India Emerging Markets Equity Fund - Direct Plan - Dividend;8.59;24-Nov-2022
 138456;INF223J01NL0;-;PGIM India Emerging Markets Equity Fund - Direct Plan - Growth;12.48;24-Nov-2022
 138454;INF223J01AW4;INF223J01AX2;PGIM India Emerging Markets Equity Fund - Dividend;10.35;24-Nov-2022
@@ -6447,10 +6447,10 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 149300;INF663L01W71;INF663L01W89;PGIM India Global Select Real Estate Securities Fund of Fund - Direct Plan - IDCW Option;8.66;24-Nov-2022
 149299;INF663L01W97;-;PGIM India Global Select Real Estate Securities Fund of Fund - Regular Plan - Growth Option;8.59;24-Nov-2022
 149301;INF663L01X05;INF663L01X13;PGIM India Global Select Real Estate Securities Fund of Fund - Regular Plan - IDCW Option;8.59;24-Nov-2022
-148760;INF200KA1U28;-;SBI International Access - US Equity FoF - Direct Plan - Growth;11.1460;23-Nov-2022
-148762;INF200KA1T96;-;SBI International Access - US Equity FoF - Regular Plan - Growth;10.9927;23-Nov-2022
-148761;INF200KA1U36;INF200KA1U44;SBI International Access- US Equity FoF Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);11.1463;23-Nov-2022
-148759;INF200KA1U02;INF200KA1U10;SBI International Access- US Equity FoF Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);10.9931;23-Nov-2022
+148760;INF200KA1U28;-;SBI International Access - US Equity FoF - Direct Plan - Growth;11.0849;25-Nov-2022
+148762;INF200KA1T96;-;SBI International Access - US Equity FoF - Regular Plan - Growth;10.9321;25-Nov-2022
+148761;INF200KA1U36;INF200KA1U44;SBI International Access- US Equity FoF Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);11.0853;25-Nov-2022
+148759;INF200KA1U02;INF200KA1U10;SBI International Access- US Equity FoF Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);10.9324;25-Nov-2022
 119602;INF903J01OB6;-;Sundaram Global Brand Fund Direct Plan - Growth;23.9614;24-Nov-2022
 119601;INF903J01NZ7;INF903J01OA8;Sundaram Global Brand Fund Direct Plan - Income Distribution cum Capital Withdrawal (IDCW);21.3121;24-Nov-2022
 106370;INF903J01EX1;-;Sundaram Global Brand Fund Regular Plan - Growth;22.4390;24-Nov-2022
