@@ -2695,21 +2695,21 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 151190;INF966L01AZ7;-;quant Overnight Fund - Growth Option - Direct Plan;10.014;13-Dec-2022
 151195;INF966L01BC4;-;quant Overnight Fund - Growth Option - Regular Plan;10.0133;13-Dec-2022
 151193;INF966L01BA8;INF966L01BB6;quant Overnight Fund - IDCW Option - Direct Plan;10.014;13-Dec-2022
-150631;INF0K1H01040;-;Samco Overnight Fund - Direct Plan - Growth Option;1010.8547;13-Dec-2022
-150632;INF0K1H01032;-;Samco Overnight Fund - Regular Plan - Growth Option;1010.5022;13-Dec-2022
+150631;INF0K1H01040;-;Samco Overnight Fund - Direct Plan - Growth Option;1011.0142;14-Dec-2022
+150632;INF0K1H01032;-;Samco Overnight Fund - Regular Plan - Growth Option;1010.6558;14-Dec-2022
 119831;-;INF200K01TJ7;SBI Overnight Fund - Direct Plan - Daily Income Distribution cum Capital Withdrawal Option (IDCW);1111.8877;13-Dec-2022
 119833;INF200K01TK5;-;SBI OVERNIGHT FUND - DIRECT PLAN - GROWTH;3582.2654;13-Dec-2022
 119832;INF200K01TL3;INF200K01TM1;SBI Overnight Fund - Direct Plan - Weekly Income Distribution cum Capital Withdrawal Option (IDCW);1135.3999;13-Dec-2022
 114297;-;INF200K01LN6;SBI Overnight Fund - Regular Plan - Daily Income Distribution cum Capital Withdrawal Option (IDCW);1109.6412;13-Dec-2022
 101206;INF200K01LQ9;-;SBI OVERNIGHT FUND - REGULAR PLAN - GROWTH;3542.9299;13-Dec-2022
 103140;INF200K01LO4;INF200K01LP1;SBI Overnight Fund - Regular Plan - Weekly Income Distribution cum Capital Withdrawal Option (IDCW);1133.0281;13-Dec-2022
-150562;INF680P01323;-;Shriram Overnight Fund -  Direct Growth;10.1816;13-Dec-2022
-150561;-;INF680P01331;Shriram Overnight Fund - Direct Daily IDCW;10.0000;13-Dec-2022
+150562;INF680P01323;-;Shriram Overnight Fund -  Direct Growth;10.1833;14-Dec-2022
+150561;-;INF680P01331;Shriram Overnight Fund - Direct Daily IDCW;10.0000;14-Dec-2022
 150564;INF680P01364;INF680P01372;Shriram Overnight Fund - Direct Fortnightly IDCW;10.0046;22-Sep-2022
-150558;-;INF680P01257;Shriram Overnight Fund - Regular Daily IDCW;10.0000;13-Dec-2022
-150565;INF680P01232;-;Shriram Overnight Fund - Regular Growth;10.1787;13-Dec-2022
-150560;INF680P01307;INF680P01315;Shriram Overnight Fund - Regular Monthly IDCW;10.0437;13-Dec-2022
-150559;INF680P01265;INF680P01273;Shriram Overnight Fund - Regular Weekly IDCW;10.0016;13-Dec-2022
+150558;-;INF680P01257;Shriram Overnight Fund - Regular Daily IDCW;10.0000;14-Dec-2022
+150565;INF680P01232;-;Shriram Overnight Fund - Regular Growth;10.1804;14-Dec-2022
+150560;INF680P01307;INF680P01315;Shriram Overnight Fund - Regular Monthly IDCW;10.0453;14-Dec-2022
+150559;INF680P01265;INF680P01273;Shriram Overnight Fund - Regular Weekly IDCW;10.0032;14-Dec-2022
 146964;INF903JA1HJ9;-;Sundaram Overnight Fund Direct Plan - Daily Reinvestment of Income Distribution cum Capital Withdrawal (IDCW);1000.0300;13-Dec-2022
 146956;INF903JA1HL5;-;Sundaram Overnight Fund Direct Plan - Fortnightly Reinvestment of Income Distribution cum Capital Withdrawal (IDCW);1064.2465;13-Dec-2022
 146963;INF903JA1HG5;-;Sundaram Overnight Fund Direct Plan - Growth;1169.3811;13-Dec-2022
@@ -3536,10 +3536,10 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 119723;INF200K01UM9;-;SBI LONG TERM EQUITY FUND - DIRECT PLAN -GROWTH;261.5675;13-Dec-2022
 103883;INF200K01479;-;SBI Long Term Equity Fund - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);55.5722;13-Dec-2022
 105628;INF200K01495;-;SBI LONG TERM EQUITY FUND - REGULAR PLAN- GROWTH;246.3399;13-Dec-2022
-145819;INF680P01158;-;Shriram Long Term Equity Fund - Direct Growth;17.363;13-Dec-2022
-145822;INF680P01166;-;Shriram Long Term Equity Fund - Direct- IDCW;17.2907;13-Dec-2022
-145820;INF680P01133;-;Shriram Long Term Equity Fund - Regular Growth;16.1440;13-Dec-2022
-145821;INF680P01141;-;Shriram Long Term Equity Fund - Regular-IDCW;16.1345;13-Dec-2022
+145819;INF680P01158;-;Shriram Long Term Equity Fund - Direct Growth;17.4202;14-Dec-2022
+145822;INF680P01166;-;Shriram Long Term Equity Fund - Direct- IDCW;17.3476;14-Dec-2022
+145820;INF680P01133;-;Shriram Long Term Equity Fund - Regular Growth;16.1964;14-Dec-2022
+145821;INF680P01141;-;Shriram Long Term Equity Fund - Regular-IDCW;16.1869;14-Dec-2022
 119549;INF903J01NN3;-;Sundaram Diversified Equity (ELSS) Direct Plan - Growth;166.4621;13-Dec-2022
 119548;INF903J01NL7;INF903J01NM5;Sundaram Diversified Equity (ELSS) Direct Plan - Income Distribution cum Capital Withdrawal (IDCW);16.5210;13-Dec-2022
 101853;INF903J01538;-;Sundaram Diversified Equity (ELSS) Regular Plan - Growth;159.3892;13-Dec-2022
@@ -3552,10 +3552,10 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 100474;INF277K01I60;-;Tata India Tax Savings Fund- Regular Plan - Payout of IDCW Option;77.6192;13-Dec-2022
 132756;INF277K01I86;-;Tata India Tax Savings Fund-Growth-Direct Plan;34.0470;13-Dec-2022
 132757;INF277K01I52;-;Tata India Tax Savings Fund-Growth-Regular Plan;30.6286;13-Dec-2022
-118866;INF044D01CG6;INF044D01AA3;Taurus Taxshield - Direct Plan - Growth;129.48;13-Dec-2022
-118867;INF044D01CH4;INF044D01CI2;Taurus Taxshield - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;59.67;13-Dec-2022
-100480;INF044D01AC9;-;Taurus Taxshield - Regular Plan - Growth;120.78;13-Dec-2022
-108402;INF044D01997;-;Taurus Taxshield - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;56.58;13-Dec-2022
+118866;INF044D01CG6;INF044D01AA3;Taurus Taxshield - Direct Plan - Growth;130.30;14-Dec-2022
+118867;INF044D01CH4;INF044D01CI2;Taurus Taxshield - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;60.05;14-Dec-2022
+100480;INF044D01AC9;-;Taurus Taxshield - Regular Plan - Growth;121.54;14-Dec-2022
+108402;INF044D01997;-;Taurus Taxshield - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;56.94;14-Dec-2022
 119307;INF582M01765;-;Union Long Term Equity Fund - Direct Plan - Growth Option;46.99;13-Dec-2022
 119306;INF582M01781;INF582M01773;Union Long Term Equity Fund - Direct Plan - IDCW Option;46.99;13-Dec-2022
 116051;INF582M01302;-;Union Long Term Equity Fund - Growth Option;44.28;13-Dec-2022
@@ -3666,16 +3666,16 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 120843;INF966L01911;-;quant Flexi Cap Fund - Growth Option-Direct Plan;71.4177;13-Dec-2022
 120842;INF966L01895;INF966L01903;quant Flexi Cap Fund - IDCW Option - Direct Plan;48.5792;13-Dec-2022
 109831;INF966L01432;INF966L01440;quant Flexi Cap Fund - IDCW Option - Regular Plan;47.359;13-Dec-2022
-149450;INF0K1H01024;-;Samco Flexi Cap Fund - Direct Plan - Growth Option;9.66;13-Dec-2022
-149449;INF0K1H01016;-;Samco Flexi Cap Fund - Regular Plan - Growth Option;9.53;13-Dec-2022
+149450;INF0K1H01024;-;Samco Flexi Cap Fund - Direct Plan - Growth Option;9.76;14-Dec-2022
+149449;INF0K1H01016;-;Samco Flexi Cap Fund - Regular Plan - Growth Option;9.62;14-Dec-2022
 119718;INF200K01UG1;-;SBI Flexicap Fund - DIRECT PLAN - Growth Option;85.7885;13-Dec-2022
 119717;INF200K01UE6;INF200K01UF3;SBI Flexicap Fund - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);42.8797;13-Dec-2022
 103216;INF200K01230;INF200K01248;SBI Flexicap Fund - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);35.1557;13-Dec-2022
 103215;INF200K01222;-;SBI Flexicap Fund - REGULAR PLAN -Growth Option;78.5120;13-Dec-2022
-144905;INF680P01109;-;Shriram Flexi Cap Fund - Direct Growth;16.694;13-Dec-2022
-144906;INF680P01117;INF680P01125;Shriram Flexi Cap Fund - Direct-IDCW;16.603;13-Dec-2022
-144902;INF680P01075;-;Shriram Flexi Cap Fund - Regular Growth;15.4637;13-Dec-2022
-144903;INF680P01083;INF680P01091;Shriram Flexi Cap Fund - Regular-IDCW;15.4590;13-Dec-2022
+144905;INF680P01109;-;Shriram Flexi Cap Fund - Direct Growth;16.7517;14-Dec-2022
+144906;INF680P01117;INF680P01125;Shriram Flexi Cap Fund - Direct-IDCW;16.6603;14-Dec-2022
+144902;INF680P01075;-;Shriram Flexi Cap Fund - Regular Growth;15.5163;14-Dec-2022
+144903;INF680P01083;INF680P01091;Shriram Flexi Cap Fund - Regular-IDCW;15.5116;14-Dec-2022
 150571;INF903JA1LE2;-;Sundaram Flexicap Fund Direct Growth;10.3491;13-Dec-2022
 150573;INF903JA1LF9;-;Sundaram Flexicap Fund Direct Plan IDCW Payout;10.3490;13-Dec-2022
 150572;-;INF903JA1LG7;Sundaram Flexicap Fund Direct Plan IDCW Reinvestment;10.3490;13-Dec-2022
@@ -3688,10 +3688,10 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 144544;INF277K011L7;-;TATA Flexi Cap Fund Regular Plan - Payout of Income Distribution cum capital withdrawal option ;16.1170;13-Dec-2022
 144545;-;INF277K010L9;TATA Flexi Cap Fund Regular Plan - Reinvestment of Income Distribution cum capital withdrawal option ;16.1170;13-Dec-2022
 144546;INF277K015K0;-;Tata Flexi Cap Fund-Direct Plan-Growth;17.3081;13-Dec-2022
-118884;INF044D01BV7;INF044D01BW5;Taurus Flexi Cap Fund - Direct Plan -  Payout of Income Distribution cum Capital Withdrawal option;82.70;13-Dec-2022
-118883;INF044D01BU9;-;Taurus Flexi Cap Fund - Direct Plan - Growth;163.91;13-Dec-2022
-100476;INF044D01989;-;Taurus Flexi Cap Fund - Regular Plan - Growth ;157.79;13-Dec-2022
-111640;INF044D01955;INF044D01963;Taurus Flexi Cap Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;76.57;13-Dec-2022
+118884;INF044D01BV7;INF044D01BW5;Taurus Flexi Cap Fund - Direct Plan -  Payout of Income Distribution cum Capital Withdrawal option;83.35;14-Dec-2022
+118883;INF044D01BU9;-;Taurus Flexi Cap Fund - Direct Plan - Growth;165.20;14-Dec-2022
+100476;INF044D01989;-;Taurus Flexi Cap Fund - Regular Plan - Growth ;159.02;14-Dec-2022
+111640;INF044D01955;INF044D01963;Taurus Flexi Cap Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;77.17;14-Dec-2022
 119292;INF582M01633;-;Union Flexi Cap Fund - Direct Plan - Growth Option;37.75;13-Dec-2022
 119293;INF582M01658;INF582M01641;Union Flexi Cap Fund - Direct Plan - IDCW Option;32.98;13-Dec-2022
 115270;INF582M01104;-;Union Flexi Cap Fund - Growth Option;34.93;13-Dec-2022
@@ -4067,10 +4067,10 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 100475;INF277K01931;-;Tata Large Cap Fund -Regular Plan - Growth Option;352.4885;13-Dec-2022
 119159;INF277K01QX2;INF277K01QY0;Tata Large Cap Fund- Direct Plan - Payout of IDCW Option;89.5685;13-Dec-2022
 102036;INF277K01EG3;INF277K01923;Tata Large Cap Fund- Regular Plan - Payout of IDCW Option;76.8244;13-Dec-2022
-118870;INF044D01BX3;-;Taurus Largecap Equity Fund - Direct Plan - Growth;116.71;13-Dec-2022
-118871;INF044D01BY1;INF044D01BZ8;Taurus Largecap Equity Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;51.41;13-Dec-2022
-101209;INF044D01773;-;Taurus Largecap Equity Fund - Regular Plan - Growth;110.65;13-Dec-2022
-108403;INF044D01740;INF044D01757;Taurus Largecap Equity Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;48.47;13-Dec-2022
+118870;INF044D01BX3;-;Taurus Largecap Equity Fund - Direct Plan - Growth;117.65;14-Dec-2022
+118871;INF044D01BY1;INF044D01BZ8;Taurus Largecap Equity Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;51.82;14-Dec-2022
+101209;INF044D01773;-;Taurus Largecap Equity Fund - Regular Plan - Growth;111.54;14-Dec-2022
+108403;INF044D01740;INF044D01757;Taurus Largecap Equity Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;48.86;14-Dec-2022
 141248;INF582M01CU7;-;Union Largecap Fund - Direct Plan - Growth Option;17.84;13-Dec-2022
 141249;INF582M01CV5;INF582M01CW3;Union Largecap Fund - Direct Plan - IDCW Option;17.84;13-Dec-2022
 141247;INF582M01CQ5;-;Union Largecap Fund - Regular Plan - Growth Option;17.17;13-Dec-2022
@@ -4188,10 +4188,10 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 119177;INF277K01PW6;INF277K01PX4;Tata Mid Cap Growth Fund - Direct Plan- IDCW Option;92.0866;13-Dec-2022
 102328;INF277K01626;-;Tata Mid Cap Growth Fund Regular Plan- Growth Option;253.0015;13-Dec-2022
 102326;INF277K01DS0;INF277K01642;Tata Mid Cap Growth Fund-Regular Plan - IDCW Option;69.8580;13-Dec-2022
-118872;INF044D01CA9;-;Taurus Discovery (Midcap) Fund - Direct Plan - Growth;82.81;13-Dec-2022
-118873;INF044D01CB7;INF044D01CC5;Taurus Discovery (Midcap) Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;73.57;13-Dec-2022
-100477;INF044D01815;-;Taurus Discovery (Midcap) Fund - Regular Plan - Growth;79.23;13-Dec-2022
-111642;INF044D01781;INF044D01799;Taurus Discovery (Midcap) Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;70.62;13-Dec-2022
+118872;INF044D01CA9;-;Taurus Discovery (Midcap) Fund - Direct Plan - Growth;83.41;14-Dec-2022
+118873;INF044D01CB7;INF044D01CC5;Taurus Discovery (Midcap) Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;74.09;14-Dec-2022
+100477;INF044D01815;-;Taurus Discovery (Midcap) Fund - Regular Plan - Growth;79.80;14-Dec-2022
+111642;INF044D01781;INF044D01799;Taurus Discovery (Midcap) Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;71.13;14-Dec-2022
 148073;INF582M01GI3;-;Union Midcap Fund - Direct Plan - Growth Option;29.98;13-Dec-2022
 148074;INF582M01GK9;INF582M01GJ1;Union Midcap Fund - Direct Plan - IDCW Option;29.98;13-Dec-2022
 148071;INF582M01GM5;-;Union Midcap Fund - Regular Plan - Growth Option;28.94;13-Dec-2022
@@ -4765,20 +4765,20 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 135818;-;INF277K014B2;TATA Resources & Energy Fund Regular Plan - Reinvestment of Income Distribution cum capital withdrawal option ;27.1994;13-Dec-2022
 135813;INF277K015B9;-;Tata Resources & Energy Fund-Direct Plan-Growth;33.4620;13-Dec-2022
 135815;INF277K012B6;-;Tata Resources & Energy Fund-Regular Plan-Growth;29.7322;13-Dec-2022
-118868;INF044D01CN2;-;Taurus Banking & Financial Services Fund - Direct Plan - Growth;44.57;13-Dec-2022
-118869;INF044D01CO0;INF044D01CP7;Taurus Banking & Financial Services Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;44.06;13-Dec-2022
-117312;INF044D01BI4;-;Taurus Banking & Financial Services Fund - Regular Plan - Growth;40.68;13-Dec-2022
-117313;INF044D01BJ2;INF044D01BK0;Taurus Banking & Financial Services Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;36.42;13-Dec-2022
-111903;INF044D01823;-;Taurus Ethical Fund -  Regular Plan - Bonus Option;86.74;13-Dec-2022
-118876;INF044D01CJ0;-;Taurus Ethical Fund - Direct Plan - Growth;94.53;13-Dec-2022
-118877;INF044D01CK8;INF044D01CL6;Taurus Ethical Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;63.46;13-Dec-2022
-111787;INF044D01864;-;Taurus Ethical Fund - Regular Plan - Growth;86.76;13-Dec-2022
-111788;INF044D01831;INF044D01849;Taurus Ethical Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;58.65;13-Dec-2022
-118878;INF044D01CM4;-;Taurus Ethical Fund-Direct Plan-Bonus Option #;30.98;13-Dec-2022
-118879;INF044D01CD3;-;Taurus Infrastructure Fund - Direct Plan - Growth ;44.43;13-Dec-2022
-118880;INF044D01CE1;INF044D01CF8;Taurus Infrastructure Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;41.38;13-Dec-2022
-105417;INF044D01906;-;Taurus Infrastructure Fund - Regular Plan - Growth;41.92;13-Dec-2022
-105418;INF044D01872;INF044D01880;Taurus Infrastructure Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;39.38;13-Dec-2022
+118868;INF044D01CN2;-;Taurus Banking & Financial Services Fund - Direct Plan - Growth;44.58;14-Dec-2022
+118869;INF044D01CO0;INF044D01CP7;Taurus Banking & Financial Services Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;44.06;14-Dec-2022
+117312;INF044D01BI4;-;Taurus Banking & Financial Services Fund - Regular Plan - Growth;40.69;14-Dec-2022
+117313;INF044D01BJ2;INF044D01BK0;Taurus Banking & Financial Services Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;36.42;14-Dec-2022
+111903;INF044D01823;-;Taurus Ethical Fund -  Regular Plan - Bonus Option;87.20;14-Dec-2022
+118876;INF044D01CJ0;-;Taurus Ethical Fund - Direct Plan - Growth;95.04;14-Dec-2022
+118877;INF044D01CK8;INF044D01CL6;Taurus Ethical Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;63.80;14-Dec-2022
+111787;INF044D01864;-;Taurus Ethical Fund - Regular Plan - Growth;87.22;14-Dec-2022
+111788;INF044D01831;INF044D01849;Taurus Ethical Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;58.96;14-Dec-2022
+118878;INF044D01CM4;-;Taurus Ethical Fund-Direct Plan-Bonus Option #;31.14;14-Dec-2022
+118879;INF044D01CD3;-;Taurus Infrastructure Fund - Direct Plan - Growth ;44.79;14-Dec-2022
+118880;INF044D01CE1;INF044D01CF8;Taurus Infrastructure Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;41.71;14-Dec-2022
+105417;INF044D01906;-;Taurus Infrastructure Fund - Regular Plan - Growth;42.26;14-Dec-2022
+105418;INF044D01872;INF044D01880;Taurus Infrastructure Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;39.69;14-Dec-2022
 120733;INF789F01SN3;-;UTI Banking and Financial Services Fund - Direct Plan - Growth Option;145.7231;13-Dec-2022
 120732;INF789F01SL7;INF789F01SM5;UTI Banking and Financial Services Fund - Direct Plan - IDCW;57.0333;13-Dec-2022
 102401;INF789F01372;-;UTI Banking and Financial Services Fund - Regular Plan - Growth Option;131.3905;13-Dec-2022
@@ -5182,10 +5182,10 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 119604;INF200K01RW4;INF200K01RX2;SBI Equity Hybrid Fund - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);67.0402;13-Dec-2022
 101551;INF200K01115;INF200K01123;SBI Equity Hybrid Fund - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);44.7245;13-Dec-2022
 102885;INF200K01107;-;SBI EQUITY HYBRID FUND - REGULAR PLAN -Growth;211.0603;13-Dec-2022
-125711;INF680P01042;-;Shriram Hybrid Equity Fund- Direct Growth;26.2228;13-Dec-2022
-125712;INF680P01059;INF680P01067;Shriram Hybrid Equity Fund- Direct- IDCW;20.7912;13-Dec-2022
-125713;INF680P01018;-;Shriram Hybrid Equity Fund- Growth;23.9042;13-Dec-2022
-125714;INF680P01026;INF680P01034;Shriram Hybrid Equity Fund- Regular-IDCW;19.1089;13-Dec-2022
+125711;INF680P01042;-;Shriram Hybrid Equity Fund- Direct Growth;26.2913;14-Dec-2022
+125712;INF680P01059;INF680P01067;Shriram Hybrid Equity Fund- Direct- IDCW;20.8455;14-Dec-2022
+125713;INF680P01018;-;Shriram Hybrid Equity Fund- Growth;23.9656;14-Dec-2022
+125714;INF680P01026;INF680P01034;Shriram Hybrid Equity Fund- Regular-IDCW;19.1580;14-Dec-2022
 149601;INF173K01FE6;-;Sundaram Aggressive Hybrid Fund (Formerly Known as Principal Hybrid Equity Fund)- Direct Plan - Growth Option;131.3526;13-Dec-2022
 149600;INF173K01CI4;INF173K01CJ2;Sundaram Aggressive Hybrid Fund (Formerly Known as Principal Hybrid Equity Fund)- Monthly Income Distribution CUM Capital Withdrawal;27.3354;13-Dec-2022
 149599;INF173K01CL8;-;Sundaram Aggressive Hybrid Fund (Formerly Known as Principal Hybrid Equity Fund)-Growth;118.0921;13-Dec-2022
@@ -5624,10 +5624,10 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 134109;INF200KA1648;-;SBI Dynamic Asset Allocation Fund - Regular Plan - Growth;15.9463;02-Jul-2021
 134111;INF200KA1689;INF200KA1697;SBI Dynamic Asset Allocation Fund- Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);16.8235;02-Jul-2021
 134108;INF200KA1655;INF200KA1663;SBI Dynamic Asset Allocation Fund- Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);15.9495;02-Jul-2021
-147406;INF680P01208;-;Shriram Balanced Advantage Fund - Direct Growth;14.64;13-Dec-2022
-147403;INF680P01216;INF680P01224;Shriram Balanced Advantage Fund - Direct- IDCW;14.5895;13-Dec-2022
-147405;INF680P01174;-;Shriram Balanced Advantage Fund - Regular Growth;13.7065;13-Dec-2022
-147404;INF680P01182;INF680P01190;Shriram Balanced Advantage Fund - Regular-IDCW;13.7075;13-Dec-2022
+147406;INF680P01208;-;Shriram Balanced Advantage Fund - Direct Growth;14.6857;14-Dec-2022
+147403;INF680P01216;INF680P01224;Shriram Balanced Advantage Fund - Direct- IDCW;14.6350;14-Dec-2022
+147405;INF680P01174;-;Shriram Balanced Advantage Fund - Regular Growth;13.7486;14-Dec-2022
+147404;INF680P01182;INF680P01190;Shriram Balanced Advantage Fund - Regular-IDCW;13.7496;14-Dec-2022
 149717;INF173K01FI7;-;Sundaram Balanced Advantage Fund ( Formerly Known as Principal Balanced Advantage Fund) - Direct Plan - Growth Option;30.6161;13-Dec-2022
 149718;INF173K01FF3;INF173K01FG1;Sundaram Balanced Advantage Fund (Formerly Known as Principal Balanced Advantage Fund) - Direct Plan - Monthly Income Distribution CUM Capital Withdrawal Option;17.3801;13-Dec-2022
 149715;INF173K01585;-;Sundaram Balanced Advantage Fund (Formerly Known as Principal Balanced Advantage Fund) - Growth Option;27.1036;13-Dec-2022
@@ -6027,10 +6027,10 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 122729;INF204K01V61;-;Reliance Yearly Interval Fund - Series 9 - Growth Plan - Growth Option;13.7202;14-Jul-2017
 102056;INF200K01750;INF200K01768;SBI Magnum Income Plus Fund - Savings Plan (D);11.1062;05-Oct-2012
 102055;INF200K01743;-;SBI Magnum Income Plus Fund - Savings Plan (G);12.5326;05-Oct-2012
-139619;-;-;Taurus Investor Education Pool - Unclaimed Dividend - Growth;10.0000;13-Dec-2022
-139618;-;-;Taurus Investor Education Pool - Unclaimed Redemption - Growth;10.0000;13-Dec-2022
-139616;-;-;Taurus Unclaimed Dividend - Growth;14.7230;13-Dec-2022
-139617;-;-;Taurus Unclaimed Redemption - Growth;14.7243;13-Dec-2022
+139619;-;-;Taurus Investor Education Pool - Unclaimed Dividend - Growth;10.0000;14-Dec-2022
+139618;-;-;Taurus Investor Education Pool - Unclaimed Redemption - Growth;10.0000;14-Dec-2022
+139616;-;-;Taurus Unclaimed Dividend - Growth;14.7248;14-Dec-2022
+139617;-;-;Taurus Unclaimed Redemption - Growth;14.7261;14-Dec-2022
 131897;INF084M01DQ0;INF084M01DR8;Aditya Birla Sun Life Active Debt Multi Manager FoF Scheme - DIRECT - IDCW;20.3606;13-Dec-2022
 131898;INF084M01DP2;-;Aditya Birla Sun Life Active Debt Multi Manager FoF Scheme - Direct Plan - Growth Option;32.5155;13-Dec-2022
 131895;INF084M01AI3;INF084M01AJ1;Aditya Birla Sun Life Active Debt Multi Manager FoF Scheme - REGULAR - IDCW;19.4584;13-Dec-2022
@@ -7019,10 +7019,10 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 150329;-;INF277KA1422;Tata Nifty SDL Plus AAA PSU Bond Dec 6040 Index Fund-Regular Plan- IDCW Reinvestment;10.2493;13-Dec-2022
 119287;INF277K01PK1;-;Tata S&P BSE Sensex Index Fund - Direct Plan;162.1517;13-Dec-2022
 101746;INF277K01758;-;Tata S&P BSE Sensex Index Fund -Regular Plan;154.4387;13-Dec-2022
-118881;INF044D01CQ5;-;Taurus Nifty 50 Index Fund - Direct Plan - Growth;37.5538;13-Dec-2022
-118882;INF044D01CR3;INF044D01CS1;Taurus Nifty 50 Index Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;35.1458;13-Dec-2022
-112948;INF044D01948;-;Taurus Nifty 50 Index Fund - Regular Plan - Growth;35.5240;13-Dec-2022
-112949;INF044D01914;INF044D01922;Taurus Nifty 50 Index Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;22.6481;13-Dec-2022
+118881;INF044D01CQ5;-;Taurus Nifty 50 Index Fund - Direct Plan - Growth;37.6539;14-Dec-2022
+118882;INF044D01CR3;INF044D01CS1;Taurus Nifty 50 Index Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;35.2396;14-Dec-2022
+112948;INF044D01948;-;Taurus Nifty 50 Index Fund - Regular Plan - Growth;35.6182;14-Dec-2022
+112949;INF044D01914;INF044D01922;Taurus Nifty 50 Index Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;22.7081;14-Dec-2022
 143341;INF789FC12T1;-;UTI Nifty Next 50 Index Fund - Direct Plan - Growth Option;15.9766;13-Dec-2022
 143340;INF789FC11T3;-;UTI Nifty Next 50 Index Fund - Regular Plan - Growth Option;15.5952;13-Dec-2022
 148703;INF789F1AUT5;-;UTI Nifty 200 Momentum 30 Index Fund - Direct Plan - Growth Option;13.784;13-Dec-2022
