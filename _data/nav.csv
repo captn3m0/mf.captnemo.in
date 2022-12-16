@@ -4403,10 +4403,10 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 118538;INF090I01GD6;INF090I01GE4;Franklin INDIA OPPORTUNITIES FUND - Direct - IDCW ;24.8077;15-Dec-2022
 103151;INF090I01841;-;Franklin India Opportunities Fund - Growth;122.6610;15-Dec-2022
 100524;INF090I01858;INF090I01866;Franklin INDIA OPPORTUNITIES FUND - IDCW ;22.6188;15-Dec-2022
-118537;INF090I01FE6;-;Franklin India Technology Fund - Direct - Growth;314.5588;14-Dec-2022
-118536;INF090I01FF3;INF090I01FG1;Franklin India Technology Fund - Direct - IDCW ;35.8786;14-Dec-2022
-100521;INF090I01759;INF090I01767;Franklin India Technology Fund - IDCW ;32.8472;14-Dec-2022
-100522;INF090I01742;-;Franklin India Technology Fund-Growth;293.6239;14-Dec-2022
+118537;INF090I01FE6;-;Franklin India Technology Fund - Direct - Growth;308.1762;15-Dec-2022
+118536;INF090I01FF3;INF090I01FG1;Franklin India Technology Fund - Direct - IDCW ;35.1506;15-Dec-2022
+100521;INF090I01759;INF090I01767;Franklin India Technology Fund - IDCW ;32.1798;15-Dec-2022
+100522;INF090I01742;-;Franklin India Technology Fund-Growth;287.6580;15-Dec-2022
 148987;INF179KC1BJ4;-;HDFC Banking & Financial Services Fund - Growth Option;11.709;15-Dec-2022
 148986;INF179KC1BG0;-;HDFC Banking & Financial Services Fund - Growth Option - Direct Plan;12.014;15-Dec-2022
 148984;INF179KC1BK2;INF179KC1BL0;HDFC Banking & Financial Services Fund - IDCW Option;11.709;15-Dec-2022
@@ -4631,10 +4631,10 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 149327;INF204KC1311;INF204KC1329;Nippon India Taiwan Equity Fund- Direct Plan- IDCW option;7.2421;15-Dec-2022
 149328;INF204KC1279;-;Nippon India Taiwan Equity fund- Regular Plan- Growth Option;7.1196;15-Dec-2022
 149325;INF204KC1287;INF204KC1295;Nippon India Taiwan Equity Fund- Regular Plan- IDCW option;7.1196;15-Dec-2022
-134925;INF204KA16G3;INF204KA17G1;NIPPON INDIA - US EQUITY OPPORTUNITES FUND - Direct Plan - IDCW Option;23.6893;14-Dec-2022
-134924;INF204KA13G0;INF204KA14G8;NIPPON INDIA - US EQUITY OPPORTUNITES FUND - IDCW Option;21.8633;14-Dec-2022
-134923;INF204KA15G5;-;Nippon India US Equity Opportunites Fund- Direct Plan- Growth Plan- Growth Option;23.6893;14-Dec-2022
-134922;INF204KA12G2;-;Nippon India US Equity Opportunites Fund- Growth Plan- Growth Option;21.8633;14-Dec-2022
+134925;INF204KA16G3;INF204KA17G1;NIPPON INDIA - US EQUITY OPPORTUNITES FUND - Direct Plan - IDCW Option;22.9925;15-Dec-2022
+134924;INF204KA13G0;INF204KA14G8;NIPPON INDIA - US EQUITY OPPORTUNITES FUND - IDCW Option;21.2194;15-Dec-2022
+134923;INF204KA15G5;-;Nippon India US Equity Opportunites Fund- Direct Plan- Growth Plan- Growth Option;22.9925;15-Dec-2022
+134922;INF204KA12G2;-;Nippon India US Equity Opportunites Fund- Growth Plan- Growth Option;21.2194;15-Dec-2022
 148564;INF966L01AD4;-;quant ESG Equity Fund - Growth Option - Direct Plan;23.4275;15-Dec-2022
 148560;INF966L01AB8;-;quant ESG Equity Fund - Growth Option - Regular Plan;22.7181;15-Dec-2022
 148563;INF966L01AE2;INF966L01AG7;quant ESG Equity Fund - IDCW Option - Direct Plan;23.4027;15-Dec-2022
@@ -5818,18 +5818,18 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 119131;INF179K01XW8;-;HDFC Multi-Asset Fund - Growth Option - Direct Plan;54.477;15-Dec-2022
 103130;INF179K01AN5;INF179K01AO3;HDFC Multi-Asset Fund - IDCW Option;15.373;15-Dec-2022
 119130;INF179K01XU2;INF179K01XV0;HDFC Multi-Asset Fund - IDCW Option - Direct Plan;17.736;15-Dec-2022
-120334;INF109K015K4;-;ICICI Prudential Multi-Asset Fund - Direct Plan - Growth;523.2351;14-Dec-2022
-120335;INF109K013K9;INF109K014K7;ICICI Prudential Multi-Asset Fund - Direct Plan - IDCW;39.7693;14-Dec-2022
-101144;INF109K01761;-;ICICI Prudential Multi-Asset Fund - Growth;484.6325;14-Dec-2022
-101143;INF109K01ED5;INF109K01779;ICICI Prudential Multi-Asset Fund - IDCW;25.8465;14-Dec-2022
+120334;INF109K015K4;-;ICICI Prudential Multi-Asset Fund - Direct Plan - Growth;520.5266;15-Dec-2022
+120335;INF109K013K9;INF109K014K7;ICICI Prudential Multi-Asset Fund - Direct Plan - IDCW;39.5635;15-Dec-2022
+101144;INF109K01761;-;ICICI Prudential Multi-Asset Fund - Growth;482.1145;15-Dec-2022
+101143;INF109K01ED5;INF109K01779;ICICI Prudential Multi-Asset Fund - IDCW;25.7122;15-Dec-2022
 115269;INF109K01TN2;-;ICICI Prudential Multi-Asset Fund- Institutional Growth Option;22.849;24-Apr-2020
 104898;INF109K01787;-;ICICI Prudential Multi-Asset Fund-Institutional Option - I;43.0129;18-Jun-2018
 148454;INF247L01AI8;-;Motilal Oswal Multi Asset Fund - Direct Plan - Growth Option;11.2033;15-Dec-2022
 148455;INF247L01AJ6;-;Motilal Oswal Multi Asset Fund - Regular Plan - Growth Option;10.8449;15-Dec-2022
-148457;INF204KB19V4;-;Nippon India Multi Asset Fund - Direct Plan - Growth Option;14.3627;14-Dec-2022
-148458;INF204KB10W1;INF204KB11W9;NIPPON INDIA MULTI ASSET FUND - DIRECT Plan - IDCW Option;14.3627;14-Dec-2022
-148460;INF204KB17V8;INF204KB18V6;NIPPON INDIA MULTI ASSET FUND - IDCW Option;13.8807;14-Dec-2022
-148459;INF204KB16V0;-;Nippon India Multi Asset Fund - Regular Plan - Growth Option;13.8807;14-Dec-2022
+148457;INF204KB19V4;-;Nippon India Multi Asset Fund - Direct Plan - Growth Option;14.1891;15-Dec-2022
+148458;INF204KB10W1;INF204KB11W9;NIPPON INDIA MULTI ASSET FUND - DIRECT Plan - IDCW Option;14.1891;15-Dec-2022
+148460;INF204KB17V8;INF204KB18V6;NIPPON INDIA MULTI ASSET FUND - IDCW Option;13.7124;15-Dec-2022
+148459;INF204KB16V0;-;Nippon India Multi Asset Fund - Regular Plan - Growth Option;13.7124;15-Dec-2022
 120820;INF966L01564;INF966L01572;quant Multi Asset Fund - IDCW Option - Direct Plan;85.2914;15-Dec-2022
 101071;INF966L01184;INF966L01192;quant Multi Asset Fund - IDCW Option - Regular Plan;82.0575;15-Dec-2022
 101072;INF966L01200;-;quant Multi Asset Fund-GROWTH OPTION - Regular Plan;89.4158;15-Dec-2022
@@ -6413,14 +6413,14 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 148064;INF754K01LC5;-;Edelweiss US Technology Equity Fund of Fund- Regular Plan- Growth;13.6225;14-Dec-2022
 140274;INF843K01EC1;-;Edelweiss US Value Equity Offshore Fund - Direct Plan - Growth Option;27.8765;14-Dec-2022
 140273;INF843K01ED9;-;Edelweiss US Value Equity Offshore Fund - Regular Plan - Growth Option;25.8093;14-Dec-2022
-118550;INF090I01JP4;INF090I01JQ2;Franklin India Feeder - Franklin U S Opportunities Fund - Direct - IDCW ;47.9568;14-Dec-2022
-116632;INF090I01EV3;INF090I01EU5;Franklin India Feeder - Franklin U S Opportunities Fund - IDCW ;43.5006;14-Dec-2022
-116633;INF090I01EW1;-;Franklin India Feeder - Franklin U.S. Opportunities Fund - Growth;43.5006;14-Dec-2022
-118551;INF090I01JR0;-;Franklin India Feeder - Franklin US Opportunities Fund - Direct - Growth;47.9568;14-Dec-2022
-129440;INF090I01KX6;-;Franklin India Feeder - Templeton European Opportunities Fund - Direct - Growth;10.1395;14-Dec-2022
-129441;INF090I01KY4;INF090I01KZ1;Franklin India Feeder - Templeton European Opportunities Fund - Direct - IDCW ;10.1395;14-Dec-2022
-129438;INF090I01KU2;-;Franklin India Feeder - Templeton European Opportunities Fund - Growth;9.2027;14-Dec-2022
-129439;INF090I01KV0;INF090I01KW8;Franklin India Feeder - Templeton European Opportunities Fund - IDCW ;9.2027;14-Dec-2022
+118550;INF090I01JP4;INF090I01JQ2;Franklin India Feeder - Franklin U S Opportunities Fund - Direct - IDCW ;46.7154;15-Dec-2022
+116632;INF090I01EV3;INF090I01EU5;Franklin India Feeder - Franklin U S Opportunities Fund - IDCW ;42.3733;15-Dec-2022
+116633;INF090I01EW1;-;Franklin India Feeder - Franklin U.S. Opportunities Fund - Growth;42.3733;15-Dec-2022
+118551;INF090I01JR0;-;Franklin India Feeder - Franklin US Opportunities Fund - Direct - Growth;46.7154;15-Dec-2022
+129440;INF090I01KX6;-;Franklin India Feeder - Templeton European Opportunities Fund - Direct - Growth;9.9965;15-Dec-2022
+129441;INF090I01KY4;INF090I01KZ1;Franklin India Feeder - Templeton European Opportunities Fund - Direct - IDCW ;9.9965;15-Dec-2022
+129438;INF090I01KU2;-;Franklin India Feeder - Templeton European Opportunities Fund - Growth;9.0726;15-Dec-2022
+129439;INF090I01KV0;INF090I01KW8;Franklin India Feeder - Templeton European Opportunities Fund - IDCW ;9.0726;15-Dec-2022
 149180;INF179KC1BO4;-;HDFC Developed World Indexes Fund of Funds - Direct Plan - Growth Option;10.063;15-Dec-2022
 149181;INF179KC1BP1;-;HDFC Developed World Indexes Fund of Funds - Growth Option;9.991;15-Dec-2022
 127073;INF336L01HC7;-;HSBC Asia Pacific (Ex Japan) Dividend Yield Fund - Growth;17.6707;14-Dec-2022
@@ -6512,10 +6512,10 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 149300;INF663L01W71;INF663L01W89;PGIM India Global Select Real Estate Securities Fund of Fund - Direct Plan - IDCW Option;8.96;14-Dec-2022
 149299;INF663L01W97;-;PGIM India Global Select Real Estate Securities Fund of Fund - Regular Plan - Growth Option;8.89;14-Dec-2022
 149301;INF663L01X05;INF663L01X13;PGIM India Global Select Real Estate Securities Fund of Fund - Regular Plan - IDCW Option;8.89;14-Dec-2022
-148760;INF200KA1U28;-;SBI International Access - US Equity FoF - Direct Plan - Growth;11.1831;14-Dec-2022
-148762;INF200KA1T96;-;SBI International Access - US Equity FoF - Regular Plan - Growth;11.0249;14-Dec-2022
-148761;INF200KA1U36;INF200KA1U44;SBI International Access- US Equity FoF Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);11.1835;14-Dec-2022
-148759;INF200KA1U02;INF200KA1U10;SBI International Access- US Equity FoF Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);11.0253;14-Dec-2022
+148760;INF200KA1U28;-;SBI International Access - US Equity FoF - Direct Plan - Growth;10.8715;15-Dec-2022
+148762;INF200KA1T96;-;SBI International Access - US Equity FoF - Regular Plan - Growth;10.7175;15-Dec-2022
+148761;INF200KA1U36;INF200KA1U44;SBI International Access- US Equity FoF Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);10.8718;15-Dec-2022
+148759;INF200KA1U02;INF200KA1U10;SBI International Access- US Equity FoF Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);10.7178;15-Dec-2022
 119602;INF903J01OB6;-;Sundaram Global Brand Fund Direct Plan - Growth;24.3084;14-Dec-2022
 119601;INF903J01NZ7;INF903J01OA8;Sundaram Global Brand Fund Direct Plan - Income Distribution cum Capital Withdrawal (IDCW);21.6205;14-Dec-2022
 106370;INF903J01EX1;-;Sundaram Global Brand Fund Regular Plan - Growth;22.7527;14-Dec-2022
