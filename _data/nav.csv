@@ -56,10 +56,10 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 129006;INF090I01KO5;-;Franklin India Banking & PSU Debt Fund - Growth;18.6595;19-Dec-2022
 129009;INF090I01KS6;INF090I01KT4;Franklin India Banking and PSU Debt Fund - Direct - IDCW ;10.8115;19-Dec-2022
 129007;INF090I01KP2;INF090I01KQ0;Franklin India Banking and PSU Debt Fund - IDCW ;10.3177;19-Dec-2022
-128628;INF179KA1JC4;-;HDFC Banking and PSU Debt Fund - Growth Option;19.0653;16-Dec-2022
-128629;INF179KA1IZ7;-;HDFC Banking and PSU Debt Fund - Growth Option - Direct Plan;19.6521;16-Dec-2022
-128627;INF179KA1JD2;INF179KA1JE0;HDFC Banking and PSU Debt Fund - IDCW Option;10.147;16-Dec-2022
-128626;INF179KA1JA8;INF179KA1JB6;HDFC Banking and PSU Debt Fund - IDCW Option - Direct Plan;10.0374;16-Dec-2022
+128628;INF179KA1JC4;-;HDFC Banking and PSU Debt Fund - Growth Option;19.0748;19-Dec-2022
+128629;INF179KA1IZ7;-;HDFC Banking and PSU Debt Fund - Growth Option - Direct Plan;19.6625;19-Dec-2022
+128627;INF179KA1JD2;INF179KA1JE0;HDFC Banking and PSU Debt Fund - IDCW Option;10.152;19-Dec-2022
+128626;INF179KA1JA8;INF179KA1JB6;HDFC Banking and PSU Debt Fund - IDCW Option - Direct Plan;10.0427;19-Dec-2022
 151108;-;INF917K01HL7;HSBC Banking and PSU Debt Fund - Direct Daily IDCW;11.1907;19-Dec-2022
 151107;INF917K01HH5;-;HSBC Banking and PSU Debt Fund - Direct Growth;21.1809;19-Dec-2022
 151106;INF917K01HJ1;INF917K01HI3;HSBC Banking and PSU Debt Fund - Direct Monthly IDCW;11.3391;19-Dec-2022
@@ -270,12 +270,12 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 100531;INF090I01DN2;INF090I01DO0;Franklin India Corporate Debt Fund - Plan B - Half yearly - IDCW;12.9541;19-Dec-2022
 100529;INF090I01DJ0;INF090I01DK8;Franklin India Corporate Debt Fund - Plan B - Monthly - IDCW;14.9182;19-Dec-2022
 100530;INF090I01DL6;INF090I01DM4;Franklin India Corporate Debt Fund - Plan B - Quarterly - IDCW;12.3847;19-Dec-2022
-113070;INF179K01DC2;-;HDFC Corporate Bond Fund - Growth Option;26.7164;16-Dec-2022
-118987;INF179K01XD8;-;HDFC Corporate Bond Fund - Growth Option - Direct Plan;27.1264;16-Dec-2022
-132848;INF179KA1D33;INF179KA1D25;HDFC Corporate Bond Fund - IDCW Option;17.3075;16-Dec-2022
-132849;INF179KA1D17;-;HDFC Corporate Bond Fund - IDCW Option - Direct Plan;17.7534;16-Dec-2022
-113071;INF179K01DD0;INF179K01DE8;HDFC Corporate Bond Fund - Quarterly IDCW Option;10.4317;16-Dec-2022
-118986;INF179K01XB2;INF179K01XC0;HDFC Corporate Bond Fund - Quarterly IDCW Option - Direct Plan;10.2747;16-Dec-2022
+113070;INF179K01DC2;-;HDFC Corporate Bond Fund - Growth Option;26.7295;19-Dec-2022
+118987;INF179K01XD8;-;HDFC Corporate Bond Fund - Growth Option - Direct Plan;27.1403;19-Dec-2022
+132848;INF179KA1D33;INF179KA1D25;HDFC Corporate Bond Fund - IDCW Option;17.316;19-Dec-2022
+132849;INF179KA1D17;-;HDFC Corporate Bond Fund - IDCW Option - Direct Plan;17.7625;19-Dec-2022
+113071;INF179K01DD0;INF179K01DE8;HDFC Corporate Bond Fund - Quarterly IDCW Option;10.4369;19-Dec-2022
+118986;INF179K01XB2;INF179K01XC0;HDFC Corporate Bond Fund - Quarterly IDCW Option - Direct Plan;10.28;19-Dec-2022
 151000;INF917K01VZ8;INF917K01VY1;HSBC Corporate Bond Fund - Direct Annual IDCW;12.0708;19-Dec-2022
 150996;INF917K01HN3;-;HSBC Corporate Bond Fund - Direct Growth;64.0540;19-Dec-2022
 150998;INF917K01HP8;INF917K01HO1;HSBC Corporate Bond Fund - Direct Quarterly IDCW;11.5354;19-Dec-2022
@@ -494,12 +494,12 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 148305;INF090I01VW5;-;Franklin India Credit Risk Fund- Segregated Portfolio 3 (9.50% Yes Bank Ltd CO 23Dec21) - IDCW;0.0000;19-Dec-2022
 147960;INF090I01TO6;-;Franklin India Credit Risk Fund-Segregated Portfolio 2 - 10.90% Vodafone Idea Ltd (02-Sep-2023) - Direct IDCW;0.3035;19-Dec-2022
 148306;INF090I01VY1;-;Franklin India Credit Risk Fund-Segregated Portfolio 3 (9.50% Yes Bank Ltd CO 23Dec21) - Direct IDCW;0.0000;19-Dec-2022
-128053;INF179KA1GC0;-;HDFC Credit Risk Debt Fund - Growth Option;19.9311;16-Dec-2022
-128051;INF179KA1FZ3;-;HDFC Credit Risk Debt Fund - Growth Option - Direct Plan;21.2069;16-Dec-2022
-133148;INF179KA1I87;INF179KA1I79;HDFC Credit Risk Debt Fund - IDCW Option;18.3526;16-Dec-2022
-133147;INF179KA1I61;INF179KA1I53;HDFC Credit Risk Debt Fund - IDCW Option - Direct Plan;18.59;16-Dec-2022
-128050;INF179KA1GA4;INF179KA1GB2;HDFC Credit Risk Debt Fund - Quarterly IDCW - Direct Plan;10.6663;16-Dec-2022
-128052;INF179KA1GD8;INF179KA1GE6;HDFC Credit Risk Debt Fund - Quarterly IDCW Option;10.3373;16-Dec-2022
+128053;INF179KA1GC0;-;HDFC Credit Risk Debt Fund - Growth Option;19.9409;19-Dec-2022
+128051;INF179KA1FZ3;-;HDFC Credit Risk Debt Fund - Growth Option - Direct Plan;21.2184;19-Dec-2022
+133148;INF179KA1I87;INF179KA1I79;HDFC Credit Risk Debt Fund - IDCW Option;18.3616;19-Dec-2022
+133147;INF179KA1I61;INF179KA1I53;HDFC Credit Risk Debt Fund - IDCW Option - Direct Plan;18.6001;19-Dec-2022
+128050;INF179KA1GA4;INF179KA1GB2;HDFC Credit Risk Debt Fund - Quarterly IDCW - Direct Plan;10.672;19-Dec-2022
+128052;INF179KA1GD8;INF179KA1GE6;HDFC Credit Risk Debt Fund - Quarterly IDCW Option;10.3423;19-Dec-2022
 151047;INF917K01UL0;INF917K01UK2;HSBC Credit Risk Fund - Direct Annual IDCW;12.7224;19-Dec-2022
 151045;INF917K01UH8;-;HSBC Credit Risk Fund - Direct Growth;25.6582;19-Dec-2022
 151044;INF917K01E29;INF917K01UI6;HSBC Credit Risk Fund - Direct Monthly IDCW;10.8716;19-Dec-2022
@@ -697,16 +697,16 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 100499;INF090I01BP1;-;Franklin India Dynamic Accrual Fund-Growth;94.7880;07-Aug-2022
 147986;INF090I01TW9;-;Franklin India Dynamic Accrual Fund-Segregated Portfolio 2 - 10.90% Vodafone Idea Ltd (02-Sep-2023) - Direct IDCW;0.1403;19-Dec-2022
 148310;INF090I01WC5;-;Franklin India Dynamic Accrual Fund-Segregated Portfolio 3 (9.50% Yes Bank Ltd CO 23Dec21) - Direct IDCW;0.0000;19-Dec-2022
-101872;INF179K01848;-;HDFC Dynamic Debt Fund - Growth Option;74.3913;16-Dec-2022
-119075;INF179K01WB4;-;HDFC Dynamic Debt Fund - Growth Option - Direct Plan;80.3679;16-Dec-2022
-119072;INF179K01WC2;INF179K01WD0;HDFC Dynamic Debt Fund - Half Yearly IDCW - Direct Plan;13.1785;16-Dec-2022
-101874;INF179K01855;INF179K01863;HDFC Dynamic Debt Fund - Half Yearly IDCW Option;11.4343;16-Dec-2022
-133369;INF179KA1Q95;-;HDFC Dynamic Debt Fund - Normal IDCW - Direct Plan;16.9219;16-Dec-2022
-133370;INF179KA1R11;-;HDFC Dynamic Debt Fund - Normal IDCW Option;15.937;16-Dec-2022
-119073;INF179K01WE8;INF179K01WF5;HDFC Dynamic Debt Fund - Quarterly IDCW - Direct Plan;13.2873;16-Dec-2022
-101873;INF179K01871;INF179K01889;HDFC Dynamic Debt Fund - Quarterly IDCW Option;12.117;16-Dec-2022
-119074;INF179K01WG3;INF179K01WH1;HDFC Dynamic Debt Fund - Yearly IDCW - Direct Plan;14.5254;16-Dec-2022
-101875;INF179K01921;INF179K01939;HDFC Dynamic Debt Fund - Yearly IDCW Option;13.2379;16-Dec-2022
+101872;INF179K01848;-;HDFC Dynamic Debt Fund - Growth Option;74.4191;19-Dec-2022
+119075;INF179K01WB4;-;HDFC Dynamic Debt Fund - Growth Option - Direct Plan;80.4062;19-Dec-2022
+119072;INF179K01WC2;INF179K01WD0;HDFC Dynamic Debt Fund - Half Yearly IDCW - Direct Plan;13.1848;19-Dec-2022
+101874;INF179K01855;INF179K01863;HDFC Dynamic Debt Fund - Half Yearly IDCW Option;11.4386;19-Dec-2022
+133369;INF179KA1Q95;-;HDFC Dynamic Debt Fund - Normal IDCW - Direct Plan;16.93;19-Dec-2022
+133370;INF179KA1R11;-;HDFC Dynamic Debt Fund - Normal IDCW Option;15.9429;19-Dec-2022
+119073;INF179K01WE8;INF179K01WF5;HDFC Dynamic Debt Fund - Quarterly IDCW - Direct Plan;13.2936;19-Dec-2022
+101873;INF179K01871;INF179K01889;HDFC Dynamic Debt Fund - Quarterly IDCW Option;12.1216;19-Dec-2022
+119074;INF179K01WG3;INF179K01WH1;HDFC Dynamic Debt Fund - Yearly IDCW - Direct Plan;14.5323;19-Dec-2022
+101875;INF179K01921;INF179K01939;HDFC Dynamic Debt Fund - Yearly IDCW Option;13.2428;19-Dec-2022
 151088;INF917K01VN4;INF917K01VM6;HSBC Dynamic Bond Fund - Direct Annual IDCW;11.5066;19-Dec-2022
 151087;INF917K01HA0;-;HSBC Dynamic Bond Fund - Direct Growth;26.1815;19-Dec-2022
 151086;INF917K01GZ9;INF917K01GY2;HSBC Dynamic Bond Fund - Direct Monthly IDCW;12.7740;19-Dec-2022
@@ -881,14 +881,14 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 118507;-;INF090I01LL9;Franklin India Floating Rate Fund - Direct - IDCW ;10.0211;19-Dec-2022
 101048;INF090I01LM7;-;Franklin India Floating Rate Fund - Growth Plan;33.5068;19-Dec-2022
 101044;-;INF090I01LN5;Franklin India Floating Rate Fund - IDCW ;10.1230;19-Dec-2022
-106838;-;INF179K01699;HDFC Floating Rate Debt Fund - Daily IDCW Option;10.0809;16-Dec-2022
-118959;-;-;HDFC Floating Rate Debt Fund - Direct Plan - Daily IDCW;10.0809;16-Dec-2022
-118961;INF179K01VQ4;-;HDFC Floating Rate Debt Fund - Direct Plan - Growth Option;41.527;16-Dec-2022
-118960;INF179K01VO9;INF179K01VP6;HDFC Floating Rate Debt Fund - Direct Plan - Monthly IDCW;10.1715;16-Dec-2022
-118962;-;-;HDFC Floating Rate Debt Fund - Direct Plan - Weekly IDCW;10.0466;16-Dec-2022
-106841;INF179K01707;-;HDFC Floating Rate Debt Fund - Growth Option;40.9472;16-Dec-2022
-106839;INF179K01715;INF179K01723;HDFC Floating Rate Debt Fund - Monthly IDCW Option;10.1704;16-Dec-2022
-106840;INF179K01731;INF179K01749;HDFC Floating Rate Debt Fund - Weekly IDCW Option;10.0464;16-Dec-2022
+106838;-;INF179K01699;HDFC Floating Rate Debt Fund - Daily IDCW Option;10.0809;19-Dec-2022
+118959;-;-;HDFC Floating Rate Debt Fund - Direct Plan - Daily IDCW;10.0809;19-Dec-2022
+118961;INF179K01VQ4;-;HDFC Floating Rate Debt Fund - Direct Plan - Growth Option;41.5545;19-Dec-2022
+118960;INF179K01VO9;INF179K01VP6;HDFC Floating Rate Debt Fund - Direct Plan - Monthly IDCW;10.1782;19-Dec-2022
+118962;-;-;HDFC Floating Rate Debt Fund - Direct Plan - Weekly IDCW;10.0532;19-Dec-2022
+106841;INF179K01707;-;HDFC Floating Rate Debt Fund - Growth Option;40.9736;19-Dec-2022
+106839;INF179K01715;INF179K01723;HDFC Floating Rate Debt Fund - Monthly IDCW Option;10.1769;19-Dec-2022
+106840;INF179K01731;INF179K01749;HDFC Floating Rate Debt Fund - Weekly IDCW Option;10.0529;19-Dec-2022
 130899;INF109KA1I43;-;ICICI Prudential Floating Interest Fund - Bonus;151.7062;24-Apr-2020
 101804;INF109K01AW3;-;ICICI Prudential Floating Interest Fund - Daily IDCW;100.8760;19-Dec-2022
 120423;-;INF109K01P24;ICICI Prudential Floating Interest Fund - Direct Plan - Daily IDCW;100.5102;19-Dec-2022
@@ -1016,10 +1016,10 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 118497;INF090I01HQ6;INF090I01HR4;Franklin India Government Securities Fund - Direct - IDCW ;11.4384;19-Dec-2022
 100493;INF090I01CU9;-;Franklin India Government Securities Fund - Growth;49.8209;19-Dec-2022
 100494;INF090I01CS3;INF090I01CT1;Franklin India Government Securities Fund - IDCW ;10.1907;19-Dec-2022
-119116;INF179K01VS0;-;HDFC Gilt Fund - Growth Option - Direct Plan;47.4893;16-Dec-2022
-101083;INF179K01756;-;HDFC Gilt Fund - Growth Plan;45.611;16-Dec-2022
-119115;INF179K01VR2;INF179K01VT8;HDFC Gilt Fund - IDCW Option - Direct Plan;12.4568;16-Dec-2022
-101084;INF179K01772;INF179K01764;HDFC Gilt Fund - IDCW Plan;11.8174;16-Dec-2022
+119116;INF179K01VS0;-;HDFC Gilt Fund - Growth Option - Direct Plan;47.5072;19-Dec-2022
+101083;INF179K01756;-;HDFC Gilt Fund - Growth Plan;45.6266;19-Dec-2022
+119115;INF179K01VR2;INF179K01VT8;HDFC Gilt Fund - IDCW Option - Direct Plan;12.4615;19-Dec-2022
+101084;INF179K01772;INF179K01764;HDFC Gilt Fund - IDCW Plan;11.8214;19-Dec-2022
 151014;INF917K01FI7;-;HSBC Gilt Fund - Direct Growth;62.1205;19-Dec-2022
 151015;INF917K01FK3;INF917K01FJ5;HSBC Gilt Fund - Direct Quarterly IDCW;12.5834;19-Dec-2022
 151013;INF917K01BP1;-;HSBC Gilt Fund - Regular Growth;55.8649;19-Dec-2022
@@ -1282,14 +1282,14 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 102441;INF090I01BD7;-;Franklin India Liquid Fund - Institution-Growth;0.0000;08-Jul-2020
 102443;-;INF090I01BC9;Franklin India Liquid Fund - Institutional Plan - Daily - IDCW;1000.0000;19-Dec-2022
 102442;INF090I01BJ4;INF090I01BE5;Franklin India Liquid Fund - Institutional Plan - Weekly - IDCW;1054.8829;19-Dec-2022
-119091;INF179KB1HP9;-;HDFC Liquid Fund - Growth Option - Direct Plan;4338.7329;18-Dec-2022
-100868;INF179KB1HK0;-;HDFC Liquid Fund - Growth Plan;4301.4773;18-Dec-2022
-100875;-;INF179KB1IC5;HDFC Liquid Fund - IDCW Daily;1019.82;18-Dec-2022
-119089;-;INF179KB1HV7;HDFC Liquid Fund - IDCW Daily - Direct Plan;1019.82;18-Dec-2022
-100876;INF179KB1HM6;INF179KB1HL8;HDFC Liquid Fund - IDCW Monthly;1029.8414;18-Dec-2022
-119090;INF179KB1HO2;INF179KB1HQ7;HDFC Liquid Fund - IDCW Monthly - Direct Plan;1029.8978;18-Dec-2022
-100874;INF179KB1ID3;-;HDFC Liquid Fund - IDCW Plan Weekly;1032.0334;18-Dec-2022
-119088;-;-;HDFC Liquid Fund - IDCW Weekly - Direct Plan;1032.0504;18-Dec-2022
+119091;INF179KB1HP9;-;HDFC Liquid Fund - Growth Option - Direct Plan;4339.5224;19-Dec-2022
+100868;INF179KB1HK0;-;HDFC Liquid Fund - Growth Plan;4302.2483;19-Dec-2022
+100875;-;INF179KB1IC5;HDFC Liquid Fund - IDCW Daily;1019.82;19-Dec-2022
+119089;-;INF179KB1HV7;HDFC Liquid Fund - IDCW Daily - Direct Plan;1019.82;19-Dec-2022
+100876;INF179KB1HM6;INF179KB1HL8;HDFC Liquid Fund - IDCW Monthly;1030.026;19-Dec-2022
+119090;INF179KB1HO2;INF179KB1HQ7;HDFC Liquid Fund - IDCW Monthly - Direct Plan;1030.0852;19-Dec-2022
+100874;INF179KB1ID3;-;HDFC Liquid Fund - IDCW Plan Weekly;1032.2184;19-Dec-2022
+119088;-;-;HDFC Liquid Fund - IDCW Weekly - Direct Plan;1032.2382;19-Dec-2022
 100878;INF179K01KP9;-;HDFC Liquid Fund-Premium Plan - Dividend-Weekly;10;14-Apr-2015
 100881;INF179K01KS3;-;HDFC Liquid Fund-Premium Plus Plan - Dividend-Weekly;10;14-May-2012
 100872;INF179K01KQ7;-;HDFC Liquid Fund-PREMIUM PLUS- Growth;10.0000;17-Dec-2012
@@ -1733,14 +1733,14 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 148000;INF090I01UG0;-;Franklin India Low Duration Fund- Segregated Portfolio 2- 10.90% Vodafone Idea Ltd 02Sep2023-Growth Plan;0.3468;19-Dec-2022
 147996;INF090I01UH8;-;Franklin India Low Duration Fund-Direct- Segregated Portfolio 2 - 10.90% Vodafone Idea Ltd (02-Sep-2023) - Direct Monthly - IDCW;0.1648;19-Dec-2022
 147998;INF090I01UI6;-;Franklin India Low Duration Fund-Direct- Segregated Portfolio 2 - 10.90% Vodafone Idea Ltd (02-Sep-2023) - Direct Quarterly - IDCW;0.1620;19-Dec-2022
-105548;-;INF179K01434;HDFC Low Duration  Fund - Daily IDCW;10.1428;16-Dec-2022
-118945;-;-;HDFC Low Duration  Fund - Direct Plan - Daily IDCW;10.0655;16-Dec-2022
-118942;INF179K01VF7;-;HDFC Low Duration  Fund - Direct Plan - Growth;51.475;16-Dec-2022
-118943;INF179K01VG5;INF179K01VH3;HDFC Low Duration  Fund - Direct Plan - Monthly IDCW;10.1767;16-Dec-2022
-118944;-;-;HDFC Low Duration  Fund - Direct Plan - Weekly IDCW;10.0694;16-Dec-2022
-102452;INF179K01442;-;HDFC Low Duration  Fund - Growth;48.189;16-Dec-2022
-105543;INF179K01459;INF179K01467;HDFC Low Duration  Fund - Monthly IDCW;10.1712;16-Dec-2022
-102453;INF179K01475;INF179K01483;HDFC Low Duration  Fund - Weekly IDCW;10.0687;16-Dec-2022
+105548;-;INF179K01434;HDFC Low Duration  Fund - Daily IDCW;10.1428;19-Dec-2022
+118945;-;-;HDFC Low Duration  Fund - Direct Plan - Daily IDCW;10.0655;19-Dec-2022
+118942;INF179K01VF7;-;HDFC Low Duration  Fund - Direct Plan - Growth;51.5077;19-Dec-2022
+118943;INF179K01VG5;INF179K01VH3;HDFC Low Duration  Fund - Direct Plan - Monthly IDCW;10.1832;19-Dec-2022
+118944;-;-;HDFC Low Duration  Fund - Direct Plan - Weekly IDCW;10.0758;19-Dec-2022
+102452;INF179K01442;-;HDFC Low Duration  Fund - Growth;48.2172;19-Dec-2022
+105543;INF179K01459;INF179K01467;HDFC Low Duration  Fund - Monthly IDCW;10.1771;19-Dec-2022
+102453;INF179K01475;INF179K01483;HDFC Low Duration  Fund - Weekly IDCW;10.0746;19-Dec-2022
 105547;-;INF179K01541;HDFC Low Duration Fund- Wholesale Daily Dividend;10.1574;10-May-2019
 105546;INF179K01509;INF179K01517;HDFC Low Duration Fund- Wholesale Monthly Dividend;10.1856;10-May-2019
 105545;INF179K01525;-;HDFC Low Duration Fund- Wholesale Weekly Dividend;10.1734;10-May-2019
@@ -2018,12 +2018,12 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 147969;INF090I01TE7;-;Franklin India Income Opportunities Fund- Segregated Portfolio 2 - 10.90% Vodafone Idea Ltd (02-Sep-2023) - IDCW;0.2282;19-Dec-2022
 147966;INF090I01TH0;-;Franklin India Income Opportunities Fund- Segregated Portfolio 2- 10.90% Vodafone Idea Ltd 02Sep2023-Direct Growth Plan;0.5203;19-Dec-2022
 147968;INF090I01TF4;-;Franklin India Income Opportunities Fund- Segregated Portfolio 2- 10.90% Vodafone Idea Ltd 02Sep2023-Growth Plan;0.4921;19-Dec-2022
-101990;INF179K01897;INF179K01905;HDFC Medium Term Debt Fund - Fornightly IDCW Option;10.1078;16-Dec-2022
-119080;INF179KA1NP8;INF179KA1NO1;HDFC Medium Term Debt Fund - Fortnightly IDCW Opt - Direct Plan;10.1086;16-Dec-2022
-101989;INF179K01913;-;HDFC Medium Term Debt Fund - Growth Option;46.6541;16-Dec-2022
-119081;INF179K01WI9;-;HDFC Medium Term Debt Fund - Growth Option - Direct Plan;49.7621;16-Dec-2022
-132852;INF179KA1E16;INF179KA1E08;HDFC Medium Term Debt Fund - IDCW Option;16.8362;16-Dec-2022
-132853;INF179KA1D90;INF179KA1D82;HDFC Medium Term Debt Fund - IDCW Option - Direct Plan;17.7613;16-Dec-2022
+101990;INF179K01897;INF179K01905;HDFC Medium Term Debt Fund - Fornightly IDCW Option;10.1118;19-Dec-2022
+119080;INF179KA1NP8;INF179KA1NO1;HDFC Medium Term Debt Fund - Fortnightly IDCW Opt - Direct Plan;10.1132;19-Dec-2022
+101989;INF179K01913;-;HDFC Medium Term Debt Fund - Growth Option;46.6729;19-Dec-2022
+119081;INF179K01WI9;-;HDFC Medium Term Debt Fund - Growth Option - Direct Plan;49.785;19-Dec-2022
+132852;INF179KA1E16;INF179KA1E08;HDFC Medium Term Debt Fund - IDCW Option;16.843;19-Dec-2022
+132853;INF179KA1D90;INF179KA1D82;HDFC Medium Term Debt Fund - IDCW Option - Direct Plan;17.7695;19-Dec-2022
 151150;INF917K01WF8;INF917K01WC5;HSBC Medium Duration Fund - Direct Annual IDCW;12.2428;19-Dec-2022
 151146;INF917K01TK4;-;HSBC Medium Duration Fund - Direct Growth;18.0395;19-Dec-2022
 151148;INF917K01TM0;INF917K01TL2;HSBC Medium Duration Fund - Direct IDCW;11.4728;19-Dec-2022
@@ -2190,12 +2190,12 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 118281;INF760K01FG5;INF760K01FH3;CANARA ROBECO INCOME FUND - DIRECT PLAN - QUARTERLY IDCW (Payout/Reinvestment);16.1485;19-Dec-2022
 101588;INF760K01324;-;CANARA ROBECO INCOME FUND - REGULAR PLAN - GROWTH OPTION;47.0659;19-Dec-2022
 101587;INF760K01340;INF760K01357;CANARA ROBECO INCOME FUND - REGULAR PLAN - QUARTERLY IDCW (Payout/Reinvestment);14.5931;19-Dec-2022
-100124;INF179K01962;-;HDFC Income Fund - Growth Option;48.2924;16-Dec-2022
-119069;INF179K01WL3;-;HDFC Income Fund - Growth Option - Direct Plan;52.4175;16-Dec-2022
-133365;INF179KA1Q12;-;HDFC Income Fund - Normal IDCW - Direct Plan;16.5764;16-Dec-2022
-133366;INF179KA1Q38;-;HDFC Income Fund - Normal IDCW Option;15.2294;16-Dec-2022
-100123;INF179K01947;INF179K01954;HDFC Income Fund - Quarterly IDCW Option;11.0509;16-Dec-2022
-119068;INF179K01WJ7;INF179K01WK5;HDFC Income Fund - Quarterly IDCW- Direct Plan;12.2103;16-Dec-2022
+100124;INF179K01962;-;HDFC Income Fund - Growth Option;48.289;19-Dec-2022
+119069;INF179K01WL3;-;HDFC Income Fund - Growth Option - Direct Plan;52.4207;19-Dec-2022
+133365;INF179KA1Q12;-;HDFC Income Fund - Normal IDCW - Direct Plan;16.5774;19-Dec-2022
+133366;INF179KA1Q38;-;HDFC Income Fund - Normal IDCW Option;15.2284;19-Dec-2022
+100123;INF179K01947;INF179K01954;HDFC Income Fund - Quarterly IDCW Option;11.0502;19-Dec-2022
+119068;INF179K01WJ7;INF179K01WK5;HDFC Income Fund - Quarterly IDCW- Direct Plan;12.2111;19-Dec-2022
 120059;INF336L01DE2;-;HSBC Medium to Long Duration Fund - Direct Growth;38.5165;19-Dec-2022
 120101;INF336L01EO9;INF336L01EP6;HSBC Medium to Long Duration Fund - Direct IDCW;10.7008;19-Dec-2022
 101685;INF336L01776;-;HSBC Medium to Long Duration Fund - Regular Growth;35.5774;19-Dec-2022
@@ -2328,12 +2328,12 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 118505;INF090I01GT2;INF090I01GU0;Franklin India Savings Fund Retail Option - Direct - Quarterly - IDCW;10.9283;19-Dec-2022
 129436;INF090I01LA2;INF090I01LB0;Franklin India Savings Fund Retail Option - Monthly - IDCW;10.2059;19-Dec-2022
 101356;INF090I01BZ0;INF090I01BY3;Franklin India Savings Fund Retail Option - Quarterly - IDCW;10.4755;19-Dec-2022
-101994;-;INF179KB1IG6;HDFC Money Market Fund - Daily IDCW Option;1063.64;16-Dec-2022
-119093;-;INF179KB1HZ8;HDFC Money Market Fund - Daily IDCW Option - Direct Plan;1063.64;16-Dec-2022
-101993;INF179KB1HR5;-;HDFC Money Market Fund - Growth Option;4745.2652;16-Dec-2022
-119092;INF179KB1HU9;-;HDFC Money Market Fund - Growth Option - Direct Plan;4818.3944;16-Dec-2022
-101995;INF179KB1IH4;INF179KB1II2;HDFC Money Market Fund - Weekly IDCW Option;1063.8194;16-Dec-2022
-119094;INF179KB1IA9;INF179KB1IB7;HDFC Money Market Fund - Weekly IDCW Option -Direct Plan;1063.8602;16-Dec-2022
+101994;-;INF179KB1IG6;HDFC Money Market Fund - Daily IDCW Option;1063.64;19-Dec-2022
+119093;-;INF179KB1HZ8;HDFC Money Market Fund - Daily IDCW Option - Direct Plan;1063.64;19-Dec-2022
+101993;INF179KB1HR5;-;HDFC Money Market Fund - Growth Option;4747.8413;19-Dec-2022
+119092;INF179KB1HU9;-;HDFC Money Market Fund - Growth Option - Direct Plan;4821.0899;19-Dec-2022
+101995;INF179KB1IH4;INF179KB1II2;HDFC Money Market Fund - Weekly IDCW Option;1063.0468;19-Dec-2022
+119094;INF179KB1IA9;INF179KB1IB7;HDFC Money Market Fund - Weekly IDCW Option -Direct Plan;1063.0642;19-Dec-2022
 151055;-;INF917K01FD8;HSBC Money Market Fund - Direct Daily IDCW;10.8591;19-Dec-2022
 151054;INF917K01FE6;-;HSBC Money Market Fund - Direct Growth;22.9614;19-Dec-2022
 151052;INF917K01E86;INF917K01FF3;HSBC Money Market Fund - Direct Monthly IDCW;12.2567;19-Dec-2022
@@ -2558,10 +2558,10 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 149443;-;-;Franklin India Overnight Fund- Unclaimed IDCW Plan;10.4382;19-Dec-2022
 149444;-;-;Franklin India Overnight Fund- Unclaimed Redemption Investor EducationPlan;10.0000;19-Dec-2022
 149446;-;-;Franklin India Overnight Fund- Unclaimed Redemption Plan;10.4382;19-Dec-2022
-119109;-;-;HDFC Overnight Fund - Daily IDCW Option - Direct Plan;1042.66;18-Dec-2022
-101996;INF179KB1HS3;-;HDFC Overnight Fund - Growth Option;3245.67;18-Dec-2022
-119110;INF179KB1HT1;-;HDFC Overnight Fund - Growth Option - Direct Plan;3270.2487;18-Dec-2022
-101997;-;-;HDFC Overnight Fund - IDCW Option (Daily);1042.66;18-Dec-2022
+119109;-;-;HDFC Overnight Fund - Daily IDCW Option - Direct Plan;1042.66;19-Dec-2022
+101996;INF179KB1HS3;-;HDFC Overnight Fund - Growth Option;3246.2279;19-Dec-2022
+119110;INF179KB1HT1;-;HDFC Overnight Fund - Growth Option - Direct Plan;3270.8198;19-Dec-2022
+101997;-;-;HDFC Overnight Fund - IDCW Option (Daily);1042.66;19-Dec-2022
 147291;-;INF336L01OG4;HSBC Overnight Fund - Direct Daily IDCW;1000.0067;19-Dec-2022
 147287;INF336L01OF6;-;HSBC Overnight Fund - Direct Growth;1152.4970;19-Dec-2022
 147300;INF336L01OK6;INF336L01OI0;HSBC Overnight Fund - Direct Monthly IDCW;1004.5188;19-Dec-2022
@@ -2833,12 +2833,12 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 148006;INF090I01US5;-;Franklin India Short-term Income Plan-Retail Plan- Segregated Portfolio 1- 8.25% Vodafone Idea Ltd-10JUL20-Direct-Weekly Dividend Option;0.0000;13-Jul-2020
 148316;INF090I01VV7;-;Franklin India Short-term Income Plan-Retail Plan-Segregated Portfolio 3 (9.50% Yes Bank Ltd CO 23Dec21) - Direct Weekly - IDCW;0.0000;19-Dec-2022
 101237;INF090I01DY9;-;Franklin India Short-Term Income Plan-Weekly Bonus;0.0000;08-Jun-2015
-119015;-;-;HDFC Short Term  Debt Fund - Fortnightly IDCW - Direct Plan;10.3168;16-Dec-2022
-113048;INF179K01CV4;INF179K01CW2;HDFC Short Term  Debt Fund - Fortnightly IDCW Option;10.2099;16-Dec-2022
-113047;INF179K01CU6;-;HDFC Short Term  Debt Fund - Growth Option;26.3462;16-Dec-2022
-119016;INF179K01YM7;-;HDFC Short Term  Debt Fund - Growth Option - Direct Plan;26.9698;16-Dec-2022
-133367;INF179KA1Q53;-;HDFC Short Term  Debt Fund - Normal IDCW - Direct Plan;17.1866;16-Dec-2022
-133368;INF179KA1Q79;-;HDFC Short Term  Debt Fund - Normal IDCW Option;16.8627;16-Dec-2022
+119015;-;-;HDFC Short Term  Debt Fund - Fortnightly IDCW - Direct Plan;10.3215;19-Dec-2022
+113048;INF179K01CV4;INF179K01CW2;HDFC Short Term  Debt Fund - Fortnightly IDCW Option;10.2142;19-Dec-2022
+113047;INF179K01CU6;-;HDFC Short Term  Debt Fund - Growth Option;26.3572;19-Dec-2022
+119016;INF179K01YM7;-;HDFC Short Term  Debt Fund - Growth Option - Direct Plan;26.9821;19-Dec-2022
+133367;INF179KA1Q53;-;HDFC Short Term  Debt Fund - Normal IDCW - Direct Plan;17.1944;19-Dec-2022
+133368;INF179KA1Q79;-;HDFC Short Term  Debt Fund - Normal IDCW Option;16.8698;19-Dec-2022
 151063;INF917K01CH6;INF917K01CI4;HSBC Short Duration Fund -  Regular Plan - Monthly IDCW;11.1053;19-Dec-2022
 151062;INF917K01CM6;-;HSBC Short Duration Fund - Bonus;22.0337;19-Dec-2022
 151070;INF917K01VR5;INF917K01VQ7;HSBC Short Duration Fund - Direct Annual IDCW;12.8784;19-Dec-2022
@@ -3093,14 +3093,14 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 147978;INF090I01VM6;-;Franklin India Ultra Short Bond Fund- Super Institutional Plan-Segregated Portfolio 1- 8.25% Vodafone Idea Ltd-10JUL20-Direct-Weekly Dividend Option;0.0000;20-Jul-2020
 147970;INF090I01VG8;-;Franklin India Ultra Short Bond Fund- Super Institutional Plan-Segregated Portfolio 1- 8.25% Vodafone Idea Ltd-10JUL20-Growth Option;0.0000;20-Jul-2020
 147972;INF090I01VJ2;-;Franklin India Ultra Short Bond Fund- Super Institutional Plan-Segregated Portfolio 1- 8.25% Vodafone Idea Ltd-10JUL20-Weekly Dividend Option;0.0000;20-Jul-2020
-145041;-;INF179KB12R1;HDFC Ultra Short Term Fund - Daily IDCW Option;10.103;16-Dec-2022
-145039;-;INF179KB16Q4;HDFC Ultra Short Term Fund - Direct Plan-Daily IDCW Option;10.092;16-Dec-2022
-145034;INF179KB15Q6;-;HDFC Ultra Short Term Fund - Direct Plan-Growth Option;12.8403;16-Dec-2022
-145036;INF179KB10R5;INF179KB19Q8;HDFC Ultra Short Term Fund - Direct Plan-Monthly IDCW Option;10.0829;16-Dec-2022
-145035;INF179KB18Q0;INF179KB17Q2;HDFC Ultra Short Term Fund - Direct Plan-Weekly IDCW Option;10.0567;16-Dec-2022
-145040;INF179KB11R3;-;HDFC Ultra Short Term Fund - Growth Option;12.673;16-Dec-2022
-145037;INF179KB16R2;INF179KB15R4;HDFC Ultra Short Term Fund - Monthly IDCW Option;10.1815;16-Dec-2022
-145038;INF179KB14R7;INF179KB13R9;HDFC Ultra Short Term Fund - Weekly IDCW Option;10.0564;16-Dec-2022
+145041;-;INF179KB12R1;HDFC Ultra Short Term Fund - Daily IDCW Option;10.103;19-Dec-2022
+145039;-;INF179KB16Q4;HDFC Ultra Short Term Fund - Direct Plan-Daily IDCW Option;10.092;19-Dec-2022
+145034;INF179KB15Q6;-;HDFC Ultra Short Term Fund - Direct Plan-Growth Option;12.8476;19-Dec-2022
+145036;INF179KB10R5;INF179KB19Q8;HDFC Ultra Short Term Fund - Direct Plan-Monthly IDCW Option;10.0886;19-Dec-2022
+145035;INF179KB18Q0;INF179KB17Q2;HDFC Ultra Short Term Fund - Direct Plan-Weekly IDCW Option;10.0624;19-Dec-2022
+145040;INF179KB11R3;-;HDFC Ultra Short Term Fund - Growth Option;12.6798;19-Dec-2022
+145037;INF179KB16R2;INF179KB15R4;HDFC Ultra Short Term Fund - Monthly IDCW Option;10.1869;19-Dec-2022
+145038;INF179KB14R7;INF179KB13R9;HDFC Ultra Short Term Fund - Weekly IDCW Option;10.0617;19-Dec-2022
 147910;-;INF336L01OS9;HSBC Ultra Short Duration Fund - Direct Daily IDCW;1079.9409;19-Dec-2022
 147908;INF336L01OR1;-;HSBC Ultra Short Duration Fund - Direct Growth;1140.8591;19-Dec-2022
 147915;INF336L01OV3;INF336L01OU5;HSBC Ultra Short Duration Fund - Direct Monthly IDCW;1016.4644;19-Dec-2022
@@ -3337,10 +3337,10 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 118526;INF090I01IR2;INF090I01IS0;Templeton India EQUITY INCOME FUND - Direct - IDCW ;22.1914;19-Dec-2022
 103679;INF090I01932;INF090I01940;Templeton India EQUITY INCOME FUND - IDCW ;20.1238;19-Dec-2022
 103678;INF090I01957;-;Templeton India Equity Income Fund-Growth Plan;87.1377;19-Dec-2022
-148609;INF179KC1AO6;-;HDFC Dividend Yield Fund - Growth Option Direct Plan;16.036;16-Dec-2022
-148610;INF179KC1AR9;-;HDFC Dividend Yield Fund - Growth Plan;15.518;16-Dec-2022
-148608;INF179KC1AP3;INF179KC1AQ1;HDFC Dividend Yield Fund - IDCW Option Direct Plan;14.956;16-Dec-2022
-148611;INF179KC1AS7;INF179KC1AT5;HDFC Dividend Yield Fund - IDCW Plan;14.396;16-Dec-2022
+148609;INF179KC1AO6;-;HDFC Dividend Yield Fund - Growth Option Direct Plan;16.112;19-Dec-2022
+148610;INF179KC1AR9;-;HDFC Dividend Yield Fund - Growth Plan;15.589;19-Dec-2022
+148608;INF179KC1AP3;INF179KC1AQ1;HDFC Dividend Yield Fund - IDCW Option Direct Plan;15.026;19-Dec-2022
+148611;INF179KC1AS7;INF179KC1AT5;HDFC Dividend Yield Fund - IDCW Plan;14.462;19-Dec-2022
 129312;INF109KA1UA0;-;ICICI Prudential Dividend Yield Equity Fund Direct Plan Growth Option;31.90;19-Dec-2022
 129309;INF109KA1UB8;INF109KA1UC6;ICICI Prudential Dividend Yield Equity Fund Direct Plan IDCW Option;19.06;19-Dec-2022
 129310;INF109KA1TX4;-;ICICI Prudential Dividend Yield Equity Fund Growth Option;29.62;19-Dec-2022
@@ -3405,10 +3405,10 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 100998;INF179K01996;-;HDFC Long Term Advantage Plan - Growth Plan;595.168;14-Jan-2022
 118928;INF179K01WV2;INF179K01WW0;HDFC Long Term Advantage Plan - IDCW Option - Direct Plan;57.515;14-Jan-2022
 100997;INF179K01970;INF179K01988;HDFC Long Term Advantage Plan - IDCW Plan;51.722;14-Jan-2022
-119060;INF179K01YS4;-;HDFC Taxsaver - Growth Option - Direct Plan;878.516;16-Dec-2022
-101979;INF179K01BB8;-;HDFC Taxsaver - Growth Plan;826.539;16-Dec-2022
-119059;INF179K01YQ8;INF179K01YR6;HDFC Taxsaver - IDCW Option - Direct Plan;74.276;16-Dec-2022
-101980;INF179K01AZ9;INF179K01BA0;HDFC Taxsaver - IDCW Plan;59.654;16-Dec-2022
+119060;INF179K01YS4;-;HDFC Taxsaver - Growth Option - Direct Plan;885.853;19-Dec-2022
+101979;INF179K01BB8;-;HDFC Taxsaver - Growth Plan;833.4;19-Dec-2022
+119059;INF179K01YQ8;INF179K01YR6;HDFC Taxsaver - IDCW Option - Direct Plan;74.896;19-Dec-2022
+101980;INF179K01AZ9;INF179K01BA0;HDFC Taxsaver - IDCW Plan;60.149;19-Dec-2022
 151078;INF917K01GP0;-;HSBC ELSS Fund - Direct Growth;86.1860;19-Dec-2022
 151079;INF917K01GO3;-;HSBC ELSS Fund - Direct IDCW Payout;32.5284;19-Dec-2022
 151076;INF677K01064;-;HSBC ELSS Fund - Regular Growth;80.7018;19-Dec-2022
@@ -3589,10 +3589,10 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 118534;INF090I01FL1;INF090I01FM9;Franklin India Flexi Cap Fund - Direct - IDCW ;57.5600;19-Dec-2022
 100520;INF090I01239;-;Franklin India Flexi Cap Fund - Growth;1033.0738;19-Dec-2022
 100519;INF090I01213;INF090I01221;Franklin India Flexi Cap Fund - IDCW ;50.8086;19-Dec-2022
-118955;INF179K01UT0;-;HDFC Flexi Cap Fund - Growth Option - Direct Plan;1249.642;16-Dec-2022
-101762;INF179K01608;-;HDFC Flexi Cap Fund - Growth Plan;1162.676;16-Dec-2022
-118954;INF179K01VL5;INF179K01VM3;HDFC Flexi Cap Fund - IDCW Option - Direct Plan;70.219;16-Dec-2022
-101763;INF179K01582;INF179K01590;HDFC Flexi Cap Fund - IDCW Plan;61.907;16-Dec-2022
+118955;INF179K01UT0;-;HDFC Flexi Cap Fund - Growth Option - Direct Plan;1258.019;19-Dec-2022
+101762;INF179K01608;-;HDFC Flexi Cap Fund - Growth Plan;1170.41;19-Dec-2022
+118954;INF179K01VL5;INF179K01VM3;HDFC Flexi Cap Fund - IDCW Option - Direct Plan;70.69;19-Dec-2022
+101763;INF179K01582;INF179K01590;HDFC Flexi Cap Fund - IDCW Plan;62.318;19-Dec-2022
 120046;INF336L01DH5;-;HSBC Flexi Cap Fund - Direct Growth;144.0452;19-Dec-2022
 120045;INF336L01DF9;INF336L01DG7;HSBC Flexi Cap Fund - Direct IDCW;32.0149;19-Dec-2022
 102252;INF336L01AF5;-;HSBC Flexi Cap Fund - Regular Growth;131.7431;19-Dec-2022
@@ -3725,10 +3725,10 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 118563;INF090I01IU6;INF090I01IV4;Franklin India Focused Equity Fund - Direct - IDCW ;35.9023;19-Dec-2022
 105817;INF090I01981;-;Franklin India Focused Equity Fund - Growth Plan;72.3878;19-Dec-2022
 105816;INF090I01965;INF090I01973;Franklin India Focused Equity Fund - IDCW ;30.8656;19-Dec-2022
-118950;INF179K01VK7;-;HDFC Focused 30 Fund - Growth Option - Direct Plan;148.409;16-Dec-2022
-102760;INF179K01574;-;HDFC Focused 30 Fund - GROWTH PLAN;135.021;16-Dec-2022
-118949;INF179K01VI1;INF179K01VJ9;HDFC Focused 30 Fund - IDCW Option - Direct Plan;23.953;16-Dec-2022
-102761;INF179K01558;INF179K01566;HDFC Focused 30 Fund - IDCW PLAN;20.138;16-Dec-2022
+118950;INF179K01VK7;-;HDFC Focused 30 Fund - Growth Option - Direct Plan;149.385;19-Dec-2022
+102760;INF179K01574;-;HDFC Focused 30 Fund - GROWTH PLAN;135.895;19-Dec-2022
+118949;INF179K01VI1;INF179K01VJ9;HDFC Focused 30 Fund - IDCW Option - Direct Plan;24.111;19-Dec-2022
+102761;INF179K01558;INF179K01566;HDFC Focused 30 Fund - IDCW PLAN;20.268;19-Dec-2022
 148411;INF336L01PB2;-;HSBC Focused Fund - Direct Growth;17.0241;19-Dec-2022
 148412;INF336L01PC0;INF336L01PD8;HSBC Focused Fund - Direct IDCW;15.1060;19-Dec-2022
 148409;INF336L01PE6;-;HSBC Focused Fund - Regular Growth;16.3624;19-Dec-2022
@@ -3843,10 +3843,10 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 118509;INF090I01IL5;INF090I01IM3;Franklin India Equity Advantage Fund - Direct - IDCW ;20.3511;19-Dec-2022
 102883;INF090I01205;-;Franklin India Equity Advantage Fund - Growth Plan;123.1426;19-Dec-2022
 102884;INF090I01189;INF090I01197;Franklin India Equity Advantage Fund - IDCW ;18.1342;19-Dec-2022
-130496;INF179KA1RT1;-;HDFC Large and Mid Cap Fund - Growth Option;202.797;16-Dec-2022
-130498;INF179KA1RQ7;-;HDFC Large and Mid Cap Fund - Growth Option - Direct Plan;208.761;16-Dec-2022
-130497;INF179KA1RU9;-;HDFC Large and Mid Cap Fund - IDCW Option;27.03;16-Dec-2022
-130499;INF179KA1RR5;-;HDFC Large and Mid Cap Fund - IDCW Option - Direct Plan;33.21;16-Dec-2022
+130496;INF179KA1RT1;-;HDFC Large and Mid Cap Fund - Growth Option;203.74;19-Dec-2022
+130498;INF179KA1RQ7;-;HDFC Large and Mid Cap Fund - Growth Option - Direct Plan;209.745;19-Dec-2022
+130497;INF179KA1RU9;-;HDFC Large and Mid Cap Fund - IDCW Option;27.156;19-Dec-2022
+130499;INF179KA1RR5;-;HDFC Large and Mid Cap Fund - IDCW Option - Direct Plan;33.366;19-Dec-2022
 146772;INF336L01NV5;-;HSBC Large & Mid Cap Fund - Direct Growth;16.9081;19-Dec-2022
 146770;INF336L01NW3;INF336L01NX1;HSBC Large & Mid Cap Fund - Direct IDCW;16.8739;19-Dec-2022
 146771;INF336L01NY9;-;HSBC Large & Mid Cap Fund - Regular Growth;15.8933;19-Dec-2022
@@ -3960,10 +3960,10 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 100470;INF090I01155;INF090I01163;Franklin India BLUECHIP FUND - IDCW ;43.5994;19-Dec-2022
 118531;INF090I01FN7;-;Franklin India Bluechip Fund- Direct - Growth;766.3928;19-Dec-2022
 100471;INF090I01171;-;Franklin India Bluechip Fund-Growth;707.3374;19-Dec-2022
-119018;INF179K01YV8;-;HDFC Top 100 Fund - Growth Option - Direct Plan;809.741;16-Dec-2022
-102000;INF179K01BE2;-;HDFC Top 100 Fund - Growth Option - Regular Plan;760.261;16-Dec-2022
-119017;INF179K01YT2;INF179K01YU0;HDFC Top 100 Fund - IDCW Option - Direct Plan;57.758;16-Dec-2022
-102001;INF179K01BC6;INF179K01BD4;HDFC Top 100 Fund - IDCW Option - Regular Plan;51.729;16-Dec-2022
+119018;INF179K01YV8;-;HDFC Top 100 Fund - Growth Option - Direct Plan;815.27;19-Dec-2022
+102000;INF179K01BE2;-;HDFC Top 100 Fund - Growth Option - Regular Plan;765.416;19-Dec-2022
+119017;INF179K01YT2;INF179K01YU0;HDFC Top 100 Fund - IDCW Option - Direct Plan;58.152;19-Dec-2022
+102001;INF179K01BC6;INF179K01BD4;HDFC Top 100 Fund - IDCW Option - Regular Plan;52.079;19-Dec-2022
 120030;INF336L01CM7;-;HSBC Large Cap Fund - Direct Growth;355.5852;19-Dec-2022
 120029;INF336L01CK1;INF336L01CL9;HSBC Large Cap Fund - Direct IDCW;39.0716;19-Dec-2022
 101594;INF336L01016;-;HSBC Large Cap Fund - Regular Growth;327.9629;19-Dec-2022
@@ -4108,10 +4108,10 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 118532;INF090I01FI7;INF090I01FJ5;Franklin India PRIMA FUND - Direct - IDCW ;79.6919;19-Dec-2022
 100472;INF090I01726;INF090I01734;Franklin India PRIMA FUND - IDCW ;68.0734;19-Dec-2022
 100473;INF090I01809;-;Franklin India Prima Fund-Growth;1563.0499;19-Dec-2022
-118989;INF179K01XQ0;-;HDFC Mid-Cap Opportunities Fund - Growth Option - Direct Plan;112.158;16-Dec-2022
-105758;INF179K01CR2;-;HDFC Mid-Cap Opportunities Fund - Growth Plan;103.59;16-Dec-2022
-118988;INF179K01XO5;INF179K01XP2;HDFC Mid-Cap Opportunities Fund - IDCW Option - Direct Plan;52.205;16-Dec-2022
-105757;INF179K01CS0;INF179K01CT8;HDFC Mid-Cap Opportunities Fund - IDCW Plan;38.491;16-Dec-2022
+118989;INF179K01XQ0;-;HDFC Mid-Cap Opportunities Fund - Growth Option - Direct Plan;112.625;19-Dec-2022
+105758;INF179K01CR2;-;HDFC Mid-Cap Opportunities Fund - Growth Plan;104.016;19-Dec-2022
+118988;INF179K01XO5;INF179K01XP2;HDFC Mid-Cap Opportunities Fund - IDCW Option - Direct Plan;52.422;19-Dec-2022
+105757;INF179K01CS0;INF179K01CT8;HDFC Mid-Cap Opportunities Fund - IDCW Plan;38.649;19-Dec-2022
 151036;INF917K01FZ1;-;HSBC Midcap Fund - Direct Growth;232.9894;19-Dec-2022
 151035;INF917K01E78;INF917K01FX6;HSBC Midcap Fund - Direct IDCW;56.8776;19-Dec-2022
 151034;INF917K01254;-;HSBC Midcap Fund - Regular Growth;211.9103;19-Dec-2022
@@ -4213,10 +4213,10 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 119353;INF955L01AE5;-;Baroda BNP Paribas MULTI CAP FUND - Direct Plan - IDCW Option;43.3340;19-Dec-2022
 102020;INF955L01674;-;Baroda BNP Paribas MULTI CAP FUND - Regular Plan - Growth Option;174.9496;19-Dec-2022
 102021;INF955L01658;INF955L01666;Baroda BNP Paribas MULTI CAP FUND - Regular Plan - IDCW Option;41.9319;19-Dec-2022
-149366;INF179KC1BV9;-;HDFC Multi Cap Fund - Growth Option;11.177;16-Dec-2022
-149368;INF179KC1BS5;-;HDFC Multi Cap Fund - Growth Option - Direct Plan;11.352;16-Dec-2022
-149365;INF179KC1BW7;INF179KC1BX5;HDFC Multi Cap Fund - IDCW Option;11.177;16-Dec-2022
-149367;INF179KC1BT3;INF179KC1BU1;HDFC Multi Cap Fund - IDCW Option - Direct Plan;11.352;16-Dec-2022
+149366;INF179KC1BV9;-;HDFC Multi Cap Fund - Growth Option;11.24;19-Dec-2022
+149368;INF179KC1BS5;-;HDFC Multi Cap Fund - Growth Option - Direct Plan;11.418;19-Dec-2022
+149365;INF179KC1BW7;INF179KC1BX5;HDFC Multi Cap Fund - IDCW Option;11.24;19-Dec-2022
+149367;INF179KC1BT3;INF179KC1BU1;HDFC Multi Cap Fund - IDCW Option - Direct Plan;11.418;19-Dec-2022
 120381;INF109K011N7;-;ICICI Prudential MidCap Fund - Direct Plan -  Growth;187.59;19-Dec-2022
 120380;INF109K019M2;INF109K010N9;ICICI Prudential MidCap Fund - Direct Plan -  IDCW;41.19;19-Dec-2022
 102528;INF109K01AN2;-;ICICI Prudential MidCap Fund - Growth;171.08;19-Dec-2022
@@ -4399,22 +4399,22 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 118536;INF090I01FF3;INF090I01FG1;Franklin India Technology Fund - Direct - IDCW ;34.8697;16-Dec-2022
 100521;INF090I01759;INF090I01767;Franklin India Technology Fund - IDCW ;31.9218;16-Dec-2022
 100522;INF090I01742;-;Franklin India Technology Fund-Growth;285.3517;16-Dec-2022
-148987;INF179KC1BJ4;-;HDFC Banking & Financial Services Fund - Growth Option;11.637;16-Dec-2022
-148986;INF179KC1BG0;-;HDFC Banking & Financial Services Fund - Growth Option - Direct Plan;11.941;16-Dec-2022
-148984;INF179KC1BK2;INF179KC1BL0;HDFC Banking & Financial Services Fund - IDCW Option;11.637;16-Dec-2022
-148985;INF179KC1BH8;INF179KC1BI6;HDFC Banking & Financial Services Fund - IDCW Option - Direct Plan;11.941;16-Dec-2022
-150803;INF179KC1EB5;-;HDFC Business Cycle Fund - Growth Option;9.959;16-Dec-2022
-150805;INF179KC1DY9;-;HDFC Business Cycle Fund - Growth Option - Direct Plan;9.966;16-Dec-2022
-150806;INF179KC1EC3;INF179KC1ED1;HDFC Business Cycle Fund - IDCW Option;9.959;16-Dec-2022
-150804;INF179KC1DZ6;INF179KC1EA7;HDFC Business Cycle Fund - IDCW Option - Direct Plan;9.966;16-Dec-2022
-141923;INF179KC1AX7;-;HDFC Housing Opportunities Fund  - Growth Option;14.238;16-Dec-2022
-141924;INF179KC1AU3;-;HDFC Housing Opportunities Fund  - Growth Option - Direct Plan;15;16-Dec-2022
-141922;INF179KC1AY5;INF179KC1AZ2;HDFC Housing Opportunities Fund  - IDCW Option;13.034;16-Dec-2022
-141921;INF179KC1AV1;INF179KC1AW9;HDFC Housing Opportunities Fund  - IDCW Option - Direct Plan;13.794;16-Dec-2022
-118979;INF179K01WQ2;-;HDFC Infrastructure Fund - Growth Option - Direct Plan;26.618;16-Dec-2022
-107524;INF179K01GF8;-;HDFC Infrastructure Fund - Growth Plan;24.628;16-Dec-2022
-118978;INF179K01WP4;INF179K01WR0;HDFC Infrastructure Fund - IDCW Option - Direct Plan;19.116;16-Dec-2022
-107525;INF179K01GE1;INF179K01GG6;HDFC Infrastructure Fund - IDCW Plan;13.405;16-Dec-2022
+148987;INF179KC1BJ4;-;HDFC Banking & Financial Services Fund - Growth Option;11.734;19-Dec-2022
+148986;INF179KC1BG0;-;HDFC Banking & Financial Services Fund - Growth Option - Direct Plan;12.042;19-Dec-2022
+148984;INF179KC1BK2;INF179KC1BL0;HDFC Banking & Financial Services Fund - IDCW Option;11.734;19-Dec-2022
+148985;INF179KC1BH8;INF179KC1BI6;HDFC Banking & Financial Services Fund - IDCW Option - Direct Plan;12.042;19-Dec-2022
+150803;INF179KC1EB5;-;HDFC Business Cycle Fund - Growth Option;9.987;19-Dec-2022
+150805;INF179KC1DY9;-;HDFC Business Cycle Fund - Growth Option - Direct Plan;9.995;19-Dec-2022
+150806;INF179KC1EC3;INF179KC1ED1;HDFC Business Cycle Fund - IDCW Option;9.987;19-Dec-2022
+150804;INF179KC1DZ6;INF179KC1EA7;HDFC Business Cycle Fund - IDCW Option - Direct Plan;9.995;19-Dec-2022
+141923;INF179KC1AX7;-;HDFC Housing Opportunities Fund  - Growth Option;14.349;19-Dec-2022
+141924;INF179KC1AU3;-;HDFC Housing Opportunities Fund  - Growth Option - Direct Plan;15.118;19-Dec-2022
+141922;INF179KC1AY5;INF179KC1AZ2;HDFC Housing Opportunities Fund  - IDCW Option;13.135;19-Dec-2022
+141921;INF179KC1AV1;INF179KC1AW9;HDFC Housing Opportunities Fund  - IDCW Option - Direct Plan;13.903;19-Dec-2022
+118979;INF179K01WQ2;-;HDFC Infrastructure Fund - Growth Option - Direct Plan;26.89;19-Dec-2022
+107524;INF179K01GF8;-;HDFC Infrastructure Fund - Growth Plan;24.878;19-Dec-2022
+118978;INF179K01WP4;INF179K01WR0;HDFC Infrastructure Fund - IDCW Option - Direct Plan;19.311;19-Dec-2022
+107525;INF179K01GE1;INF179K01GG6;HDFC Infrastructure Fund - IDCW Plan;13.541;19-Dec-2022
 151142;INF917K01RI2;-;HSBC Business Cycles Fund - Direct Growth;26.2727;19-Dec-2022
 151145;INF917K01RK8;INF917K01RJ0;HSBC Business Cycles Fund - Direct IDCW;18.9270;19-Dec-2022
 151144;INF917K01RF8;-;HSBC Business Cycles Fund - Regular Growth;24.5487;19-Dec-2022
@@ -4824,10 +4824,10 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 118524;INF090I01IO9;INF090I01IP6;Franklin India Smaller Companies Fund - Direct - IDCW ;41.5553;19-Dec-2022
 103361;INF090I01544;INF090I01551;Franklin India Smaller Companies Fund - IDCW ;35.8077;19-Dec-2022
 103360;INF090I01569;-;Franklin India Smaller Companies Fund-Growth;97.7209;19-Dec-2022
-130502;INF179KA1RZ8;-;HDFC Small Cap Fund - Growth Option;80.144;16-Dec-2022
-130503;INF179KA1RW5;-;HDFC Small Cap Fund - Growth Option - Direct Plan;89.029;16-Dec-2022
-130501;INF179KA1SA9;INF179KA1SB7;HDFC Small Cap Fund - IDCW Option;34.402;16-Dec-2022
-130504;INF179KA1RX3;INF179KA1RY1;HDFC Small Cap Fund - IDCW Option - Direct Plan;47.02;16-Dec-2022
+130502;INF179KA1RZ8;-;HDFC Small Cap Fund - Growth Option;80.352;19-Dec-2022
+130503;INF179KA1RW5;-;HDFC Small Cap Fund - Growth Option - Direct Plan;89.267;19-Dec-2022
+130501;INF179KA1SA9;INF179KA1SB7;HDFC Small Cap Fund - IDCW Option;34.492;19-Dec-2022
+130504;INF179KA1RX3;INF179KA1RY1;HDFC Small Cap Fund - IDCW Option - Direct Plan;47.146;19-Dec-2022
 151130;INF917K01QA1;-;HSBC Small Cap Fund - Direct Growth;51.9721;19-Dec-2022
 151132;INF917K01PZ0;INF917K01XP5;HSBC Small Cap Fund - Direct IDCW;34.3895;19-Dec-2022
 151133;INF917K01QC7;-;HSBC Small Cap Fund - Regular Growth;48.0252;19-Dec-2022
@@ -4923,10 +4923,10 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 118493;INF090I01GW6;INF090I01GX4;Templeton India Value Fund - Direct - IDCW ;87.1749;19-Dec-2022
 100496;INF090I01296;-;Templeton India Value Fund - Growth Plan;461.1289;19-Dec-2022
 100497;INF090I01270;INF090I01288;Templeton India Value Fund - IDCW ;78.0444;19-Dec-2022
-118935;INF179K01VC4;-;HDFC Capital Builder Value Fund - Growth Option - Direct Plan;501.636;16-Dec-2022
-101764;INF179K01426;-;HDFC Capital Builder Value Fund - Growth Plan;459.124;16-Dec-2022
-118934;INF179K01VA8;INF179K01VB6;HDFC Capital Builder Value Fund - IDCW Option - Direct Plan;32.19;16-Dec-2022
-101765;INF179K01400;INF179K01418;HDFC Capital Builder Value Fund - IDCW Plan;27.676;16-Dec-2022
+118935;INF179K01VC4;-;HDFC Capital Builder Value Fund - Growth Option - Direct Plan;504.514;19-Dec-2022
+101764;INF179K01426;-;HDFC Capital Builder Value Fund - Growth Plan;461.726;19-Dec-2022
+118934;INF179K01VA8;INF179K01VB6;HDFC Capital Builder Value Fund - IDCW Option - Direct Plan;32.375;19-Dec-2022
+101765;INF179K01400;INF179K01418;HDFC Capital Builder Value Fund - IDCW Plan;27.833;19-Dec-2022
 151113;INF917K01HD4;-;HSBC Value Fund - Direct Growth;67.4696;19-Dec-2022
 151112;INF917K01HC6;INF917K01HB8;HSBC Value Fund - Direct IDCW;45.9900;19-Dec-2022
 151110;INF677K01023;-;HSBC Value Fund - Regular Growth;61.9588;19-Dec-2022
@@ -5044,10 +5044,10 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 118547;INF090I01GA2;INF090I01GB0;Franklin India Equity Hybrid Fund - Direct - IDCW ;29.6080;19-Dec-2022
 100550;INF090I01817;-;Franklin India Equity Hybrid Fund - Growth Plan;186.0766;19-Dec-2022
 100549;INF090I01825;INF090I01833;Franklin India Equity Hybrid Fund - IDCW ;25.3963;19-Dec-2022
-119062;INF179K01XZ1;-;HDFC Hybrid Equity Fund - Growth Option - Direct Plan;92.05;16-Dec-2022
-102948;INF179K01AS4;-;HDFC Hybrid Equity Fund - Growth Plan;86.339;16-Dec-2022
-119061;INF179K01XX6;INF179K01XY4;HDFC Hybrid Equity Fund - IDCW Option - Direct Plan;16.135;16-Dec-2022
-102947;INF179K01AQ8;INF179K01AR6;HDFC Hybrid Equity Fund - IDCW Plan;14.581;16-Dec-2022
+119062;INF179K01XZ1;-;HDFC Hybrid Equity Fund - Growth Option - Direct Plan;92.407;19-Dec-2022
+102948;INF179K01AS4;-;HDFC Hybrid Equity Fund - Growth Plan;86.669;19-Dec-2022
+119061;INF179K01XX6;INF179K01XY4;HDFC Hybrid Equity Fund - IDCW Option - Direct Plan;16.198;19-Dec-2022
+102947;INF179K01AQ8;INF179K01AR6;HDFC Hybrid Equity Fund - IDCW Plan;14.637;19-Dec-2022
 151125;INF917K01TY5;INF917K01TX7;HSBC Aggressive Hybrid Fund - Direct Annual IDCW;16.7423;19-Dec-2022
 151122;INF917K01LE4;-;HSBC Aggressive Hybrid Fund - Direct Growth;40.9193;19-Dec-2022
 151123;INF917K01E45;INF917K01LD6;HSBC Aggressive Hybrid Fund - Direct IDCW;26.9985;19-Dec-2022
@@ -5238,17 +5238,17 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 130206;INF754K01EA4;-;Edelweiss Arbitrage Fund- Direct Plan- Growth Option;17.0552;19-Dec-2022
 130208;INF754K01EJ5;-;Edelweiss Arbitrage Fund- Regular Plan -Bonus Option;16.1775;19-Dec-2022
 130205;INF754K01EF3;-;Edelweiss Arbitrage Fund- Regular Plan- Growth Option;16.1737;19-Dec-2022
-118931;INF179K01UU8;-;HDFC ARBITRAGE FUND - Growth Option - Direct Plan;26.347;16-Dec-2022
-118930;INF179K01UV6;INF179K01UW4;HDFC ARBITRAGE FUND - Quarterly IDCW Option - Direct Plan;19.966;16-Dec-2022
-106796;INF179K01319;-;HDFC ARBITRAGE FUND - Retail Growth Option;24.944;16-Dec-2022
-106799;-;-;HDFC ARBITRAGE FUND - Retail IDCW Option;18.527;16-Dec-2022
-106797;INF179K01327;-;HDFC ARBITRAGE FUND - Retail Quarterly IDCW Option;17.721;16-Dec-2022
-106793;INF179K01343;-;HDFC ARBITRAGE FUND - Wholesale Growth Option;25.587;16-Dec-2022
-129052;INF179KA1KT6;-;HDFC ARBITRAGE FUND - Wholesale Growth Option - Direct Plan;16.621;16-Dec-2022
-106795;INF179KA1KM1;INF179KA1KL3;HDFC ARBITRAGE FUND - Wholesale IDCW Option;10.431;16-Dec-2022
-129053;INF179KA1KQ2;INF179KA1KP4;HDFC ARBITRAGE FUND - Wholesale IDCW Option - Direct Plan;10.85;16-Dec-2022
-129054;INF179KA1KS8;INF179KA1KR0;HDFC ARBITRAGE FUND - Wholesale Monthly IDCW - Direct Plan;10.538;16-Dec-2022
-129051;INF179KA1KO7;INF179KA1KN9;HDFC ARBITRAGE FUND - Wholesale Monthly IDCW Option  ;10.803;16-Dec-2022
+118931;INF179K01UU8;-;HDFC ARBITRAGE FUND - Growth Option - Direct Plan;26.328;19-Dec-2022
+118930;INF179K01UV6;INF179K01UW4;HDFC ARBITRAGE FUND - Quarterly IDCW Option - Direct Plan;19.951;19-Dec-2022
+106796;INF179K01319;-;HDFC ARBITRAGE FUND - Retail Growth Option;24.925;19-Dec-2022
+106799;-;-;HDFC ARBITRAGE FUND - Retail IDCW Option;18.512;19-Dec-2022
+106797;INF179K01327;-;HDFC ARBITRAGE FUND - Retail Quarterly IDCW Option;17.708;19-Dec-2022
+106793;INF179K01343;-;HDFC ARBITRAGE FUND - Wholesale Growth Option;25.567;19-Dec-2022
+129052;INF179KA1KT6;-;HDFC ARBITRAGE FUND - Wholesale Growth Option - Direct Plan;16.609;19-Dec-2022
+106795;INF179KA1KM1;INF179KA1KL3;HDFC ARBITRAGE FUND - Wholesale IDCW Option;10.423;19-Dec-2022
+129053;INF179KA1KQ2;INF179KA1KP4;HDFC ARBITRAGE FUND - Wholesale IDCW Option - Direct Plan;10.842;19-Dec-2022
+129054;INF179KA1KS8;INF179KA1KR0;HDFC ARBITRAGE FUND - Wholesale Monthly IDCW - Direct Plan;10.531;19-Dec-2022
+129051;INF179KA1KO7;INF179KA1KN9;HDFC ARBITRAGE FUND - Wholesale Monthly IDCW Option  ;10.795;19-Dec-2022
 151138;INF917K01QR5;-;HSBC Arbitrage Fund - Direct Growth;16.7598;19-Dec-2022
 151135;INF917K01QT1;INF917K01QS3;HSBC Arbitrage Fund - Direct Monthly IDCW;10.4004;19-Dec-2022
 151136;INF917K01QV7;INF917K01QU9;HSBC Arbitrage Fund - Direct Quarterly IDCW;11.2716;19-Dec-2022
@@ -5416,12 +5416,12 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 148299;INF090I01WG6;-;Franklin India Debt Hybrid Fund - Segregated Portfolio 1 (10.25% Yes Bank Ltd CO 05Mar20) - Monthly Dividend Plan;0.0000;11-Jan-2021
 148300;INF090I01WF8;-;Franklin India Debt Hybrid Fund - Segregated Portfolio 1 (10.25% Yes Bank Ltd CO 05Mar20) - Quarterly Dividend Plan;0.0000;11-Jan-2021
 148301;INF090I01WJ0;-;Franklin India Debt Hybrid Fund - Segregated Portfolio 1 (10.25% Yes Bank Ltd CO05Mar20) - Direct Monthly Dividend Plan;0.0000;11-Jan-2021
-119118;INF179K01XE6;-;HDFC Hybrid Debt Fund - Growth Option - Direct Plan;66.1486;16-Dec-2022
-102147;INF179K01AE4;-;HDFC Hybrid Debt Fund - Growth Plan;63.0315;16-Dec-2022
-102148;INF179K01AA2;INF179K01AB0;HDFC Hybrid Debt Fund - IDCW Monthly;13.3896;16-Dec-2022
-119119;INF179K01XF3;INF179K01XG1;HDFC Hybrid Debt Fund - IDCW Monthly - Direct Plan;14.4468;16-Dec-2022
-102149;INF179K01AC8;INF179K01AD6;HDFC Hybrid Debt Fund - IDCW Quarterly;14.3922;16-Dec-2022
-119120;INF179K01XH9;INF179K01XI7;HDFC Hybrid Debt Fund - IDCW Quarterly - Direct Plan;15.5048;16-Dec-2022
+119118;INF179K01XE6;-;HDFC Hybrid Debt Fund - Growth Option - Direct Plan;66.2619;19-Dec-2022
+102147;INF179K01AE4;-;HDFC Hybrid Debt Fund - Growth Plan;63.137;19-Dec-2022
+102148;INF179K01AA2;INF179K01AB0;HDFC Hybrid Debt Fund - IDCW Monthly;13.412;19-Dec-2022
+119119;INF179K01XF3;INF179K01XG1;HDFC Hybrid Debt Fund - IDCW Monthly - Direct Plan;14.4716;19-Dec-2022
+102149;INF179K01AC8;INF179K01AD6;HDFC Hybrid Debt Fund - IDCW Quarterly;14.4163;19-Dec-2022
+119120;INF179K01XH9;INF179K01XI7;HDFC Hybrid Debt Fund - IDCW Quarterly - Direct Plan;15.5314;19-Dec-2022
 120073;INF336L01DW4;-;HSBC Conservative Hybrid Fund - Direct Growth;51.2198;19-Dec-2022
 120074;INF336L01DX2;INF336L01DY0;HSBC Conservative Hybrid Fund - Direct Monthly IDCW;16.1077;19-Dec-2022
 120075;INF336L01DZ7;INF336L01EA8;HSBC Conservative Hybrid Fund - Direct Quarterly IDCW;14.0236;19-Dec-2022
@@ -5555,10 +5555,10 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 150481;INF090I01WQ5;-;Franklin India Balanced Advantage Fund- Growth- Direct;10.3449;19-Dec-2022
 150478;INF090I01WO0;INF090I01WP7;Franklin India Balanced Advantage Fund- IDCW;10.2926;19-Dec-2022
 150479;INF090I01WR3;INF090I01WS1;Franklin India Balanced Advantage Fund- IDCW- Direct;10.3449;19-Dec-2022
-100119;INF179K01830;-;HDFC Balanced Advantage Fund - Growth Plan;326.805;16-Dec-2022
-118968;INF179K01WA6;-;HDFC Balanced Advantage Fund - Growth Plan - Direct Plan;347.611;16-Dec-2022
-100120;INF179K01814;INF179K01822;HDFC Balanced Advantage Fund - IDCW Plan;30.636;16-Dec-2022
-118969;INF179K01VY8;INF179K01VZ5;HDFC Balanced Advantage Fund - IDCW Plan - Direct Plan;34.27;16-Dec-2022
+100119;INF179K01830;-;HDFC Balanced Advantage Fund - Growth Plan;328.331;19-Dec-2022
+118968;INF179K01WA6;-;HDFC Balanced Advantage Fund - Growth Plan - Direct Plan;349.253;19-Dec-2022
+100120;INF179K01814;INF179K01822;HDFC Balanced Advantage Fund - IDCW Plan;30.779;19-Dec-2022
+118969;INF179K01VY8;INF179K01VZ5;HDFC Balanced Advantage Fund - IDCW Plan - Direct Plan;34.432;19-Dec-2022
 151129;INF917K01IN1;-;HSBC Balanced Advantage Fund - Direct Growth;35.4977;19-Dec-2022
 151128;INF917K01IM3;INF917K01IL5;HSBC Balanced Advantage Fund - Direct IDCW;19.9541;19-Dec-2022
 151127;INF917K01KY4;-;HSBC Balanced Advantage Fund - Regular Growth;31.7119;19-Dec-2022
@@ -5681,10 +5681,10 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 144463;INF090I01PJ4;INF090I01PI6;Franklin India Equity Savings Fund - Quarterly - IDCW;11.4533;19-Dec-2022
 144461;INF090I01PA3;-;Franklin India Equity Savings Fund- Growth;13.3245;19-Dec-2022
 144466;INF090I01PD7;-;Franklin India Equity Savings Fund- Growth Direct;14.2224;19-Dec-2022
-119128;INF179K01XT4;-;HDFC Equity Savings Fund - Growth Option - Direct Plan;55.429;16-Dec-2022
-101585;INF179K01AM7;-;HDFC Equity Savings Fund - GROWTH PLAN;50.732;16-Dec-2022
-119129;INF179K01XR8;INF179K01XS6;HDFC Equity Savings Fund - IDCW Option - Direct Plan;13.654;16-Dec-2022
-101586;INF179K01AK1;INF179K01AL9;HDFC Equity Savings Fund - IDCW PLAN;12.046;16-Dec-2022
+119128;INF179K01XT4;-;HDFC Equity Savings Fund - Growth Option - Direct Plan;55.544;19-Dec-2022
+101585;INF179K01AM7;-;HDFC Equity Savings Fund - GROWTH PLAN;50.834;19-Dec-2022
+119129;INF179K01XR8;INF179K01XS6;HDFC Equity Savings Fund - IDCW Option - Direct Plan;13.683;19-Dec-2022
+101586;INF179K01AK1;INF179K01AL9;HDFC Equity Savings Fund - IDCW PLAN;12.07;19-Dec-2022
 151060;INF917K01GE4;-;HSBC Equity Savings Fund - Direct Growth;25.4553;19-Dec-2022
 151061;INF917K01E37;INF917K01GA2;HSBC Equity Savings Fund - Direct Monthly IDCW;14.3338;19-Dec-2022
 151059;INF917K01GD6;INF917K01GC8;HSBC Equity Savings Fund - Direct Quarterly IDCW;14.9428;19-Dec-2022
@@ -5806,10 +5806,10 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 120523;INF846K01ET8;INF846K01EU6;Axis Triple Advantage Fund - Direct Plan - IDCW;22.8052;19-Dec-2022
 113064;INF846K01768;-;Axis Triple Advantage Fund - Regular Plan - Growth Option;29.7041;19-Dec-2022
 113065;INF846K01776;INF846K01784;Axis Triple Advantage Fund - Regular Plan - IDCW;18.3690;19-Dec-2022
-103131;INF179K01AP0;-;HDFC Multi-Asset Fund - Growth Option;50.092;16-Dec-2022
-119131;INF179K01XW8;-;HDFC Multi-Asset Fund - Growth Option - Direct Plan;54.221;16-Dec-2022
-103130;INF179K01AN5;INF179K01AO3;HDFC Multi-Asset Fund - IDCW Option;15.301;16-Dec-2022
-119130;INF179K01XU2;INF179K01XV0;HDFC Multi-Asset Fund - IDCW Option - Direct Plan;17.653;16-Dec-2022
+103131;INF179K01AP0;-;HDFC Multi-Asset Fund - Growth Option;50.345;19-Dec-2022
+119131;INF179K01XW8;-;HDFC Multi-Asset Fund - Growth Option - Direct Plan;54.502;19-Dec-2022
+103130;INF179K01AN5;INF179K01AO3;HDFC Multi-Asset Fund - IDCW Option;15.378;19-Dec-2022
+119130;INF179K01XU2;INF179K01XV0;HDFC Multi-Asset Fund - IDCW Option - Direct Plan;17.744;19-Dec-2022
 120334;INF109K015K4;-;ICICI Prudential Multi-Asset Fund - Direct Plan - Growth;518.4784;16-Dec-2022
 120335;INF109K013K9;INF109K014K7;ICICI Prudential Multi-Asset Fund - Direct Plan - IDCW;39.4078;16-Dec-2022
 101144;INF109K01761;-;ICICI Prudential Multi-Asset Fund - Growth;480.2081;16-Dec-2022
@@ -6144,18 +6144,18 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 132987;INF090I01LE4;-;Franklin India Multi - Asset Solution Fund of Funds- Growth Plan;14.7266;16-Dec-2022
 132989;INF090I01LH7;-;Franklin India Multi - Asset Solution Fund of Funds- Growth Plan - Direct;16.2079;16-Dec-2022
 132988;INF090I01LF1;INF090I01LG9;Franklin India Multi - Asset Solution Fund of Funds- IDCW;14.7266;16-Dec-2022
-148901;INF179KC1BD7;-;HDFC Asset Allocator Fund of Funds - Growth Option;12.32;16-Dec-2022
-148903;INF179KC1BA3;-;HDFC Asset Allocator Fund of Funds - Growth Option -Direct Plan;12.58;16-Dec-2022
-148900;INF179KC1BE5;-;HDFC Asset Allocator Fund of Funds - IDCW Option;12.32;16-Dec-2022
-148902;INF179KC1BB1;-;HDFC Asset Allocator Fund of Funds - IDCW Option - Direct Plan;12.58;16-Dec-2022
-130533;INF179KA1SF8;-;HDFC Dynamic PE Ratio Fund of Funds - Growth Option;28.5132;16-Dec-2022
-130543;INF179KA1SC5;-;HDFC Dynamic PE Ratio Fund of Funds - Growth Option - Direct Plan;30.863;16-Dec-2022
-130540;INF179KA1SG6;-;HDFC Dynamic PE Ratio Fund of Funds - IDCW Option;24.9853;16-Dec-2022
-130547;INF179KA1SD3;-;HDFC Dynamic PE Ratio Fund of Funds - IDCW Option - Direct Plan;27.1078;16-Dec-2022
-119132;INF179K01VX0;-;HDFC Gold Fund - Direct Plan;17.4222;16-Dec-2022
-115934;INF179K01LC5;-;HDFC Gold Fund - Growth Option;16.7741;16-Dec-2022
-150736;-;-;HDFC Silver ETF Fund of Fund - Growth Option;11.353;16-Dec-2022
-150737;-;-;HDFC Silver ETF Fund of Fund - Growth Option - Direct Plan;11.362;16-Dec-2022
+148901;INF179KC1BD7;-;HDFC Asset Allocator Fund of Funds - Growth Option;12.37;19-Dec-2022
+148903;INF179KC1BA3;-;HDFC Asset Allocator Fund of Funds - Growth Option -Direct Plan;12.64;19-Dec-2022
+148900;INF179KC1BE5;-;HDFC Asset Allocator Fund of Funds - IDCW Option;12.37;19-Dec-2022
+148902;INF179KC1BB1;-;HDFC Asset Allocator Fund of Funds - IDCW Option - Direct Plan;12.64;19-Dec-2022
+130533;INF179KA1SF8;-;HDFC Dynamic PE Ratio Fund of Funds - Growth Option;28.5804;19-Dec-2022
+130543;INF179KA1SC5;-;HDFC Dynamic PE Ratio Fund of Funds - Growth Option - Direct Plan;30.9378;19-Dec-2022
+130540;INF179KA1SG6;-;HDFC Dynamic PE Ratio Fund of Funds - IDCW Option;25.0442;19-Dec-2022
+130547;INF179KA1SD3;-;HDFC Dynamic PE Ratio Fund of Funds - IDCW Option - Direct Plan;27.1735;19-Dec-2022
+119132;INF179K01VX0;-;HDFC Gold Fund - Direct Plan;17.5432;19-Dec-2022
+115934;INF179K01LC5;-;HDFC Gold Fund - Growth Option;16.8901;19-Dec-2022
+150736;-;-;HDFC Silver ETF Fund of Fund - Growth Option;11.601;19-Dec-2022
+150737;-;-;HDFC Silver ETF Fund of Fund - Growth Option - Direct Plan;11.611;19-Dec-2022
 129195;INF336L01IM4;-;HSBC Managed Solutions - Conservative - Growth;17.7664;16-Dec-2022
 129197;INF336L01IP7;-;HSBC Managed Solutions - Conservative - Growth Direct;18.4883;16-Dec-2022
 129198;INF336L01IN2;INF336L01IO0;HSBC Managed Solutions India Conservative Fund Direct Plan IDCW;17.1673;04-Feb-2021
@@ -6417,8 +6417,8 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 129441;INF090I01KY4;INF090I01KZ1;Franklin India Feeder - Templeton European Opportunities Fund - Direct - IDCW ;9.8975;16-Dec-2022
 129438;INF090I01KU2;-;Franklin India Feeder - Templeton European Opportunities Fund - Growth;8.9825;16-Dec-2022
 129439;INF090I01KV0;INF090I01KW8;Franklin India Feeder - Templeton European Opportunities Fund - IDCW ;8.9825;16-Dec-2022
-149180;INF179KC1BO4;-;HDFC Developed World Indexes Fund of Funds - Direct Plan - Growth Option;9.901;16-Dec-2022
-149181;INF179KC1BP1;-;HDFC Developed World Indexes Fund of Funds - Growth Option;9.831;16-Dec-2022
+149180;INF179KC1BO4;-;HDFC Developed World Indexes Fund of Funds - Direct Plan - Growth Option;9.68;19-Dec-2022
+149181;INF179KC1BP1;-;HDFC Developed World Indexes Fund of Funds - Growth Option;9.611;19-Dec-2022
 127073;INF336L01HC7;-;HSBC Asia Pacific (Ex Japan) Dividend Yield Fund - Growth;17.3433;16-Dec-2022
 127071;INF336L01HF0;-;HSBC Asia Pacific (Ex Japan) Dividend Yield Fund - Growth Direct;18.4911;16-Dec-2022
 127072;INF336L01HG8;INF336L01HH6;HSBC Asia Pacific IDCW Yield Fund Direct Plan IDCW;17.0895;16-Dec-2022
@@ -6443,10 +6443,10 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 149458;INF109KC1Z63;INF109KC1Z71;ICICI Prudential Strategic Metal and Energy Equity Fund of Fund - Direct Plan IDCW;12.7583;16-Dec-2022
 149456;INF109KC1Z22;-;ICICI Prudential Strategic Metal and Energy Equity Fund of Fund - Growth;12.6392;16-Dec-2022
 149457;INF109KC1Z30;INF109KC1Z48;ICICI Prudential Strategic Metal and Energy Equity Fund of Fund - IDCW;12.6391;16-Dec-2022
-149098;INF194KB1CF2;-;IDFC US EQUITY FUND OF FUND - GROWTH - DIRECT PLAN;8.835;16-Dec-2022
-149100;INF194KB1CC9;-;IDFC US EQUITY FUND OF FUND - GROWTH - REGULAR PLAN;8.701;16-Dec-2022
-149099;INF194KB1CG0;-;IDFC US EQUITY FUND OF FUND - IDCW - DIRECT PLAN;8.835;16-Dec-2022
-149097;INF194KB1CD7;-;IDFC US EQUITY FUND OF FUND - IDCW - REGULAR PLAN;8.701;16-Dec-2022
+149098;INF194KB1CF2;-;IDFC US EQUITY FUND OF FUND - GROWTH - DIRECT PLAN;8.744;19-Dec-2022
+149100;INF194KB1CC9;-;IDFC US EQUITY FUND OF FUND - GROWTH - REGULAR PLAN;8.611;19-Dec-2022
+149099;INF194KB1CG0;-;IDFC US EQUITY FUND OF FUND - IDCW - DIRECT PLAN;8.744;19-Dec-2022
+149097;INF194KB1CD7;-;IDFC US EQUITY FUND OF FUND - IDCW - REGULAR PLAN;8.611;19-Dec-2022
 149961;INF205KA1585;-;Invesco India - Invesco EQQQ Nasdaq-100 ETF Fund of Fund - Direct Plan - Growth;8.6648;19-Dec-2022
 149960;INF205KA1577;-;Invesco India - Invesco EQQQ Nasdaq-100 ETF Fund of Fund - Regular Plan - Growth;8.6499;19-Dec-2022
 148614;INF205KA1270;-;Invesco India - Invesco Global Consumer Trends Fund of Fund - Direct Plan - Growth;6.0303;19-Dec-2022
@@ -6518,7 +6518,7 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 106369;INF903J01EY9;INF903J01EZ6;Sundaram Global Brand Fund Regular Plan - Income Distribution cum Capital Withdrawal (IDCW);18.8198;16-Dec-2022
 115127;INF209KB18D3;-;Aditya Birla Sun Life Gold ETF;49.7228;19-Dec-2022
 113434;INF846K01W80;-;Axis Gold ETF;47.1607;19-Dec-2022
-113049;INF179KC1981;-;HDFC Gold Exchange Traded Fund. - Growth Option;48.1253;16-Dec-2022
+113049;INF179KC1981;-;HDFC Gold Exchange Traded Fund. - Growth Option;48.4094;19-Dec-2022
 113076;INF109KC1NT3;-;ICICI Prudential Gold ETF;48.3670;19-Dec-2022
 115939;INF397L01554;-;IDBI Gold Exchange Traded Fund;5045.0288;19-Dec-2022
 112368;INF205K01361;-;Invesco India Gold Exchange Traded Fund;4911.0015;19-Dec-2022
@@ -6695,26 +6695,26 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 100484;INF090I01890;-;Franklin India Index Fund- NSE Nifty 50 Index Fund - Growth;146.5339;19-Dec-2022
 105067;INF090I01874;INF090I01882;Franklin India INDEX FUND- NSE NIFTY 50 INDEX FUND - IDCW;146.5339;19-Dec-2022
 118581;INF090I01GS4;-;Franklin India INDEX FUND- NSE NIFTY 50 INDEX FUND- Direct - Growth;152.4273;19-Dec-2022
-119063;INF179K01WM1;-;HDFC Index Fund-NIFTY 50 Plan - Direct Plan;172.8148;16-Dec-2022
-101525;INF179K01KZ8;-;HDFC Index Fund-NIFTY 50 Plan - Growth Plan;169.7597;16-Dec-2022
-119065;INF179K01WN9;-;HDFC Index Fund-S&P BSE Sensex Plan - Direct Plan;566.1701;16-Dec-2022
-101281;INF179K01LA9;-;HDFC Index Fund-S&P BSE Sensex Plan - Growth Plan;555.1135;16-Dec-2022
-149870;INF179KC1CA1;-;HDFC Nifty 100 Equal Weight Index Fund - Direct Plan - Growth Option;10.5617;16-Dec-2022
-149871;INF179KC1CB9;-;HDFC Nifty 100 Equal Weight Index Fund - Growth Option;10.513;16-Dec-2022
-149868;INF179KC1BY3;-;HDFC NIFTY 100 Index Fund - Direct Plan - Growth Option;10.7294;16-Dec-2022
-149869;INF179KC1BZ0;-;HDFC NIFTY 100 Index Fund - Growth Option;10.6758;16-Dec-2022
-150844;INF179KC1EG4;-;HDFC Nifty G-Sec Dec 2026 Index Fund - Growth Option;10.105;16-Dec-2022
-150845;INF179KC1EE9;-;HDFC Nifty G-Sec Dec 2026 Index Fund - Growth Option - Direct Plan;10.106;16-Dec-2022
-150846;INF179KC1EI0;-;HDFC Nifty G-Sec July 2031 Index Fund - Growth Option;10.097;16-Dec-2022
-150847;INF179KC1EH2;-;HDFC Nifty G-Sec July 2031 Index Fund - Growth Option - Direct Plan;10.099;16-Dec-2022
-151180;INF179KC1EK6;-;HDFC Nifty G-Sec Jun 2027 Index Fund - Growth Option;10.028;16-Dec-2022
-151181;INF179KC1EJ8;-;HDFC Nifty G-Sec Jun 2027 Index Fund - Growth Option - Direct Plan;10.029;16-Dec-2022
-151182;INF179KC1EM2;-;HDFC Nifty G-Sec Sep 2032 V1 Index Fund - Growth Option;10.022;16-Dec-2022
-151183;INF179KC1EL4;-;HDFC Nifty G-Sec Sep 2032 V1 Index Fund - Growth Option - Direct Plan;10.021;16-Dec-2022
-149288;INF179KC1BR7;-;HDFC NIFTY Next 50 Index Fund - Direct Plan - Growth Option;10.0804;16-Dec-2022
-149287;INF179KC1BQ9;-;HDFC NIFTY Next 50 Index Fund - Growth Option;10.0118;16-Dec-2022
-149107;INF179KC1BM8;-;HDFC NIFTY50 Equal weight Index Fund - Direct Plan - Growth Option;11.5751;16-Dec-2022
-149106;INF179KC1BN6;-;HDFC NIFTY50 Equal weight Index Fund - Growth Option;11.4791;16-Dec-2022
+119063;INF179K01WM1;-;HDFC Index Fund-NIFTY 50 Plan - Direct Plan;174.2444;19-Dec-2022
+101525;INF179K01KZ8;-;HDFC Index Fund-NIFTY 50 Plan - Growth Plan;171.1612;19-Dec-2022
+119065;INF179K01WN9;-;HDFC Index Fund-S&P BSE Sensex Plan - Direct Plan;570.4811;19-Dec-2022
+101281;INF179K01LA9;-;HDFC Index Fund-S&P BSE Sensex Plan - Growth Plan;559.3307;19-Dec-2022
+149870;INF179KC1CA1;-;HDFC Nifty 100 Equal Weight Index Fund - Direct Plan - Growth Option;10.6617;19-Dec-2022
+149871;INF179KC1CB9;-;HDFC Nifty 100 Equal Weight Index Fund - Growth Option;10.6119;19-Dec-2022
+149868;INF179KC1BY3;-;HDFC NIFTY 100 Index Fund - Direct Plan - Growth Option;10.8206;19-Dec-2022
+149869;INF179KC1BZ0;-;HDFC NIFTY 100 Index Fund - Growth Option;10.7658;19-Dec-2022
+150844;INF179KC1EG4;-;HDFC Nifty G-Sec Dec 2026 Index Fund - Growth Option;10.107;19-Dec-2022
+150845;INF179KC1EE9;-;HDFC Nifty G-Sec Dec 2026 Index Fund - Growth Option - Direct Plan;10.109;19-Dec-2022
+150846;INF179KC1EI0;-;HDFC Nifty G-Sec July 2031 Index Fund - Growth Option;10.098;19-Dec-2022
+150847;INF179KC1EH2;-;HDFC Nifty G-Sec July 2031 Index Fund - Growth Option - Direct Plan;10.1;19-Dec-2022
+151180;INF179KC1EK6;-;HDFC Nifty G-Sec Jun 2027 Index Fund - Growth Option;10.027;19-Dec-2022
+151181;INF179KC1EJ8;-;HDFC Nifty G-Sec Jun 2027 Index Fund - Growth Option - Direct Plan;10.028;19-Dec-2022
+151182;INF179KC1EM2;-;HDFC Nifty G-Sec Sep 2032 V1 Index Fund - Growth Option;10.022;19-Dec-2022
+151183;INF179KC1EL4;-;HDFC Nifty G-Sec Sep 2032 V1 Index Fund - Growth Option - Direct Plan;10.022;19-Dec-2022
+149288;INF179KC1BR7;-;HDFC NIFTY Next 50 Index Fund - Direct Plan - Growth Option;10.1802;19-Dec-2022
+149287;INF179KC1BQ9;-;HDFC NIFTY Next 50 Index Fund - Growth Option;10.1105;19-Dec-2022
+149107;INF179KC1BM8;-;HDFC NIFTY50 Equal weight Index Fund - Direct Plan - Growth Option;11.6907;19-Dec-2022
+149106;INF179KC1BN6;-;HDFC NIFTY50 Equal weight Index Fund - Growth Option;11.5932;19-Dec-2022
 149966;INF336L01QH7;-;HSBC CRISIL IBX 50:50 Gilt Plus SDL Apr 2028 Index Fund - Direct - Growth;10.2415;19-Dec-2022
 149962;INF336L01QI5;INF336L01QJ3;HSBC CRISIL IBX 50:50 Gilt Plus SDL Apr 2028 Index Fund - Direct - Payout of IDCW;10.2415;19-Dec-2022
 149963;INF336L01QK1;-;HSBC CRISIL IBX 50:50 Gilt Plus SDL Apr 2028 Index Fund - Regular - Growth;10.2264;19-Dec-2022
@@ -7070,19 +7070,19 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 148444;INF754K01LD3;-;BHARAT Bond ETF April 2025;1094.3833;19-Dec-2022
 148445;INF754K01LE1;-;BHARAT Bond ETF- April 2031;1099.6006;19-Dec-2022
 135859;INF754K01EL1;-;Edelweiss ETF - Nifty Bank;4426.8136;19-Dec-2022
-150476;INF179KC1DB7;-;HDFC NIFTY 100 ETF - Growth Option;185.4031;16-Dec-2022
-135853;INF179KC1965;-;HDFC NIFTY 50 Exchange Traded Fund - Growth Plan;197.6644;16-Dec-2022
-148461;INF179KC1AN8;-;HDFC NIFTY Banking Exchange Traded Fund - GROWTH;434.8401;16-Dec-2022
-150621;INF179KC1DJ0;-;HDFC NIFTY GROWTH SECTORS 15 ETF - Growth Option;87.6691;16-Dec-2022
-150801;INF179KC1DX1;-;HDFC NIFTY IT ETF - Growth option;287.1159;16-Dec-2022
-150477;INF179KC1DA9;-;HDFC NIFTY NEXT 50 ETF - Growth Option;430.8849;16-Dec-2022
-150802;INF179KC1DW3;-;HDFC NIFTY Private Bank ETF - Growth Option;220.5886;16-Dec-2022
-150658;INF179KC1DN2;-;HDFC NIFTY100 Low Volatility 30 ETF - Growth Option;133.8345;16-Dec-2022
-150620;INF179KC1DL6;-;HDFC NIFTY100 QUALITY 30 ETF - Growth Option;38.8948;16-Dec-2022
-150657;INF179KC1DM4;-;HDFC NIFTY200 MOMENTUM 30 ETF - Growth Option;197.9053;16-Dec-2022
-150619;INF179KC1DK8;-;HDFC NIFTY 50 VALUE 20 ETF - Growth Option;92.1407;16-Dec-2022
-135854;INF179KC1973;-;HDFC S&P BSE Sensex Exchange Traded Fund - Growth Plan;666.4607;16-Dec-2022
-150556;INF179KC1DI2;-;HDFC Silver ETF - Growth Option;67.8222;16-Dec-2022
+150476;INF179KC1DB7;-;HDFC NIFTY 100 ETF - Growth Option;186.9844;19-Dec-2022
+135853;INF179KC1965;-;HDFC NIFTY 50 Exchange Traded Fund - Growth Plan;199.3022;19-Dec-2022
+148461;INF179KC1AN8;-;HDFC NIFTY Banking Exchange Traded Fund - GROWTH;436.8018;19-Dec-2022
+150621;INF179KC1DJ0;-;HDFC NIFTY GROWTH SECTORS 15 ETF - Growth Option;88.9807;19-Dec-2022
+150801;INF179KC1DX1;-;HDFC NIFTY IT ETF - Growth option;285.6548;19-Dec-2022
+150477;INF179KC1DA9;-;HDFC NIFTY NEXT 50 ETF - Growth Option;435.1633;19-Dec-2022
+150802;INF179KC1DW3;-;HDFC NIFTY Private Bank ETF - Growth Option;221.6825;19-Dec-2022
+150658;INF179KC1DN2;-;HDFC NIFTY100 Low Volatility 30 ETF - Growth Option;135.2127;19-Dec-2022
+150620;INF179KC1DL6;-;HDFC NIFTY100 QUALITY 30 ETF - Growth Option;39.2658;19-Dec-2022
+150657;INF179KC1DM4;-;HDFC NIFTY200 MOMENTUM 30 ETF - Growth Option;200.1369;19-Dec-2022
+150619;INF179KC1DK8;-;HDFC NIFTY 50 VALUE 20 ETF - Growth Option;92.5312;19-Dec-2022
+135854;INF179KC1973;-;HDFC S&P BSE Sensex Exchange Traded Fund - Growth Plan;671.5488;19-Dec-2022
+150556;INF179KC1DI2;-;HDFC Silver ETF - Growth Option;68.7449;19-Dec-2022
 141957;INF109KB15Y7;-;BHARAT 22 ETF;58.1472;19-Dec-2022
 151196;INF109KC18O0;-;ICICI Prudential Nifty 10 yr Benchmark G-sec ETF;206.6745;19-Dec-2022
 123004;INF109KA1962;-;ICICI Prudential Nifty 100 ETF;203.1125;19-Dec-2022
@@ -7205,8 +7205,8 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 135766;INF846K01WM5;-;Axis Children's Gift Fund - No Lock in - Regular Plan - Growth;19.6612;19-Dec-2022
 135761;INF846K01WN3;INF846K01WL7;Axis Children's Gift Fund - No Lock in - Regular Plan - IDCW;19.6580;19-Dec-2022
 100899;-;-;HDFC Children Gift Fund-Savings;44.0722;18-Oct-2017
-119066;-;-;HDFC Childrens Gift Fund - Direct Plan;216.301;16-Dec-2022
-100900;-;-;HDFC Childrens Gift Fund - Growth Plan;199.299;16-Dec-2022
+119066;-;-;HDFC Childrens Gift Fund - Direct Plan;216.998;19-Dec-2022
+100900;-;-;HDFC Childrens Gift Fund - Growth Plan;199.926;19-Dec-2022
 119067;-;-;HDFC Childrens Gift Fund Savings Plan-Direct Plan;45.8807;18-Oct-2017
 101127;INF109K01605;-;ICICI Prudential Child Care Fund (Gift Plan) - Cumulative;205.68;19-Dec-2022
 120579;INF109K01Y49;-;ICICI Prudential Child Care Fund (Gift Plan) - Direct Plan - Cumulative;221.89;19-Dec-2022
@@ -7256,12 +7256,12 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 118549;INF090I01KA4;INF090I01KB2;Franklin India Pension Plan - Direct - IDCW ;17.6614;19-Dec-2022
 100535;INF090I01528;INF090I01536;Franklin India Pension Plan - IDCW ;16.0390;19-Dec-2022
 100536;INF090I01510;-;Franklin India Pension Plan-Growth;166.6830;19-Dec-2022
-136090;INF179KB1MG8;-;HDFC Retirement Savings Fund - Equity Plan - Growth Option;31.719;16-Dec-2022
-136094;INF179KB1MF0;-;HDFC Retirement Savings Fund - Equity Plan - Growth Option - Direct Plan;34.913;16-Dec-2022
-136466;INF179KB1MK0;-;HDFC Retirement Savings Fund - Hybrid-Debt Plan - Growth Option;17.1235;16-Dec-2022
-136465;INF179KB1MJ2;-;HDFC Retirement Savings Fund - Hybrid-Debt Plan - Growth Option - Direct Plan;18.763;16-Dec-2022
-136463;INF179KB1MI4;-;HDFC Retirement Savings Fund - Hybrid-Equity Plan - Growth Option;26.403;16-Dec-2022
-136464;INF179KB1MH6;-;HDFC Retirement Savings Fund - Hybrid-Equity Plan - Growth Option - Direct Plan;29.077;16-Dec-2022
+136090;INF179KB1MG8;-;HDFC Retirement Savings Fund - Equity Plan - Growth Option;31.859;19-Dec-2022
+136094;INF179KB1MF0;-;HDFC Retirement Savings Fund - Equity Plan - Growth Option - Direct Plan;35.071;19-Dec-2022
+136466;INF179KB1MK0;-;HDFC Retirement Savings Fund - Hybrid-Debt Plan - Growth Option;17.155;19-Dec-2022
+136465;INF179KB1MJ2;-;HDFC Retirement Savings Fund - Hybrid-Debt Plan - Growth Option - Direct Plan;18.7993;19-Dec-2022
+136463;INF179KB1MI4;-;HDFC Retirement Savings Fund - Hybrid-Equity Plan - Growth Option;26.555;19-Dec-2022
+136464;INF179KB1MH6;-;HDFC Retirement Savings Fund - Hybrid-Equity Plan - Growth Option - Direct Plan;29.248;19-Dec-2022
 146721;INF109KC1TW4;-;ICICI Prudential Retirement Fund - Hybrid Aggressive - Direct Plan - Growth Option;16.56;19-Dec-2022
 146720;INF109KC1TX2;-;ICICI Prudential Retirement Fund - Hybrid Aggressive - Direct Plan - IDCW Option;16.56;19-Dec-2022
 146722;INF109KC1TU8;-;ICICI Prudential Retirement Fund - Hybrid Aggressive - Growth Option;15.55;19-Dec-2022
@@ -8016,18 +8016,18 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 146465;INF179KC1312;-;HDFC FMP 1154D February 2019 (1) - IDCW Option - Direct Plan;10;11-Apr-2022
 146466;INF179KC1353;-;HDFC FMP 1154D February 2019 (1) - Quarterly IDCW Option;10;11-Apr-2022
 146470;INF179KC1320;-;HDFC FMP 1154D February 2019 (1) - Quarterly IDCW Option - Direct Plan;10;11-Apr-2022
-150396;INF179KC1CX3;-;HDFC FMP 1158D July 2022 - Growth Option;10.2583;16-Dec-2022
-150395;INF179KC1CU9;-;HDFC FMP 1158D July 2022 - Growth Option - Direct Plan;10.268;16-Dec-2022
-150398;INF179KC1CY1;-;HDFC FMP 1158D July 2022 - IDCW Option;10.2583;16-Dec-2022
-150400;INF179KC1CV7;-;HDFC FMP 1158D July 2022 - IDCW Option - Direct Plan;10.268;16-Dec-2022
-150399;INF179KC1CZ8;-;HDFC FMP 1158D July 2022 - Quarterly IDCW Option;10.2083;16-Dec-2022
-150397;INF179KC1CW5;-;HDFC FMP 1158D July 2022 - Quarterly IDCW Option - Direct Plan;10.215;16-Dec-2022
-149929;INF179KC1CL8;-;HDFC FMP 1162D March 2022 - Growth Option;10.1755;16-Dec-2022
-149934;INF179KC1CI4;-;HDFC FMP 1162D March 2022 - Growth Option - Direct Plan;10.1872;16-Dec-2022
-149930;INF179KC1CM6;-;HDFC FMP 1162D March 2022 - IDCW Option;10.1755;16-Dec-2022
-149931;INF179KC1CJ2;-;HDFC FMP 1162D March 2022 - IDCW Option - Direct Plan;10.1872;16-Dec-2022
-149932;INF179KC1CN4;-;HDFC FMP 1162D March 2022 - Quarterly Dividend Option;10.1755;16-Dec-2022
-149933;INF179KC1CK0;-;HDFC FMP 1162D March 2022 - Quarterly Dividend Option - Direct Plan;10.1872;16-Dec-2022
+150396;INF179KC1CX3;-;HDFC FMP 1158D July 2022 - Growth Option;10.2568;19-Dec-2022
+150395;INF179KC1CU9;-;HDFC FMP 1158D July 2022 - Growth Option - Direct Plan;10.2668;19-Dec-2022
+150398;INF179KC1CY1;-;HDFC FMP 1158D July 2022 - IDCW Option;10.2568;19-Dec-2022
+150400;INF179KC1CV7;-;HDFC FMP 1158D July 2022 - IDCW Option - Direct Plan;10.2668;19-Dec-2022
+150399;INF179KC1CZ8;-;HDFC FMP 1158D July 2022 - Quarterly IDCW Option;10.2068;19-Dec-2022
+150397;INF179KC1CW5;-;HDFC FMP 1158D July 2022 - Quarterly IDCW Option - Direct Plan;10.2138;19-Dec-2022
+149929;INF179KC1CL8;-;HDFC FMP 1162D March 2022 - Growth Option;10.1743;19-Dec-2022
+149934;INF179KC1CI4;-;HDFC FMP 1162D March 2022 - Growth Option - Direct Plan;10.1861;19-Dec-2022
+149930;INF179KC1CM6;-;HDFC FMP 1162D March 2022 - IDCW Option;10.1743;19-Dec-2022
+149931;INF179KC1CJ2;-;HDFC FMP 1162D March 2022 - IDCW Option - Direct Plan;10.1861;19-Dec-2022
+149932;INF179KC1CN4;-;HDFC FMP 1162D March 2022 - Quarterly Dividend Option;10.1743;19-Dec-2022
+149933;INF179KC1CK0;-;HDFC FMP 1162D March 2022 - Quarterly Dividend Option - Direct Plan;10.1861;19-Dec-2022
 146280;INF179KC1270;-;HDFC FMP 1168D January 2019 (1) - Growth Option;12.6644;11-Apr-2022
 146277;INF179KC1247;-;HDFC FMP 1168D January 2019 (1) - Growth Option - Direct Plan;12.7715;11-Apr-2022
 146279;INF179KC1288;-;HDFC FMP 1168D January 2019 (1) - IDCW Option;10;11-Apr-2022
@@ -8117,12 +8117,12 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 145281;INF179KB10T1;-;HDFC FMP 1344D October 2018 (1) - IDCW Option - Direct Plan;10;28-Jun-2022
 145284;INF179KB14T3;-;HDFC FMP 1344D October 2018 (1) - Quarterly IDCW Option;10;28-Jun-2022
 145282;INF179KB11T9;-;HDFC FMP 1344D October 2018 (1) - Quarterly IDCW Option - Direct Plan;10;28-Jun-2022
-150651;-;-;HDFC FMP 1359D September - Growth Option;10.1957;16-Dec-2022
-150655;-;-;HDFC FMP 1359D September - Growth Option - Direct Plan;10.2005;16-Dec-2022
-150652;-;-;HDFC FMP 1359D September - IDCW Option;10.1957;16-Dec-2022
-150653;-;-;HDFC FMP 1359D September - IDCW Option - Direct Plan;10.2005;16-Dec-2022
-150656;-;-;HDFC FMP 1359D September - Quarterly IDCW Option;10.1958;16-Dec-2022
-150654;-;-;HDFC FMP 1359D September - Quarterly IDCW Option - Direct Plan;10.2005;16-Dec-2022
+150651;-;-;HDFC FMP 1359D September - Growth Option;10.1987;19-Dec-2022
+150655;-;-;HDFC FMP 1359D September - Growth Option - Direct Plan;10.2037;19-Dec-2022
+150652;-;-;HDFC FMP 1359D September - IDCW Option;10.1987;19-Dec-2022
+150653;-;-;HDFC FMP 1359D September - IDCW Option - Direct Plan;10.2037;19-Dec-2022
+150656;-;-;HDFC FMP 1359D September - Quarterly IDCW Option;10.1988;19-Dec-2022
+150654;-;-;HDFC FMP 1359D September - Quarterly IDCW Option - Direct Plan;10.2037;19-Dec-2022
 145107;INF179KB10S3;-;HDFC FMP 1372D September 2018 (1) - Growth Option;13.3497;30-Jun-2022
 145104;INF179KB17R0;-;HDFC FMP 1372D September 2018 (1) - Growth Option - Direct Plan;13.4575;30-Jun-2022
 145106;INF179KB11S1;-;HDFC FMP 1372D September 2018 (1) - IDCW Option;10;30-Jun-2022
@@ -8134,12 +8134,12 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 144976;INF179KB10Q7;-;HDFC FMP 1381D September 2018 (1) - IDCW Option - Direct Plan;10;30-Jun-2022
 144980;INF179KB14Q9;-;HDFC FMP 1381D September 2018 (1) - Quarterly IDCW Option;10;30-Jun-2022
 144977;INF179KB11Q5;-;HDFC FMP 1381D September 2018 (1) - Quarterly IDCW Option - Direct Plan;10;30-Jun-2022
-150546;-;-;HDFC FMP 1406D August 2022 - Growth Option;10.1421;16-Dec-2022
-150547;-;-;HDFC FMP 1406D August 2022 - Growth Option - Direct Plan;10.1506;16-Dec-2022
-150550;-;-;HDFC FMP 1406D August 2022 - IDCW Option;10.1421;16-Dec-2022
-150548;-;-;HDFC FMP 1406D August 2022 - IDCW Option - Direct Plan;10.1506;16-Dec-2022
-150551;-;-;HDFC FMP 1406D August 2022 - Quarterly IDCW Option;10.1421;16-Dec-2022
-150549;-;-;HDFC FMP 1406D August 2022 - Quarterly IDCW Option - Direct Plan;10.1506;16-Dec-2022
+150546;-;-;HDFC FMP 1406D August 2022 - Growth Option;10.1406;19-Dec-2022
+150547;-;-;HDFC FMP 1406D August 2022 - Growth Option - Direct Plan;10.1494;19-Dec-2022
+150550;-;-;HDFC FMP 1406D August 2022 - IDCW Option;10.1406;19-Dec-2022
+150548;-;-;HDFC FMP 1406D August 2022 - IDCW Option - Direct Plan;10.1494;19-Dec-2022
+150551;-;-;HDFC FMP 1406D August 2022 - Quarterly IDCW Option;10.1406;19-Dec-2022
+150549;-;-;HDFC FMP 1406D August 2022 - Quarterly IDCW Option - Direct Plan;10.1494;19-Dec-2022
 143252;INF179KB11E1;-;HDFC FMP 1434D May 2018 (1) - Growth Option;13.386;11-Apr-2022
 143253;INF179KB18D8;-;HDFC FMP 1434D May 2018 (1) - Growth Option - Direct Plan;13.5183;11-Apr-2022
 143251;INF179KB12E9;-;HDFC FMP 1434D May 2018 (1) - IDCW Option;10;11-Apr-2022
@@ -8155,26 +8155,26 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 123402;INF179KB11P7;-;HDFC FMP 1846D August 2013 (1) - Growth Option - Direct Plan;21.9648;29-Sep-2022
 123406;INF179KB16P6;-;HDFC FMP 1846D August 2013 (1) - IDCW Option;10;29-Sep-2022
 123403;INF179KB12P5;-;HDFC FMP 1846D August 2013 (1) - IDCW Option - Direct Plan;10;29-Sep-2022
-149922;INF179KC1CF0;-;HDFC FMP 1861D March 2022 - Growth Option;10.2064;16-Dec-2022
-149924;INF179KC1CC7;-;HDFC FMP 1861D March 2022 - Growth Option - Direct Plan;10.2201;16-Dec-2022
-149925;INF179KC1CG8;-;HDFC FMP 1861D March 2022 - IDCW Option;10.2064;16-Dec-2022
-149926;INF179KC1CD5;-;HDFC FMP 1861D March 2022 - IDCW Option - Direct Plan;10.2201;16-Dec-2022
-149927;INF179KC1CH6;-;HDFC FMP 1861D March 2022 - Quarterly Dividend Option;10.2064;16-Dec-2022
-149923;INF179KC1CE3;-;HDFC FMP 1861D March 2022 - Quarterly Dividend Option - Direct Plan;10.2201;16-Dec-2022
-150001;INF179KC1CR5;-;HDFC FMP 1876D March 2022 - Growth Option;10.1598;16-Dec-2022
-150002;INF179KC1CO2;-;HDFC FMP 1876D March 2022 - Growth Option - Direct Plan;10.1709;16-Dec-2022
-150004;INF179KC1CS3;-;HDFC FMP 1876D March 2022 - IDCW Option;10.1598;16-Dec-2022
-150003;INF179KC1CP9;-;HDFC FMP 1876D March 2022 - IDCW Option - Direct Plan;10.1709;16-Dec-2022
-150005;INF179KC1CT1;-;HDFC FMP 1876D March 2022 - Quarterly Dividend Option;10.1598;16-Dec-2022
-150006;INF179KC1CQ7;-;HDFC FMP 1876D March 2022 - Quarterly Dividend Option - Direct Plan;10.1709;16-Dec-2022
-128541;INF179KA1II3;-;HDFC FMP 3360D March 2014 (1) - Flexi Option;17.9344;16-Dec-2022
-128539;INF179KA1IE2;-;HDFC FMP 3360D March 2014 (1) - Flexi Option - Direct Plan;18.1257;16-Dec-2022
-128542;INF179KA1IF9;-;HDFC FMP 3360D March 2014 (1) - Growth Option;17.9344;16-Dec-2022
-128544;INF179KA1IB8;-;HDFC FMP 3360D March 2014 (1) - Growth Option - Direct Plan;18.1257;16-Dec-2022
-128540;INF179KA1IG7;-;HDFC FMP 3360D March 2014 (1) - IDCW Option;17.9344;16-Dec-2022
-128538;INF179KA1IC6;-;HDFC FMP 3360D March 2014 (1) - IDCW Option - Direct Plan;18.1257;16-Dec-2022
-128543;INF179KA1IH5;-;HDFC FMP 3360D March 2014 (1) - Quarterly IDCW Option;10.1325;16-Dec-2022
-128545;INF179KA1ID4;-;HDFC FMP 3360D March 2014 (1) - Quarterly IDCW Option - Direct Plan;10.1446;16-Dec-2022
+149922;INF179KC1CF0;-;HDFC FMP 1861D March 2022 - Growth Option;10.2015;19-Dec-2022
+149924;INF179KC1CC7;-;HDFC FMP 1861D March 2022 - Growth Option - Direct Plan;10.2154;19-Dec-2022
+149925;INF179KC1CG8;-;HDFC FMP 1861D March 2022 - IDCW Option;10.2015;19-Dec-2022
+149926;INF179KC1CD5;-;HDFC FMP 1861D March 2022 - IDCW Option - Direct Plan;10.2154;19-Dec-2022
+149927;INF179KC1CH6;-;HDFC FMP 1861D March 2022 - Quarterly Dividend Option;10.2015;19-Dec-2022
+149923;INF179KC1CE3;-;HDFC FMP 1861D March 2022 - Quarterly Dividend Option - Direct Plan;10.2154;19-Dec-2022
+150001;INF179KC1CR5;-;HDFC FMP 1876D March 2022 - Growth Option;10.1557;19-Dec-2022
+150002;INF179KC1CO2;-;HDFC FMP 1876D March 2022 - Growth Option - Direct Plan;10.1669;19-Dec-2022
+150004;INF179KC1CS3;-;HDFC FMP 1876D March 2022 - IDCW Option;10.1557;19-Dec-2022
+150003;INF179KC1CP9;-;HDFC FMP 1876D March 2022 - IDCW Option - Direct Plan;10.1669;19-Dec-2022
+150005;INF179KC1CT1;-;HDFC FMP 1876D March 2022 - Quarterly Dividend Option;10.1557;19-Dec-2022
+150006;INF179KC1CQ7;-;HDFC FMP 1876D March 2022 - Quarterly Dividend Option - Direct Plan;10.1669;19-Dec-2022
+128541;INF179KA1II3;-;HDFC FMP 3360D March 2014 (1) - Flexi Option;17.9426;19-Dec-2022
+128539;INF179KA1IE2;-;HDFC FMP 3360D March 2014 (1) - Flexi Option - Direct Plan;18.1347;19-Dec-2022
+128542;INF179KA1IF9;-;HDFC FMP 3360D March 2014 (1) - Growth Option;17.9426;19-Dec-2022
+128544;INF179KA1IB8;-;HDFC FMP 3360D March 2014 (1) - Growth Option - Direct Plan;18.1347;19-Dec-2022
+128540;INF179KA1IG7;-;HDFC FMP 3360D March 2014 (1) - IDCW Option;17.9426;19-Dec-2022
+128538;INF179KA1IC6;-;HDFC FMP 3360D March 2014 (1) - IDCW Option - Direct Plan;18.1347;19-Dec-2022
+128543;INF179KA1IH5;-;HDFC FMP 3360D March 2014 (1) - Quarterly IDCW Option;10.1371;19-Dec-2022
+128545;INF179KA1ID4;-;HDFC FMP 3360D March 2014 (1) - Quarterly IDCW Option - Direct Plan;10.1496;19-Dec-2022
 139091;INF336L01KX7;-;HSBC Fixed Term Series 125 - Direct Plan Growth Option;12.6358;18-Apr-2019
 139092;INF336L01LA3;-;HSBC Fixed Term Series 125 - Dividend Option;10;18-Apr-2019
 139093;INF336L01KZ2;-;HSBC Fixed Term Series 125 - Growth Option;12.5053;18-Apr-2019
