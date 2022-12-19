@@ -2751,14 +2751,6 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 120786;INF789FB1T05;INF789FB1S97;UTI Overnight Fund - Direct Plan - Periodic IDCW;1582.2023;18-Dec-2022
 124265;-;INF789FB1T13;UTI Overnight Fund - Regular Plan - Daily IDCW;1370.8617;18-Dec-2022
 100813;INF789F01588;INF789F01596;UTI Overnight Fund - Regular Plan - Periodic IDCW;1538.3953;18-Dec-2022
-147591;-;INF03VN01332;WhiteOak Capital Overnight Fund- Direct plan-Daily Reinvestment of Income Distribution cum capital withdrawal option (IDCW);1000.3981;18-Dec-2022
-147595;INF03VN01340;INF03VN01357;WhiteOak Capital Overnight Fund- Direct plan-Fortnightly  Payout/ Reinvestment of Income Distribution cum capital withdrawal option (IDCW);1008.6152;18-Dec-2022
-147593;INF03VN01365;-;WhiteOak Capital Overnight Fund- Direct plan-Growth Option;1131.3343;18-Dec-2022
-147597;INF03VN01373;INF03VN01381;WhiteOak Capital Overnight Fund- Direct plan-Monthly  Payout/ Reinvestment of Income Distribution cum capital withdrawal option (IDCW);1002.6836;18-Dec-2022
-147599;INF03VN01407;INF03VN01415;WhiteOak Capital Overnight Fund- Direct plan-Weekly Payout/ Reinvestment of Income Distribution cum capital withdrawal option (IDCW);1001.1230;04-Dec-2022
-147592;INF03VN01431;INF03VN01449;WhiteOak Capital Overnight Fund- Regular plan-Fortnightly Payout/ Reinvestment of Income Distribution cum capital withdrawal option (IDCW);1001.6877;04-Jan-2021
-147590;INF03VN01456;-;WhiteOak Capital Overnight Fund- Regular plan-Growth Option;1128.6850;18-Dec-2022
-147598;INF03VN01480;INF03VN01498;WhiteOak Capital Overnight Fund- Regular plan-Weekly  Payout/ Reinvestment of Income Distribution cum capital withdrawal option (IDCW);1001.5077;19-Sep-2021
 119496;INF209KA1KQ6;INF209K01XL6;Aditya Birla Sun Life Short Term Fund - DIRECT - IDCW;11.7299;16-Dec-2022
 119498;INF209K01XK8;-;Aditya Birla Sun Life Short Term Fund - Growth - Direct Plan;41.9428;16-Dec-2022
 101844;INF209K01942;-;Aditya Birla Sun Life Short Term Fund - Growth - Regular Plan;39.4096;16-Dec-2022
@@ -6128,26 +6120,26 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 118542;INF090I01HT0;INF090I01HU8;Franklin India Dynamic Asset Allocation Fund of funds - Direct - IDCW ;43.6000;16-Dec-2022
 101657;INF090I01247;INF090I01254;Franklin India Dynamic Asset Allocation Fund of funds - IDCW ;37.5745;16-Dec-2022
 101656;INF090I01262;-;Franklin India Dynamic Asset Allocation Fund of Funds-Growth;116.7959;16-Dec-2022
-118511;INF090I01HW4;INF090I01HX2;Franklin India Life Stage Fund of Funds - 20's Plan - Direct - IDCW ;33.4482;16-Dec-2022
-102108;INF090I01577;-;Franklin India Life Stage Fund of Funds - 20's Plan - IDCW ;31.2484;16-Dec-2022
-102107;INF090I01593;-;Franklin INDIA LIFE STAGE FUND OF FUNDS - THE 20S PLAN (G);123.5068;16-Dec-2022
-118512;INF090I01HY0;-;Franklin INDIA LIFE STAGE FUND OF FUNDS - THE 20S PLAN - Direct - Growth;129.5115;16-Dec-2022
-118513;INF090I01HZ7;INF090I01IA8;Franklin India Life Stage Fund of Funds - 30's Plan - Direct - IDCW ;24.4650;16-Dec-2022
-102110;INF090I01601;-;Franklin India Life Stage Fund of Funds - 30's Plan - IDCW ;22.5357;16-Dec-2022
-102109;INF090I01627;-;Franklin INDIA LIFE STAGE FUND OF FUNDS - THE 30S PLAN (G);82.0831;16-Dec-2022
-118514;INF090I01IB6;-;Franklin India Life Stage Fund of Funds - The 30s Plan - Direct - Growth;86.7736;16-Dec-2022
-118515;INF090I01IC4;INF090I01ID2;Franklin India Life Stage Fund of Funds - 40's Plan - Direct - IDCW ;14.2240;16-Dec-2022
-102111;INF090I01635;-;Franklin India Life Stage Fund of Funds - 40's Plan - IDCW ;13.1880;16-Dec-2022
-102112;INF090I01650;-;Franklin INDIA LIFE STAGE FUND OF FUNDS - THE 40S PLAN (G);60.0656;16-Dec-2022
-118516;INF090I01IE0;-;Franklin India Life Stage Fund of Funds - The 40s Plan - Direct - Growth;64.2417;16-Dec-2022
-118520;INF090I01JM1;INF090I01JN9;Franklin India Life Stage Fund of Funds - 50's Plus Floating Rate Plan - Direct - IDCW ;14.8413;16-Dec-2022
-102546;INF090I01692;-;Franklin India Life Stage Fund Of Funds - 50's Plus Floating Rate Plan - IDCW ;14.1077;16-Dec-2022
-102547;INF090I01718;-;Franklin India Life Stage Fund of Funds - The 50s Plus Flo (Gro);48.7939;16-Dec-2022
-118519;INF090I01JO7;-;Franklin India Life Stage Fund Of Funds - The 50S Plus Floating Rate Plan - Direct - Growth;51.1220;16-Dec-2022
-118517;INF090I01IF7;INF090I01IG5;Franklin India Life Stage Fund of Funds - 50's Plus Plan - Direct - IDCW ;12.2015;16-Dec-2022
-102113;INF090I01668;-;Franklin India Life Stage Fund of Funds - 50's Plus Plan - IDCW ;11.2697;16-Dec-2022
-102114;INF090I01684;-;Franklin INDIA LIFE STAGE FUND OF FUNDS - THE 50+S PLAN (G);37.7728;16-Dec-2022
-118518;INF090I01IH3;-;Franklin India Life Stage Fund of Funds - The 50s Plus - Direct - Growth;40.4732;16-Dec-2022
+118511;INF090I01HW4;INF090I01HX2;Franklin India Life Stage Fund of Funds - 20's Plan - Direct - IDCW ;0.0000;19-Dec-2022
+102108;INF090I01577;-;Franklin India Life Stage Fund of Funds - 20's Plan - IDCW ;0.0000;19-Dec-2022
+102107;INF090I01593;-;Franklin INDIA LIFE STAGE FUND OF FUNDS - THE 20S PLAN (G);0.0000;19-Dec-2022
+118512;INF090I01HY0;-;Franklin INDIA LIFE STAGE FUND OF FUNDS - THE 20S PLAN - Direct - Growth;0.0000;19-Dec-2022
+118513;INF090I01HZ7;INF090I01IA8;Franklin India Life Stage Fund of Funds - 30's Plan - Direct - IDCW ;0.0000;19-Dec-2022
+102110;INF090I01601;-;Franklin India Life Stage Fund of Funds - 30's Plan - IDCW ;0.0000;19-Dec-2022
+102109;INF090I01627;-;Franklin INDIA LIFE STAGE FUND OF FUNDS - THE 30S PLAN (G);0.0000;19-Dec-2022
+118514;INF090I01IB6;-;Franklin India Life Stage Fund of Funds - The 30s Plan - Direct - Growth;0.0000;19-Dec-2022
+118515;INF090I01IC4;INF090I01ID2;Franklin India Life Stage Fund of Funds - 40's Plan - Direct - IDCW ;0.0000;19-Dec-2022
+102111;INF090I01635;-;Franklin India Life Stage Fund of Funds - 40's Plan - IDCW ;0.0000;19-Dec-2022
+102112;INF090I01650;-;Franklin INDIA LIFE STAGE FUND OF FUNDS - THE 40S PLAN (G);0.0000;19-Dec-2022
+118516;INF090I01IE0;-;Franklin India Life Stage Fund of Funds - The 40s Plan - Direct - Growth;0.0000;19-Dec-2022
+118520;INF090I01JM1;INF090I01JN9;Franklin India Life Stage Fund of Funds - 50's Plus Floating Rate Plan - Direct - IDCW ;0.0000;19-Dec-2022
+102546;INF090I01692;-;Franklin India Life Stage Fund Of Funds - 50's Plus Floating Rate Plan - IDCW ;0.0000;19-Dec-2022
+102547;INF090I01718;-;Franklin India Life Stage Fund of Funds - The 50s Plus Flo (Gro);0.0000;19-Dec-2022
+118519;INF090I01JO7;-;Franklin India Life Stage Fund Of Funds - The 50S Plus Floating Rate Plan - Direct - Growth;0.0000;19-Dec-2022
+118517;INF090I01IF7;INF090I01IG5;Franklin India Life Stage Fund of Funds - 50's Plus Plan - Direct - IDCW ;0.0000;19-Dec-2022
+102113;INF090I01668;-;Franklin India Life Stage Fund of Funds - 50's Plus Plan - IDCW ;0.0000;19-Dec-2022
+102114;INF090I01684;-;Franklin INDIA LIFE STAGE FUND OF FUNDS - THE 50+S PLAN (G);0.0000;19-Dec-2022
+118518;INF090I01IH3;-;Franklin India Life Stage Fund of Funds - The 50s Plus - Direct - Growth;0.0000;19-Dec-2022
 132990;INF090I01LI5;INF090I01LJ3;Franklin India Multi - Asset Solution Fund - Direct - IDCW ;16.2079;16-Dec-2022
 132987;INF090I01LE4;-;Franklin India Multi - Asset Solution Fund - Growth Plan;14.7266;16-Dec-2022
 132989;INF090I01LH7;-;Franklin India Multi - Asset Solution Fund - Growth Plan - Direct;16.2079;16-Dec-2022
