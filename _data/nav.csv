@@ -6140,10 +6140,10 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 102113;INF090I01668;-;Franklin India Life Stage Fund of Funds - 50's Plus Plan - IDCW ;0.0000;19-Dec-2022
 102114;INF090I01684;-;Franklin INDIA LIFE STAGE FUND OF FUNDS - THE 50+S PLAN (G);0.0000;19-Dec-2022
 118518;INF090I01IH3;-;Franklin India Life Stage Fund of Funds - The 50s Plus - Direct - Growth;0.0000;19-Dec-2022
-132990;INF090I01LI5;INF090I01LJ3;Franklin India Multi - Asset Solution Fund - Direct - IDCW ;16.2079;16-Dec-2022
-132987;INF090I01LE4;-;Franklin India Multi - Asset Solution Fund - Growth Plan;14.7266;16-Dec-2022
-132989;INF090I01LH7;-;Franklin India Multi - Asset Solution Fund - Growth Plan - Direct;16.2079;16-Dec-2022
-132988;INF090I01LF1;INF090I01LG9;Franklin India Multi - Asset Solution Fund - IDCW ;14.7266;16-Dec-2022
+132990;INF090I01LI5;INF090I01LJ3;Franklin India Multi - Asset Solution Fund of Funds - Direct - IDCW;16.2079;16-Dec-2022
+132987;INF090I01LE4;-;Franklin India Multi - Asset Solution Fund of Funds- Growth Plan;14.7266;16-Dec-2022
+132989;INF090I01LH7;-;Franklin India Multi - Asset Solution Fund of Funds- Growth Plan - Direct;16.2079;16-Dec-2022
+132988;INF090I01LF1;INF090I01LG9;Franklin India Multi - Asset Solution Fund of Funds- IDCW;14.7266;16-Dec-2022
 148901;INF179KC1BD7;-;HDFC Asset Allocator Fund of Funds - Growth Option;12.32;16-Dec-2022
 148903;INF179KC1BA3;-;HDFC Asset Allocator Fund of Funds - Growth Option -Direct Plan;12.58;16-Dec-2022
 148900;INF179KC1BE5;-;HDFC Asset Allocator Fund of Funds - IDCW Option;12.32;16-Dec-2022
@@ -6512,10 +6512,10 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 148762;INF200KA1T96;-;SBI International Access - US Equity FoF - Regular Plan - Growth;10.6786;16-Dec-2022
 148761;INF200KA1U36;INF200KA1U44;SBI International Access- US Equity FoF Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);10.8326;16-Dec-2022
 148759;INF200KA1U02;INF200KA1U10;SBI International Access- US Equity FoF Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);10.6789;16-Dec-2022
-119602;INF903J01OB6;-;Sundaram Global Brand Fund Direct Plan - Growth;23.5923;15-Dec-2022
-119601;INF903J01NZ7;INF903J01OA8;Sundaram Global Brand Fund Direct Plan - Income Distribution cum Capital Withdrawal (IDCW);20.9836;15-Dec-2022
-106370;INF903J01EX1;-;Sundaram Global Brand Fund Regular Plan - Growth;22.0819;15-Dec-2022
-106369;INF903J01EY9;INF903J01EZ6;Sundaram Global Brand Fund Regular Plan - Income Distribution cum Capital Withdrawal (IDCW);18.9223;15-Dec-2022
+119602;INF903J01OB6;-;Sundaram Global Brand Fund Direct Plan - Growth;23.4650;16-Dec-2022
+119601;INF903J01NZ7;INF903J01OA8;Sundaram Global Brand Fund Direct Plan - Income Distribution cum Capital Withdrawal (IDCW);20.8704;16-Dec-2022
+106370;INF903J01EX1;-;Sundaram Global Brand Fund Regular Plan - Growth;21.9622;16-Dec-2022
+106369;INF903J01EY9;INF903J01EZ6;Sundaram Global Brand Fund Regular Plan - Income Distribution cum Capital Withdrawal (IDCW);18.8198;16-Dec-2022
 115127;INF209KB18D3;-;Aditya Birla Sun Life Gold ETF;49.4312;16-Dec-2022
 113434;INF846K01W80;-;Axis Gold ETF;46.8834;16-Dec-2022
 113049;INF179KC1981;-;HDFC Gold Exchange Traded Fund. - Growth Option;48.1253;16-Dec-2022
