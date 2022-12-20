@@ -502,10 +502,10 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 128052;INF179KA1GD8;INF179KA1GE6;HDFC Credit Risk Debt Fund - Quarterly IDCW Option;10.3423;19-Dec-2022
 151047;INF917K01UL0;INF917K01UK2;HSBC Credit Risk Fund - Direct Annual IDCW;12.7224;19-Dec-2022
 151045;INF917K01UH8;-;HSBC Credit Risk Fund - Direct Growth;25.6582;19-Dec-2022
-151044;INF917K01E29;INF917K01UI6;HSBC Credit Risk Fund - Direct Monthly IDCW;10.8716;19-Dec-2022
+151044;INF917K01E29;INF917K01UI6;HSBC Credit Risk Fund - Direct IDCW;10.8716;19-Dec-2022
 151046;INF917K01UN6;INF917K01UM8;HSBC Credit Risk Fund - Regular Annual IDCW;12.0518;19-Dec-2022
 151043;INF917K01130;-;HSBC Credit Risk Fund - Regular Growth;24.1547;19-Dec-2022
-151042;INF917K01114;INF917K01122;HSBC Credit Risk Fund - Regular Monthly IDCW;10.1483;19-Dec-2022
+151042;INF917K01114;INF917K01122;HSBC Credit Risk Fund - Regular IDCW;10.1483;19-Dec-2022
 151041;-;-;HSBC Credit Risk Fund- Regular Plan - Bonus;23.7664;19-Dec-2022
 134342;INF109KB1AF0;INF109KB1AG8;ICICI Prudential Credit Risk Fund - Annual IDCW;10.3035;16-Sep-2022
 130943;INF109KA1I27;-;ICICI Prudential Credit Risk Fund - Bonus;15.7498;24-Apr-2020
@@ -2197,9 +2197,9 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 100123;INF179K01947;INF179K01954;HDFC Income Fund - Quarterly IDCW Option;11.0502;19-Dec-2022
 119068;INF179K01WJ7;INF179K01WK5;HDFC Income Fund - Quarterly IDCW- Direct Plan;12.2111;19-Dec-2022
 120059;INF336L01DE2;-;HSBC Medium to Long Duration Fund - Direct Growth;38.5165;19-Dec-2022
-120101;INF336L01EO9;INF336L01EP6;HSBC Medium to Long Duration Fund - Direct IDCW;10.7008;19-Dec-2022
+120101;INF336L01EO9;INF336L01EP6;HSBC Medium to Long Duration Fund - Direct Quarterly IDCW;10.7008;19-Dec-2022
 101685;INF336L01776;-;HSBC Medium to Long Duration Fund - Regular Growth;35.5774;19-Dec-2022
-101686;INF336L01784;INF336L01792;HSBC Medium to Long Duration Fund - Regular IDCW;10.7197;19-Dec-2022
+101686;INF336L01784;INF336L01792;HSBC Medium to Long Duration Fund - Regular Quarterly IDCW;10.7197;19-Dec-2022
 130932;INF109KA1C72;-;ICICI Prudential Bond Fund - Bonus;12.4602;02-Jul-2018
 120619;INF109K01V83;-;ICICI Prudential Bond Fund - Direct Plan - Growth;34.4469;19-Dec-2022
 131480;INF109KA1X77;INF109KA1X69;ICICI Prudential Bond Fund - Direct Plan - Half Yearly IDCW;10.7725;19-Dec-2022
@@ -6512,10 +6512,10 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 148762;INF200KA1T96;-;SBI International Access - US Equity FoF - Regular Plan - Growth;10.5331;19-Dec-2022
 148761;INF200KA1U36;INF200KA1U44;SBI International Access- US Equity FoF Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);10.6856;19-Dec-2022
 148759;INF200KA1U02;INF200KA1U10;SBI International Access- US Equity FoF Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);10.5347;19-Dec-2022
-119602;INF903J01OB6;-;Sundaram Global Brand Fund Direct Plan - Growth;23.4650;16-Dec-2022
-119601;INF903J01NZ7;INF903J01OA8;Sundaram Global Brand Fund Direct Plan - Income Distribution cum Capital Withdrawal (IDCW);20.8704;16-Dec-2022
-106370;INF903J01EX1;-;Sundaram Global Brand Fund Regular Plan - Growth;21.9622;16-Dec-2022
-106369;INF903J01EY9;INF903J01EZ6;Sundaram Global Brand Fund Regular Plan - Income Distribution cum Capital Withdrawal (IDCW);18.8198;16-Dec-2022
+119602;INF903J01OB6;-;Sundaram Global Brand Fund Direct Plan - Growth;23.1928;19-Dec-2022
+119601;INF903J01NZ7;INF903J01OA8;Sundaram Global Brand Fund Direct Plan - Income Distribution cum Capital Withdrawal (IDCW);20.6282;19-Dec-2022
+106370;INF903J01EX1;-;Sundaram Global Brand Fund Regular Plan - Growth;21.7058;19-Dec-2022
+106369;INF903J01EY9;INF903J01EZ6;Sundaram Global Brand Fund Regular Plan - Income Distribution cum Capital Withdrawal (IDCW);18.6001;19-Dec-2022
 115127;INF209KB18D3;-;Aditya Birla Sun Life Gold ETF;49.7228;19-Dec-2022
 113434;INF846K01W80;-;Axis Gold ETF;47.1607;19-Dec-2022
 113049;INF179KC1981;-;HDFC Gold Exchange Traded Fund. - Growth Option;48.4094;19-Dec-2022
