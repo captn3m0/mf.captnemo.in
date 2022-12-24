@@ -1182,20 +1182,20 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 150409;INF789F1AVI6;-;UTI Gilt Fund with 10 year Constant Duration - Regular Plan - Growth Option;10.2698;23-Dec-2022
 150416;INF789F1AVL0;INF789F1AVM8;UTI Gilt Fund with 10 year Constant Duration - Regular Plan - Half Yearly IDCW Option;10.2697;23-Dec-2022
 150411;INF789F1AVJ4;INF789F1AVK2;UTI Gilt Fund with 10 year Constant Duration - Regular Plan - Quarterly IDCW Option;10.2698;23-Dec-2022
-100047;INF209K01RU9;-;Aditya Birla Sun Life Liquid Fund - Growth;353.1805;23-Dec-2022
-119568;INF209K01VA3;-;Aditya Birla Sun Life Liquid Fund - Growth - Direct Plan;356.2852;23-Dec-2022
-100046;INF209K01KQ2;INF209K01SQ5;Aditya Birla Sun Life Liquid Fund -Daily IDCW;100.195;23-Dec-2022
-119569;INF209K01UZ2;-;Aditya Birla Sun Life Liquid Fund -Direct - daily IDCW;100.195;23-Dec-2022
-119571;INF209K01VD7;-;Aditya Birla Sun Life Liquid Fund -DIRECT - IDCW;193.4346;23-Dec-2022
-119570;INF209K01VC9;-;Aditya Birla Sun Life Liquid Fund -Direct - weekly IDCW;100.225;23-Dec-2022
-100041;-;INF209K01KN9;Aditya Birla Sun Life Liquid Fund -Institutional - IDCW;108.023;23-Dec-2022
-100048;INF209KA1LK7;INF209K01KY6;Aditya Birla Sun Life Liquid Fund -Institutional - weekly  IDCW;108.068;23-Dec-2022
-103885;INF209KA1LI1;-;Aditya Birla Sun Life Liquid Fund -Regular - IDCW;147.7801;23-Dec-2022
-100044;-;INF209K01KP4;Aditya Birla Sun Life Liquid Fund -Retail - IDCW;163.694;23-Dec-2022
-100051;INF209K01KU4;INF209KA1LJ9;Aditya Birla Sun Life Liquid Fund -weekly IDCW;100.225;23-Dec-2022
-112014;INF209K01KZ3;-;Aditya Birla Sun Life Liquid Fund- Discipline Advantage Plan;237.3862;23-Dec-2022
-100043;INF209K01RT1;-;Aditya Birla Sun Life Liquid Fund-Institutional (Growth);588.1571;23-Dec-2022
-100042;INF209K01ME4;-;Aditya Birla Sun Life Liquid Fund-Retail (Growth);573.137;23-Dec-2022
+100047;INF209K01RU9;-;Aditya Birla Sun Life Liquid Fund - Growth;353.2432;24-Dec-2022
+119568;INF209K01VA3;-;Aditya Birla Sun Life Liquid Fund - Growth - Direct Plan;356.3498;24-Dec-2022
+100046;INF209K01KQ2;INF209K01SQ5;Aditya Birla Sun Life Liquid Fund -Daily IDCW;100.2128;24-Dec-2022
+119569;INF209K01UZ2;-;Aditya Birla Sun Life Liquid Fund -Direct - daily IDCW;100.2132;24-Dec-2022
+119571;INF209K01VD7;-;Aditya Birla Sun Life Liquid Fund -DIRECT - IDCW;193.4697;24-Dec-2022
+119570;INF209K01VC9;-;Aditya Birla Sun Life Liquid Fund -Direct - weekly IDCW;100.2432;24-Dec-2022
+100041;-;INF209K01KN9;Aditya Birla Sun Life Liquid Fund -Institutional - IDCW;108.0422;24-Dec-2022
+100048;INF209KA1LK7;INF209K01KY6;Aditya Birla Sun Life Liquid Fund -Institutional - weekly  IDCW;108.0873;24-Dec-2022
+103885;INF209KA1LI1;-;Aditya Birla Sun Life Liquid Fund -Regular - IDCW;147.8064;24-Dec-2022
+100044;-;INF209K01KP4;Aditya Birla Sun Life Liquid Fund -Retail - IDCW;163.7231;24-Dec-2022
+100051;INF209K01KU4;INF209KA1LJ9;Aditya Birla Sun Life Liquid Fund -weekly IDCW;100.2428;24-Dec-2022
+112014;INF209K01KZ3;-;Aditya Birla Sun Life Liquid Fund- Discipline Advantage Plan;237.4317;24-Dec-2022
+100043;INF209K01RT1;-;Aditya Birla Sun Life Liquid Fund-Institutional (Growth);588.2616;24-Dec-2022
+100042;INF209K01ME4;-;Aditya Birla Sun Life Liquid Fund-Retail (Growth);573.2389;24-Dec-2022
 128954;INF846K01NH4;-;Axis Liquid Fund - Direct plan - Bonus Option;2215.5705;05-May-2020
 120388;-;INF846K01DA0;Axis Liquid Fund - Direct Plan - Daily IDCW;1000.9560;25-Dec-2022
 120389;INF846K01CX4;-;Axis Liquid Fund - Direct Plan - Growth Option;2455.8771;25-Dec-2022
@@ -1244,48 +1244,48 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 109351;INF760K01CX7;INF760K01CY5;CANARA ROBECO LIQUID FUND - REGULAR PLAN - MONTHLY IDCW (Payout/Reinvestment);1004.4216;25-Dec-2022
 109350;INF760K01BZ4;INF760K01CZ2;CANARA ROBECO LIQUID FUND - REGULAR PLAN - WEEKLY IDCW (Payout/Reinvestment);1000.7243;25-Dec-2022
 139235;INF760K01IC8;-;Canara Robeco Liquid Fund -Unclaimed Redemption and Dividend Plan -Direct Growth Option;1442.6176;25-Dec-2022
-119125;INF740K01QL4;-;DSP Liquidity Fund - Direct Plan - Growth;3159.7532;24-Dec-2022
-119124;-;INF740KA1OB6;DSP Liquidity Fund - Direct Plan - IDCW - Daily;1001.1139;24-Dec-2022
-119123;INF740KA1OC4;INF740KA1OD2;DSP Liquidity Fund - Direct Plan - IDCW - Weekly;1001.2543;24-Dec-2022
-103347;INF740K01FK9;-;DSP Liquidity Fund - Regular Plan - Growth;3131.6964;24-Dec-2022
-103348;INF740K01FM5;INF740K01FL7;DSP Liquidity Fund - Regular Plan - IDCW - Weekly;1001.2485;24-Dec-2022
-103349;-;INF740KA1OE0;DSP Liquidity Fund- Regular Plan - IDCW - Daily;1001.1106;24-Dec-2022
-140194;INF754K01GY9;-;Edelweiss Liquid Fund - Direct Plan - Bonus Option;1659.8315;24-Dec-2022
-140196;INF754K01GM4;-;Edelweiss Liquid Fund - Direct Plan - Growth Option;2853.0038;24-Dec-2022
-140198;INF754K01GO0;INF754K01GN2;Edelweiss Liquid Fund - Direct Plan - IDCW Option;2853.0186;24-Dec-2022
-140192;INF754K01GX1;INF754K01GT9;Edelweiss Liquid Fund - Direct Plan Annual - IDCW Option;2852.9952;24-Dec-2022
-140193;-;INF754K01GP7;Edelweiss Liquid Fund - Direct Plan daily - IDCW Option;1030.8363;24-Dec-2022
-140199;INF754K01GV5;INF754K01GR3;Edelweiss Liquid Fund - Direct Plan Fortnightly - IDCW Option;2254.8519;24-Dec-2022
-140197;INF754K01GW3;INF754K01GS1;Edelweiss Liquid Fund - Direct Plan Monthly - IDCW Option;1009.488;24-Dec-2022
-140195;INF754K01GU7;INF754K01GQ5;Edelweiss Liquid Fund - Direct Plan weekly - IDCW Option;2174.4918;24-Dec-2022
-140189;INF754K01HR1;-;Edelweiss Liquid Fund - Regular Plan - Bonus Option;1635.9401;24-Dec-2022
-140182;INF754K01GZ6;-;Edelweiss Liquid Fund - Regular Plan - Growth Option;2808.704;24-Dec-2022
-140190;INF754K01GK8;INF754K01GL6;Edelweiss Liquid Fund - Regular Plan - IDCW Option;2808.7066;24-Dec-2022
-140188;INF754K01HQ3;INF754K01HP5;Edelweiss Liquid Fund - Regular Plan Annual - IDCW Option;1943.3823;24-Dec-2022
-140181;-;INF754K01HA7;Edelweiss Liquid Fund - Regular Plan Daily - IDCW Option;1039.9814;24-Dec-2022
-140184;INF754K01HK6;INF754K01HC3;Edelweiss Liquid Fund - Regular Plan Fortnightly - IDCW Option;2156.3741;24-Dec-2022
-140183;INF754K01HL4;INF754K01HD1;Edelweiss Liquid Fund - Regular Plan Monthly - IDCW Option;1027.7707;24-Dec-2022
-140185;INF754K01HJ8;INF754K01HB5;Edelweiss Liquid Fund - Regular Plan Weekly - IDCW Option;1054.1103;24-Dec-2022
-140176;INF754K01HE9;-;Edelweiss Liquid Fund - Retail Plan - Growth Option;2554.3207;24-Dec-2022
-140178;-;INF754K01HG4;Edelweiss Liquid Fund - Retail Plan - Weekly Dividend Option;1231.8645;24-Dec-2022
-140177;-;INF754K01HF6;Edelweiss Liquid Fund - Retail Plan Daily - IDCW Option;1039.7432;24-Dec-2022
-140180;-;INF754K01HI0;Edelweiss Liquid Fund - Retail Plan Monthly - IDCW Option;1249.6213;24-Dec-2022
-100541;-;INF090I01BA3;Franklin India Liquid Fund - Regular Plan - Daily - IDCW;1509.5582;23-Dec-2022
-100538;INF090I01BB1;-;Franklin India Liquid Fund - Regular Plan - Growth;5046.7495;23-Dec-2022
-100537;INF090I01BL0;INF090I01BI6;Franklin India Liquid Fund - Regular Plan - Weekly - IDCW;1245.3250;23-Dec-2022
-118577;INF090I01JV2;-;Franklin India Liquid Fund - Super Instittutional - Direct - Growth;3321.0665;23-Dec-2022
-100547;-;INF090I01BF2;Franklin India Liquid Fund - Super Institutional Plan - Daily - IDCW;1000.0000;23-Dec-2022
-118578;-;INF090I01JW0;Franklin India Liquid Fund - Super Institutional Plan - Direct - Daily - IDCW;1001.7308;23-Dec-2022
-118579;INF090I01JX8;INF090I01JY6;Franklin India Liquid Fund - Super Institutional Plan - Direct - Weekly - IDCW;1022.3345;23-Dec-2022
-100546;INF090I01BG0;-;Franklin India Liquid Fund - Super Institutional Plan - Growth;3299.6461;23-Dec-2022
-100548;INF090I01BM8;INF090I01BH8;Franklin India Liquid Fund - Super Institutional Plan - Weekly - IDCW;1022.8600;23-Dec-2022
-139892;INF090I01LR6;-;Franklin India Liquid Fund - Unclaimed IDCW Investor Education Plan - Growth;10.0000;23-Dec-2022
-139890;INF090I01LP0;-;Franklin India Liquid Fund - Unclaimed IDCW Plan - Growth;14.0189;23-Dec-2022
-139891;INF090I01LQ8;-;Franklin India Liquid Fund - Unclaimed Redemption Investor Education Plan - Growth;10.0000;23-Dec-2022
-139889;INF090I01LO3;-;Franklin India Liquid Fund - Unclaimed Redemption Plan - Growth;14.0189;23-Dec-2022
+119125;INF740K01QL4;-;DSP Liquidity Fund - Direct Plan - Growth;3160.3248;25-Dec-2022
+119124;-;INF740KA1OB6;DSP Liquidity Fund - Direct Plan - IDCW - Daily;1000.9329;25-Dec-2022
+119123;INF740KA1OC4;INF740KA1OD2;DSP Liquidity Fund - Direct Plan - IDCW - Weekly;1001.4354;25-Dec-2022
+103347;INF740K01FK9;-;DSP Liquidity Fund - Regular Plan - Growth;3132.2526;25-Dec-2022
+103348;INF740K01FM5;INF740K01FL7;DSP Liquidity Fund - Regular Plan - IDCW - Weekly;1001.4263;25-Dec-2022
+103349;-;INF740KA1OE0;DSP Liquidity Fund- Regular Plan - IDCW - Daily;1000.9329;25-Dec-2022
+140194;INF754K01GY9;-;Edelweiss Liquid Fund - Direct Plan - Bonus Option;1660.1512;25-Dec-2022
+140196;INF754K01GM4;-;Edelweiss Liquid Fund - Direct Plan - Growth Option;2853.5533;25-Dec-2022
+140198;INF754K01GO0;INF754K01GN2;Edelweiss Liquid Fund - Direct Plan - IDCW Option;2853.5681;25-Dec-2022
+140192;INF754K01GX1;INF754K01GT9;Edelweiss Liquid Fund - Direct Plan Annual - IDCW Option;2853.5447;25-Dec-2022
+140193;-;INF754K01GP7;Edelweiss Liquid Fund - Direct Plan daily - IDCW Option;1030.8363;25-Dec-2022
+140199;INF754K01GV5;INF754K01GR3;Edelweiss Liquid Fund - Direct Plan Fortnightly - IDCW Option;2255.2861;25-Dec-2022
+140197;INF754K01GW3;INF754K01GS1;Edelweiss Liquid Fund - Direct Plan Monthly - IDCW Option;1004.2681;25-Dec-2022
+140195;INF754K01GU7;INF754K01GQ5;Edelweiss Liquid Fund - Direct Plan weekly - IDCW Option;2174.9106;25-Dec-2022
+140189;INF754K01HR1;-;Edelweiss Liquid Fund - Regular Plan - Bonus Option;1636.2446;25-Dec-2022
+140182;INF754K01GZ6;-;Edelweiss Liquid Fund - Regular Plan - Growth Option;2809.2264;25-Dec-2022
+140190;INF754K01GK8;INF754K01GL6;Edelweiss Liquid Fund - Regular Plan - IDCW Option;2809.229;25-Dec-2022
+140188;INF754K01HQ3;INF754K01HP5;Edelweiss Liquid Fund - Regular Plan Annual - IDCW Option;1943.7437;25-Dec-2022
+140181;-;INF754K01HA7;Edelweiss Liquid Fund - Regular Plan Daily - IDCW Option;1040.1749;25-Dec-2022
+140184;INF754K01HK6;INF754K01HC3;Edelweiss Liquid Fund - Regular Plan Fortnightly - IDCW Option;2156.7753;25-Dec-2022
+140183;INF754K01HL4;INF754K01HD1;Edelweiss Liquid Fund - Regular Plan Monthly - IDCW Option;1027.9619;25-Dec-2022
+140185;INF754K01HJ8;INF754K01HB5;Edelweiss Liquid Fund - Regular Plan Weekly - IDCW Option;1054.3063;25-Dec-2022
+140176;INF754K01HE9;-;Edelweiss Liquid Fund - Retail Plan - Growth Option;2554.7959;25-Dec-2022
+140178;-;INF754K01HG4;Edelweiss Liquid Fund - Retail Plan - Weekly Dividend Option;1232.0937;25-Dec-2022
+140177;-;INF754K01HF6;Edelweiss Liquid Fund - Retail Plan Daily - IDCW Option;1039.9366;25-Dec-2022
+140180;-;INF754K01HI0;Edelweiss Liquid Fund - Retail Plan Monthly - IDCW Option;1243.3884;25-Dec-2022
+100541;-;INF090I01BA3;Franklin India Liquid Fund - Regular Plan - Daily - IDCW;1509.5582;25-Dec-2022
+100538;INF090I01BB1;-;Franklin India Liquid Fund - Regular Plan - Growth;5048.3733;25-Dec-2022
+100537;INF090I01BL0;INF090I01BI6;Franklin India Liquid Fund - Regular Plan - Weekly - IDCW;1244.2967;25-Dec-2022
+118577;INF090I01JV2;-;Franklin India Liquid Fund - Super Instittutional - Direct - Growth;3322.2683;25-Dec-2022
+100547;-;INF090I01BF2;Franklin India Liquid Fund - Super Institutional Plan - Daily - IDCW;1000.0000;25-Dec-2022
+118578;-;INF090I01JW0;Franklin India Liquid Fund - Super Institutional Plan - Direct - Daily - IDCW;1001.7308;25-Dec-2022
+118579;INF090I01JX8;INF090I01JY6;Franklin India Liquid Fund - Super Institutional Plan - Direct - Weekly - IDCW;1021.3891;25-Dec-2022
+100546;INF090I01BG0;-;Franklin India Liquid Fund - Super Institutional Plan - Growth;3300.8257;25-Dec-2022
+100548;INF090I01BM8;INF090I01BH8;Franklin India Liquid Fund - Super Institutional Plan - Weekly - IDCW;1021.9243;25-Dec-2022
+139892;INF090I01LR6;-;Franklin India Liquid Fund - Unclaimed IDCW Investor Education Plan - Growth;10.0000;25-Dec-2022
+139890;INF090I01LP0;-;Franklin India Liquid Fund - Unclaimed IDCW Plan - Growth;14.0239;25-Dec-2022
+139891;INF090I01LQ8;-;Franklin India Liquid Fund - Unclaimed Redemption Investor Education Plan - Growth;10.0000;25-Dec-2022
+139889;INF090I01LO3;-;Franklin India Liquid Fund - Unclaimed Redemption Plan - Growth;14.0239;25-Dec-2022
 102441;INF090I01BD7;-;Franklin India Liquid Fund - Institution-Growth;0.0000;08-Jul-2020
-102443;-;INF090I01BC9;Franklin India Liquid Fund - Institutional Plan - Daily - IDCW;1000.0000;23-Dec-2022
-102442;INF090I01BJ4;INF090I01BE5;Franklin India Liquid Fund - Institutional Plan - Weekly - IDCW;1055.6296;23-Dec-2022
+102443;-;INF090I01BC9;Franklin India Liquid Fund - Institutional Plan - Daily - IDCW;1000.0000;25-Dec-2022
+102442;INF090I01BJ4;INF090I01BE5;Franklin India Liquid Fund - Institutional Plan - Weekly - IDCW;1054.7184;25-Dec-2022
 119091;INF179KB1HP9;-;HDFC Liquid Fund - Growth Option - Direct Plan;4344.4547;25-Dec-2022
 100868;INF179KB1HK0;-;HDFC Liquid Fund - Growth Plan;4307.0674;25-Dec-2022
 100875;-;INF179KB1IC5;HDFC Liquid Fund - IDCW Daily;1019.82;25-Dec-2022
@@ -1317,12 +1317,12 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 120187;INF109K01Q56;INF109K01Q64;ICICI Prudential Liquid Fund - Direct Plan -  Half Yearly IDCW;106.7325;16-Sep-2022
 120191;INF109K01Q31;INF109K01Q23;ICICI Prudential Liquid Fund - Direct Plan -  IDCW Others;151.7069;23-Dec-2022
 120188;-;INF109K01Q15;ICICI Prudential Liquid Fund - Direct Plan - Daily IDCW;100.1082;23-Dec-2022
-120197;INF109K01Q49;-;ICICI Prudential Liquid Fund - Direct Plan - Growth;327.0964;23-Dec-2022
+120197;INF109K01Q49;-;ICICI Prudential Liquid Fund - Direct Plan - Growth;327.1549;24-Dec-2022
 120189;INF109K01R06;-;ICICI Prudential Liquid Fund - Direct Plan - Monthly IDCW;100.4287;16-Sep-2022
 120196;INF109K01Q72;INF109K01Q80;ICICI Prudential Liquid Fund - Direct Plan - Quarterly IDCW;102.2043;16-Sep-2022
 120190;INF109K01Q98;-;ICICI Prudential Liquid Fund - Direct Plan - Weekly IDCW;100.2604;23-Dec-2022
 130934;INF109KA1G86;-;ICICI Prudential Liquid Fund - Direct Plan Bonus;149.1904;24-Apr-2020
-103340;INF109K01VQ1;-;ICICI Prudential Liquid Fund - Growth;324.6903;23-Dec-2022
+103340;INF109K01VQ1;-;ICICI Prudential Liquid Fund - Growth;324.7476;24-Dec-2022
 104308;INF109K01UX9;INF109K01UW1;ICICI Prudential Liquid Fund - Half Yearly IDCW;105.6475;16-Sep-2022
 115505;INF109K01VU3;INF109K01VT5;ICICI Prudential Liquid Fund - IDCW Others;150.8990;23-Dec-2022
 103344;INF109K01VH0;-;ICICI Prudential Liquid Fund - Institutional Option - I;275.6151;24-Apr-2020
@@ -1340,31 +1340,31 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 101755;INF109K01US9;-;ICICI Prudential Liquid Fund Retail Monthly Dividend;100.5372;24-Apr-2020
 101752;INF109K01UV3;-;ICICI Prudential Liquid Fund Retail Weekly Dividend;118.9171;24-Apr-2020
 101751;INF109K01VF4;-;ICICI Prudential Liquid Institutional Fund - Growth;462.33;24-Apr-2020
-126163;INF397L01FP5;-;IDBI Liquid Fund Bonus Direct;1782.9218;24-Dec-2022
+126163;INF397L01FP5;-;IDBI Liquid Fund Bonus Direct;1783.2415;25-Dec-2022
 126164;INF397L01FO8;-;IDBI Liquid Fund Bonus Regular;1523.1315;16-Jul-2019
-118345;INF397L01AH3;-;IDBI Liquid Fund Growth Direct;2379.2379;24-Dec-2022
-113104;INF397L01976;INF397L01968;IDBI Liquid Fund- Monthly IDCW;1008.7701;24-Dec-2022
-118449;INF397L01AK7;INF397L01AJ9;IDBI Liquid Fund- Monthly IDCW Direct;1007.2333;24-Dec-2022
-113102;-;INF397L01935;IDBI Liquid Fund-Daily IDCW;1005.2683;24-Dec-2022
-118450;-;INF397L01AI1;IDBI Liquid Fund-Daily IDCW Direct;1002.3548;24-Dec-2022
-113096;INF397L01984;-;IDBI Liquid Fund-Growth;2359.3100;24-Dec-2022
-113103;INF397L01950;INF397L01943;IDBI Liquid Fund-Weekly IDCW;1024.1082;24-Dec-2022
-118451;INF397L01AM3;INF397L01AL5;IDBI Liquid Fund-Weekly IDCW Direct;1004.8270;24-Dec-2022
+118345;INF397L01AH3;-;IDBI Liquid Fund Growth Direct;2379.6639;25-Dec-2022
+113104;INF397L01976;INF397L01968;IDBI Liquid Fund- Monthly IDCW;1008.9496;25-Dec-2022
+118449;INF397L01AK7;INF397L01AJ9;IDBI Liquid Fund- Monthly IDCW Direct;1007.4136;25-Dec-2022
+113102;-;INF397L01935;IDBI Liquid Fund-Daily IDCW;1005.2683;25-Dec-2022
+118450;-;INF397L01AI1;IDBI Liquid Fund-Daily IDCW Direct;1002.3548;25-Dec-2022
+113096;INF397L01984;-;IDBI Liquid Fund-Growth;2359.7298;25-Dec-2022
+113103;INF397L01950;INF397L01943;IDBI Liquid Fund-Weekly IDCW;1023.0085;25-Dec-2022
+118451;INF397L01AM3;INF397L01AL5;IDBI Liquid Fund-Weekly IDCW Direct;1003.7401;25-Dec-2022
 108694;INF194K01VP5;INF194K01VO8;IDFC Cash Fund - Inst Plan B - Periodic Div;0;02-Oct-2008
-108692;INF194K01VZ4;INF194K01VY7;IDFC Cash Fund - Regular Plan - Daily IDCW;1001.0846;23-Dec-2022
-108690;INF194K01VX9;-;IDFC Cash Fund - Regular Plan - Growth;2652.1685;23-Dec-2022
-108693;INF194K01WF4;INF194K01WE7;IDFC Cash Fund - Regular Plan - Monthly IDCW;1004.4834;23-Dec-2022
-115489;INF194K01WC1;INF194K01WB3;IDFC Cash Fund - Regular Plan - Periodic IDCW;1145.0531;23-Dec-2022
-108691;INF194K01WI8;INF194K01WH0;IDFC Cash Fund - Regular Plan - Weekly IDCW;1002.3810;23-Dec-2022
-139582;INF194KA14C0;-;IDFC Cash Fund - Unclaimed IDCW Less than 3 years;1.4217;23-Dec-2022
-139583;INF194KA15C7;-;IDFC Cash Fund - Unclaimed IDCW More than 3 years;1.0000;23-Dec-2022
-139584;INF194KA12C4;-;IDFC Cash Fund - Unclaimed Redemption Less than 3 years;1.4217;23-Dec-2022
-139585;INF194KA13C2;-;IDFC Cash Fund - Unclaimed Redemption More than 3 years;1.0000;23-Dec-2022
-118365;INF194K01J36;INF194K01J28;IDFC Cash Fund -Direct Plan -Monthly IDCW;1011.3110;23-Dec-2022
-118367;-;INF194K01J51;IDFC Cash Fund -Direct Plan -Weekly IDCW;1008.2863;23-Dec-2022
-118366;-;INF194K01I78;IDFC Cash Fund -Direct Plan-Daily IDCW ;1001.6663;23-Dec-2022
-118364;INF194K01I60;-;IDFC Cash Fund -Direct Plan-Growth;2669.0719;23-Dec-2022
-118363;INF194K01J02;INF194K01I94;IDFC Cash Fund -Direct Plan-Periodic IDCW;1075.3319;23-Dec-2022
+108692;INF194K01VZ4;INF194K01VY7;IDFC Cash Fund - Regular Plan - Daily IDCW;1001.0846;25-Dec-2022
+108690;INF194K01VX9;-;IDFC Cash Fund - Regular Plan - Growth;2653.1099;25-Dec-2022
+108693;INF194K01WF4;INF194K01WE7;IDFC Cash Fund - Regular Plan - Monthly IDCW;1004.8399;25-Dec-2022
+115489;INF194K01WC1;INF194K01WB3;IDFC Cash Fund - Regular Plan - Periodic IDCW;1145.4595;25-Dec-2022
+108691;INF194K01WI8;INF194K01WH0;IDFC Cash Fund - Regular Plan - Weekly IDCW;1001.4420;25-Dec-2022
+139582;INF194KA14C0;-;IDFC Cash Fund - Unclaimed IDCW Less than 3 years;1.4222;25-Dec-2022
+139583;INF194KA15C7;-;IDFC Cash Fund - Unclaimed IDCW More than 3 years;1.0000;25-Dec-2022
+139584;INF194KA12C4;-;IDFC Cash Fund - Unclaimed Redemption Less than 3 years;1.4222;25-Dec-2022
+139585;INF194KA13C2;-;IDFC Cash Fund - Unclaimed Redemption More than 3 years;1.0000;25-Dec-2022
+118365;INF194K01J36;INF194K01J28;IDFC Cash Fund -Direct Plan -Monthly IDCW;1011.6772;25-Dec-2022
+118367;-;INF194K01J51;IDFC Cash Fund -Direct Plan -Weekly IDCW;1007.3234;25-Dec-2022
+118366;-;INF194K01I78;IDFC Cash Fund -Direct Plan-Daily IDCW ;1001.6663;25-Dec-2022
+118364;INF194K01I60;-;IDFC Cash Fund -Direct Plan-Growth;2670.0383;25-Dec-2022
+118363;INF194K01J02;INF194K01I94;IDFC Cash Fund -Direct Plan-Periodic IDCW;1075.7213;25-Dec-2022
 125349;-;INF579M01688;IIFL LIQUID FUND DIRECT PLAN  DAILY DIVIDEND REINVESTMENT;1000.0427;25-Dec-2022
 125345;INF579M01621;-;IIFL LIQUID FUND DIRECT PLAN  GROWTH;1702.8845;25-Dec-2022
 125343;INF579M01639;INF579M01696;IIFL LIQUID FUND DIRECT PLAN  WEEKLY DIVIDEND;1005.9424;25-Dec-2022
@@ -1396,18 +1396,18 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 139388;-;-;Invesco India Liquid Fund - Unclaimed Redemption Plan - Above 3 Years;1000;25-Dec-2022
 139387;-;-;Invesco India Liquid Fund - Unclaimed Redemption Plan - Below 3 years;1438.6293;25-Dec-2022
 104485;-;INF205K01HO1;Invesco India Liquid Fund - Weekly IDCW (Reinvestment);1008.8311;25-Dec-2022
-147161;INF00XX01366;INF00XX01333;ITI Liquid Fund - Direct Plan - Annually IDCW Option;1157.8471;24-Dec-2022
-147158;-;INF00XX01291;ITI Liquid Fund - Direct Plan - Daily IDCW Option;1001.0000;24-Dec-2022
-147160;INF00XX01341;INF00XX01317;ITI Liquid Fund - Direct Plan - Fortnightly IDCW Option;1002.9897;24-Dec-2022
-147157;INF00XX01283;-;ITI Liquid Fund - Direct Plan - Growth Option;1157.0563;24-Dec-2022
-147163;INF00XX01358;INF00XX01325;ITI Liquid Fund - Direct Plan - Monthly IDCW Option;1005.7086;24-Dec-2022
-147159;-;INF00XX01309;ITI Liquid Fund - Direct Plan - Weekly IDCW Option;1001.7619;24-Dec-2022
-147162;INF00XX01275;INF00XX01242;ITI Liquid Fund - Regular Plan - Annually IDCW Option;1154.2221;24-Dec-2022
-147154;-;INF00XX01200;ITI Liquid Fund - Regular Plan - Daily IDCW Option;1001.0000;24-Dec-2022
-147155;INF00XX01259;INF00XX01226;ITI Liquid Fund - Regular Plan - Fortnightly Income Distribution cum capital withdrawal option Option;1002.9409;24-Dec-2022
-147153;INF00XX01192;-;ITI Liquid Fund - Regular Plan - Growth Option;1151.8847;24-Dec-2022
-147156;INF00XX01267;INF00XX01234;ITI Liquid Fund - Regular Plan - Monthly IDCW Option;1005.6001;24-Dec-2022
-147164;-;INF00XX01218;ITI Liquid Fund - Regular Plan - Weekly IDCW Option;1001.7439;24-Dec-2022
+147161;INF00XX01366;INF00XX01333;ITI Liquid Fund - Direct Plan - Annually IDCW Option;1158.0547;25-Dec-2022
+147158;-;INF00XX01291;ITI Liquid Fund - Direct Plan - Daily IDCW Option;1001.0000;25-Dec-2022
+147160;INF00XX01341;INF00XX01317;ITI Liquid Fund - Direct Plan - Fortnightly IDCW Option;1003.1675;25-Dec-2022
+147157;INF00XX01283;-;ITI Liquid Fund - Direct Plan - Growth Option;1157.2623;25-Dec-2022
+147163;INF00XX01358;INF00XX01325;ITI Liquid Fund - Direct Plan - Monthly IDCW Option;1005.8876;25-Dec-2022
+147159;-;INF00XX01309;ITI Liquid Fund - Direct Plan - Weekly IDCW Option;1001.9405;25-Dec-2022
+147162;INF00XX01275;INF00XX01242;ITI Liquid Fund - Regular Plan - Annually IDCW Option;1154.4228;25-Dec-2022
+147154;-;INF00XX01200;ITI Liquid Fund - Regular Plan - Daily IDCW Option;1001.0000;25-Dec-2022
+147155;INF00XX01259;INF00XX01226;ITI Liquid Fund - Regular Plan - Fortnightly Income Distribution cum capital withdrawal option Option;1003.1150;25-Dec-2022
+147153;INF00XX01192;-;ITI Liquid Fund - Regular Plan - Growth Option;1152.0848;25-Dec-2022
+147156;INF00XX01267;INF00XX01234;ITI Liquid Fund - Regular Plan - Monthly IDCW Option;1005.7752;25-Dec-2022
+147164;-;INF00XX01218;ITI Liquid Fund - Regular Plan - Weekly IDCW Option;1001.9179;25-Dec-2022
 120410;INF192K01CN4;-;JM Liquid Fund (Direct) - Bonus Option - Bonus Option - Principal units;19.4478;25-Dec-2022
 120411;-;INF192K01CH6;JM Liquid Fund (Direct) - Daily IDCW;10.4302;25-Dec-2022
 120406;INF192K01CM6;-;JM Liquid Fund (Direct) - Growth Option;60.4597;25-Dec-2022
@@ -1426,10 +1426,10 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 139259;INF192K01LC8;-;JM Liquid Fund Unclaimed Redemption IEF (Direct) Growth Plan;41.4437;24-Jan-2022
 101549;INF192K01890;-;JM Liquid Fund (Regular) - Bonus Option - Principal Units;19.2026;25-Dec-2022
 101078;-;INF192K01833;JM Liquid Fund (Regular) - Daily IDCW;10.4302;25-Dec-2022
-119764;INF174K01NH1;-;Kotak Liquid - Daily Reinvestment of Income Distribution cum capital withdrawal option - Direct;1222.81;23-Dec-2022
-119766;INF174K01NE8;-;Kotak Liquid - Growth - Direct;4465.5537;23-Dec-2022
-100833;INF174K01NL3;-;Kotak Liquid Regular Plan Daily Reinvestment of Income Distribution cum capital withdrawal option;1222.81;23-Dec-2022
-100835;INF174K01NI9;-;Kotak Liquid Regular Plan Growth;4436.603;23-Dec-2022
+119764;INF174K01NH1;-;Kotak Liquid - Daily Reinvestment of Income Distribution cum capital withdrawal option - Direct;1222.81;25-Dec-2022
+119766;INF174K01NE8;-;Kotak Liquid - Growth - Direct;4467.1527;25-Dec-2022
+100833;INF174K01NL3;-;Kotak Liquid Regular Plan Daily Reinvestment of Income Distribution cum capital withdrawal option;1222.81;25-Dec-2022
+100835;INF174K01NI9;-;Kotak Liquid Regular Plan Growth;4438.1622;25-Dec-2022
 100834;INF174K01NK5;-;Kotak Liquid Regular Plan Weekly Reinvestment of Income Distribution cum capital withdrawal option Dividend;1000.476;17-Sep-2021
 100830;INF174K01FZ9;-;Kotak Liquid-Institutional Plan  (Growth);3046.6062;21-Oct-2016
 100832;-;INF174K01GB8;Kotak Liquid-Institutional Plan (Weekly Dividend);1011.079;23-Sep-2013
@@ -1514,14 +1514,14 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 138282;INF223J01BB6;-;PGIM India Insta Cash Fund-Institutional Plan-Growth;26.2743;28-Jul-2019
 138304;INF223J01VD0;-;PGIM India INSTA CASH FUND-Monthly Bonus Option;140.0664;28-Jul-2019
 138286;INF223J01BQ4;-;PGIM India Liquid Fund - Bonus Option;186.8975;21-Jan-2022
-138285;-;INF223J01BO9;PGIM India Liquid Fund - Daily Dividend;100.304;23-Dec-2022
-138297;INF223J01NR7;-;PGIM India Liquid Fund - Direct Plan - Daily Dividend;108.57;23-Dec-2022
-138299;INF223J01NS5;-;PGIM India Liquid Fund - Direct Plan - Growth;287.9858;23-Dec-2022
-138298;INF223J01NT3;INF223J01NU1;PGIM India Liquid Fund - Direct Plan - Monthly Dividend;109.919;23-Dec-2022
-138301;INF223J01NV9;INF223J01NW7;PGIM India Liquid Fund - Direct Plan - Weekly Dividend;100.638;23-Dec-2022
-138288;INF223J01BP6;-;PGIM India Liquid Fund - Growth;285.5033;23-Dec-2022
-138287;INF223J01BL5;-;PGIM India Liquid Fund - Monthly Dividend;110.5916;23-Dec-2022
-138289;INF223J01BU6;-;PGIM India Liquid Fund - Weekly Dividend;100.6361;23-Dec-2022
+138285;-;INF223J01BO9;PGIM India Liquid Fund - Daily Dividend;100.304;24-Dec-2022
+138297;INF223J01NR7;-;PGIM India Liquid Fund - Direct Plan - Daily Dividend;108.57;24-Dec-2022
+138299;INF223J01NS5;-;PGIM India Liquid Fund - Direct Plan - Growth;288.0375;24-Dec-2022
+138298;INF223J01NT3;INF223J01NU1;PGIM India Liquid Fund - Direct Plan - Monthly Dividend;109.9387;24-Dec-2022
+138301;INF223J01NV9;INF223J01NW7;PGIM India Liquid Fund - Direct Plan - Weekly Dividend;100.5225;24-Dec-2022
+138288;INF223J01BP6;-;PGIM India Liquid Fund - Growth;285.5538;24-Dec-2022
+138287;INF223J01BL5;-;PGIM India Liquid Fund - Monthly Dividend;110.6111;24-Dec-2022
+138289;INF223J01BU6;-;PGIM India Liquid Fund - Weekly Dividend;100.5222;24-Dec-2022
 138280;-;INF223J01BI1;PGIM India Liquid Fund-DIVIDEND-Daily Dividend;10.301;28-Jul-2019
 138279;INF223J01BR2;INF223J01BS0;PGIM India Liquid Fund-DIVIDEND-MONTHLY DIVIDEND;10.0577;30-Jul-2018
 138281;INF223J01BJ9;-;PGIM India Liquid Fund-Growth-GROWTH;27.706;28-Jul-2019
@@ -1551,18 +1551,18 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 141065;-;INF082J01317;Quantum Liquid Fund - Regular Plan Daily IDCW;10.0007;25-Dec-2022
 141066;INF082J01309;-;Quantum Liquid Fund - Regular Plan Growth Option;29.6296;25-Dec-2022
 141067;INF082J01325;INF082J01333;Quantum Liquid Fund - Regular Plan Monthly IDCW;10.0581;25-Dec-2022
-119804;INF200K01UR8;INF200K01US6;SBI Liquid Fund - Direct Paln - Fortnightly Income Distribution cum Capital Withdrawal Option (IDCW);1129.5766;23-Dec-2022
-119805;-;INF200K01UQ0;SBI Liquid Fund - Direct Plan - Daily Income Distribution cum Capital Withdrawal Option (IDCW);1116.2229;23-Dec-2022
-119799;INF200K01UU2;INF200K01UV0;SBI Liquid Fund - Direct Plan - Weekly Income Distribution cum Capital Withdrawal Option (IDCW);1181.4244;23-Dec-2022
-119800;INF200K01UT4;-;SBI Liquid Fund - DIRECT PLAN -Growth;3459.1196;23-Dec-2022
-105274;INF200K01LU1;-;SBI Liquid Fund - Institutional - Growth;3465.8721;23-Dec-2022
-105275;-;INF200K01LR7;SBI Liquid Fund - Institutional Daily Income Distribution cum Capital Withdrawal Option (IDCW);1113.4498;23-Dec-2022
-105279;INF200K01LS5;INF200K01LT3;SBI Liquid Fund - Institutional Fortnightly Income Distribution cum Capital Withdrawal Option (IDCW);1139.3434;23-Dec-2022
+119804;INF200K01UR8;INF200K01US6;SBI Liquid Fund - Direct Paln - Fortnightly Income Distribution cum Capital Withdrawal Option (IDCW);1129.7772;24-Dec-2022
+119805;-;INF200K01UQ0;SBI Liquid Fund - Direct Plan - Daily Income Distribution cum Capital Withdrawal Option (IDCW);1116.4211;24-Dec-2022
+119799;INF200K01UU2;INF200K01UV0;SBI Liquid Fund - Direct Plan - Weekly Income Distribution cum Capital Withdrawal Option (IDCW);1181.6342;24-Dec-2022
+119800;INF200K01UT4;-;SBI Liquid Fund - DIRECT PLAN -Growth;3459.7339;24-Dec-2022
+105274;INF200K01LU1;-;SBI Liquid Fund - Institutional - Growth;3466.4779;24-Dec-2022
+105275;-;INF200K01LR7;SBI Liquid Fund - Institutional Daily Income Distribution cum Capital Withdrawal Option (IDCW);1113.6445;24-Dec-2022
+105279;INF200K01LS5;INF200K01LT3;SBI Liquid Fund - Institutional Fortnightly Income Distribution cum Capital Withdrawal Option (IDCW);1139.5426;24-Dec-2022
 105278;INF200K01LV9;INF200K01LW7;SBI Liquid Fund - Institutional Weekly Income Distribution cum Capital Withdrawal Option (IDCW);N.A.;09-Aug-2019
-105281;-;INF200K01LX5;SBI Liquid Fund - Regular Plan - Daily Income Distribution cum Capital Withdrawal Option (IDCW);1113.4478;23-Dec-2022
-105283;INF200K01LY3;INF200K01LZ0;SBI Liquid Fund - Regular Plan - Fortnightly Income Distribution cum Capital Withdrawal Option (IDCW);1126.7822;23-Dec-2022
-105282;INF200K01MB9;INF200K01MC7;SBI Liquid Fund - Regular Plan - Weekly Income Distribution cum Capital Withdrawal Option (IDCW);1178.4816;23-Dec-2022
-105280;INF200K01MA1;-;SBI Liquid Fund - REGULAR PLAN -Growth;3433.4186;23-Dec-2022
+105281;-;INF200K01LX5;SBI Liquid Fund - Regular Plan - Daily Income Distribution cum Capital Withdrawal Option (IDCW);1113.6425;24-Dec-2022
+105283;INF200K01LY3;INF200K01LZ0;SBI Liquid Fund - Regular Plan - Fortnightly Income Distribution cum Capital Withdrawal Option (IDCW);1126.9792;24-Dec-2022
+105282;INF200K01MB9;INF200K01MC7;SBI Liquid Fund - Regular Plan - Weekly Income Distribution cum Capital Withdrawal Option (IDCW);1178.6876;24-Dec-2022
+105280;INF200K01MA1;-;SBI Liquid Fund - REGULAR PLAN -Growth;3434.0189;24-Dec-2022
 149744;-;INF903JA1JK3;Sundaram  Liquid Fund (Formerly Known as Principal Cash Management Fund) Direct Quarterly IDCW;1049.9720;23-Dec-2022
 149742;-;INF903JA1JI7;Sundaram Liquid Fund (Formerly Known as  Principal Cash Management Fund) Regular Plan Principal Units;1071.7702;23-Dec-2022
 149663;-;INF173K01GT2;Sundaram Liquid Fund (Formerly Known as Principal Cash Management Fund )- Direct Plan - Income Distribution CUM Capital Withdrawal Option - Daily;1000.6367;23-Dec-2022
@@ -2485,14 +2485,14 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 133484;INF789FA1L21;INF789FA1L39;UTI Money Market Fund - Regular Plan - Monthly IDCW;1041.158;23-Dec-2022
 139646;INF789FA1L47;INF789FA1L54;UTI Money Market Fund - Regular Plan - Quarterly IDCW;1179.0852;02-Mar-2022
 112635;INF789F01PY6;INF789F01PZ3;UTI Money Market Fund - Regular Plan - Weekly IDCW;1122.7367;23-Dec-2022
-145488;INF209KB1ZL4;-;ADITYA BIRLA SUN LIFE OVERNIGHT FUND-  Direct - Monthly Payout of IDCW;1004.5836;23-Dec-2022
+145488;INF209KB1ZL4;-;ADITYA BIRLA SUN LIFE OVERNIGHT FUND-  Direct - Monthly Payout of IDCW;1004.7575;24-Dec-2022
 145489;-;INF209KB1ZJ8;ADITYA BIRLA SUN LIFE OVERNIGHT FUND-  Direct - Weekly Reinvestment of IDCW;1000.4297;01-Aug-2022
-145482;-;INF209KB1ZE9;ADITYA BIRLA SUN LIFE OVERNIGHT FUND-  Regular - Weekly Reinvestment of IDCW option;1000.02;23-Dec-2022
-145487;-;INF209KB1ZI0;ADITYA BIRLA SUN LIFE OVERNIGHT FUND- Direct - Daily Reinvestment of IDCW;1000.02;23-Dec-2022
-145483;-;INF209KB1ZD1;ADITYA BIRLA SUN LIFE OVERNIGHT FUND- Regular - Daily Reinvestment of IDCW;1000.02;23-Dec-2022
-145485;INF209KB1ZG4;-;ADITYA BIRLA SUN LIFE OVERNIGHT FUND- Regular- Monthly Payout of IDCW option;1004.5069;23-Dec-2022
-145486;INF209KB1ZH2;-;ADITYA BIRLA SUN LIFE OVERNIGHT FUND-DIRECT PLAN-GROWTH;1192.1311;23-Dec-2022
-145481;INF209KB1ZC3;-;ADITYA BIRLA SUNLIFE OVERNIGHT FUND-REGULAR PLAN-GROWTH;1186.2072;23-Dec-2022
+145482;-;INF209KB1ZE9;ADITYA BIRLA SUN LIFE OVERNIGHT FUND-  Regular - Weekly Reinvestment of IDCW option;1000.1903;24-Dec-2022
+145487;-;INF209KB1ZI0;ADITYA BIRLA SUN LIFE OVERNIGHT FUND- Direct - Daily Reinvestment of IDCW;1000.1932;24-Dec-2022
+145483;-;INF209KB1ZD1;ADITYA BIRLA SUN LIFE OVERNIGHT FUND- Regular - Daily Reinvestment of IDCW;1000.1907;24-Dec-2022
+145485;INF209KB1ZG4;-;ADITYA BIRLA SUN LIFE OVERNIGHT FUND- Regular- Monthly Payout of IDCW option;1004.678;24-Dec-2022
+145486;INF209KB1ZH2;-;ADITYA BIRLA SUN LIFE OVERNIGHT FUND-DIRECT PLAN-GROWTH;1192.3375;24-Dec-2022
+145481;INF209KB1ZC3;-;ADITYA BIRLA SUNLIFE OVERNIGHT FUND-REGULAR PLAN-GROWTH;1186.4093;24-Dec-2022
 146679;-;INF846K01N99;Axis Overnight Fund - Direct Plan - Daily IDCW;1000.5073;25-Dec-2022
 146675;INF846K01N65;-;Axis Overnight Fund - Direct Plan - Growth Option;1166.0264;25-Dec-2022
 146677;INF846K01N73;INF846K01N81;Axis Overnight Fund - Direct Plan - Monthly IDCW;1005.8170;25-Dec-2022
@@ -2526,42 +2526,42 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 147531;INF760K01JM5;-;CANARA ROBECO OVERNIGHT FUND - DIRECT PLAN - GROWTH OPTION;1141.3058;25-Dec-2022
 147533;-;INF760K01JP8;CANARA ROBECO OVERNIGHT FUND - REGULAR PLAN - DAILY IDCW (Reinvestment);1001.0000;25-Dec-2022
 147534;INF760K01JO1;-;CANARA ROBECO OVERNIGHT FUND - REGULAR PLAN - GROWTH OPTION;1140.4894;25-Dec-2022
-146062;INF740KA1MC8;-;DSP Overnight Fund - Direct Plan - Growth;1180.5274;23-Dec-2022
-146065;-;INF740KA1OR2;DSP Overnight Fund - Direct Plan - IDCW - Daily;1000.0028;23-Dec-2022
-146064;INF740KA1OS0;INF740KA1OT8;DSP Overnight Fund - Direct Plan - IDCW - Weekly;1000.1510;23-Dec-2022
-146061;INF740KA1MB0;-;DSP Overnight Fund - Regular Plan - Growth;1176.5783;23-Dec-2022
-146066;-;INF740KA1OU6;DSP Overnight Fund - Regular Plan - IDCW - Daily;1000.0028;23-Dec-2022
-146063;INF740KA1OV4;INF740KA1OW2;DSP Overnight Fund - Regular Plan - IDCW - Weekly;999.3514;23-Dec-2022
-149313;-;-;Unclaimed IDCW - Beyond 3 years (Invested in DSP Overnight Fund);10.0000;23-Dec-2022
-149312;-;-;Unclaimed IDCW - Upto 3 years (Invested in DSP Overnight Fund);10.5158;23-Dec-2022
-149311;-;-;Unclaimed Redemption - Beyond 3 years (Invested in DSP Overnight Fund);10.0000;23-Dec-2022
-149310;-;-;Unclaimed Redemption - Upto 3 years (Invested in DSP Overnight Fund);10.5158;23-Dec-2022
-147551;INF754K01KD5;INF754K01KC7;Edelweiss Overnight Fund - Direct Plan - Annual - IDCW Option;1142.709;24-Dec-2022
-147557;-;INF754K01JW7;Edelweiss Overnight Fund - Direct Plan - Daily - IDCW Option;1000.0286;24-Dec-2022
-147550;INF754K01JZ0;INF754K01JY3;Edelweiss Overnight Fund - Direct Plan - Fortnightly - IDCW Option;1141.979;24-Dec-2022
-147570;INF754K01JV9;-;Edelweiss Overnight Fund - Direct Plan - Growth;1142.3272;24-Dec-2022
-147554;INF754K01KB9;INF754K01KA1;Edelweiss Overnight Fund - Direct Plan - Monthly - IDCW Option;1062.4418;24-Dec-2022
+146062;INF740KA1MC8;-;DSP Overnight Fund - Direct Plan - Growth;1180.9358;25-Dec-2022
+146065;-;INF740KA1OR2;DSP Overnight Fund - Direct Plan - IDCW - Daily;1000.0028;25-Dec-2022
+146064;INF740KA1OS0;INF740KA1OT8;DSP Overnight Fund - Direct Plan - IDCW - Weekly;1000.4895;25-Dec-2022
+146061;INF740KA1MB0;-;DSP Overnight Fund - Regular Plan - Growth;1176.9801;25-Dec-2022
+146066;-;INF740KA1OU6;DSP Overnight Fund - Regular Plan - IDCW - Daily;1000.0028;25-Dec-2022
+146063;INF740KA1OV4;INF740KA1OW2;DSP Overnight Fund - Regular Plan - IDCW - Weekly;999.6999;25-Dec-2022
+149313;-;-;Unclaimed IDCW - Beyond 3 years (Invested in DSP Overnight Fund);10.0000;25-Dec-2022
+149312;-;-;Unclaimed IDCW - Upto 3 years (Invested in DSP Overnight Fund);10.5195;25-Dec-2022
+149311;-;-;Unclaimed Redemption - Beyond 3 years (Invested in DSP Overnight Fund);10.0000;25-Dec-2022
+149310;-;-;Unclaimed Redemption - Upto 3 years (Invested in DSP Overnight Fund);10.5194;25-Dec-2022
+147551;INF754K01KD5;INF754K01KC7;Edelweiss Overnight Fund - Direct Plan - Annual - IDCW Option;1142.9025;25-Dec-2022
+147557;-;INF754K01JW7;Edelweiss Overnight Fund - Direct Plan - Daily - IDCW Option;1000.0286;25-Dec-2022
+147550;INF754K01JZ0;INF754K01JY3;Edelweiss Overnight Fund - Direct Plan - Fortnightly - IDCW Option;1142.1726;25-Dec-2022
+147570;INF754K01JV9;-;Edelweiss Overnight Fund - Direct Plan - Growth;1142.5204;25-Dec-2022
+147554;INF754K01KB9;INF754K01KA1;Edelweiss Overnight Fund - Direct Plan - Monthly - IDCW Option;1057.4931;25-Dec-2022
 147558;-;INF754K01JX5;Edelweiss Overnight Fund - Direct Plan - Weekly - IDCW Option;1065.6143;30-Mar-2022
-147556;INF754K01KM6;INF754K01KL8;Edelweiss Overnight Fund - Regular Plan - Annual - IDCW Option;1140.0442;24-Dec-2022
-147552;-;INF754K01KF0;Edelweiss Overnight Fund - Regular Plan - Daily - IDCW Option;1008.1128;24-Dec-2022
-147549;INF754K01KI4;INF754K01KH6;Edelweiss Overnight Fund - Regular Plan - Fortnightly - IDCW Option;1096.8301;24-Dec-2022
-147569;INF754K01KE3;-;Edelweiss Overnight Fund - Regular Plan - Growth;1140.0437;24-Dec-2022
-147555;INF754K01KK0;INF754K01KJ2;Edelweiss Overnight Fund - Regular Plan - Monthly - IDCW Option;1008.0884;24-Dec-2022
-147553;-;INF754K01KG8;Edelweiss Overnight Fund - Regular Plan - Weekly - IDCW Option;1016.4696;24-Dec-2022
-149476;-;-;Edelweiss Overnight Fund - Unclaimed IDCW Plan - Above 3 years;1000;24-Dec-2022
-149477;-;-;Edelweiss Overnight Fund - Unclaimed IDCW Plan - Upto 3 years;1045.1664;24-Dec-2022
-149479;-;-;Edelweiss Overnight Fund - Unclaimed Redemption Plan - Above 3 years;1000;24-Dec-2022
-149478;-;-;Edelweiss Overnight Fund - Unclaimed Redemption Plan - Upto 3 years;1045.1664;24-Dec-2022
-147215;-;INF090I01SM2;Franklin India Overnight Fund - Daily Dividend Plan - Daily - IDCW;1000.0000;23-Dec-2022
-147212;-;INF090I01ST7;Franklin India Overnight Fund - Direct Daily Dividend Plan - Daily - IDCW;1000.0000;23-Dec-2022
-147211;INF090I01SR1;INF090I01SQ3;Franklin India Overnight Fund - Direct Weekly Dividend Plan - Weekly - IDCW;1000.8605;23-Dec-2022
-147216;INF090I01SN0;INF090I01SP5;Franklin India Overnight Fund - Weekly Dividend Plan - Weekly - IDCW;1000.8560;23-Dec-2022
-147213;INF090I01SO8;-;Franklin India Overnight fund- Growth;1148.5905;23-Dec-2022
-147214;INF090I01SS9;-;Franklin India Overnight Fund- Growth - Direct;1150.8562;23-Dec-2022
-149445;-;-;Franklin India Overnight Fund- Unclaimed IDCW Investor Education Plan;10.0000;23-Dec-2022
-149443;-;-;Franklin India Overnight Fund- Unclaimed IDCW Plan;10.4454;23-Dec-2022
-149444;-;-;Franklin India Overnight Fund- Unclaimed Redemption Investor EducationPlan;10.0000;23-Dec-2022
-149446;-;-;Franklin India Overnight Fund- Unclaimed Redemption Plan;10.4454;23-Dec-2022
+147556;INF754K01KM6;INF754K01KL8;Edelweiss Overnight Fund - Regular Plan - Annual - IDCW Option;1140.2354;25-Dec-2022
+147552;-;INF754K01KF0;Edelweiss Overnight Fund - Regular Plan - Daily - IDCW Option;1008.1128;25-Dec-2022
+147549;INF754K01KI4;INF754K01KH6;Edelweiss Overnight Fund - Regular Plan - Fortnightly - IDCW Option;1097.022;25-Dec-2022
+147569;INF754K01KE3;-;Edelweiss Overnight Fund - Regular Plan - Growth;1140.235;25-Dec-2022
+147555;INF754K01KK0;INF754K01KJ2;Edelweiss Overnight Fund - Regular Plan - Monthly - IDCW Option;1003.438;25-Dec-2022
+147553;-;INF754K01KG8;Edelweiss Overnight Fund - Regular Plan - Weekly - IDCW Option;1016.6406;25-Dec-2022
+149476;-;-;Edelweiss Overnight Fund - Unclaimed IDCW Plan - Above 3 years;1000;25-Dec-2022
+149477;-;-;Edelweiss Overnight Fund - Unclaimed IDCW Plan - Upto 3 years;1045.3431;25-Dec-2022
+149479;-;-;Edelweiss Overnight Fund - Unclaimed Redemption Plan - Above 3 years;1000;25-Dec-2022
+149478;-;-;Edelweiss Overnight Fund - Unclaimed Redemption Plan - Upto 3 years;1045.3431;25-Dec-2022
+147215;-;INF090I01SM2;Franklin India Overnight Fund - Daily Dividend Plan - Daily - IDCW;1000.0000;25-Dec-2022
+147212;-;INF090I01ST7;Franklin India Overnight Fund - Direct Daily Dividend Plan - Daily - IDCW;1000.0000;25-Dec-2022
+147211;INF090I01SR1;INF090I01SQ3;Franklin India Overnight Fund - Direct Weekly Dividend Plan - Weekly - IDCW;1000.0000;25-Dec-2022
+147216;INF090I01SN0;INF090I01SP5;Franklin India Overnight Fund - Weekly Dividend Plan - Weekly - IDCW;1000.0000;25-Dec-2022
+147213;INF090I01SO8;-;Franklin India Overnight fund- Growth;1148.9823;25-Dec-2022
+147214;INF090I01SS9;-;Franklin India Overnight Fund- Growth - Direct;1151.2520;25-Dec-2022
+149445;-;-;Franklin India Overnight Fund- Unclaimed IDCW Investor Education Plan;10.0000;25-Dec-2022
+149443;-;-;Franklin India Overnight Fund- Unclaimed IDCW Plan;10.4490;25-Dec-2022
+149444;-;-;Franklin India Overnight Fund- Unclaimed Redemption Investor EducationPlan;10.0000;25-Dec-2022
+149446;-;-;Franklin India Overnight Fund- Unclaimed Redemption Plan;10.4490;25-Dec-2022
 119109;-;-;HDFC Overnight Fund - Daily IDCW Option - Direct Plan;1042.66;25-Dec-2022
 101996;INF179KB1HS3;-;HDFC Overnight Fund - Growth Option;3249.5333;25-Dec-2022
 119110;INF179KB1HT1;-;HDFC Overnight Fund - Growth Option - Direct Plan;3274.2041;25-Dec-2022
@@ -2598,16 +2598,16 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 145548;INF109KC19E9;INF109KC10F5;ICICI Prudential Overnight Fund - Monthly IDCW;1002.3577;16-Sep-2022
 145543;INF109KC15F4;INF109KC16F2;ICICI Prudential Overnight Fund - Quarterly IDCW;1004.0152;16-Sep-2022
 145538;INF109KC12F1;INF109KC11F3;ICICI Prudential Overnight Fund - Weekly IDCW;1000.6845;23-Dec-2022
-146190;INF194KB1462;INF194KB1470;IDFC Overnight Fund - Direct Plan - Daily IDCW;1000.0001;23-Dec-2022
-146191;INF194KB1447;-;IDFC Overnight Fund - Direct Plan - Growth;1175.6295;23-Dec-2022
-146183;INF194KB1496;INF194KB1504;IDFC Overnight Fund - Direct Plan - Monthly IDCW;1003.9357;23-Dec-2022
-146184;INF194KB1520;INF194KB1538;IDFC Overnight Fund - Direct Plan - Periodic IDCW;1070.9662;23-Dec-2022
-146192;INF194KB1553;INF194KB1561;IDFC Overnight Fund - Direct Plan - Weekly IDCW;1001.2097;23-Dec-2022
-146188;INF194KB1330;INF194KB1348;IDFC Overnight Fund - Regular Plan - Daily IDCW;1000.0001;23-Dec-2022
-146187;INF194KB1314;-;IDFC Overnight Fund - Regular Plan - Growth;1170.3822;23-Dec-2022
-146185;INF194KB1363;INF194KB1371;IDFC Overnight Fund - Regular Plan - Monthly IDCW;1003.8865;23-Dec-2022
-146189;INF194KB1421;INF194KB1439;IDFC Overnight Fund - Regular Plan - Weekly IDCW;1002.1220;23-Dec-2022
-146186;INF194KB1397;INF194KB1405;IDFC Overnight Fund - REGULAR PLAN PERIODIC IDCW;1070.8959;23-Dec-2022
+146190;INF194KB1462;INF194KB1470;IDFC Overnight Fund - Direct Plan - Daily IDCW;1000.0001;25-Dec-2022
+146191;INF194KB1447;-;IDFC Overnight Fund - Direct Plan - Growth;1176.0371;25-Dec-2022
+146183;INF194KB1496;INF194KB1504;IDFC Overnight Fund - Direct Plan - Monthly IDCW;1004.2838;25-Dec-2022
+146184;INF194KB1520;INF194KB1538;IDFC Overnight Fund - Direct Plan - Periodic IDCW;1071.3382;25-Dec-2022
+146192;INF194KB1553;INF194KB1561;IDFC Overnight Fund - Direct Plan - Weekly IDCW;1000.3427;25-Dec-2022
+146188;INF194KB1330;INF194KB1348;IDFC Overnight Fund - Regular Plan - Daily IDCW;1000.0001;25-Dec-2022
+146187;INF194KB1314;-;IDFC Overnight Fund - Regular Plan - Growth;1170.7814;25-Dec-2022
+146185;INF194KB1363;INF194KB1371;IDFC Overnight Fund - Regular Plan - Monthly IDCW;1004.2299;25-Dec-2022
+146189;INF194KB1421;INF194KB1439;IDFC Overnight Fund - Regular Plan - Weekly IDCW;1001.2704;25-Dec-2022
+146186;INF194KB1397;INF194KB1405;IDFC Overnight Fund - REGULAR PLAN PERIODIC IDCW;1071.2611;25-Dec-2022
 147458;-;INF666M01GM6;Indiabulls Overnight Fund- Direct Plan- - Income Distribution cum capital withdrawal Option ( Reinvestment);1000.9966;25-Dec-2022
 147452;INF666M01GP9;INF666M01GQ7;Indiabulls Overnight Fund- Direct Plan- Fortnightly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment);1002.5297;17-Aug-2022
 147450;INF666M01GL8;-;Indiabulls Overnight Fund- Direct Plan- Growth Option;1141.0848;25-Dec-2022
@@ -2630,18 +2630,18 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 147878;INF205KA1114;-;Invesco India Overnight Fund - Regular Plan - Growth;1112.3496;25-Dec-2022
 147879;INF205KA1106;INF205KA1098;Invesco India Overnight Fund - Regular Plan - Monthly IDCW (Payout / Reinvestment);1004.2413;25-Dec-2022
 147881;-;INF205KA1080;Invesco India Overnight Fund - Regular Plan - Weekly IDCW (Reinvestment);1001.046;25-Dec-2022
-147707;INF00XX01648;INF00XX01614;ITI Overnight Fund - Direct Plan - Annual IDCW Option;1116.6889;24-Dec-2022
-147708;-;INF00XX01572;ITI Overnight Fund - Direct Plan - Daily IDCW Option;1001.0000;24-Dec-2022
-147710;INF00XX01622;INF00XX01598;ITI Overnight Fund - Direct Plan - Fortnightly IDCW Option;1002.8367;24-Dec-2022
-147713;INF00XX01564;-;ITI Overnight Fund - Direct Plan - Growth Option;1123.6823;24-Dec-2022
-147717;INF00XX01630;INF00XX01606;ITI Overnight Fund - Direct Plan - Monthly IDCW Option;1005.4825;24-Dec-2022
-147711;-;INF00XX01580;ITI Overnight Fund - Direct Plan - Weekly IDCW option;1001.6770;24-Dec-2022
-147715;INF00XX01556;INF00XX01523;ITI Overnight Fund - Regular Plan - Annual IDCW Option;1050.1915;24-Dec-2022
-147709;-;INF00XX01481;ITI Overnight Fund - Regular Plan - Daily IDCW Option;1001.0000;24-Dec-2022
-147716;INF00XX01531;INF00XX01507;ITI Overnight Fund - Regular Plan - Fortnightly IDCW Option;1002.8709;24-Dec-2022
-147714;INF00XX01473;-;ITI Overnight Fund - Regular Plan - Growth Option;1120.0222;24-Dec-2022
-147718;INF00XX01549;INF00XX01515;ITI Overnight Fund - Regular Plan - Monthly IDCW Option;1005.3974;24-Dec-2022
-147712;-;INF00XX01499;ITI Overnight Fund - Regular Plan - Weekly IDCW Option;1001.6674;24-Dec-2022
+147707;INF00XX01648;INF00XX01614;ITI Overnight Fund - Direct Plan - Annual IDCW Option;1116.8807;25-Dec-2022
+147708;-;INF00XX01572;ITI Overnight Fund - Direct Plan - Daily IDCW Option;1001.0000;25-Dec-2022
+147710;INF00XX01622;INF00XX01598;ITI Overnight Fund - Direct Plan - Fortnightly IDCW Option;1003.0078;25-Dec-2022
+147713;INF00XX01564;-;ITI Overnight Fund - Direct Plan - Growth Option;1123.8739;25-Dec-2022
+147717;INF00XX01630;INF00XX01606;ITI Overnight Fund - Direct Plan - Monthly IDCW Option;1005.6545;25-Dec-2022
+147711;-;INF00XX01580;ITI Overnight Fund - Direct Plan - Weekly IDCW option;1001.8478;25-Dec-2022
+147715;INF00XX01556;INF00XX01523;ITI Overnight Fund - Regular Plan - Annual IDCW Option;1050.3680;25-Dec-2022
+147709;-;INF00XX01481;ITI Overnight Fund - Regular Plan - Daily IDCW Option;1001.0000;25-Dec-2022
+147716;INF00XX01531;INF00XX01507;ITI Overnight Fund - Regular Plan - Fortnightly IDCW Option;1003.0443;25-Dec-2022
+147714;INF00XX01473;-;ITI Overnight Fund - Regular Plan - Growth Option;1120.2101;25-Dec-2022
+147718;INF00XX01549;INF00XX01515;ITI Overnight Fund - Regular Plan - Monthly IDCW Option;1005.5663;25-Dec-2022
+147712;-;INF00XX01499;ITI Overnight Fund - Regular Plan - Weekly IDCW Option;1001.8360;25-Dec-2022
 147838;-;INF192K01LY2;JM Overnight Fund (Direct) - Daily IDCW;1000.0000;25-Dec-2022
 147835;INF192K01LZ9;INF192K01MA0;JM Overnight Fund (Direct) - Weekly IDCW;1000.8653;25-Dec-2022
 147839;-;INF192K01LU0;JM Overnight Fund (Regular) - Daily IDCW;1000.0000;25-Dec-2022
@@ -2652,10 +2652,10 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 149827;-;-;JM Overnight Fund - (Direct) - Unclaimed IDCW I.E.F. - Growth Plan;1073.9936;25-Dec-2022
 149829;-;-;JM Overnight Fund - (Direct) - Unclaimed Redemption - Growth Plan;1120.5709;25-Dec-2022
 149826;-;-;JM Overnight Fund - (Direct) - Unclaimed Redemption I.E.F. - Growth Plan;1073.9936;25-Dec-2022
-146141;INF174KA1BF9;-;Kotak Overnight Fund -Direct Plan-Growth Option;1175.728;23-Dec-2022
-146142;INF174KA1BC6;-;Kotak Overnight Fund -Regular plan-Growth Option;1171.63;23-Dec-2022
-146140;-;INF174KA1BE2;Kotak Overnight Fund-Direct Plan- Daily Reinvestment of Income Distribution cum capital withdrawal option;1003.6055;23-Dec-2022
-146138;-;INF174KA1BB8;Kotak Overnight Fund-Regular Plan- Daily Reinvestment of Income Distribution cum capital withdrawal option;1004.7568;23-Dec-2022
+146141;INF174KA1BF9;-;Kotak Overnight Fund -Direct Plan-Growth Option;1176.1345;25-Dec-2022
+146142;INF174KA1BC6;-;Kotak Overnight Fund -Regular plan-Growth Option;1172.0273;25-Dec-2022
+146140;-;INF174KA1BE2;Kotak Overnight Fund-Direct Plan- Daily Reinvestment of Income Distribution cum capital withdrawal option;1003.6055;25-Dec-2022
+146138;-;INF174KA1BB8;Kotak Overnight Fund-Regular Plan- Daily Reinvestment of Income Distribution cum capital withdrawal option;1004.7568;25-Dec-2022
 147516;-;INF767K01QG7;LIC MF Overnight Fund-Direct Plan-Daily IDCW;1048.2793;25-Dec-2022
 147515;INF767K01QI3;-;LIC MF Overnight Fund-Direct Plan-Growth;1143.1167;25-Dec-2022
 147513;INF767K01QE2;INF767K01QF9;LIC MF Overnight Fund-Direct Plan-IDCW;1142.854;25-Dec-2022
@@ -2690,31 +2690,31 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 145826;-;INF204KB1Q81;NIPPON INDIA OVERNIGHT FUND - WEEKLY IDCW Option;100.0396;25-Dec-2022
 150369;INF0J8L01081;-;NJ Overnight Fund - Direct Plan - Growth Option;1022.8093;25-Dec-2022
 150368;INF0J8L01073;-;NJ Overnight Fund - Regular Plan - Growth Option;1022.3981;25-Dec-2022
-147605;-;INF663L01T35;PGIM India Overnight Fund - Direct Plan - Daily Dividend Option;1000.0063;23-Dec-2022
-147606;INF663L01T01;-;PGIM India Overnight Fund - Direct Plan - Growth Option;1137.8914;23-Dec-2022
-147608;INF663L01T19;INF663L01T27;PGIM India Overnight Fund - Direct Plan - Weekly Dividend Option;1001.2671;23-Dec-2022
-147609;-;INF663L01T76;PGIM India Overnight Fund - Regular Plan - Daily Dividend Option;1000;23-Dec-2022
-147607;INF663L01T50;INF663L01T68;PGIM India Overnight Fund - Regular Plan - Weekly Dividend Option;1001.1804;23-Dec-2022
-147600;INF663L01T43;-;PGIM India Overnight Fund - Regular Plan- Growth Option;1134.8559;23-Dec-2022
+147605;-;INF663L01T35;PGIM India Overnight Fund - Direct Plan - Daily Dividend Option;1000.0063;24-Dec-2022
+147606;INF663L01T01;-;PGIM India Overnight Fund - Direct Plan - Growth Option;1138.0899;24-Dec-2022
+147608;INF663L01T19;INF663L01T27;PGIM India Overnight Fund - Direct Plan - Weekly Dividend Option;1000.2355;24-Dec-2022
+147609;-;INF663L01T76;PGIM India Overnight Fund - Regular Plan - Daily Dividend Option;1000;24-Dec-2022
+147607;INF663L01T50;INF663L01T68;PGIM India Overnight Fund - Regular Plan - Weekly Dividend Option;1000.1632;24-Dec-2022
+147600;INF663L01T43;-;PGIM India Overnight Fund - Regular Plan- Growth Option;1135.0508;24-Dec-2022
 151190;INF966L01AZ7;-;quant Overnight Fund - Growth Option - Direct Plan;10.0344;25-Dec-2022
 151195;INF966L01BC4;-;quant Overnight Fund - Growth Option - Regular Plan;10.0332;25-Dec-2022
 151193;INF966L01BA8;INF966L01BB6;quant Overnight Fund - IDCW Option - Direct Plan;10.0345;25-Dec-2022
 151191;INF966L01BD2;INF966L01BE0;quant Overnight Fund - IDCW Option - Regular Plan;10.0185;25-Dec-2022
 150631;INF0K1H01040;-;Samco Overnight Fund - Direct Plan - Growth Option;1012.9032;25-Dec-2022
 150632;INF0K1H01032;-;Samco Overnight Fund - Regular Plan - Growth Option;1012.4826;25-Dec-2022
-119831;-;INF200K01TJ7;SBI Overnight Fund - Direct Plan - Daily Income Distribution cum Capital Withdrawal Option (IDCW);1113.7873;23-Dec-2022
-119833;INF200K01TK5;-;SBI OVERNIGHT FUND - DIRECT PLAN - GROWTH;3588.3853;23-Dec-2022
-119832;INF200K01TL3;INF200K01TM1;SBI Overnight Fund - Direct Plan - Weekly Income Distribution cum Capital Withdrawal Option (IDCW);1137.3394;23-Dec-2022
-114297;-;INF200K01LN6;SBI Overnight Fund - Regular Plan - Daily Income Distribution cum Capital Withdrawal Option (IDCW);1111.5124;23-Dec-2022
-101206;INF200K01LQ9;-;SBI OVERNIGHT FUND - REGULAR PLAN - GROWTH;3548.9047;23-Dec-2022
-103140;INF200K01LO4;INF200K01LP1;SBI Overnight Fund - Regular Plan - Weekly Income Distribution cum Capital Withdrawal Option (IDCW);1134.9390;23-Dec-2022
-150562;INF680P01323;-;Shriram Overnight Fund -  Direct Growth;10.1991;23-Dec-2022
-150561;-;INF680P01331;Shriram Overnight Fund - Direct Daily IDCW;10.0000;23-Dec-2022
+119831;-;INF200K01TJ7;SBI Overnight Fund - Direct Plan - Daily Income Distribution cum Capital Withdrawal Option (IDCW);1113.9789;24-Dec-2022
+119833;INF200K01TK5;-;SBI OVERNIGHT FUND - DIRECT PLAN - GROWTH;3589.0025;24-Dec-2022
+119832;INF200K01TL3;INF200K01TM1;SBI Overnight Fund - Direct Plan - Weekly Income Distribution cum Capital Withdrawal Option (IDCW);1137.5351;24-Dec-2022
+114297;-;INF200K01LN6;SBI Overnight Fund - Regular Plan - Daily Income Distribution cum Capital Withdrawal Option (IDCW);1111.7011;24-Dec-2022
+101206;INF200K01LQ9;-;SBI OVERNIGHT FUND - REGULAR PLAN - GROWTH;3549.5074;24-Dec-2022
+103140;INF200K01LO4;INF200K01LP1;SBI Overnight Fund - Regular Plan - Weekly Income Distribution cum Capital Withdrawal Option (IDCW);1135.1317;24-Dec-2022
+150562;INF680P01323;-;Shriram Overnight Fund -  Direct Growth;10.2026;25-Dec-2022
+150561;-;INF680P01331;Shriram Overnight Fund - Direct Daily IDCW;10.0000;25-Dec-2022
 150564;INF680P01364;INF680P01372;Shriram Overnight Fund - Direct Fortnightly IDCW;10.0046;22-Sep-2022
-150558;-;INF680P01257;Shriram Overnight Fund - Regular Daily IDCW;10.0000;23-Dec-2022
-150565;INF680P01232;-;Shriram Overnight Fund - Regular Growth;10.1960;23-Dec-2022
-150560;INF680P01307;INF680P01315;Shriram Overnight Fund - Regular Monthly IDCW;10.0136;23-Dec-2022
-150559;INF680P01265;INF680P01273;Shriram Overnight Fund - Regular Weekly IDCW;10.0068;23-Dec-2022
+150558;-;INF680P01257;Shriram Overnight Fund - Regular Daily IDCW;10.0000;25-Dec-2022
+150565;INF680P01232;-;Shriram Overnight Fund - Regular Growth;10.1994;25-Dec-2022
+150560;INF680P01307;INF680P01315;Shriram Overnight Fund - Regular Monthly IDCW;10.0171;25-Dec-2022
+150559;INF680P01265;INF680P01273;Shriram Overnight Fund - Regular Weekly IDCW;10.0102;25-Dec-2022
 146964;INF903JA1HJ9;-;Sundaram Overnight Fund Direct Plan - Daily Reinvestment of Income Distribution cum Capital Withdrawal (IDCW);1000.0300;23-Dec-2022
 146956;INF903JA1HL5;-;Sundaram Overnight Fund Direct Plan - Fortnightly Reinvestment of Income Distribution cum Capital Withdrawal (IDCW);1066.0980;23-Dec-2022
 146963;INF903JA1HG5;-;Sundaram Overnight Fund Direct Plan - Growth;1171.3979;23-Dec-2022
@@ -7072,7 +7072,7 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 149156;INF846K016C7;-;Axis NIFTY India Consumption ETF;75.3339;23-Dec-2022
 148799;INF846K01Y96;-;Axis IT ETF;291.7227;23-Dec-2022
 150610;INF846K011K1;-;Axis Silver ETF;71.8904;23-Dec-2022
-142589;-;INF740KA1EU7;DSP NIFTY 1D Rate Liquid ETF - IDCW - Daily Reinvest;1000.0000;23-Dec-2022
+142589;-;INF740KA1EU7;DSP NIFTY 1D Rate Liquid ETF - IDCW - Daily Reinvest;1000.0000;25-Dec-2022
 149286;INF740KA1QK2;-;DSP Nifty 50 Equal Weight ETF;205.3241;23-Dec-2022
 149392;INF740KA1CL0;-;DSP Nifty 50 ETF;180.0935;23-Dec-2022
 149403;INF740KA1QL0;-;DSP Nifty Midcap 150 Quality 50 ETF;158.5157;23-Dec-2022
@@ -11331,18 +11331,18 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 146546;INF200KA1ZQ3;-;SBI Capital Protection Oriented Fund - Series A (Plan 1) - Regular Plan - Growth;12.7641;12-Sep-2022
 146704;INF200KA1B96;-;SBI Capital Protection Oriented Fund - Series A (Plan 2) - Direct Plan - Growth;12.9659;12-Sep-2022
 146705;INF200KA1B88;-;SBI Capital Protection Oriented Fund - Series A (Plan 2) - Regular Plan - Growth;12.7096;12-Sep-2022
-147242;INF200KA1E51;-;SBI Capital Protection Oriented Fund - Series A (Plan 3) - Direct Plan - Growth;13.2379;23-Dec-2022
-147240;INF200KA1E44;-;SBI Capital Protection Oriented Fund - Series A (Plan 3) - Regular Plan - Growth;12.9916;23-Dec-2022
-147359;INF200KA1G34;-;SBI Capital Protection Oriented Fund - Series A (Plan 4) - Direct Plan - Growth;13.1681;23-Dec-2022
-147360;INF200KA1G26;-;SBI Capital Protection Oriented Fund - Series A (Plan 4) - Regular Plan - Growth;12.9319;23-Dec-2022
-147631;INF200KA1K12;-;SBI Capital Protection Oriented Fund - Series A (Plan 5) - Direct Plan - Growth;12.9706;23-Dec-2022
-147632;INF200KA1K04;-;SBI Capital Protection Oriented Fund - Series A (Plan 5) - Regular Plan - Growth;12.7361;23-Dec-2022
-147644;INF200KA1K87;-;SBI Capital Protection Oriented Fund - Series A (Plan 6) - Direct Plan - Growth;12.8060;23-Dec-2022
-147643;INF200KA1K79;-;SBI Capital Protection Oriented Fund - Series A (Plan 6) - Regular Plan - Growth;12.5717;23-Dec-2022
-147942;INF200KA1O67;-;SBI Capital Protection Oriented Fund - Series A (Plan 7) - Direct Plan - Growth;12.3280;23-Dec-2022
-147941;INF200KA1O59;-;SBI Capital Protection Oriented Fund - Series A (Plan 7) - Regular Plan - Growth;12.0929;23-Dec-2022
-148172;INF200KA1P25;-;SBI Capital Protection Oriented Fund - Series A (Plan 8) - Direct Plan - Growth;12.5766;23-Dec-2022
-148171;INF200KA1P17;-;SBI Capital Protection Oriented Fund - Series A (Plan 8) - Regular Plan - Growth;12.3441;23-Dec-2022
+147242;INF200KA1E51;-;SBI Capital Protection Oriented Fund - Series A (Plan 3) - Direct Plan - Growth;13.2398;24-Dec-2022
+147240;INF200KA1E44;-;SBI Capital Protection Oriented Fund - Series A (Plan 3) - Regular Plan - Growth;12.9933;24-Dec-2022
+147359;INF200KA1G34;-;SBI Capital Protection Oriented Fund - Series A (Plan 4) - Direct Plan - Growth;13.1700;24-Dec-2022
+147360;INF200KA1G26;-;SBI Capital Protection Oriented Fund - Series A (Plan 4) - Regular Plan - Growth;12.9337;24-Dec-2022
+147631;INF200KA1K12;-;SBI Capital Protection Oriented Fund - Series A (Plan 5) - Direct Plan - Growth;12.9725;24-Dec-2022
+147632;INF200KA1K04;-;SBI Capital Protection Oriented Fund - Series A (Plan 5) - Regular Plan - Growth;12.7378;24-Dec-2022
+147644;INF200KA1K87;-;SBI Capital Protection Oriented Fund - Series A (Plan 6) - Direct Plan - Growth;12.8078;24-Dec-2022
+147643;INF200KA1K79;-;SBI Capital Protection Oriented Fund - Series A (Plan 6) - Regular Plan - Growth;12.5734;24-Dec-2022
+147942;INF200KA1O67;-;SBI Capital Protection Oriented Fund - Series A (Plan 7) - Direct Plan - Growth;12.3298;24-Dec-2022
+147941;INF200KA1O59;-;SBI Capital Protection Oriented Fund - Series A (Plan 7) - Regular Plan - Growth;12.0946;24-Dec-2022
+148172;INF200KA1P25;-;SBI Capital Protection Oriented Fund - Series A (Plan 8) - Direct Plan - Growth;12.5784;24-Dec-2022
+148171;INF200KA1P17;-;SBI Capital Protection Oriented Fund - Series A (Plan 8) - Regular Plan - Growth;12.3458;24-Dec-2022
 144843;INF200KA1VL3;-;SBI Debt Fund Series - C - 23 (1100 Days) - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);12.6537;03-Sep-2021
 144841;INF200KA1VJ7;-;SBI Debt Fund Series - C - 23 (1100 Days) - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);12.5235;03-Sep-2021
 144842;INF200KA1VK5;-;SBI Debt Fund Series C - 23 - (1100 Days) - Direct Plan - Growth;12.6537;03-Sep-2021
@@ -11361,20 +11361,20 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 145232;INF200KA1VZ3;-;SBI Debt Fund Series C - 26 - (1125 Days) - Regular Plan - Growth;12.7184;02-Nov-2021
 145373;INF200KA12G0;-;SBI Debt Fund Series - C - 27 (391 Days) - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);13.2000;06-Apr-2022
 145374;INF200KA10G4;-;SBI Debt Fund Series - C - 27 (391 Days) - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);13.0686;06-Apr-2022
-145372;INF200KA11G2;-;SBI Debt Fund Series C - 27 - (391 Days) - Direct Plan - Growth;13.6029;23-Dec-2022
-145371;INF200KA19F7;-;SBI Debt Fund Series C - 27 - (391 Days) - Regular Plan - Growth;13.4386;23-Dec-2022
-145497;INF200KA16G1;-;SBI Debt Fund Series - C - 28 (386 Days) - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);13.4673;23-Dec-2022
+145372;INF200KA11G2;-;SBI Debt Fund Series C - 27 - (391 Days) - Direct Plan - Growth;13.6053;24-Dec-2022
+145371;INF200KA19F7;-;SBI Debt Fund Series C - 27 - (391 Days) - Regular Plan - Growth;13.4409;24-Dec-2022
+145497;INF200KA16G1;-;SBI Debt Fund Series - C - 28 (386 Days) - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);13.4697;24-Dec-2022
 145498;INF200KA14G6;-;SBI Debt Fund Series - C - 28 (386 Days) - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);12.8961;11-Apr-2022
-145499;INF200KA15G3;-;SBI Debt Fund Series C - 28 - (386 Days) - Direct Plan - Growth;13.4633;23-Dec-2022
-145500;INF200KA13G8;-;SBI Debt Fund Series C - 28 - (386 Days) - Regular Plan - Growth;13.2847;23-Dec-2022
+145499;INF200KA15G3;-;SBI Debt Fund Series C - 28 - (386 Days) - Direct Plan - Growth;13.4657;24-Dec-2022
+145500;INF200KA13G8;-;SBI Debt Fund Series C - 28 - (386 Days) - Regular Plan - Growth;13.2869;24-Dec-2022
 145645;INF200KA10H2;-;SBI Debt Fund Series - C - 30 (385 Days) - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);13.0545;13-Apr-2022
 145644;INF200KA18G7;-;SBI Debt Fund Series - C - 30 (385 Days) - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);12.9340;13-Apr-2022
-145647;INF200KA19G5;-;SBI Debt Fund Series C - 30 - (385 Days) - Direct Plan - Growth;13.4334;23-Dec-2022
-145646;INF200KA17G9;-;SBI Debt Fund Series C - 30 - (385 Days) - Regular Plan - Growth;13.2805;23-Dec-2022
-145744;INF200KA14H4;-;SBI Debt Fund Series - C - 32 (380 Days) - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);13.3714;23-Dec-2022
+145647;INF200KA19G5;-;SBI Debt Fund Series C - 30 - (385 Days) - Direct Plan - Growth;13.4358;24-Dec-2022
+145646;INF200KA17G9;-;SBI Debt Fund Series C - 30 - (385 Days) - Regular Plan - Growth;13.2827;24-Dec-2022
+145744;INF200KA14H4;-;SBI Debt Fund Series - C - 32 (380 Days) - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);13.3738;24-Dec-2022
 145743;INF200KA12H8;-;SBI Debt Fund Series - C - 32 (380 Days) - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);12.8432;18-Apr-2022
-145746;INF200KA13H6;-;SBI Debt Fund Series C - 32 - (380 Days) - Direct Plan - Growth;13.3699;23-Dec-2022
-145745;INF200KA11H0;-;SBI Debt Fund Series C - 32 - (380 Days) - Regular Plan - Growth;13.2116;23-Dec-2022
+145746;INF200KA13H6;-;SBI Debt Fund Series C - 32 - (380 Days) - Direct Plan - Growth;13.3723;24-Dec-2022
+145745;INF200KA11H0;-;SBI Debt Fund Series C - 32 - (380 Days) - Regular Plan - Growth;13.2138;24-Dec-2022
 145858;INF200KA1XN5;-;SBI Debt Fund Series - C - 33 (1216 Days) - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);12.9318;19-Apr-2022
 145857;INF200KA1XL9;-;SBI Debt Fund Series - C - 33 (1216 Days) - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);12.8109;19-Apr-2022
 145855;INF200KA1XM7;-;SBI Debt Fund Series C - 33 (1216 Days) - Direct Plan - Growth;12.9318;19-Apr-2022
@@ -11383,14 +11383,14 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 145950;INF200KA1XP0;-;SBI Debt Fund Series - C - 34 (1211 Days) - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);12.7542;25-Apr-2022
 145947;INF200KA1XQ8;-;SBI DEBT FUND SERIES C - 34 (1211 DAYS) - DIRECT PLAN - GROWTH;12.8817;25-Apr-2022
 145949;INF200KA1XO3;-;SBI DEBT FUND SERIES C - 34 (1211 DAYS) - REGULAR PLAN - GROWTH;12.7543;25-Apr-2022
-145988;INF200KA18J1;-;SBI Debt Fund Series - C - 35 (376 Days) - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);13.2965;23-Dec-2022
-145990;INF200KA16J5;-;SBI Debt Fund Series - C - 35 (376 Days) - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);13.1662;23-Dec-2022
-145987;INF200KA17J3;-;SBI Debt Fund Series C - 35 (376 Days) - Direct Plan - Growth;13.2955;23-Dec-2022
-145989;INF200KA15J7;-;SBI Debt Fund Series C - 35 (376 Days) - Regular Plan - Growth;13.1649;23-Dec-2022
-146175;INF200KA16K3;-;SBI Debt Fund Series - C - 38 (389 Days) - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);13.1760;23-Dec-2022
-146176;INF200KA14K8;-;SBI Debt Fund Series - C - 38 (389 Days) - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);13.0449;23-Dec-2022
-146174;INF200KA15K5;-;SBI Debt Fund Series C - 38 (389 Days) - Direct Plan - Growth;13.1722;23-Dec-2022
-146173;INF200KA13K0;-;SBI Debt Fund Series C - 38 (389 Days) - Regular Plan - Growth;13.0447;23-Dec-2022
+145988;INF200KA18J1;-;SBI Debt Fund Series - C - 35 (376 Days) - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);13.2989;24-Dec-2022
+145990;INF200KA16J5;-;SBI Debt Fund Series - C - 35 (376 Days) - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);13.1685;24-Dec-2022
+145987;INF200KA17J3;-;SBI Debt Fund Series C - 35 (376 Days) - Direct Plan - Growth;13.2979;24-Dec-2022
+145989;INF200KA15J7;-;SBI Debt Fund Series C - 35 (376 Days) - Regular Plan - Growth;13.1671;24-Dec-2022
+146175;INF200KA16K3;-;SBI Debt Fund Series - C - 38 (389 Days) - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);13.1783;24-Dec-2022
+146176;INF200KA14K8;-;SBI Debt Fund Series - C - 38 (389 Days) - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);13.0471;24-Dec-2022
+146174;INF200KA15K5;-;SBI Debt Fund Series C - 38 (389 Days) - Direct Plan - Growth;13.1745;24-Dec-2022
+146173;INF200KA13K0;-;SBI Debt Fund Series C - 38 (389 Days) - Regular Plan - Growth;13.0469;24-Dec-2022
 146286;INF200KA1YZ7;-;SBI Debt Fund Series - C - 40 (1177 Days) - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);12.7485;20-Apr-2022
 146287;INF200KA1YX2;-;SBI Debt Fund Series - C - 40 (1177 Days) - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);12.6463;20-Apr-2022
 146288;INF200KA1YW4;-;SBI Debt Fund Series C - 40 - (1177 Days) - Regular Plan - Growth;12.6463;20-Apr-2022
@@ -11399,38 +11399,38 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 146315;INF200KA1ZB5;-;SBI Debt Fund Series - C - 41 (1178 Days) - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);12.6680;27-Apr-2022
 146312;INF200KA1ZC3;-;SBI Debt Fund Series C - 41 (1178 Days) - Direct Plan - Growth;12.7704;27-Apr-2022
 146314;INF200KA1ZA7;-;SBI Debt Fund Series C - 41 (1178 Days) - Regular Plan - Growth;12.6680;27-Apr-2022
-146368;INF200KA10J8;-;SBI Debt Fund Series - C - 43 (384 Days) - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);13.1968;23-Dec-2022
-146366;INF200KA18I3;-;SBI Debt Fund Series - C - 43 (384 Days) - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);13.0703;23-Dec-2022
-146367;INF200KA19I1;-;SBI Debt Fund Series C - 43 (384 Days) - Direct Plan - Growth;13.1971;23-Dec-2022
-146369;INF200KA17I5;-;SBI Debt Fund Series C - 43 (384 Days) - Regular Plan - Growth;13.0703;23-Dec-2022
-146494;INF200KA14J0;-;SBI Debt Fund Series - C - 44 (378 Days) - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);13.1999;23-Dec-2022
-146496;INF200KA12J4;-;SBI Debt Fund Series - C - 44 (378 Days) - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);13.0740;23-Dec-2022
-146495;INF200KA13J2;-;SBI Debt Fund Series C - 44 (378 Days) - Direct Plan - Growth;13.1992;23-Dec-2022
-146493;INF200KA11J6;-;SBI Debt Fund Series C - 44 (378 Days) - Regular Plan - Growth;13.0741;23-Dec-2022
-146591;INF200KA12K2;-;SBI Debt Fund Series - C - 46 (376 Days) - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);13.0569;23-Dec-2022
-146593;INF200KA10K6;-;SBI Debt Fund Series - C - 46 (376 Days) - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);12.9335;23-Dec-2022
-146592;INF200KA11K4;-;SBI Debt Fund Series C - 46 (376 Days) - Direct Plan- Growth;13.0587;23-Dec-2022
-146590;INF200KA19J9;-;SBI Debt Fund Series C - 46 (376 Days) - Regular Plan - Growth;12.9335;23-Dec-2022
-146656;INF200KA19K7;-;SBI Debt Fund Series C - 48 (385 Days) - Direct Plan - Growth;13.0827;23-Dec-2022
-146658;INF200KA10L4;-;SBI Debt Fund Series C - 48 (385 Days) - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);13.0823;23-Dec-2022
-146655;INF200KA17K1;-;SBI Debt Fund Series C - 48 (385 Days) - Regular Plan - Growth;12.9589;23-Dec-2022
-146657;INF200KA18K9;-;SBI Debt Fund Series C - 48 (385 Days) - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);12.9589;23-Dec-2022
-146766;INF200KA14L6;-;SBI Debt Fund Series - C - 49 (390 Days) - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);13.0304;23-Dec-2022
-146767;INF200KA12L0;-;SBI Debt Fund Series - C - 49 (390 Days) - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);12.9036;23-Dec-2022
-146765;INF200KA13L8;-;SBI Debt Fund Series C - 49 (390 Days) - Direct Plan - Growth;13.0307;23-Dec-2022
-146768;INF200KA11L2;-;SBI Debt Fund Series C - 49 (390 Days) - Regular Plan - Growth;12.9082;23-Dec-2022
-146879;INF200KA18L7;-;SBI Debt Fund Series - C - 50 (383 Days) - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);12.9655;23-Dec-2022
-146880;INF200KA16L1;-;SBI Debt Fund Series - C - 50 (383 Days) - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);12.8440;23-Dec-2022
-146878;INF200KA17L9;-;SBI Debt Fund Series C - 50 (383 Days) - Direct Plan - Growth;12.9654;23-Dec-2022
-146877;INF200KA15L3;-;SBI Debt Fund Series C - 50 (383 Days) - Regular Plan - Growth;12.8443;23-Dec-2022
+146368;INF200KA10J8;-;SBI Debt Fund Series - C - 43 (384 Days) - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);13.1991;24-Dec-2022
+146366;INF200KA18I3;-;SBI Debt Fund Series - C - 43 (384 Days) - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);13.0725;24-Dec-2022
+146367;INF200KA19I1;-;SBI Debt Fund Series C - 43 (384 Days) - Direct Plan - Growth;13.1995;24-Dec-2022
+146369;INF200KA17I5;-;SBI Debt Fund Series C - 43 (384 Days) - Regular Plan - Growth;13.0725;24-Dec-2022
+146494;INF200KA14J0;-;SBI Debt Fund Series - C - 44 (378 Days) - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);13.2023;24-Dec-2022
+146496;INF200KA12J4;-;SBI Debt Fund Series - C - 44 (378 Days) - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);13.0762;24-Dec-2022
+146495;INF200KA13J2;-;SBI Debt Fund Series C - 44 (378 Days) - Direct Plan - Growth;13.2016;24-Dec-2022
+146493;INF200KA11J6;-;SBI Debt Fund Series C - 44 (378 Days) - Regular Plan - Growth;13.0763;24-Dec-2022
+146591;INF200KA12K2;-;SBI Debt Fund Series - C - 46 (376 Days) - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);13.0592;24-Dec-2022
+146593;INF200KA10K6;-;SBI Debt Fund Series - C - 46 (376 Days) - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);12.9357;24-Dec-2022
+146592;INF200KA11K4;-;SBI Debt Fund Series C - 46 (376 Days) - Direct Plan- Growth;13.0610;24-Dec-2022
+146590;INF200KA19J9;-;SBI Debt Fund Series C - 46 (376 Days) - Regular Plan - Growth;12.9357;24-Dec-2022
+146656;INF200KA19K7;-;SBI Debt Fund Series C - 48 (385 Days) - Direct Plan - Growth;13.0850;24-Dec-2022
+146658;INF200KA10L4;-;SBI Debt Fund Series C - 48 (385 Days) - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);13.0846;24-Dec-2022
+146655;INF200KA17K1;-;SBI Debt Fund Series C - 48 (385 Days) - Regular Plan - Growth;12.9611;24-Dec-2022
+146657;INF200KA18K9;-;SBI Debt Fund Series C - 48 (385 Days) - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);12.9611;24-Dec-2022
+146766;INF200KA14L6;-;SBI Debt Fund Series - C - 49 (390 Days) - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);13.0327;24-Dec-2022
+146767;INF200KA12L0;-;SBI Debt Fund Series - C - 49 (390 Days) - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);12.9058;24-Dec-2022
+146765;INF200KA13L8;-;SBI Debt Fund Series C - 49 (390 Days) - Direct Plan - Growth;13.0330;24-Dec-2022
+146768;INF200KA11L2;-;SBI Debt Fund Series C - 49 (390 Days) - Regular Plan - Growth;12.9104;24-Dec-2022
+146879;INF200KA18L7;-;SBI Debt Fund Series - C - 50 (383 Days) - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);12.9678;24-Dec-2022
+146880;INF200KA16L1;-;SBI Debt Fund Series - C - 50 (383 Days) - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);12.8462;24-Dec-2022
+146878;INF200KA17L9;-;SBI Debt Fund Series C - 50 (383 Days) - Direct Plan - Growth;12.9677;24-Dec-2022
+146877;INF200KA15L3;-;SBI Debt Fund Series C - 50 (383 Days) - Regular Plan - Growth;12.8465;24-Dec-2022
 145160;INF200KA1VY6;-;SBI Dual Advantage Fund - Series XXX - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);13.4198;27-Dec-2021
 145159;INF200KA1VW0;-;SBI Dual Advantage Fund - Series XXX - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);13.2033;27-Dec-2021
 145161;INF200KA1VX8;-;SBI Dual Advantage Fund Series XXX - Direct Plan - Growth;13.4198;27-Dec-2021
 145162;INF200KA1VV2;-;SBI Dual Advantage Fund Series XXX - Regular Plan - Growth;13.2033;27-Dec-2021
-146974;INF200KA1D03;-;SBI Fixed Maturity Plan (FMP) - Series 1 (3668 Days) - Direct Plan - Growth;13.4484;23-Dec-2022
-146975;INF200KA1D11;-;SBI Fixed Maturity Plan (FMP) - Series 1 (3668 Days) - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);13.4503;23-Dec-2022
-146976;INF200KA1C87;-;SBI Fixed Maturity Plan (FMP) - Series 1 (3668 Days) - Regular Plan - Growth;13.3232;23-Dec-2022
-146973;INF200KA1C95;-;SBI Fixed Maturity Plan (FMP) - Series 1 (3668 Days) - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);13.3231;23-Dec-2022
+146974;INF200KA1D03;-;SBI Fixed Maturity Plan (FMP) - Series 1 (3668 Days) - Direct Plan - Growth;13.4511;24-Dec-2022
+146975;INF200KA1D11;-;SBI Fixed Maturity Plan (FMP) - Series 1 (3668 Days) - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);13.4529;24-Dec-2022
+146976;INF200KA1C87;-;SBI Fixed Maturity Plan (FMP) - Series 1 (3668 Days) - Regular Plan - Growth;13.3257;24-Dec-2022
+146973;INF200KA1C95;-;SBI Fixed Maturity Plan (FMP) - Series 1 (3668 Days) - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);13.3256;24-Dec-2022
 147467;INF200KA1H09;-;SBI Fixed Maturity Plan (FMP) - Series 10 (1178 Days) - Direct Plan - Growth;12.5189;21-Sep-2022
 147464;INF200KA1H17;-;SBI Fixed Maturity Plan (FMP) - Series 10 (1178 Days) - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);12.5189;21-Sep-2022
 147465;INF200KA1G83;-;SBI Fixed Maturity Plan (FMP) - Series 10 (1178 Days) - Regular Plan - Growth;12.4183;21-Sep-2022
@@ -11439,10 +11439,10 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 147487;INF200KA1H58;-;SBI Fixed Maturity Plan (FMP) - Series 11 (1178 Days) - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);12.4971;28-Sep-2022
 147484;INF200KA1H25;-;SBI Fixed Maturity Plan (FMP) - Series 11 (1178 Days) - Regular Plan - Growth;12.3969;28-Sep-2022
 147485;INF200KA1H33;-;SBI Fixed Maturity Plan (FMP) - Series 11 (1178 Days) - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);12.3969;28-Sep-2022
-147560;INF200KA13N4;-;SBI Fixed Maturity Plan (FMP) - Series 14 (384 Days) - Direct Plan - Growth;12.5044;23-Dec-2022
-147561;INF200KA14N2;-;SBI Fixed Maturity Plan (FMP) - Series 14 (384 Days) - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);12.5052;23-Dec-2022
-147559;INF200KA11N8;-;SBI Fixed Maturity Plan (FMP) - Series 14 (384 Days) - Regular Plan - Growth;12.3984;23-Dec-2022
-147562;INF200KA12N6;-;SBI Fixed Maturity Plan (FMP) - Series 14 (384 Days) - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);12.4054;23-Dec-2022
+147560;INF200KA13N4;-;SBI Fixed Maturity Plan (FMP) - Series 14 (384 Days) - Direct Plan - Growth;12.5066;24-Dec-2022
+147561;INF200KA14N2;-;SBI Fixed Maturity Plan (FMP) - Series 14 (384 Days) - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);12.5074;24-Dec-2022
+147559;INF200KA11N8;-;SBI Fixed Maturity Plan (FMP) - Series 14 (384 Days) - Regular Plan - Growth;12.4005;24-Dec-2022
+147562;INF200KA12N6;-;SBI Fixed Maturity Plan (FMP) - Series 14 (384 Days) - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);12.4075;24-Dec-2022
 147582;INF200KA1J07;-;SBI Fixed Maturity Plan (FMP) - Series 15 (1123 Days) - Direct Plan - Growth;12.3053;01-Sep-2022
 147583;INF200KA1J15;-;SBI Fixed Maturity Plan (FMP) - Series 15 (1123 Days) - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);12.3053;01-Sep-2022
 147580;INF200KA1I81;-;SBI Fixed Maturity Plan (FMP) - Series 15 (1123 Days) - Regular Plan - Growth;12.2111;01-Sep-2022
@@ -11491,146 +11491,146 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 147793;INF200KA1O00;-;SBI Fixed Maturity Plan (FMP) - Series 26 (1112 Days) - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);12.1485;19-Dec-2022
 147790;INF200KA1N76;-;SBI Fixed Maturity Plan (FMP) - Series 26 (1112 Days) - Regular Plan - Growth;12.0565;19-Dec-2022
 147791;INF200KA1N84;-;SBI Fixed Maturity Plan (FMP) - Series 26 (1112 Days) - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);12.0565;19-Dec-2022
-147873;INF200KA1O34;-;SBI Fixed Maturity Plan (FMP) - Series 27 (1203 Days) - Direct Plan - Growth;12.1122;23-Dec-2022
-147871;INF200KA1O42;-;SBI Fixed Maturity Plan (FMP) - Series 27 (1203 Days) - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);12.1122;23-Dec-2022
-147872;INF200KA1O18;-;SBI Fixed Maturity Plan (FMP) - Series 27 (1203 Days) - Regular Plan - Growth;12.0229;23-Dec-2022
-147870;INF200KA1O26;-;SBI Fixed Maturity Plan (FMP) - Series 27 (1203 Days) - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);12.0229;23-Dec-2022
-148056;INF200KA1O91;-;SBI Fixed Maturity Plan (FMP) - Series 28 (1163 Days) - Direct Plan - Growth;11.9078;23-Dec-2022
-148058;INF200KA1P09;-;SBI Fixed Maturity Plan (FMP) - Series 28 (1163 Days) - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);11.9078;23-Dec-2022
-148057;INF200KA1O75;-;SBI Fixed Maturity Plan (FMP) - Series 28 (1163 Days) - Regular Plan - Growth;11.8233;23-Dec-2022
-148055;INF200KA1O83;-;SBI Fixed Maturity Plan (FMP) - Series 28 (1163 Days) - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);11.8233;23-Dec-2022
+147873;INF200KA1O34;-;SBI Fixed Maturity Plan (FMP) - Series 27 (1203 Days) - Direct Plan - Growth;12.1144;24-Dec-2022
+147871;INF200KA1O42;-;SBI Fixed Maturity Plan (FMP) - Series 27 (1203 Days) - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);12.1144;24-Dec-2022
+147872;INF200KA1O18;-;SBI Fixed Maturity Plan (FMP) - Series 27 (1203 Days) - Regular Plan - Growth;12.0250;24-Dec-2022
+147870;INF200KA1O26;-;SBI Fixed Maturity Plan (FMP) - Series 27 (1203 Days) - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);12.0250;24-Dec-2022
+148056;INF200KA1O91;-;SBI Fixed Maturity Plan (FMP) - Series 28 (1163 Days) - Direct Plan - Growth;11.9100;24-Dec-2022
+148058;INF200KA1P09;-;SBI Fixed Maturity Plan (FMP) - Series 28 (1163 Days) - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);11.9100;24-Dec-2022
+148057;INF200KA1O75;-;SBI Fixed Maturity Plan (FMP) - Series 28 (1163 Days) - Regular Plan - Growth;11.8254;24-Dec-2022
+148055;INF200KA1O83;-;SBI Fixed Maturity Plan (FMP) - Series 28 (1163 Days) - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);11.8253;24-Dec-2022
 147135;INF200KA1D86;-;SBI Fixed Maturity Plan (FMP) - Series 3 (1179 Days) - Direct Plan - Growth;12.6642;14-Jul-2022
 147136;INF200KA1D94;-;SBI Fixed Maturity Plan (FMP) - Series 3 (1179 Days) - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);12.6642;14-Jul-2022
 147133;INF200KA1D60;-;SBI Fixed Maturity Plan (FMP) - Series 3 (1179 Days) - Regular Plan - Growth;12.5624;14-Jul-2022
 147134;INF200KA1D78;-;SBI Fixed Maturity Plan (FMP) - Series 3 (1179 Days) - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);12.5624;14-Jul-2022
-148193;INF200KA1P58;-;SBI Fixed Maturity Plan (FMP) - Series 31 (1160 Days) - Direct Plan - Growth;11.9877;23-Dec-2022
-148194;INF200KA1P66;-;SBI Fixed Maturity Plan (FMP) - Series 31 (1160 Days) - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);11.9877;23-Dec-2022
-148195;INF200KA1P33;-;SBI Fixed Maturity Plan (FMP) - Series 31 (1160 Days) - Regular Plan - Growth;11.9048;23-Dec-2022
-148192;INF200KA1P41;-;SBI Fixed Maturity Plan (FMP) - Series 31 (1160 Days) - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);11.9048;23-Dec-2022
-148369;INF200KA1P90;-;SBI Fixed Maturity Plan (FMP) - Series 32 (1140 Days) - Direct Plan - Growth;11.5582;23-Dec-2022
-148368;INF200KA1Q08;-;SBI Fixed Maturity Plan (FMP) - Series 32 (1140 Days) - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);11.5582;23-Dec-2022
-148367;INF200KA1P74;-;SBI Fixed Maturity Plan (FMP) - Series 32 (1140 Days) - Regular Plan - Growth;11.4809;23-Dec-2022
-148370;INF200KA1P82;-;SBI Fixed Maturity Plan (FMP) - Series 32 (1140 Days) - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);11.4809;23-Dec-2022
-148385;INF200KA1Q32;-;SBI Fixed Maturity Plan (FMP) - Series 33 (1128 Days) - Direct Plan - Growth;11.4259;23-Dec-2022
-148386;INF200KA1Q40;-;SBI Fixed Maturity Plan (FMP) - Series 33 (1128 Days) - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);11.4250;23-Dec-2022
-148383;INF200KA1Q16;-;SBI Fixed Maturity Plan (FMP) - Series 33 (1128 Days) - Regular Plan - Growth;11.3503;23-Dec-2022
-148384;INF200KA1Q24;-;SBI Fixed Maturity Plan (FMP) - Series 33 (1128 Days) - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);11.3503;23-Dec-2022
-148387;INF200KA1Q73;-;SBI Fixed Maturity Plan (FMP) - Series 34 (3682 Days) - Direct Plan - Growth;11.3178;23-Dec-2022
-148388;INF200KA1Q81;-;SBI Fixed Maturity Plan (FMP) - Series 34 (3682 Days) - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);11.3178;23-Dec-2022
-148389;INF200KA1Q57;-;SBI Fixed Maturity Plan (FMP) - Series 34 (3682 Days) - Regular Plan - Growth;11.2434;23-Dec-2022
-148390;INF200KA1Q65;-;SBI Fixed Maturity Plan (FMP) - Series 34 (3682 Days) - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);11.2434;23-Dec-2022
-148827;INF200KA1U77;-;SBI Fixed Maturity Plan (FMP) - Series 41 (1498 Days) - Direct Plan - Growth;10.7453;23-Dec-2022
-148825;INF200KA1U51;-;SBI Fixed Maturity Plan (FMP) - Series 41 (1498 Days) - Regular Plan - Growth;10.7078;23-Dec-2022
-148828;INF200KA1U85;-;SBI Fixed Maturity Plan (FMP) - Series 41 (1498 Days) Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);10.7453;23-Dec-2022
-148826;INF200KA1U69;-;SBI Fixed Maturity Plan (FMP) - Series 41 (1498 Days) Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);10.7078;23-Dec-2022
-149043;INF200KA1X41;-;SBI Fixed Maturity Plan (FMP) - Series 46 (1850 Days) - Direct Plan - Growth;10.6174;23-Dec-2022
-149044;INF200KA1X58;-;SBI Fixed Maturity Plan (FMP) - Series 46 (1850 Days) - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);10.6174;23-Dec-2022
-149045;INF200KA1X25;-;SBI Fixed Maturity Plan (FMP) - Series 46 (1850 Days) - Regular Plan - Growth;10.5910;23-Dec-2022
-149042;INF200KA1X33;-;SBI Fixed Maturity Plan (FMP) - Series 46 (1850 Days) - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);10.5910;23-Dec-2022
-149082;INF200KA1X82;-;SBI Fixed Maturity Plan (FMP) Series 47 (1434 Days) - Direct Plan - Growth;10.5067;23-Dec-2022
-149081;INF200KA1X90;-;SBI Fixed Maturity Plan (FMP) Series 47 (1434 Days) - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);10.5067;23-Dec-2022
-149083;INF200KA1X66;-;SBI Fixed Maturity Plan (FMP) Series 47 (1434 Days) - Regular Plan - Growth;10.4798;23-Dec-2022
-149084;INF200KA1X74;-;SBI Fixed Maturity Plan (FMP) Series 47 (1434 Days) - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);10.4798;23-Dec-2022
-149111;INF200KA1Y24;-;SBI Fixed Maturity Plan (FMP) - Series 48 (1458 Days) - Direct Plan - Growth;10.4762;23-Dec-2022
-149108;INF200KA1Y32;-;SBI Fixed Maturity Plan (FMP) - Series 48 (1458 Days) - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);10.4763;23-Dec-2022
-149109;INF200KA1Y08;-;SBI Fixed Maturity Plan (FMP) - Series 48 (1458 Days) - Regular Plan - Growth;10.4501;23-Dec-2022
-149110;INF200KA1Y16;-;SBI Fixed Maturity Plan (FMP) - Series 48 (1458 Days) - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);10.4501;23-Dec-2022
-149147;INF200KA1Z23;-;SBI Fixed Maturity Plan (FMP) - Series 49 (1823 Days) - Direct Plan - Growth;10.4533;23-Dec-2022
-149144;INF200KA1Z31;-;SBI Fixed Maturity Plan (FMP) - Series 49 (1823 Days) - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);10.4533;23-Dec-2022
-149145;INF200KA1Z07;-;SBI Fixed Maturity Plan (FMP) - Series 49 (1823 Days) - Regular Plan - Growth;10.4283;23-Dec-2022
-149146;INF200KA1Z15;-;SBI Fixed Maturity Plan (FMP) - Series 49 (1823 Days) - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);10.4283;23-Dec-2022
-149174;INF200KA1Z64;-;SBI Fixed Maturity Plan (FMP) - Series 50 (1843 Days) - Direct Plan - Growth;10.3508;23-Dec-2022
-149175;INF200KA1Z72;-;SBI Fixed Maturity Plan (FMP) - Series 50 (1843 Days) - Direct Plan - Income Distribution Capital Withdrawal Option (IDCW);10.3508;23-Dec-2022
-149172;INF200KA1Z49;-;SBI Fixed Maturity Plan (FMP) - Series 50 (1843 Days) - Regular Plan - Growth;10.3254;23-Dec-2022
-149173;INF200KA1Z56;-;SBI Fixed Maturity Plan (FMP) - Series 50 (1843 Days) - Regular Plan -Income Distribution Capital Withdrawal Option (IDCW);10.3254;23-Dec-2022
-149195;INF200KA10A7;-;SBI Fixed Maturity Plan (FMP) - Series 51 (1846 Days) - Direct Plan - Growth;10.3317;23-Dec-2022
-149194;INF200KA11A5;-;SBI Fixed Maturity Plan (FMP) - Series 51 (1846 Days) - Direct Plan - Income Distribution Capital Withdrawal Option (IDCW);10.3320;23-Dec-2022
-149197;INF200KA1Z80;-;SBI Fixed Maturity Plan (FMP) - Series 51 (1846 Days) - Regular Plan - Growth;10.3094;23-Dec-2022
-149196;INF200KA1Z98;-;SBI Fixed Maturity Plan (FMP) - Series 51 (1846 Days) - Regular Plan - Income Distribution Capital Withdrawal Option (IDCW);10.3094;23-Dec-2022
-149232;INF200KA14A9;-;SBI Fixed Maturity Plan (FMP) - Series 52 (1848 Days) - Direct Plan - Growth;10.3209;23-Dec-2022
-149234;INF200KA15A6;-;SBI Fixed Maturity Plan (FMP) - Series 52 (1848 Days) - Direct Plan - Income Distribution Cum Withdrawal (IDCW);10.3209;23-Dec-2022
-149235;INF200KA12A3;-;SBI Fixed Maturity Plan (FMP) - Series 52 (1848 Days) - Regular Plan - Growth;10.3005;23-Dec-2022
-149233;INF200KA13A1;-;SBI Fixed Maturity Plan (FMP) - Series 52 (1848 Days) - Regular Plan - Income Distribution Cum Withdrawal (IDCW);10.3005;23-Dec-2022
-149279;INF200KA18A0;-;SBI Fixed Maturity Plan (FMP) - Series 53 (1839 Days) - Direct Plan - Growth;10.3216;23-Dec-2022
-149277;INF200KA19A8;-;SBI Fixed Maturity Plan (FMP) - Series 53 (1839 Days) - Direct Plan - Income Distribution Cum Withdrawal Option (IDCW);10.3216;23-Dec-2022
-149278;INF200KA16A4;-;SBI Fixed Maturity Plan (FMP) - Series 53 (1839 Days) - Regular Plan - Growth;10.3036;23-Dec-2022
-149280;INF200KA17A2;-;SBI Fixed Maturity Plan (FMP) - Series 53 (1839 Days) - Regular Plan - Income  Distribution Cum Withdrawal Option (IDCW);10.3037;23-Dec-2022
-149307;INF200KA12B1;-;SBI Fixed Maturity Plan (FMP) - Series 54 (1842 Days) - Direct Plan - Growth;10.2994;23-Dec-2022
-149309;INF200KA13B9;-;SBI Fixed Maturity Plan (FMP) - Series 54 (1842 Days) - Direct Plan - Income Distribution Cum Withdrawal Option (IDCW);10.2996;23-Dec-2022
-149308;INF200KA10B5;-;SBI Fixed Maturity Plan (FMP) - Series 54 (1842 Days) - Regular Plan - Growth;10.2820;23-Dec-2022
-149306;INF200KA11B3;-;SBI Fixed Maturity Plan (FMP) - Series 54 (1842 Days) - Regular Plan - Income Distribution Cum Capital Withdrawal Option (IDCW);10.2820;23-Dec-2022
-149345;INF200KA16B2;-;SBI Fixed Maturity Plan (FMP) - Series 55 (1849 Days) - Direct Plan - Growth;10.2821;23-Dec-2022
-149348;INF200KA17B0;-;SBI Fixed Maturity Plan (FMP) - Series 55 (1849 Days) - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);10.2821;23-Dec-2022
-149347;INF200KA14B7;-;SBI Fixed Maturity Plan (FMP) - Series 55 (1849 Days) - Regular Plan - Growth;10.2654;23-Dec-2022
-149346;INF200KA15B4;-;SBI Fixed Maturity Plan (FMP) - Series 55 (1849 Days) - Regular Plan - Income Distribution Cum Capital Withdrawal Option (IDCW);10.2654;23-Dec-2022
-149420;INF200KA10C3;-;SBI Fixed Maturity Plan (FMP) - Series 56 (1232 Days) - Direct Plan - Growth;10.2279;23-Dec-2022
-149423;INF200KA11C1;-;SBI Fixed Maturity Plan (FMP) - Series 56 (1232 Days) - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);10.2279;23-Dec-2022
-149422;INF200KA18B8;-;SBI Fixed Maturity Plan (FMP) - Series 56 (1232 Days) - Regular Plan - Growth;10.2122;23-Dec-2022
-149421;INF200KA19B6;-;SBI Fixed Maturity Plan (FMP) - Series 56 (1232 Days) - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);10.2122;23-Dec-2022
-149431;INF200KA14C5;-;SBI Fixed Maturity Plan (FMP) - Series 57 (1835 Days) - Direct Plan - Growth;10.2027;23-Dec-2022
-149430;INF200KA15C2;-;SBI Fixed Maturity Plan (FMP) - Series 57 (1835 Days) - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);10.2027;23-Dec-2022
-149432;INF200KA12C9;-;SBI Fixed Maturity Plan (FMP) - Series 57 (1835 Days) - Regular Plan - Growth;10.1869;23-Dec-2022
-149433;INF200KA13C7;-;SBI Fixed Maturity Plan (FMP) - Series 57 (1835 Days) - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);10.1870;23-Dec-2022
-149460;INF200KA18C6;-;SBI Fixed Maturity Plan (FMP) - Series 58 (1842 Days) - Direct Plan - Growth;10.2914;23-Dec-2022
-149461;INF200KA19C4;-;SBI Fixed Maturity Plan (FMP) - Series 58 (1842 Days) - Direct Plan - Income Distribution cum Capital withdrawal option (IDCW);10.2914;23-Dec-2022
-149459;INF200KA16C0;-;SBI Fixed Maturity Plan (FMP) - Series 58 (1842 Days) - Regular Plan - Growth;10.2765;23-Dec-2022
-149462;INF200KA17C8;-;SBI Fixed Maturity Plan (FMP) - Series 58 (1842 Days) - Regular Plan - Income Distribution cum Capital withdrawal option (IDCW);10.2765;23-Dec-2022
-149822;INF200KA19D2;-;SBI Fixed Maturity Plan (FMP) - Series 59 (1618 Days) - Direct Plan - Growth;10.2404;23-Dec-2022
-149823;INF200KA10E9;-;SBI Fixed Maturity Plan (FMP) - Series 59 (1618 Days) - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);10.2397;23-Dec-2022
-149825;INF200KA17D6;-;SBI Fixed Maturity Plan (FMP) - Series 59 (1618 Days) - Regular Plan - Growth;10.2266;23-Dec-2022
-149824;INF200KA18D4;-;SBI Fixed Maturity Plan (FMP) - Series 59 (1618 Days) - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);10.2266;23-Dec-2022
-147248;INF200KA1F27;-;SBI Fixed Maturity Plan (FMP) - Series 6 (3668 Days) - Direct Plan - Growth;13.1280;23-Dec-2022
-147249;INF200KA1F35;-;SBI Fixed Maturity Plan (FMP) - Series 6 (3668 Days) - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);13.1281;23-Dec-2022
-147247;INF200KA1F01;-;SBI Fixed Maturity Plan (FMP) - Series 6 (3668 Days) - Regular Plan - Growth;13.0101;23-Dec-2022
-147250;INF200KA1F19;-;SBI Fixed Maturity Plan (FMP) - Series 6 (3668 Days) - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);13.0118;23-Dec-2022
-149878;INF200KA13E3;-;SBI Fixed Maturity Plan (FMP) - Series 60 (1878 Days) - Direct Plan - Growth;10.1877;23-Dec-2022
-149879;INF200KA14E1;-;SBI Fixed Maturity Plan (FMP) - Series 60 (1878 Days) - Direct Plan - Income Distribution cum Capital Withdrwal Option (IDCW);10.1881;23-Dec-2022
-149876;INF200KA11E7;-;SBI Fixed Maturity Plan (FMP) - Series 60 (1878 Days) - Regular Plan - Growth;10.1746;23-Dec-2022
-149877;INF200KA12E5;-;SBI Fixed Maturity Plan (FMP) - Series 60 (1878 Days) - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);10.1746;23-Dec-2022
-149993;INF200KA13F0;-;SBI Fixed Maturity Plan (FMP)- Series 61 (1927 Days)- Direct Plan- Growth option;10.2196;23-Dec-2022
-149995;INF200KA14F8;-;SBI Fixed Maturity Plan (FMP)- Series 61 (1927 Days)- Direct Plan- Income Distribution Cum Capital withdrawal option;10.2196;23-Dec-2022
-149994;INF200KA11F4;-;SBI Fixed Maturity Plan (FMP)- Series 61 (1927 Days)- Regular Plan- Growth option;10.2079;23-Dec-2022
-149992;INF200KA12F2;-;SBI Fixed Maturity Plan (FMP)- Series 61 (1927 Days)- Regular Plan- Income Distribution Cum Capital withdrawal option;10.2079;23-Dec-2022
+148193;INF200KA1P58;-;SBI Fixed Maturity Plan (FMP) - Series 31 (1160 Days) - Direct Plan - Growth;11.9899;24-Dec-2022
+148194;INF200KA1P66;-;SBI Fixed Maturity Plan (FMP) - Series 31 (1160 Days) - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);11.9899;24-Dec-2022
+148195;INF200KA1P33;-;SBI Fixed Maturity Plan (FMP) - Series 31 (1160 Days) - Regular Plan - Growth;11.9069;24-Dec-2022
+148192;INF200KA1P41;-;SBI Fixed Maturity Plan (FMP) - Series 31 (1160 Days) - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);11.9069;24-Dec-2022
+148369;INF200KA1P90;-;SBI Fixed Maturity Plan (FMP) - Series 32 (1140 Days) - Direct Plan - Growth;11.5603;24-Dec-2022
+148368;INF200KA1Q08;-;SBI Fixed Maturity Plan (FMP) - Series 32 (1140 Days) - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);11.5603;24-Dec-2022
+148367;INF200KA1P74;-;SBI Fixed Maturity Plan (FMP) - Series 32 (1140 Days) - Regular Plan - Growth;11.4829;24-Dec-2022
+148370;INF200KA1P82;-;SBI Fixed Maturity Plan (FMP) - Series 32 (1140 Days) - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);11.4829;24-Dec-2022
+148385;INF200KA1Q32;-;SBI Fixed Maturity Plan (FMP) - Series 33 (1128 Days) - Direct Plan - Growth;11.4279;24-Dec-2022
+148386;INF200KA1Q40;-;SBI Fixed Maturity Plan (FMP) - Series 33 (1128 Days) - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);11.4270;24-Dec-2022
+148383;INF200KA1Q16;-;SBI Fixed Maturity Plan (FMP) - Series 33 (1128 Days) - Regular Plan - Growth;11.3522;24-Dec-2022
+148384;INF200KA1Q24;-;SBI Fixed Maturity Plan (FMP) - Series 33 (1128 Days) - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);11.3522;24-Dec-2022
+148387;INF200KA1Q73;-;SBI Fixed Maturity Plan (FMP) - Series 34 (3682 Days) - Direct Plan - Growth;11.3200;24-Dec-2022
+148388;INF200KA1Q81;-;SBI Fixed Maturity Plan (FMP) - Series 34 (3682 Days) - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);11.3201;24-Dec-2022
+148389;INF200KA1Q57;-;SBI Fixed Maturity Plan (FMP) - Series 34 (3682 Days) - Regular Plan - Growth;11.2455;24-Dec-2022
+148390;INF200KA1Q65;-;SBI Fixed Maturity Plan (FMP) - Series 34 (3682 Days) - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);11.2456;24-Dec-2022
+148827;INF200KA1U77;-;SBI Fixed Maturity Plan (FMP) - Series 41 (1498 Days) - Direct Plan - Growth;10.7474;24-Dec-2022
+148825;INF200KA1U51;-;SBI Fixed Maturity Plan (FMP) - Series 41 (1498 Days) - Regular Plan - Growth;10.7098;24-Dec-2022
+148828;INF200KA1U85;-;SBI Fixed Maturity Plan (FMP) - Series 41 (1498 Days) Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);10.7474;24-Dec-2022
+148826;INF200KA1U69;-;SBI Fixed Maturity Plan (FMP) - Series 41 (1498 Days) Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);10.7098;24-Dec-2022
+149043;INF200KA1X41;-;SBI Fixed Maturity Plan (FMP) - Series 46 (1850 Days) - Direct Plan - Growth;10.6194;24-Dec-2022
+149044;INF200KA1X58;-;SBI Fixed Maturity Plan (FMP) - Series 46 (1850 Days) - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);10.6194;24-Dec-2022
+149045;INF200KA1X25;-;SBI Fixed Maturity Plan (FMP) - Series 46 (1850 Days) - Regular Plan - Growth;10.5929;24-Dec-2022
+149042;INF200KA1X33;-;SBI Fixed Maturity Plan (FMP) - Series 46 (1850 Days) - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);10.5930;24-Dec-2022
+149082;INF200KA1X82;-;SBI Fixed Maturity Plan (FMP) Series 47 (1434 Days) - Direct Plan - Growth;10.5086;24-Dec-2022
+149081;INF200KA1X90;-;SBI Fixed Maturity Plan (FMP) Series 47 (1434 Days) - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);10.5086;24-Dec-2022
+149083;INF200KA1X66;-;SBI Fixed Maturity Plan (FMP) Series 47 (1434 Days) - Regular Plan - Growth;10.4817;24-Dec-2022
+149084;INF200KA1X74;-;SBI Fixed Maturity Plan (FMP) Series 47 (1434 Days) - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);10.4817;24-Dec-2022
+149111;INF200KA1Y24;-;SBI Fixed Maturity Plan (FMP) - Series 48 (1458 Days) - Direct Plan - Growth;10.4783;24-Dec-2022
+149108;INF200KA1Y32;-;SBI Fixed Maturity Plan (FMP) - Series 48 (1458 Days) - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);10.4783;24-Dec-2022
+149109;INF200KA1Y08;-;SBI Fixed Maturity Plan (FMP) - Series 48 (1458 Days) - Regular Plan - Growth;10.4521;24-Dec-2022
+149110;INF200KA1Y16;-;SBI Fixed Maturity Plan (FMP) - Series 48 (1458 Days) - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);10.4521;24-Dec-2022
+149147;INF200KA1Z23;-;SBI Fixed Maturity Plan (FMP) - Series 49 (1823 Days) - Direct Plan - Growth;10.4554;24-Dec-2022
+149144;INF200KA1Z31;-;SBI Fixed Maturity Plan (FMP) - Series 49 (1823 Days) - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);10.4554;24-Dec-2022
+149145;INF200KA1Z07;-;SBI Fixed Maturity Plan (FMP) - Series 49 (1823 Days) - Regular Plan - Growth;10.4303;24-Dec-2022
+149146;INF200KA1Z15;-;SBI Fixed Maturity Plan (FMP) - Series 49 (1823 Days) - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);10.4303;24-Dec-2022
+149174;INF200KA1Z64;-;SBI Fixed Maturity Plan (FMP) - Series 50 (1843 Days) - Direct Plan - Growth;10.3528;24-Dec-2022
+149175;INF200KA1Z72;-;SBI Fixed Maturity Plan (FMP) - Series 50 (1843 Days) - Direct Plan - Income Distribution Capital Withdrawal Option (IDCW);10.3529;24-Dec-2022
+149172;INF200KA1Z49;-;SBI Fixed Maturity Plan (FMP) - Series 50 (1843 Days) - Regular Plan - Growth;10.3273;24-Dec-2022
+149173;INF200KA1Z56;-;SBI Fixed Maturity Plan (FMP) - Series 50 (1843 Days) - Regular Plan -Income Distribution Capital Withdrawal Option (IDCW);10.3273;24-Dec-2022
+149195;INF200KA10A7;-;SBI Fixed Maturity Plan (FMP) - Series 51 (1846 Days) - Direct Plan - Growth;10.3337;24-Dec-2022
+149194;INF200KA11A5;-;SBI Fixed Maturity Plan (FMP) - Series 51 (1846 Days) - Direct Plan - Income Distribution Capital Withdrawal Option (IDCW);10.3341;24-Dec-2022
+149197;INF200KA1Z80;-;SBI Fixed Maturity Plan (FMP) - Series 51 (1846 Days) - Regular Plan - Growth;10.3114;24-Dec-2022
+149196;INF200KA1Z98;-;SBI Fixed Maturity Plan (FMP) - Series 51 (1846 Days) - Regular Plan - Income Distribution Capital Withdrawal Option (IDCW);10.3114;24-Dec-2022
+149232;INF200KA14A9;-;SBI Fixed Maturity Plan (FMP) - Series 52 (1848 Days) - Direct Plan - Growth;10.3230;24-Dec-2022
+149234;INF200KA15A6;-;SBI Fixed Maturity Plan (FMP) - Series 52 (1848 Days) - Direct Plan - Income Distribution Cum Withdrawal (IDCW);10.3230;24-Dec-2022
+149235;INF200KA12A3;-;SBI Fixed Maturity Plan (FMP) - Series 52 (1848 Days) - Regular Plan - Growth;10.3025;24-Dec-2022
+149233;INF200KA13A1;-;SBI Fixed Maturity Plan (FMP) - Series 52 (1848 Days) - Regular Plan - Income Distribution Cum Withdrawal (IDCW);10.3025;24-Dec-2022
+149279;INF200KA18A0;-;SBI Fixed Maturity Plan (FMP) - Series 53 (1839 Days) - Direct Plan - Growth;10.3237;24-Dec-2022
+149277;INF200KA19A8;-;SBI Fixed Maturity Plan (FMP) - Series 53 (1839 Days) - Direct Plan - Income Distribution Cum Withdrawal Option (IDCW);10.3237;24-Dec-2022
+149278;INF200KA16A4;-;SBI Fixed Maturity Plan (FMP) - Series 53 (1839 Days) - Regular Plan - Growth;10.3056;24-Dec-2022
+149280;INF200KA17A2;-;SBI Fixed Maturity Plan (FMP) - Series 53 (1839 Days) - Regular Plan - Income  Distribution Cum Withdrawal Option (IDCW);10.3056;24-Dec-2022
+149307;INF200KA12B1;-;SBI Fixed Maturity Plan (FMP) - Series 54 (1842 Days) - Direct Plan - Growth;10.3014;24-Dec-2022
+149309;INF200KA13B9;-;SBI Fixed Maturity Plan (FMP) - Series 54 (1842 Days) - Direct Plan - Income Distribution Cum Withdrawal Option (IDCW);10.3016;24-Dec-2022
+149308;INF200KA10B5;-;SBI Fixed Maturity Plan (FMP) - Series 54 (1842 Days) - Regular Plan - Growth;10.2840;24-Dec-2022
+149306;INF200KA11B3;-;SBI Fixed Maturity Plan (FMP) - Series 54 (1842 Days) - Regular Plan - Income Distribution Cum Capital Withdrawal Option (IDCW);10.2840;24-Dec-2022
+149345;INF200KA16B2;-;SBI Fixed Maturity Plan (FMP) - Series 55 (1849 Days) - Direct Plan - Growth;10.2841;24-Dec-2022
+149348;INF200KA17B0;-;SBI Fixed Maturity Plan (FMP) - Series 55 (1849 Days) - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);10.2841;24-Dec-2022
+149347;INF200KA14B7;-;SBI Fixed Maturity Plan (FMP) - Series 55 (1849 Days) - Regular Plan - Growth;10.2674;24-Dec-2022
+149346;INF200KA15B4;-;SBI Fixed Maturity Plan (FMP) - Series 55 (1849 Days) - Regular Plan - Income Distribution Cum Capital Withdrawal Option (IDCW);10.2674;24-Dec-2022
+149420;INF200KA10C3;-;SBI Fixed Maturity Plan (FMP) - Series 56 (1232 Days) - Direct Plan - Growth;10.2299;24-Dec-2022
+149423;INF200KA11C1;-;SBI Fixed Maturity Plan (FMP) - Series 56 (1232 Days) - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);10.2299;24-Dec-2022
+149422;INF200KA18B8;-;SBI Fixed Maturity Plan (FMP) - Series 56 (1232 Days) - Regular Plan - Growth;10.2141;24-Dec-2022
+149421;INF200KA19B6;-;SBI Fixed Maturity Plan (FMP) - Series 56 (1232 Days) - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);10.2141;24-Dec-2022
+149431;INF200KA14C5;-;SBI Fixed Maturity Plan (FMP) - Series 57 (1835 Days) - Direct Plan - Growth;10.2047;24-Dec-2022
+149430;INF200KA15C2;-;SBI Fixed Maturity Plan (FMP) - Series 57 (1835 Days) - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);10.2047;24-Dec-2022
+149432;INF200KA12C9;-;SBI Fixed Maturity Plan (FMP) - Series 57 (1835 Days) - Regular Plan - Growth;10.1889;24-Dec-2022
+149433;INF200KA13C7;-;SBI Fixed Maturity Plan (FMP) - Series 57 (1835 Days) - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);10.1889;24-Dec-2022
+149460;INF200KA18C6;-;SBI Fixed Maturity Plan (FMP) - Series 58 (1842 Days) - Direct Plan - Growth;10.2934;24-Dec-2022
+149461;INF200KA19C4;-;SBI Fixed Maturity Plan (FMP) - Series 58 (1842 Days) - Direct Plan - Income Distribution cum Capital withdrawal option (IDCW);10.2935;24-Dec-2022
+149459;INF200KA16C0;-;SBI Fixed Maturity Plan (FMP) - Series 58 (1842 Days) - Regular Plan - Growth;10.2785;24-Dec-2022
+149462;INF200KA17C8;-;SBI Fixed Maturity Plan (FMP) - Series 58 (1842 Days) - Regular Plan - Income Distribution cum Capital withdrawal option (IDCW);10.2785;24-Dec-2022
+149822;INF200KA19D2;-;SBI Fixed Maturity Plan (FMP) - Series 59 (1618 Days) - Direct Plan - Growth;10.2423;24-Dec-2022
+149823;INF200KA10E9;-;SBI Fixed Maturity Plan (FMP) - Series 59 (1618 Days) - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);10.2416;24-Dec-2022
+149825;INF200KA17D6;-;SBI Fixed Maturity Plan (FMP) - Series 59 (1618 Days) - Regular Plan - Growth;10.2285;24-Dec-2022
+149824;INF200KA18D4;-;SBI Fixed Maturity Plan (FMP) - Series 59 (1618 Days) - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);10.2285;24-Dec-2022
+147248;INF200KA1F27;-;SBI Fixed Maturity Plan (FMP) - Series 6 (3668 Days) - Direct Plan - Growth;13.1306;24-Dec-2022
+147249;INF200KA1F35;-;SBI Fixed Maturity Plan (FMP) - Series 6 (3668 Days) - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);13.1307;24-Dec-2022
+147247;INF200KA1F01;-;SBI Fixed Maturity Plan (FMP) - Series 6 (3668 Days) - Regular Plan - Growth;13.0126;24-Dec-2022
+147250;INF200KA1F19;-;SBI Fixed Maturity Plan (FMP) - Series 6 (3668 Days) - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);13.0143;24-Dec-2022
+149878;INF200KA13E3;-;SBI Fixed Maturity Plan (FMP) - Series 60 (1878 Days) - Direct Plan - Growth;10.1897;24-Dec-2022
+149879;INF200KA14E1;-;SBI Fixed Maturity Plan (FMP) - Series 60 (1878 Days) - Direct Plan - Income Distribution cum Capital Withdrwal Option (IDCW);10.1901;24-Dec-2022
+149876;INF200KA11E7;-;SBI Fixed Maturity Plan (FMP) - Series 60 (1878 Days) - Regular Plan - Growth;10.1766;24-Dec-2022
+149877;INF200KA12E5;-;SBI Fixed Maturity Plan (FMP) - Series 60 (1878 Days) - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);10.1766;24-Dec-2022
+149993;INF200KA13F0;-;SBI Fixed Maturity Plan (FMP)- Series 61 (1927 Days)- Direct Plan- Growth option;10.2216;24-Dec-2022
+149995;INF200KA14F8;-;SBI Fixed Maturity Plan (FMP)- Series 61 (1927 Days)- Direct Plan- Income Distribution Cum Capital withdrawal option;10.2216;24-Dec-2022
+149994;INF200KA11F4;-;SBI Fixed Maturity Plan (FMP)- Series 61 (1927 Days)- Regular Plan- Growth option;10.2099;24-Dec-2022
+149992;INF200KA12F2;-;SBI Fixed Maturity Plan (FMP)- Series 61 (1927 Days)- Regular Plan- Income Distribution Cum Capital withdrawal option;10.2099;24-Dec-2022
 150362;INF200KA17F1;-;SBI Fixed Maturity Plan (FMP)- Series 62 (191 Days)- Direct Plan- Growth option;10.2380;06-Oct-2022
 150364;INF200KA18F9;-;SBI Fixed Maturity Plan (FMP)- Series 62 (191 Days)- Direct Plan- Income Distribution Cum Capital Withdrawal option;10.2380;06-Oct-2022
 150365;INF200KA15F5;-;SBI Fixed Maturity Plan (FMP)- Series 62 (191 Days)- Regular Plan- Growth option;10.2326;06-Oct-2022
 150363;INF200KA16F3;-;SBI Fixed Maturity Plan (FMP)- Series 62 (191 Days)- Regular Plan- Income Distribution Cum Capital Withdrawal option;10.2326;06-Oct-2022
-150576;INF200KA19M3;-;SBI Fixed Maturity Plan (FMP) - Series 63 (372 Days) - Direct Plan - Growth;10.1613;23-Dec-2022
-150577;INF200KA10N0;-;SBI Fixed Maturity Plan (FMP) - Series 63 (372 Days) - Direct Plan - IDCW Payout;10.1613;23-Dec-2022
-150574;INF200KA17M7;-;SBI Fixed Maturity Plan (FMP) - Series 63 (372 Days) - Regular Plan - Growth;10.1579;23-Dec-2022
-150575;INF200KA18M5;-;SBI Fixed Maturity Plan (FMP) - Series 63 (372 Days) - Regular Plan - IDCW Payout;10.1579;23-Dec-2022
-150602;INF200KA17N5;-;SBI Fixed Maturity Plan (FMP) - Series 64 (1169 Days) - Direct Plan - Growth;10.1520;23-Dec-2022
-150603;INF200KA18N3;-;SBI Fixed Maturity Plan (FMP) - Series 64 (1169 Days) - Direct Plan - IDCW Payout;10.1520;23-Dec-2022
-150604;INF200KA15N9;-;SBI Fixed Maturity Plan (FMP) - Series 64 (1169 Days) - Regular Plan - Growth;10.1472;23-Dec-2022
-150605;INF200KA16N7;-;SBI Fixed Maturity Plan (FMP) - Series 64 (1169 Days) - Regular Plan - IDCW Payout;10.1472;23-Dec-2022
-150614;INF200KA11O6;-;SBI Fixed Maturity Plan (FMP) - Series 65 (367 Days) - Direct Plan - Growth;10.1406;23-Dec-2022
-150613;INF200KA12O4;-;SBI Fixed Maturity Plan (FMP) - Series 65 (367 Days) - Direct Plan - IDCW Payout;10.1406;23-Dec-2022
-150611;INF200KA19N1;-;SBI Fixed Maturity Plan (FMP) - Series 65 (367 Days) - Regular Plan - Growth;10.1376;23-Dec-2022
-150612;INF200KA10O8;-;SBI Fixed Maturity Plan (FMP) - Series 65 (367 Days) - Regular Plan - IDCW Payout;10.1376;23-Dec-2022
-150379;INF200KA11M0;-;SBI Fixed Maturity Plan (FMP) - Series 66 (1361 Days) - Direct Plan - Growth;10.2988;23-Dec-2022
-150378;INF200KA12M8;-;SBI Fixed Maturity Plan (FMP) - Series 66 (1361 Days) - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);10.2988;23-Dec-2022
-150377;INF200KA19L5;-;SBI Fixed Maturity Plan (FMP) - Series 66 (1361 Days) - Regular Plan - Growth;10.2921;23-Dec-2022
-150380;INF200KA10M2;-;SBI Fixed Maturity Plan (FMP) - Series 66 (1361 Days) - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);10.2921;23-Dec-2022
-150460;INF200KA15M1;-;SBI Fixed Maturity Plan (FMP) - Series 67 (1467 Days) - Direct Plan - Growth;10.2515;23-Dec-2022
-150458;INF200KA16M9;-;SBI Fixed Maturity Plan (FMP) - Series 67 (1467 Days) - Direct Plan - IDCW Payout;10.2515;23-Dec-2022
-150461;INF200KA13M6;-;SBI Fixed Maturity Plan (FMP) - Series 67 (1467 Days) - Regular Plan - Growth;10.2452;23-Dec-2022
-150459;INF200KA14M4;-;SBI Fixed Maturity Plan (FMP) - Series 67 (1467 Days) - Regular Plan - IDCW Payout;10.2456;23-Dec-2022
-150649;INF200KA15O7;-;SBI Fixed Maturity Plan (FMP) - Series 68 (1302 Days) - Direct Plan - Growth;10.2225;23-Dec-2022
-150650;INF200KA16O5;-;SBI Fixed Maturity Plan (FMP) - Series 68 (1302 Days) - Direct Plan - IDCW Payout;10.2232;23-Dec-2022
-150647;INF200KA13O2;-;SBI Fixed Maturity Plan (FMP) - Series 68 (1302 Days) - Regular Plan - Growth;10.2186;23-Dec-2022
-150648;INF200KA14O0;-;SBI Fixed Maturity Plan (FMP) - Series 68 (1302 Days) - Regular Plan - IDCW Payout;10.2186;23-Dec-2022
-150809;INF200KA19R2;-;SBI Fixed Maturity Plan (FMP) - Series 69 (367 Days) - Direct Plan - Growth;10.1019;23-Dec-2022
-150810;INF200KA10S9;-;SBI Fixed Maturity Plan (FMP) - Series 69 (367 Days) - Direct Plan - IDCW Payout;10.1019;23-Dec-2022
-150811;INF200KA17R6;-;SBI Fixed Maturity Plan (FMP) - Series 69 (367 Days) - Regular Plan - Growth;10.1003;23-Dec-2022
-150808;INF200KA18R4;-;SBI Fixed Maturity Plan (FMP) - Series 69 (367 Days) - Regular Plan - IDCW Payout;10.1003;23-Dec-2022
+150576;INF200KA19M3;-;SBI Fixed Maturity Plan (FMP) - Series 63 (372 Days) - Direct Plan - Growth;10.1631;24-Dec-2022
+150577;INF200KA10N0;-;SBI Fixed Maturity Plan (FMP) - Series 63 (372 Days) - Direct Plan - IDCW Payout;10.1631;24-Dec-2022
+150574;INF200KA17M7;-;SBI Fixed Maturity Plan (FMP) - Series 63 (372 Days) - Regular Plan - Growth;10.1597;24-Dec-2022
+150575;INF200KA18M5;-;SBI Fixed Maturity Plan (FMP) - Series 63 (372 Days) - Regular Plan - IDCW Payout;10.1597;24-Dec-2022
+150602;INF200KA17N5;-;SBI Fixed Maturity Plan (FMP) - Series 64 (1169 Days) - Direct Plan - Growth;10.1539;24-Dec-2022
+150603;INF200KA18N3;-;SBI Fixed Maturity Plan (FMP) - Series 64 (1169 Days) - Direct Plan - IDCW Payout;10.1539;24-Dec-2022
+150604;INF200KA15N9;-;SBI Fixed Maturity Plan (FMP) - Series 64 (1169 Days) - Regular Plan - Growth;10.1491;24-Dec-2022
+150605;INF200KA16N7;-;SBI Fixed Maturity Plan (FMP) - Series 64 (1169 Days) - Regular Plan - IDCW Payout;10.1491;24-Dec-2022
+150614;INF200KA11O6;-;SBI Fixed Maturity Plan (FMP) - Series 65 (367 Days) - Direct Plan - Growth;10.1425;24-Dec-2022
+150613;INF200KA12O4;-;SBI Fixed Maturity Plan (FMP) - Series 65 (367 Days) - Direct Plan - IDCW Payout;10.1425;24-Dec-2022
+150611;INF200KA19N1;-;SBI Fixed Maturity Plan (FMP) - Series 65 (367 Days) - Regular Plan - Growth;10.1394;24-Dec-2022
+150612;INF200KA10O8;-;SBI Fixed Maturity Plan (FMP) - Series 65 (367 Days) - Regular Plan - IDCW Payout;10.1394;24-Dec-2022
+150379;INF200KA11M0;-;SBI Fixed Maturity Plan (FMP) - Series 66 (1361 Days) - Direct Plan - Growth;10.3008;24-Dec-2022
+150378;INF200KA12M8;-;SBI Fixed Maturity Plan (FMP) - Series 66 (1361 Days) - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);10.3008;24-Dec-2022
+150377;INF200KA19L5;-;SBI Fixed Maturity Plan (FMP) - Series 66 (1361 Days) - Regular Plan - Growth;10.2940;24-Dec-2022
+150380;INF200KA10M2;-;SBI Fixed Maturity Plan (FMP) - Series 66 (1361 Days) - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);10.2941;24-Dec-2022
+150460;INF200KA15M1;-;SBI Fixed Maturity Plan (FMP) - Series 67 (1467 Days) - Direct Plan - Growth;10.2535;24-Dec-2022
+150458;INF200KA16M9;-;SBI Fixed Maturity Plan (FMP) - Series 67 (1467 Days) - Direct Plan - IDCW Payout;10.2535;24-Dec-2022
+150461;INF200KA13M6;-;SBI Fixed Maturity Plan (FMP) - Series 67 (1467 Days) - Regular Plan - Growth;10.2472;24-Dec-2022
+150459;INF200KA14M4;-;SBI Fixed Maturity Plan (FMP) - Series 67 (1467 Days) - Regular Plan - IDCW Payout;10.2475;24-Dec-2022
+150649;INF200KA15O7;-;SBI Fixed Maturity Plan (FMP) - Series 68 (1302 Days) - Direct Plan - Growth;10.2244;24-Dec-2022
+150650;INF200KA16O5;-;SBI Fixed Maturity Plan (FMP) - Series 68 (1302 Days) - Direct Plan - IDCW Payout;10.2251;24-Dec-2022
+150647;INF200KA13O2;-;SBI Fixed Maturity Plan (FMP) - Series 68 (1302 Days) - Regular Plan - Growth;10.2205;24-Dec-2022
+150648;INF200KA14O0;-;SBI Fixed Maturity Plan (FMP) - Series 68 (1302 Days) - Regular Plan - IDCW Payout;10.2205;24-Dec-2022
+150809;INF200KA19R2;-;SBI Fixed Maturity Plan (FMP) - Series 69 (367 Days) - Direct Plan - Growth;10.1039;24-Dec-2022
+150810;INF200KA10S9;-;SBI Fixed Maturity Plan (FMP) - Series 69 (367 Days) - Direct Plan - IDCW Payout;10.1039;24-Dec-2022
+150811;INF200KA17R6;-;SBI Fixed Maturity Plan (FMP) - Series 69 (367 Days) - Regular Plan - Growth;10.1023;24-Dec-2022
+150808;INF200KA18R4;-;SBI Fixed Maturity Plan (FMP) - Series 69 (367 Days) - Regular Plan - IDCW Payout;10.1023;24-Dec-2022
 147318;INF200KA1F68;-;SBI Fixed Maturity Plan (FMP) - Series 7 (1175 Days) - Direct Plan - Growth;12.5976;10-Aug-2022
 147319;INF200KA1F76;-;SBI Fixed Maturity Plan (FMP) - Series 7 (1175 Days) - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);12.5976;10-Aug-2022
 147320;INF200KA1F43;-;SBI Fixed Maturity Plan (FMP) - Series 7 (1175 Days) - Regular Plan - Growth;12.4967;10-Aug-2022
 147317;INF200KA1F50;-;SBI Fixed Maturity Plan (FMP) - Series 7 (1175 Days) - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);12.4967;10-Aug-2022
-150883;INF200KA13S3;-;SBI Fixed Maturity Plan (FMP) - Series 71 (364 Days) - Direct Plan - Growth;10.0669;23-Dec-2022
-150880;INF200KA14S1;-;SBI Fixed Maturity Plan (FMP) - Series 71 (364 Days) - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);10.0669;23-Dec-2022
-150881;INF200KA11S7;-;SBI Fixed Maturity Plan (FMP) - Series 71 (364 Days) - Regular Plan - Growth;10.0654;23-Dec-2022
-150882;INF200KA12S5;-;SBI Fixed Maturity Plan (FMP) - Series 71 (364 Days) - Regular Plan - Income Distribution cun Capital Withdrawal Option (IDCW);10.0654;23-Dec-2022
+150883;INF200KA13S3;-;SBI Fixed Maturity Plan (FMP) - Series 71 (364 Days) - Direct Plan - Growth;10.0688;24-Dec-2022
+150880;INF200KA14S1;-;SBI Fixed Maturity Plan (FMP) - Series 71 (364 Days) - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);10.0688;24-Dec-2022
+150881;INF200KA11S7;-;SBI Fixed Maturity Plan (FMP) - Series 71 (364 Days) - Regular Plan - Growth;10.0673;24-Dec-2022
+150882;INF200KA12S5;-;SBI Fixed Maturity Plan (FMP) - Series 71 (364 Days) - Regular Plan - Income Distribution cun Capital Withdrawal Option (IDCW);10.0673;24-Dec-2022
 147333;INF200KA1G00;-;SBI Fixed Maturity Plan (FMP) - Series 8 (1178 Days) - Direct Plan - Growth;12.5001;24-Aug-2022
 147334;INF200KA1G18;-;SBI Fixed Maturity Plan (FMP) - Series 8 (1178 Days) - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);12.5001;24-Aug-2022
 147331;INF200KA1F84;-;SBI Fixed Maturity Plan (FMP) - Series 8 (1178 Days) - Regular Plan - Growth;12.3998;24-Aug-2022
@@ -11651,30 +11651,30 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 147521;INF200KA1I32;-;SBI Fixed Maturity Plan (FMP) - Series 13 (1108 Days) - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);12.3063;03-Aug-2022
 147523;INF200KA1I08;-;SBI Fixed Maturity Plan (FMP) - Series 13 (1108 Days) - Regular Plan - Growth;12.2133;03-Aug-2022
 147522;INF200KA1I16;-;SBI Fixed Maturity Plan (FMP) - Series 13 (1108 Days) - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);12.2133;03-Aug-2022
-148848;INF200KA1V27;-;SBI Fixed Maturity Plan (FMP) - Series 42 (1857 Days) Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);10.7794;23-Dec-2022
-148845;INF200KA1V01;-;SBI Fixed Maturity Plan (FMP) - Series 42 (1857 Days) Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);10.7457;23-Dec-2022
-148846;INF200KA1V19;-;SBI Fixed Maturity Plan (FMP) Series 42 (1857 Days) - Direct Plan - Growth;10.7794;23-Dec-2022
-148847;INF200KA1U93;-;SBI Fixed Maturity Plan (FMP) Series 42 (1857 Days) - Regular Plan - Growth;10.7457;23-Dec-2022
-148941;INF200KA1V50;-;SBI Fixed Maturity Plan (FMP) Series 43 (1616 Days) - Direct Plan - Growth;10.7085;23-Dec-2022
-148942;INF200KA1V68;-;SBI Fixed Maturity Plan (FMP) Series 43 (1616 Days) - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);10.7085;23-Dec-2022
-148939;INF200KA1V35;-;SBI Fixed Maturity Plan (FMP) Series 43 (1616 Days) - Regular Plan - Growth;10.6802;23-Dec-2022
-148940;INF200KA1V43;-;SBI Fixed Maturity Plan (FMP) Series 43 (1616 Days) - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);10.6802;23-Dec-2022
-148967;INF200KA1W59;-;SBI Fixed Maturity Plan (FMP) - Series 44 (1855 Days) - Direct Plan - Growth;10.6150;23-Dec-2022
-148968;INF200KA1W67;-;SBI Fixed Maturity Plan (FMP) - Series 44 (1855 Days) - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);10.6150;23-Dec-2022
-148966;INF200KA1W34;-;SBI Fixed Maturity Plan (FMP) - Series 44 (1855 Days) - Regular Plan - Growth;10.5885;23-Dec-2022
-148969;INF200KA1W42;-;SBI Fixed Maturity Plan (FMP) Series 44 (1855 Days) - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);10.5885;23-Dec-2022
-148999;INF200KA1W91;-;SBI Fixed Maturity Plan (FMP) Series 45 (1840 Days) - Direct Plan - Growth;10.6090;23-Dec-2022
-148998;INF200KA1X09;-;SBI Fixed Maturity Plan (FMP) Series 45 (1840 Days) - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);10.6090;23-Dec-2022
-148996;INF200KA1W75;-;SBI Fixed Maturity Plan (FMP) Series 45 (1840 Days) - Regular Plan - Growth;10.5832;23-Dec-2022
-148997;INF200KA1W83;-;SBI Fixed Maturity Plan (FMP) Series 45 (1840Days) - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);10.5832;23-Dec-2022
-150919;-;-;SBI Fixed Maturity Plan (FMP)-Series 72 (1239 Days) Direct Plan- Growth;10.0621;23-Dec-2022
-150916;-;-;SBI Fixed Maturity Plan (FMP)-Series 72 (1239 Days) Direct Plan- Income Distribution Cum Capital Withdrawal Payout;10.0621;23-Dec-2022
-150917;-;-;SBI Fixed Maturity Plan (FMP)-Series 72 (1239 Days) Regular Plan- Growth;10.0608;23-Dec-2022
-150918;-;-;SBI Fixed Maturity Plan (FMP)-Series 72 (1239 Days) Regular Plan- Income Distribution Cum Capital Withdrawal Payout;10.0608;23-Dec-2022
-150984;INF200KA11T5;-;SBI Fixed Maturity Plan (FMP) - Series 73 (1226 Days) - Direct Plan - Growth;10.0362;23-Dec-2022
-150985;INF200KA12T3;-;SBI Fixed Maturity Plan (FMP) - Series 73 (1226 Days) - Direct Plan - IDCW Payout;10.0362;23-Dec-2022
-150986;INF200KA19S0;-;SBI Fixed Maturity Plan (FMP) - Series 73 (1226 Days) - Regular Plan - Growth;10.0356;23-Dec-2022
-150983;INF200KA10T7;-;SBI Fixed Maturity Plan (FMP) - Series 73 (1226 Days) - Regular Plan - IDCW Payout;10.0356;23-Dec-2022
+148848;INF200KA1V27;-;SBI Fixed Maturity Plan (FMP) - Series 42 (1857 Days) Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);10.7815;24-Dec-2022
+148845;INF200KA1V01;-;SBI Fixed Maturity Plan (FMP) - Series 42 (1857 Days) Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);10.7478;24-Dec-2022
+148846;INF200KA1V19;-;SBI Fixed Maturity Plan (FMP) Series 42 (1857 Days) - Direct Plan - Growth;10.7815;24-Dec-2022
+148847;INF200KA1U93;-;SBI Fixed Maturity Plan (FMP) Series 42 (1857 Days) - Regular Plan - Growth;10.7478;24-Dec-2022
+148941;INF200KA1V50;-;SBI Fixed Maturity Plan (FMP) Series 43 (1616 Days) - Direct Plan - Growth;10.7106;24-Dec-2022
+148942;INF200KA1V68;-;SBI Fixed Maturity Plan (FMP) Series 43 (1616 Days) - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);10.7106;24-Dec-2022
+148939;INF200KA1V35;-;SBI Fixed Maturity Plan (FMP) Series 43 (1616 Days) - Regular Plan - Growth;10.6822;24-Dec-2022
+148940;INF200KA1V43;-;SBI Fixed Maturity Plan (FMP) Series 43 (1616 Days) - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);10.6823;24-Dec-2022
+148967;INF200KA1W59;-;SBI Fixed Maturity Plan (FMP) - Series 44 (1855 Days) - Direct Plan - Growth;10.6170;24-Dec-2022
+148968;INF200KA1W67;-;SBI Fixed Maturity Plan (FMP) - Series 44 (1855 Days) - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);10.6170;24-Dec-2022
+148966;INF200KA1W34;-;SBI Fixed Maturity Plan (FMP) - Series 44 (1855 Days) - Regular Plan - Growth;10.5905;24-Dec-2022
+148969;INF200KA1W42;-;SBI Fixed Maturity Plan (FMP) Series 44 (1855 Days) - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);10.5905;24-Dec-2022
+148999;INF200KA1W91;-;SBI Fixed Maturity Plan (FMP) Series 45 (1840 Days) - Direct Plan - Growth;10.6111;24-Dec-2022
+148998;INF200KA1X09;-;SBI Fixed Maturity Plan (FMP) Series 45 (1840 Days) - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);10.6111;24-Dec-2022
+148996;INF200KA1W75;-;SBI Fixed Maturity Plan (FMP) Series 45 (1840 Days) - Regular Plan - Growth;10.5852;24-Dec-2022
+148997;INF200KA1W83;-;SBI Fixed Maturity Plan (FMP) Series 45 (1840Days) - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);10.5852;24-Dec-2022
+150919;-;-;SBI Fixed Maturity Plan (FMP)-Series 72 (1239 Days) Direct Plan- Growth;10.0640;24-Dec-2022
+150916;-;-;SBI Fixed Maturity Plan (FMP)-Series 72 (1239 Days) Direct Plan- Income Distribution Cum Capital Withdrawal Payout;10.0640;24-Dec-2022
+150917;-;-;SBI Fixed Maturity Plan (FMP)-Series 72 (1239 Days) Regular Plan- Growth;10.0627;24-Dec-2022
+150918;-;-;SBI Fixed Maturity Plan (FMP)-Series 72 (1239 Days) Regular Plan- Income Distribution Cum Capital Withdrawal Payout;10.0627;24-Dec-2022
+150984;INF200KA11T5;-;SBI Fixed Maturity Plan (FMP) - Series 73 (1226 Days) - Direct Plan - Growth;10.0381;24-Dec-2022
+150985;INF200KA12T3;-;SBI Fixed Maturity Plan (FMP) - Series 73 (1226 Days) - Direct Plan - IDCW Payout;10.0381;24-Dec-2022
+150986;INF200KA19S0;-;SBI Fixed Maturity Plan (FMP) - Series 73 (1226 Days) - Regular Plan - Growth;10.0374;24-Dec-2022
+150983;INF200KA10T7;-;SBI Fixed Maturity Plan (FMP) - Series 73 (1226 Days) - Regular Plan - IDCW Payout;10.0374;24-Dec-2022
 145584;INF277K014Q0;-;TATA Fixed Maturity Plan Series 56 Sch F Direct Plan - Payout of Income Distribution cum capital withdrawal option ;13.0141;04-Apr-2022
 145582;INF277K012Q4;-;TATA Fixed Maturity Plan Series 56 Sch F Regular Plan - Payout of Income Distribution cum capital withdrawal option ;12.9030;04-Apr-2022
 145583;INF277K013Q2;-;Tata Fixed Maturity Plan Series 56 Scheme F - Direct Plan - Growth;13.0141;04-Apr-2022
