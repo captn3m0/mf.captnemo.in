@@ -240,9 +240,9 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 150228;INF251K01EL8;INF251K01EM6;BARODA BNP PARIBAS Corporate Bond Fund - Defunct Plan - Quarterly-IDCW Option;10.0547;02-Jan-2023
 150236;INF251K01GU4;INF251K01GV2;BARODA BNP PARIBAS Corporate Bond Fund - Direct Plan - Annual IDCW Option;10.9139;02-Jan-2023
 150237;INF251K01GP4;-;BARODA BNP PARIBAS Corporate Bond Fund - Direct Plan - Growth Option;23.8102;02-Jan-2023
-150238;INF251K01GQ2;INF251K01GR0;BARODA BNP PARIBAS Corporate Bond Fund - Direct Plan - Monthly IDWC Option;10.1230;02-Jan-2023
+150238;INF251K01GQ2;INF251K01GR0;BARODA BNP PARIBAS Corporate Bond Fund - Direct Plan - Monthly IDCW Option;10.1230;02-Jan-2023
 150239;INF251K01GS8;INF251K01GT6;BARODA BNP PARIBAS Corporate Bond Fund - Direct Plan - Quarterly IDCW Option;10.2331;02-Jan-2023
-150233;INF251K01EU9;INF251K01EV7;BARODA BNP PARIBAS CORPORATE BOND FUND - Regular Plan - ANNUAL IDWC OPTION;10.6984;02-Jan-2023
+150233;INF251K01EU9;INF251K01EV7;BARODA BNP PARIBAS CORPORATE BOND FUND - Regular Plan - ANNUAL IDCW OPTION;10.6984;02-Jan-2023
 150235;INF251K01EP9;-;BARODA BNP PARIBAS CORPORATE BOND FUND - Regular Plan - GROWTH OPTION;22.5966;02-Jan-2023
 150234;INF251K01EQ7;INF251K01ER5;BARODA BNP PARIBAS CORPORATE BOND FUND - Regular Plan - MONTHLY IDCW OPTION;10.0923;02-Jan-2023
 150232;INF251K01ES3;INF251K01ET1;BARODA BNP PARIBAS CORPORATE BOND FUND - Regular Plan - QUARTERLY IDCW OPTION;10.1287;02-Jan-2023
@@ -6027,7 +6027,6 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 100953;INF109K01FH3;INF109K01522;ICICI Prudential MIP - Dividend Monthly;12.3602;25-May-2018
 100954;INF109K01FI1;INF109K01530;ICICI Prudential MIP - Dividend Quarterly;13.5226;25-May-2018
 100952;INF109K01555;-;ICICI Prudential MIP - Growth;48.1366;25-May-2018
-112020;INF769K01226;-;Mirae Asset Short Term Bond Fund - Regular - Mly Dividend Option;10.3019;03-Mar-2016
 124679;INF204KA1AI9;-;Reliance Interval Fund - II - Series 1 -Direct Plan -Growth Option;12.8420;17-Oct-2016
 124681;INF204KA1AJ7;INF204KA1AK5;Reliance Interval Fund - II - Series 1 -Dividend Option;10.0000;17-Oct-2016
 124678;INF204KA1AL3;-;Reliance Interval Fund - II - Series 1 -Growth Plan;12.8098;17-Oct-2016
@@ -6545,10 +6544,10 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 148762;INF200KA1T96;-;SBI International Access - US Equity FoF - Regular Plan - Growth;10.6634;30-Dec-2022
 148761;INF200KA1U36;INF200KA1U44;SBI International Access- US Equity FoF Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);10.8201;30-Dec-2022
 148759;INF200KA1U02;INF200KA1U10;SBI International Access- US Equity FoF Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);10.6631;30-Dec-2022
-119602;INF903J01OB6;-;Sundaram Global Brand Fund Direct Plan - Growth;23.4709;30-Dec-2022
-119601;INF903J01NZ7;INF903J01OA8;Sundaram Global Brand Fund Direct Plan - Income Distribution cum Capital Withdrawal (IDCW);20.8755;30-Dec-2022
-106370;INF903J01EX1;-;Sundaram Global Brand Fund Regular Plan - Growth;21.9601;30-Dec-2022
-106369;INF903J01EY9;INF903J01EZ6;Sundaram Global Brand Fund Regular Plan - Income Distribution cum Capital Withdrawal (IDCW);18.8180;30-Dec-2022
+119602;INF903J01OB6;-;Sundaram Global Brand Fund Direct Plan - Growth;23.3396;02-Jan-2023
+119601;INF903J01NZ7;INF903J01OA8;Sundaram Global Brand Fund Direct Plan - Income Distribution cum Capital Withdrawal (IDCW);20.7586;02-Jan-2023
+106370;INF903J01EX1;-;Sundaram Global Brand Fund Regular Plan - Growth;21.8356;02-Jan-2023
+106369;INF903J01EY9;INF903J01EZ6;Sundaram Global Brand Fund Regular Plan - Income Distribution cum Capital Withdrawal (IDCW);18.7113;02-Jan-2023
 115127;INF209KB18D3;-;Aditya Birla Sun Life Gold ETF;50.101;02-Jan-2023
 113434;INF846K01W80;-;Axis Gold ETF;47.5202;02-Jan-2023
 113049;INF179KC1981;-;HDFC Gold Exchange Traded Fund. - Growth Option;48.777;02-Jan-2023
