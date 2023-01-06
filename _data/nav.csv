@@ -5813,12 +5813,12 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 149676;INF173K01262;INF173K01270;Sundaram Equity Savings Fund (Formerly Known as Principal Equity Savings Fund) -Quarterly Income Distribution CUM Capital Withdrawal;14.9999;05-Jan-2023
 149678;INF173K01HF9;INF173K01HG7;Sundaram Equity Savings Fund (Formerly Known as Principal Equity Savings Fund)- Direct Plan - Income Distribution CUM Capital Withdrawal Option - Quarterly;20.8975;05-Jan-2023
 149675;INF173K01247;INF173K01254;Sundaram Equity Savings Fund (Formerly Known as Principal Equity Savings Fund)- Half Yearly Income Distribution CUM Capital Withdrawal;13.9294;05-Jan-2023
-101906;INF277K01907;-;Tata Equity Savings Fund -Regular Plan-Growth Option;42.4233;04-Jan-2023
-119960;INF277K01QH5;-;Tata Equity Savings Fund- Direct Plan- Growth Option;46.9822;04-Jan-2023
-102118;INF277K01EF5;INF277K01915;Tata Equity Savings Fund- Regular Plan - Periodic Payout of IDCW Option;20.3237;04-Jan-2023
-101609;INF277K01EE8;INF277K01899;TATA Equity Savings Fund- Regular Plan -Monthly Payout of IDCW option;15.0097;04-Jan-2023
-119958;INF277K01QI3;INF277K01QJ1;Tata Equity Savings Fund-Direct Plan - Monthly Payout of IDCW Option;17.7459;04-Jan-2023
-119959;INF277K01QK9;INF277K01QL7;Tata Equity Savings Fund-Direct Plan - Periodic Payout of IDCWS Option;22.9583;04-Jan-2023
+101906;INF277K01907;-;Tata Equity Savings Fund -Regular Plan-Growth Option;42.4017;05-Jan-2023
+119960;INF277K01QH5;-;Tata Equity Savings Fund- Direct Plan- Growth Option;46.9595;05-Jan-2023
+102118;INF277K01EF5;INF277K01915;Tata Equity Savings Fund- Regular Plan - Periodic Payout of IDCW Option;20.3133;05-Jan-2023
+101609;INF277K01EE8;INF277K01899;TATA Equity Savings Fund- Regular Plan -Monthly Payout of IDCW option;14.9521;05-Jan-2023
+119958;INF277K01QI3;INF277K01QJ1;Tata Equity Savings Fund-Direct Plan - Monthly Payout of IDCW Option;17.6873;05-Jan-2023
+119959;INF277K01QK9;INF277K01QL7;Tata Equity Savings Fund-Direct Plan - Periodic Payout of IDCWS Option;22.9472;05-Jan-2023
 144312;INF582M01EC1;-;Union Equity Savings Fund - Direct Plan - Growth Option;13.86;05-Jan-2023
 144313;INF582M01EE7;INF582M01ED9;Union Equity Savings Fund - Direct Plan - IDCW Option;13.86;05-Jan-2023
 144310;INF582M01EG2;-;Union Equity Savings Fund - Regular Plan - Growth Option;13.49;05-Jan-2023
@@ -5843,10 +5843,10 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 119131;INF179K01XW8;-;HDFC Multi-Asset Fund - Growth Option - Direct Plan;54.182;05-Jan-2023
 103130;INF179K01AN5;INF179K01AO3;HDFC Multi-Asset Fund - IDCW Option;15.277;05-Jan-2023
 119130;INF179K01XU2;INF179K01XV0;HDFC Multi-Asset Fund - IDCW Option - Direct Plan;17.64;05-Jan-2023
-120334;INF109K015K4;-;ICICI Prudential Multi-Asset Fund - Direct Plan - Growth;519.4724;04-Jan-2023
-120335;INF109K013K9;INF109K014K7;ICICI Prudential Multi-Asset Fund - Direct Plan - IDCW;39.4834;04-Jan-2023
-101144;INF109K01761;-;ICICI Prudential Multi-Asset Fund - Growth;480.9487;04-Jan-2023
-101143;INF109K01ED5;INF109K01779;ICICI Prudential Multi-Asset Fund - IDCW;25.65;04-Jan-2023
+120334;INF109K015K4;-;ICICI Prudential Multi-Asset Fund - Direct Plan - Growth;519.4751;05-Jan-2023
+120335;INF109K013K9;INF109K014K7;ICICI Prudential Multi-Asset Fund - Direct Plan - IDCW;39.3236;05-Jan-2023
+101144;INF109K01761;-;ICICI Prudential Multi-Asset Fund - Growth;480.9417;05-Jan-2023
+101143;INF109K01ED5;INF109K01779;ICICI Prudential Multi-Asset Fund - IDCW;25.4897;05-Jan-2023
 115269;INF109K01TN2;-;ICICI Prudential Multi-Asset Fund- Institutional Growth Option;22.849;24-Apr-2020
 104898;INF109K01787;-;ICICI Prudential Multi-Asset Fund-Institutional Option - I;43.0129;18-Jun-2018
 148454;INF247L01AI8;-;Motilal Oswal Multi Asset Fund - Direct Plan - Growth Option;11.3081;05-Jan-2023
@@ -5867,12 +5867,12 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 103408;INF200K01800;-;SBI MULTI ASSET ALLOCATION FUND - REGULAR PLAN - GROWTH;39.6599;05-Jan-2023
 103400;INF200K01818;INF200K01826;SBI Multi Asset Allocation Fund - Regular Plan - Monthly Income Distribution cum Capital Withdrawal Option (IDCW);17.7336;05-Jan-2023
 103401;INF200K01834;INF200K01842;SBI Multi Asset Allocation Fund - Regular Plan - Quarterly Income Distribution cum Capital Withdrawal Option (IDCW);17.7166;05-Jan-2023
-148052;-;INF277K010Z9;Tata Multi Asset Opportnities Fund-Direct Plan-Dividend Reinvestment;17.2657;04-Jan-2023
-148049;INF277K011Z7;-;Tata Multi Asset Opportunities Fund-Direct Plan-Dividend Payout;17.2657;04-Jan-2023
-148053;INF277K019Y3;-;Tata Multi Asset Opportunities Fund-Direct Plan-Growth;17.2657;04-Jan-2023
-148054;INF277K014Z1;-;Tata Multi Asset Opportunities Fund-Regular Plan-Dividend Payout;16.3874;04-Jan-2023
-148051;-;INF277K013Z3;Tata Multi Asset Opportunities Fund-Regular Plan-Dividend Reinvestment;16.3874;04-Jan-2023
-148050;INF277K012Z5;-;Tata Multi Asset Opportunities Fund-Regular Plan-Growth;16.3874;04-Jan-2023
+148052;-;INF277K010Z9;Tata Multi Asset Opportnities Fund-Direct Plan-Dividend Reinvestment;17.2806;05-Jan-2023
+148049;INF277K011Z7;-;Tata Multi Asset Opportunities Fund-Direct Plan-Dividend Payout;17.2806;05-Jan-2023
+148053;INF277K019Y3;-;Tata Multi Asset Opportunities Fund-Direct Plan-Growth;17.2806;05-Jan-2023
+148054;INF277K014Z1;-;Tata Multi Asset Opportunities Fund-Regular Plan-Dividend Payout;16.4007;05-Jan-2023
+148051;-;INF277K013Z3;Tata Multi Asset Opportunities Fund-Regular Plan-Dividend Reinvestment;16.4007;05-Jan-2023
+148050;INF277K012Z5;-;Tata Multi Asset Opportunities Fund-Regular Plan-Growth;16.4007;05-Jan-2023
 111599;INF789F01AP6;-;UTI - Multi Asset Fund - Regular Plan - Growth Option;45.9702;05-Jan-2023
 120760;INF789F01VE6;-;UTI - Multi Asset Fund- Direct Plan - Growth Option;49.7244;05-Jan-2023
 120761;INF789F01VC0;INF789F01VD8;UTI Multi Asset Fund - Direct Plan - IDCW;22.2221;05-Jan-2023
@@ -6540,10 +6540,10 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 149300;INF663L01W71;INF663L01W89;PGIM India Global Select Real Estate Securities Fund of Fund - Direct Plan - IDCW Option;8.86;04-Jan-2023
 149299;INF663L01W97;-;PGIM India Global Select Real Estate Securities Fund of Fund - Regular Plan - Growth Option;8.78;04-Jan-2023
 149301;INF663L01X05;INF663L01X13;PGIM India Global Select Real Estate Securities Fund of Fund - Regular Plan - IDCW Option;8.78;04-Jan-2023
-148760;INF200KA1U28;-;SBI International Access - US Equity FoF - Direct Plan - Growth;10.9063;04-Jan-2023
-148762;INF200KA1T96;-;SBI International Access - US Equity FoF - Regular Plan - Growth;10.7477;04-Jan-2023
-148761;INF200KA1U36;INF200KA1U44;SBI International Access- US Equity FoF Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);10.9066;04-Jan-2023
-148759;INF200KA1U02;INF200KA1U10;SBI International Access- US Equity FoF Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);10.7474;04-Jan-2023
+148760;INF200KA1U28;-;SBI International Access - US Equity FoF - Direct Plan - Growth;10.7346;05-Jan-2023
+148762;INF200KA1T96;-;SBI International Access - US Equity FoF - Regular Plan - Growth;10.5783;05-Jan-2023
+148761;INF200KA1U36;INF200KA1U44;SBI International Access- US Equity FoF Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);10.7349;05-Jan-2023
+148759;INF200KA1U02;INF200KA1U10;SBI International Access- US Equity FoF Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);10.5781;05-Jan-2023
 119602;INF903J01OB6;-;Sundaram Global Brand Fund Direct Plan - Growth;23.8538;04-Jan-2023
 119601;INF903J01NZ7;INF903J01OA8;Sundaram Global Brand Fund Direct Plan - Income Distribution cum Capital Withdrawal (IDCW);21.2159;04-Jan-2023
 106370;INF903J01EX1;-;Sundaram Global Brand Fund Regular Plan - Growth;22.3155;04-Jan-2023
