@@ -747,14 +747,14 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 118417;INF194K01O47;INF194K01O39;IDFC Dynamic Bond Fund-Direct Plan-IDCW;13.1759;09-Jan-2023
 131396;INF194KA1TP6;INF194KA1TQ4;IDFC Dynamic Bond Fund-Direct Plan-Periodic IDCW;10.7605;09-Jan-2023
 118418;INF194K01N89;INF194K01N71;IDFC Dynamic Bond Fund-Direct Plan-Quarterly IDCW;13.1034;09-Jan-2023
-122612;INF579M01183;-;IIFL Dynamic Bond Fund - Regular Plan - Growth Option;18.3977;06-Jan-2023
-122715;INF579M01266;-;IIFL Dynamic Bond Fund Direct Plan Growth;19.2893;06-Jan-2023
-122721;INF579M01282;INF579M01316;IIFL Dynamic Bond Fund Direct Plan Monthly Dividend;12.6081;06-Jan-2023
-122717;INF579M01290;INF579M01324;IIFL Dynamic Bond Fund Direct Plan Quarterly Dividend;17.8018;06-Jan-2023
-122711;INF579M01191;-;IIFL Dynamic Bond Fund Regular Plan Bonus;18.3976;06-Jan-2023
-122720;INF579M01225;INF579M01258;IIFL Dynamic Bond Fund Regular Plan Half Yearly Dividend;17.7537;06-Jan-2023
-122719;INF579M01209;INF579M01233;IIFL Dynamic Bond Fund Regular Plan Monthly Dividend;11.8596;06-Jan-2023
-122712;INF579M01217;INF579M01241;IIFL Dynamic Bond Fund Regular Plan Quarterly Dividend;17.7537;06-Jan-2023
+122612;INF579M01183;-;IIFL Dynamic Bond Fund - Regular Plan - Growth Option;18.4141;09-Jan-2023
+122715;INF579M01266;-;IIFL Dynamic Bond Fund Direct Plan Growth;19.3069;09-Jan-2023
+122721;INF579M01282;INF579M01316;IIFL Dynamic Bond Fund Direct Plan Monthly Dividend;12.6196;09-Jan-2023
+122717;INF579M01290;INF579M01324;IIFL Dynamic Bond Fund Direct Plan Quarterly Dividend;17.8180;09-Jan-2023
+122711;INF579M01191;-;IIFL Dynamic Bond Fund Regular Plan Bonus;18.4140;09-Jan-2023
+122720;INF579M01225;INF579M01258;IIFL Dynamic Bond Fund Regular Plan Half Yearly Dividend;17.7695;09-Jan-2023
+122719;INF579M01209;INF579M01233;IIFL Dynamic Bond Fund Regular Plan Monthly Dividend;11.8701;09-Jan-2023
+122712;INF579M01217;INF579M01241;IIFL Dynamic Bond Fund Regular Plan Quarterly Dividend;17.7695;09-Jan-2023
 145589;INF666M01EK5;-;Indiabulls Dynamic Bond Fund - Direct Plan - Growth option;1285.7778;09-Jan-2023
 145590;INF666M01ES8;-;Indiabulls Dynamic Bond Fund - Regular Plan - Growth option;1259.1213;09-Jan-2023
 145596;-;INF666M01EL3;Indiabulls Dynamic Bond Fund- Direct Plan- - Income Distribution cum capital withdrawal Option ( Reinvestment);1008.2007;09-Jan-2023
@@ -3326,16 +3326,16 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 131445;INF789FA1O85;INF789FA1O93;UTI Ultra Short Term Fund - Regular Plan - Monthly IDCW;1022.7525;09-Jan-2023
 133873;INF789FA1P01;INF789FA1P19;UTI Ultra Short Term Fund - Regular Plan - Quarterly IDCW;1137.5383;09-Jan-2023
 102531;-;INF789F01562;UTI Ultra Short Term Fund - Regular Plan - Weekly IDCW (Reinvestment);1146.8012;09-Jan-2023
-147316;-;INF03VN01175;WhiteOak Capital Ultra Short Term Fund- Direct plan-Daily Reinvestment of Income Distribution cum capital withdrawal option (IDCW);1001.4670;06-Jan-2023
-147315;INF03VN01183;INF03VN01191;WhiteOak Capital Ultra Short Term Fund- Direct plan-Fortnightly Payout/ Reinvestment of Income Distribution cum capital withdrawal option (IDCW);1001.8428;06-Jan-2023
-147311;INF03VN01209;-;WhiteOak Capital Ultra Short Term Fund- Direct plan-Growth Option;1182.0580;06-Jan-2023
-147312;INF03VN01217;INF03VN01225;WhiteOak Capital Ultra Short Term Fund- Direct plan-Monthly Payout/ Reinvestment of Income Distribution cum capital withdrawal option (IDCW);1005.6889;06-Jan-2023
-147313;INF03VN01233;INF03VN01241;WhiteOak Capital Ultra Short Term Fund- Direct plan-Weekly Payout/ Reinvestment of Income Distribution cum capital withdrawal option (IDCW);1002.4565;06-Jan-2023
-147308;-;INF03VN01258;WhiteOak Capital Ultra Short Term Fund- Regular plan-Daily Reinvestment of Income Distribution cum capital withdrawal option (IDCW);1001.4588;06-Jan-2023
-147309;INF03VN01266;INF03VN01274;WhiteOak Capital Ultra Short Term Fund- Regular plan-Fortnightly Payout/ Reinvestment of Income Distribution cum capital withdrawal option (IDCW);1001.7237;06-Jan-2023
-147307;INF03VN01282;-;WhiteOak Capital Ultra Short Term Fund- Regular plan-Growth Option;1158.2863;06-Jan-2023
-147314;INF03VN01290;INF03VN01308;WhiteOak Capital Ultra Short Term Fund- Regular plan-Monthly Payout/ Reinvestment of Income Distribution cum capital withdrawal option (IDCW);1005.2568;06-Jan-2023
-147310;INF03VN01316;INF03VN01324;WhiteOak Capital Ultra Short Term Fund- Regular plan-Weekly Payout/ Reinvestment of Income Distribution cum capital withdrawal option (IDCW);1001.8803;06-Jan-2023
+147316;-;INF03VN01175;WhiteOak Capital Ultra Short Term Fund- Direct plan-Daily Reinvestment of Income Distribution cum capital withdrawal option (IDCW);1001.4670;09-Jan-2023
+147315;INF03VN01183;INF03VN01191;WhiteOak Capital Ultra Short Term Fund- Direct plan-Fortnightly Payout/ Reinvestment of Income Distribution cum capital withdrawal option (IDCW);1002.3703;09-Jan-2023
+147311;INF03VN01209;-;WhiteOak Capital Ultra Short Term Fund- Direct plan-Growth Option;1182.6800;09-Jan-2023
+147312;INF03VN01217;INF03VN01225;WhiteOak Capital Ultra Short Term Fund- Direct plan-Monthly Payout/ Reinvestment of Income Distribution cum capital withdrawal option (IDCW);1006.2181;09-Jan-2023
+147313;INF03VN01233;INF03VN01241;WhiteOak Capital Ultra Short Term Fund- Direct plan-Weekly Payout/ Reinvestment of Income Distribution cum capital withdrawal option (IDCW);1002.9945;09-Jan-2023
+147308;-;INF03VN01258;WhiteOak Capital Ultra Short Term Fund- Regular plan-Daily Reinvestment of Income Distribution cum capital withdrawal option (IDCW);1001.4588;09-Jan-2023
+147309;INF03VN01266;INF03VN01274;WhiteOak Capital Ultra Short Term Fund- Regular plan-Fortnightly Payout/ Reinvestment of Income Distribution cum capital withdrawal option (IDCW);1002.2018;09-Jan-2023
+147307;INF03VN01282;-;WhiteOak Capital Ultra Short Term Fund- Regular plan-Growth Option;1158.8387;09-Jan-2023
+147314;INF03VN01290;INF03VN01308;WhiteOak Capital Ultra Short Term Fund- Regular plan-Monthly Payout/ Reinvestment of Income Distribution cum capital withdrawal option (IDCW);1005.7363;09-Jan-2023
+147310;INF03VN01316;INF03VN01324;WhiteOak Capital Ultra Short Term Fund- Regular plan-Weekly Payout/ Reinvestment of Income Distribution cum capital withdrawal option (IDCW);1002.3652;09-Jan-2023
 120348;INF205K01LE4;-;Invesco India Contra Fund - Direct Plan - Growth;91.16;09-Jan-2023
 120349;INF205K01LC8;INF205K01LD6;Invesco India Contra Fund - Direct Plan - IDCW (Payout / Reinvestment);42.49;09-Jan-2023
 105460;INF205K01189;-;Invesco India Contra Fund - Growth;80.03;09-Jan-2023
@@ -3448,10 +3448,10 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 118472;INF194K01Y37;INF194K01Y45;IDFC Tax Advantage  (ELSS) Fund-Direct Plan-IDCW;34.505;09-Jan-2023
 111569;INF194K01292;-;IDFC Tax Advantage (ELSS) Fund - Regular Plan - Growth;102.196;09-Jan-2023
 111570;INF194K01300;INF194K01318;IDFC Tax Advantage (ELSS) Fund - Regular Plan - IDCW;26.974;09-Jan-2023
-151165;INF579M01AN2;-;IIFL ELSS Nifty 50 Tax Saver Index Fund - Direct Plan - Growth;9.8488;06-Jan-2023
-151166;INF579M01AO0;-;IIFL ELSS Nifty 50 Tax Saver Index Fund - Direct Plan - IDCW Payout;9.8488;06-Jan-2023
-151164;INF579M01AL6;-;IIFL ELSS Nifty 50 Tax Saver Index Fund - Regular Plan - Growth;9.8481;06-Jan-2023
-151167;INF579M01AM4;-;IIFL ELSS Nifty 50 Tax Saver Index Fund - Regular Plan - IDCW Payout;9.8481;06-Jan-2023
+151165;INF579M01AN2;-;IIFL ELSS Nifty 50 Tax Saver Index Fund - Direct Plan - Growth;9.9792;09-Jan-2023
+151166;INF579M01AO0;-;IIFL ELSS Nifty 50 Tax Saver Index Fund - Direct Plan - IDCW Payout;9.9792;09-Jan-2023
+151164;INF579M01AL6;-;IIFL ELSS Nifty 50 Tax Saver Index Fund - Regular Plan - Growth;9.9783;09-Jan-2023
+151167;INF579M01AM4;-;IIFL ELSS Nifty 50 Tax Saver Index Fund - Regular Plan - IDCW Payout;9.9783;09-Jan-2023
 141807;INF666M01DL5;-;Indiabulls Tax Savings Fund- Direct Plan- Dividend Option;14.85;09-Jan-2023
 141808;INF666M01DK7;-;Indiabulls Tax Savings Fund- Direct Plan- Growth Option;14.86;09-Jan-2023
 141810;INF666M01DO9;-;Indiabulls Tax Savings Fund- Regular Plan- - Income Distribution cum capital withdrawal Option (Payout);13.64;09-Jan-2023
@@ -3582,10 +3582,10 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 100821;INF789F01547;-;UTI - Long Term Equity Fund (Tax Saving) - Regular Plan - Growth Option;141.3672;09-Jan-2023
 120714;INF789F01TD2;INF789F01TE0;UTI Long Term Equity Fund ( Tax Saving ) - Direct Plan - IDCW;36.3507;09-Jan-2023
 100820;INF789F01521;INF789F01539;UTI Long Term Equity Fund ( Tax Saving ) - Regular Plan - IDCW;27.0069;09-Jan-2023
-150587;INF03VN01621;-;WhiteOak Capital Tax Saver Fund Direct Plan Growth;10.047;06-Jan-2023
-150586;INF03VN01639;-;WhiteOak Capital Tax Saver Fund Direct Plan IDCW;10.047;06-Jan-2023
-150589;INF03VN01647;-;WhiteOak Capital Tax Saver Fund Regular Plan Growth;10.002;06-Jan-2023
-150588;INF03VN01654;-;WhiteOak Capital Tax Saver Fund Regular Plan IDCW;10.002;06-Jan-2023
+150587;INF03VN01621;-;WhiteOak Capital Tax Saver Fund Direct Plan Growth;10.138;09-Jan-2023
+150586;INF03VN01639;-;WhiteOak Capital Tax Saver Fund Direct Plan IDCW;10.138;09-Jan-2023
+150589;INF03VN01647;-;WhiteOak Capital Tax Saver Fund Regular Plan Growth;10.090;09-Jan-2023
+150588;INF03VN01654;-;WhiteOak Capital Tax Saver Fund Regular Plan IDCW;10.090;09-Jan-2023
 120564;INF209K01XX1;-;Aditya Birla Sun Life Flexi Cap Fund - Growth - Direct Plan;1246.04;09-Jan-2023
 103166;INF209K01AJ8;-;Aditya Birla Sun Life Flexi Cap Fund - Growth - Regular Plan;1137.92;09-Jan-2023
 120565;INF209KA1LE0;INF209K01XY9;Aditya Birla Sun Life Flexi Cap Fund -DIRECT - IDCW;166.57;09-Jan-2023
@@ -3718,10 +3718,10 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 120662;INF789F01TC4;-;UTI - Flexi Cap Fund-Growth Option - Direct;241.3229;09-Jan-2023
 120663;INF789F01TA8;INF789F01TB6;UTI Flexi Cap Fund - Direct Plan - IDCW;160.5971;09-Jan-2023
 100668;INF189A01053;INF789F01505;UTI Flexi Cap Fund - Regular Plan - IDCW;151.4495;09-Jan-2023
-150347;INF03VN01506;-;WhieOak Capital Flexi Cap Fund Regular Plan Growth;10.313;06-Jan-2023
-150346;INF03VN01530;-;WhiteOak Capital Flexi Cap Fund Direct Plan Growth;10.383;06-Jan-2023
-150349;INF03VN01555;INF03VN01548;WhiteOak Capital Flexi Cap Fund Direct Plan IDCW;10.383;06-Jan-2023
-150348;INF03VN01522;INF03VN01514;WhiteOak Capital Flexi Cap Fund Regular Plan IDCW;10.313;06-Jan-2023
+150347;INF03VN01506;-;WhieOak Capital Flexi Cap Fund Regular Plan Growth;10.407;09-Jan-2023
+150346;INF03VN01530;-;WhiteOak Capital Flexi Cap Fund Direct Plan Growth;10.479;09-Jan-2023
+150349;INF03VN01555;INF03VN01548;WhiteOak Capital Flexi Cap Fund Direct Plan IDCW;10.479;09-Jan-2023
+150348;INF03VN01522;INF03VN01514;WhiteOak Capital Flexi Cap Fund Regular Plan IDCW;10.407;09-Jan-2023
 119564;INF209K01WE3;-;Aditya Birla Sun Life Focused Equity Fund - Growth - Direct Plan;102.416;09-Jan-2023
 119563;INF209K01Q71;INF209K01WF0;Aditya Birla Sun Life Focused Equity Fund -Direct - IDCW;44.9854;09-Jan-2023
 103309;INF209K01462;-;Aditya Birla Sun Life Focused Equity Fund -Growth Option;93.0908;09-Jan-2023
@@ -3770,10 +3770,10 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 108593;INF194K01474;INF194K01482;IDFC Focused Equity Fund - Regular Plan - IDCW;14.495;09-Jan-2023
 118421;INF194K01W21;-;IDFC Focused Equity Fund-Direct Plan-Growth ;59.079;09-Jan-2023
 118422;INF194K01W39;INF194K01W47;IDFC Focused Equity Fund-Direct Plan-IDCW;24.757;09-Jan-2023
-131581;INF579M01910;INF579M01928;IIFL Focused Equity Fund - Direct Plan - Dividend;32.9371;06-Jan-2023
-131579;INF579M01886;INF579M01894;IIFL Focused Equity Fund - Regular Plan - Dividend;26.6240;06-Jan-2023
-131578;INF579M01878;-;IIFL Focused Equity Fund -Regular Plan - Growth;30.0919;06-Jan-2023
-131580;INF579M01902;-;IIFL Focused Equity Fund-Direct Plan-Growth;33.2764;06-Jan-2023
+131581;INF579M01910;INF579M01928;IIFL Focused Equity Fund - Direct Plan - Dividend;33.2961;09-Jan-2023
+131579;INF579M01886;INF579M01894;IIFL Focused Equity Fund - Regular Plan - Dividend;26.9120;09-Jan-2023
+131578;INF579M01878;-;IIFL Focused Equity Fund -Regular Plan - Growth;30.4173;09-Jan-2023
+131580;INF579M01902;-;IIFL Focused Equity Fund-Direct Plan-Growth;33.6391;09-Jan-2023
 148481;INF205KA1213;-;Invesco India Focused 20 Equity Fund - Direct Plan - Growth;15.49;09-Jan-2023
 148482;INF205KA1205;INF205KA1221;Invesco India Focused 20 Equity Fund - Direct Plan - IDCW (Payout / Reinvestment);13.98;09-Jan-2023
 148483;INF205KA1189;-;Invesco India Focused 20 Equity Fund - Growth;14.9;09-Jan-2023
@@ -4097,10 +4097,10 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 120656;INF789F01US8;-;UTI - Master Share-Growth Option - Direct;208.1058;09-Jan-2023
 120657;INF789F01UQ2;INF789F01UR0;UTI Mastershare Unit Scheme - Direct Plan - IDCW;47.3133;09-Jan-2023
 100650;INF189A01038;INF789F01950;UTI Mastershare Unit Scheme - Regular Plan - IDCW;41.3621;09-Jan-2023
-150797;INF03VN01696;-;WhiteOak Capital Large Cap Fund Direct Plan Growth;9.443;06-Jan-2023
-150798;INF03VN01704;INF03VN01712;WhiteOak Capital Large Cap Fund Direct Plan IDCW;9.443;06-Jan-2023
-150799;INF03VN01662;-;WhiteOak Capital Large Cap Fund Regular Plan Growth;9.427;06-Jan-2023
-150800;INF03VN01670;INF03VN01688;WhiteOak Capital Large Cap Fund Regular Plan IDCW;9.427;06-Jan-2023
+150797;INF03VN01696;-;WhiteOak Capital Large Cap Fund Direct Plan Growth;9.537;09-Jan-2023
+150798;INF03VN01704;INF03VN01712;WhiteOak Capital Large Cap Fund Direct Plan IDCW;9.537;09-Jan-2023
+150799;INF03VN01662;-;WhiteOak Capital Large Cap Fund Regular Plan Growth;9.520;09-Jan-2023
+150800;INF03VN01670;INF03VN01688;WhiteOak Capital Large Cap Fund Regular Plan IDCW;9.520;09-Jan-2023
 119620;INF209K01Q30;-;Aditya Birla Sun Life Midcap Fund - Growth - Direct Plan;491.63;09-Jan-2023
 119619;INF209K01Q22;-;Aditya Birla Sun Life Midcap Fund -DIRECT - IDCW;64.45;09-Jan-2023
 101591;INF209K01355;INF209K01CN6;Aditya Birla Sun Life Midcap Fund -REGULAR - IDCW;38.59;09-Jan-2023
@@ -4218,10 +4218,10 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 102393;INF789F01794;INF789F01802;UTI Mid Cap Fund - Regular Plan - IDCW;89.182;09-Jan-2023
 102394;INF789F01810;-;UTI Mid Cap Fund-Growth Option;188.4622;09-Jan-2023
 120726;INF789F01UA6;-;UTI Mid Cap Fund-Growth Option- Direct;205.2482;09-Jan-2023
-150584;INF03VN01597;-;WhiteOak Capital Mid Cap Fund Direct Plan Growth;10.036;06-Jan-2023
-150582;INF03VN01605;INF03VN01613;WhiteOak Capital Mid Cap Fund Direct Plan IDCW;10.036;06-Jan-2023
-150583;INF03VN01563;-;WhiteOak Capital Mid Cap Fund Regular Plan Growth;9.979;06-Jan-2023
-150585;INF03VN01571;INF03VN01589;WhiteOak Capital Mid Cap Fund Regular Plan IDCW;9.979;06-Jan-2023
+150584;INF03VN01597;-;WhiteOak Capital Mid Cap Fund Direct Plan Growth;10.140;09-Jan-2023
+150582;INF03VN01605;INF03VN01613;WhiteOak Capital Mid Cap Fund Direct Plan IDCW;10.140;09-Jan-2023
+150583;INF03VN01563;-;WhiteOak Capital Mid Cap Fund Regular Plan Growth;10.081;09-Jan-2023
+150585;INF03VN01571;INF03VN01589;WhiteOak Capital Mid Cap Fund Regular Plan IDCW;10.081;09-Jan-2023
 148921;INF209KB1Y49;-;Aditya Birla Sun Life Multi-Cap Fund-Direct Growth;12.77;09-Jan-2023
 148920;INF209KB1Y56;-;Aditya Birla Sun Life Multi-Cap Fund-Direct IDCW Payout;12.77;09-Jan-2023
 148918;INF209KB1Y23;-;Aditya Birla Sun Life Multi-Cap Fund-Regular Growth;12.4;09-Jan-2023
@@ -4540,10 +4540,10 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 150717;INF194KB1EE1;-;IDFC TRANSPORTATION AND LOGISTICS FUND - GROWTH - REGULAR PLAN;10.118;09-Jan-2023
 150719;INF194KB1EC5;INF194KB1ED3;IDFC TRANSPORTATION AND LOGISTICS FUND - IDCW - DIRECT PLAN;10.154;09-Jan-2023
 150718;INF194KB1EF8;INF194KB1EG6;IDFC TRANSPORTATION AND LOGISTICS FUND - IDCW - REGULAR PLAN;10.118;09-Jan-2023
-149318;INF579M01AI2;-;IIFL QUANT FUND DIRECT GROWTH;10.4424;06-Jan-2023
-149319;INF579M01AJ0;INF579M01AK8;IIFL QUANT FUND DIRECT INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;10.4424;06-Jan-2023
-149317;INF579M01AF8;-;IIFL QUANT FUND REGULAR GROWTH;10.3103;06-Jan-2023
-149316;INF579M01AG6;INF579M01AH4;IIFL QUANT FUND REGULAR INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;10.3103;06-Jan-2023
+149318;INF579M01AI2;-;IIFL QUANT FUND DIRECT GROWTH;10.4949;09-Jan-2023
+149319;INF579M01AJ0;INF579M01AK8;IIFL QUANT FUND DIRECT INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;10.4950;09-Jan-2023
+149317;INF579M01AF8;-;IIFL QUANT FUND REGULAR GROWTH;10.3613;09-Jan-2023
+149316;INF579M01AG6;INF579M01AH4;IIFL QUANT FUND REGULAR INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;10.3612;09-Jan-2023
 148751;INF205KA1338;-;Invesco India ESG Equity Fund - Direct Plan - Growth;12.27;09-Jan-2023
 148752;INF205KA1320;INF205KA1346;Invesco India ESG Equity Fund - Direct Plan - IDCW (Payout / Reinvestment);12.27;09-Jan-2023
 148753;INF205KA1304;-;Invesco India ESG Equity Fund - Growth;11.88;09-Jan-2023
@@ -5562,10 +5562,10 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 141643;INF846K01A37;INF846K01A45;Axis Balanced Advantage Fund - Direct Plan - IDCW;12.45;09-Jan-2023
 141644;INF846K01A52;-;Axis Balanced Advantage Fund - Regular Plan - Growth;14.33;09-Jan-2023
 141645;INF846K01A60;INF846K01A78;Axis Balanced Advantage Fund - Regular Plan - IDCW;11.58;09-Jan-2023
-127852;INF761K01BM0;INF761K01BN8;BANK OF INDIA BALANCED ADVANTAGE FUND  DIRECT PLAN IDCW;11.9638;06-Jan-2023
-127851;INF761K01BP3;INF761K01BQ1;BANK OF INDIA BALANCED ADVANTAGE FUND  REGULAR PLAN IDCW;13.1014;06-Jan-2023
-127850;INF761K01BO6;-;BANK OF INDIA BALANCED ADVANTAGE FUND DIRECT PLAN  GROWTH;19.7824;06-Jan-2023
-127849;INF761K01BR9;-;BANK OF INDIA BALANCED ADVANTAGE FUND REGULAR PLAN  GROWTH;18.7785;06-Jan-2023
+127852;INF761K01BM0;INF761K01BN8;BANK OF INDIA BALANCED ADVANTAGE FUND  DIRECT PLAN IDCW;12.0905;09-Jan-2023
+127851;INF761K01BP3;INF761K01BQ1;BANK OF INDIA BALANCED ADVANTAGE FUND  REGULAR PLAN IDCW;13.2388;09-Jan-2023
+127850;INF761K01BO6;-;BANK OF INDIA BALANCED ADVANTAGE FUND DIRECT PLAN  GROWTH;19.9921;09-Jan-2023
+127849;INF761K01BR9;-;BANK OF INDIA BALANCED ADVANTAGE FUND REGULAR PLAN  GROWTH;18.9754;09-Jan-2023
 145396;INF955L01HF7;-;Baroda BNP Paribas Balanced Advantage Fund-Direct Plan-Growth Option;17.9230;09-Jan-2023
 145397;INF955L01HG5;INF955L01HH3;Baroda BNP Paribas Balanced Advantage Fund-Direct Plan-IDCW Option;15.5852;09-Jan-2023
 145387;INF955L01HC4;-;Baroda BNP Paribas Balanced Advantage Fund-Regular Plan -Growth Option;16.8926;09-Jan-2023
@@ -6475,10 +6475,10 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 149458;INF109KC1Z63;INF109KC1Z71;ICICI Prudential Strategic Metal and Energy Equity Fund of Fund - Direct Plan IDCW;13.6151;06-Jan-2023
 149456;INF109KC1Z22;-;ICICI Prudential Strategic Metal and Energy Equity Fund of Fund - Growth;13.4794;06-Jan-2023
 149457;INF109KC1Z30;INF109KC1Z48;ICICI Prudential Strategic Metal and Energy Equity Fund of Fund - IDCW;13.4793;06-Jan-2023
-149098;INF194KB1CF2;-;IDFC US EQUITY FUND OF FUND - GROWTH - DIRECT PLAN;8.583;06-Jan-2023
-149100;INF194KB1CC9;-;IDFC US EQUITY FUND OF FUND - GROWTH - REGULAR PLAN;8.447;06-Jan-2023
-149099;INF194KB1CG0;-;IDFC US EQUITY FUND OF FUND - IDCW - DIRECT PLAN;8.583;06-Jan-2023
-149097;INF194KB1CD7;-;IDFC US EQUITY FUND OF FUND - IDCW - REGULAR PLAN;8.447;06-Jan-2023
+149098;INF194KB1CF2;-;IDFC US EQUITY FUND OF FUND - GROWTH - DIRECT PLAN;8.805;09-Jan-2023
+149100;INF194KB1CC9;-;IDFC US EQUITY FUND OF FUND - GROWTH - REGULAR PLAN;8.666;09-Jan-2023
+149099;INF194KB1CG0;-;IDFC US EQUITY FUND OF FUND - IDCW - DIRECT PLAN;8.805;09-Jan-2023
+149097;INF194KB1CD7;-;IDFC US EQUITY FUND OF FUND - IDCW - REGULAR PLAN;8.666;09-Jan-2023
 149961;INF205KA1585;-;Invesco India - Invesco EQQQ Nasdaq-100 ETF Fund of Fund - Direct Plan - Growth;8.7714;09-Jan-2023
 149960;INF205KA1577;-;Invesco India - Invesco EQQQ Nasdaq-100 ETF Fund of Fund - Regular Plan - Growth;8.7551;09-Jan-2023
 148614;INF205KA1270;-;Invesco India - Invesco Global Consumer Trends Fund of Fund - Direct Plan - Growth;6.1832;09-Jan-2023
@@ -6515,10 +6515,10 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 133815;INF178L01152;-;Kotak World Gold Fund - Standard Plan - Growth Option;11.199;25-Feb-2020
 133817;INF178L01AM7;INF178L01AN5;Kotak World Gold Fund- Direct Plan- Dividend Option;9.78;25-Feb-2020
 133816;INF178L01AO3;-;Kotak World Gold Fund- Direct Plan- Growth Option;11.759;25-Feb-2020
-149230;INF174V01AY0;-;Mahindra Manulife Asia Pacific REITs FOF - Direct Plan - Growth;9.0062;06-Jan-2023
-149231;INF174V01BA8;INF174V01AZ7;Mahindra Manulife Asia Pacific REITs FOF - Direct Plan - IDCW;9.0063;06-Jan-2023
-149228;INF174V01AV6;-;Mahindra Manulife Asia Pacific REITs FOF - Regular Plan - Growth;8.8925;06-Jan-2023
-149229;INF174V01AX2;INF174V01AW4;Mahindra Manulife Asia Pacific REITs FOF - Regular Plan - IDCW;8.8926;06-Jan-2023
+149230;INF174V01AY0;-;Mahindra Manulife Asia Pacific REITs FOF - Direct Plan - Growth;9.1390;09-Jan-2023
+149231;INF174V01BA8;INF174V01AZ7;Mahindra Manulife Asia Pacific REITs FOF - Direct Plan - IDCW;9.1390;09-Jan-2023
+149228;INF174V01AV6;-;Mahindra Manulife Asia Pacific REITs FOF - Regular Plan - Growth;9.0228;09-Jan-2023
+149229;INF174V01AX2;INF174V01AW4;Mahindra Manulife Asia Pacific REITs FOF - Regular Plan - IDCW;9.0228;09-Jan-2023
 150594;INF769K01IP1;-;Mirae Asset Global Electric & Autonomous Vehicles ETFs Fund of Fund - Regular Plan - Growth;9.173;06-Jan-2023
 150595;INF769K01IQ9;-;Mirae Asset Global Electric & Autonomous Vehicles ETFs Fund of Fund- Direct Plan - Growth;9.187;06-Jan-2023
 150597;INF769K01IS5;-;Mirae Asset Global X Artificial Intelligence & Technology ETF Fund of Fund - Direct Plan- Growth;10.134;06-Jan-2023
@@ -7430,10 +7430,10 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 134999;INF204KA15I1;-;Reliance Interval Fund IV- Series 3- Direct Plan-Growth option;12.6668;02-Jul-2018
 135000;INF204KA12I8;-;Reliance Interval Fund IV- Series 3- Dividend Payout Option;12.4325;02-Jul-2018
 135002;INF204KA13I6;-;Reliance Interval Fund IV- Series 3- Growth option;12.4325;02-Jul-2018
-141950;INF761K01DS3;-;BANK OF INDIA Mid Cap Tax Fund Series 1 Direct Plan Growth;17.13;06-Jan-2023
-141949;INF761K01DT1;-;BANK OF INDIA Mid Cap Tax Fund Series 1 Direct Plan IDCW;17.13;06-Jan-2023
-141952;INF761K01DU9;-;BANK OF INDIA Mid Cap Tax Fund Series 1 Regular Plan Growth;16.54;06-Jan-2023
-141951;INF761K01DV7;-;BANK OF INDIA Mid Cap Tax Fund Series 1 Regular Plan IDCW;16.54;06-Jan-2023
+141950;INF761K01DS3;-;BANK OF INDIA Mid Cap Tax Fund Series 1 Direct Plan Growth;17.24;09-Jan-2023
+141949;INF761K01DT1;-;BANK OF INDIA Mid Cap Tax Fund Series 1 Direct Plan IDCW;17.24;09-Jan-2023
+141952;INF761K01DU9;-;BANK OF INDIA Mid Cap Tax Fund Series 1 Regular Plan Growth;16.65;09-Jan-2023
+141951;INF761K01DV7;-;BANK OF INDIA Mid Cap Tax Fund Series 1 Regular Plan IDCW;16.65;09-Jan-2023
 144315;INF761K01EL6;-;BANK OF INDIA Midcap Tax Fund Series 2 Direct Plan Growth;20.50;09-Jan-2023
 144309;INF761K01EK8;-;BANK OF INDIA Midcap Tax Fund Series 2 Direct Plan IDCW;20.50;09-Jan-2023
 144314;INF761K01EN2;-;BANK OF INDIA Midcap Tax Fund Series 2 Regular Plan Growth;19.67;09-Jan-2023
