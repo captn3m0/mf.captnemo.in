@@ -5813,12 +5813,12 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 149676;INF173K01262;INF173K01270;Sundaram Equity Savings Fund (Formerly Known as Principal Equity Savings Fund) -Quarterly Income Distribution CUM Capital Withdrawal;14.9955;11-Jan-2023
 149678;INF173K01HF9;INF173K01HG7;Sundaram Equity Savings Fund (Formerly Known as Principal Equity Savings Fund)- Direct Plan - Income Distribution CUM Capital Withdrawal Option - Quarterly;20.8976;11-Jan-2023
 149675;INF173K01247;INF173K01254;Sundaram Equity Savings Fund (Formerly Known as Principal Equity Savings Fund)- Half Yearly Income Distribution CUM Capital Withdrawal;13.9253;11-Jan-2023
-101906;INF277K01907;-;Tata Equity Savings Fund -Regular Plan-Growth Option;42.3681;10-Jan-2023
-119960;INF277K01QH5;-;Tata Equity Savings Fund- Direct Plan- Growth Option;46.9281;10-Jan-2023
-102118;INF277K01EF5;INF277K01915;Tata Equity Savings Fund- Regular Plan - Periodic Payout of IDCW Option;20.2972;10-Jan-2023
-101609;INF277K01EE8;INF277K01899;TATA Equity Savings Fund- Regular Plan -Monthly Payout of IDCW option;14.9402;10-Jan-2023
-119958;INF277K01QI3;INF277K01QJ1;Tata Equity Savings Fund-Direct Plan - Monthly Payout of IDCW Option;17.6755;10-Jan-2023
-119959;INF277K01QK9;INF277K01QL7;Tata Equity Savings Fund-Direct Plan - Periodic Payout of IDCWS Option;22.9319;10-Jan-2023
+101906;INF277K01907;-;Tata Equity Savings Fund -Regular Plan-Growth Option;42.3295;11-Jan-2023
+119960;INF277K01QH5;-;Tata Equity Savings Fund- Direct Plan- Growth Option;46.8865;11-Jan-2023
+102118;INF277K01EF5;INF277K01915;Tata Equity Savings Fund- Regular Plan - Periodic Payout of IDCW Option;20.2787;11-Jan-2023
+101609;INF277K01EE8;INF277K01899;TATA Equity Savings Fund- Regular Plan -Monthly Payout of IDCW option;14.9266;11-Jan-2023
+119958;INF277K01QI3;INF277K01QJ1;Tata Equity Savings Fund-Direct Plan - Monthly Payout of IDCW Option;17.6598;11-Jan-2023
+119959;INF277K01QK9;INF277K01QL7;Tata Equity Savings Fund-Direct Plan - Periodic Payout of IDCWS Option;22.9115;11-Jan-2023
 144312;INF582M01EC1;-;Union Equity Savings Fund - Direct Plan - Growth Option;13.84;11-Jan-2023
 144313;INF582M01EE7;INF582M01ED9;Union Equity Savings Fund - Direct Plan - IDCW Option;13.84;11-Jan-2023
 144310;INF582M01EG2;-;Union Equity Savings Fund - Regular Plan - Growth Option;13.48;11-Jan-2023
@@ -5843,10 +5843,10 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 119131;INF179K01XW8;-;HDFC Multi-Asset Fund - Growth Option - Direct Plan;54.098;11-Jan-2023
 103130;INF179K01AN5;INF179K01AO3;HDFC Multi-Asset Fund - IDCW Option;15.251;11-Jan-2023
 119130;INF179K01XU2;INF179K01XV0;HDFC Multi-Asset Fund - IDCW Option - Direct Plan;17.612;11-Jan-2023
-120334;INF109K015K4;-;ICICI Prudential Multi-Asset Fund - Direct Plan - Growth;518.569;10-Jan-2023
-120335;INF109K013K9;INF109K014K7;ICICI Prudential Multi-Asset Fund - Direct Plan - IDCW;39.255;10-Jan-2023
-101144;INF109K01761;-;ICICI Prudential Multi-Asset Fund - Growth;480.056;10-Jan-2023
-101143;INF109K01ED5;INF109K01779;ICICI Prudential Multi-Asset Fund - IDCW;25.4427;10-Jan-2023
+120334;INF109K015K4;-;ICICI Prudential Multi-Asset Fund - Direct Plan - Growth;517.5423;11-Jan-2023
+120335;INF109K013K9;INF109K014K7;ICICI Prudential Multi-Asset Fund - Direct Plan - IDCW;39.1773;11-Jan-2023
+101144;INF109K01761;-;ICICI Prudential Multi-Asset Fund - Growth;479.0963;11-Jan-2023
+101143;INF109K01ED5;INF109K01779;ICICI Prudential Multi-Asset Fund - IDCW;25.3919;11-Jan-2023
 115269;INF109K01TN2;-;ICICI Prudential Multi-Asset Fund- Institutional Growth Option;22.849;24-Apr-2020
 104898;INF109K01787;-;ICICI Prudential Multi-Asset Fund-Institutional Option - I;43.0129;18-Jun-2018
 148454;INF247L01AI8;-;Motilal Oswal Multi Asset Fund - Direct Plan - Growth Option;11.3321;11-Jan-2023
@@ -5867,12 +5867,12 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 103408;INF200K01800;-;SBI MULTI ASSET ALLOCATION FUND - REGULAR PLAN - GROWTH;39.6244;11-Jan-2023
 103400;INF200K01818;INF200K01826;SBI Multi Asset Allocation Fund - Regular Plan - Monthly Income Distribution cum Capital Withdrawal Option (IDCW);17.7177;11-Jan-2023
 103401;INF200K01834;INF200K01842;SBI Multi Asset Allocation Fund - Regular Plan - Quarterly Income Distribution cum Capital Withdrawal Option (IDCW);17.7008;11-Jan-2023
-148052;-;INF277K010Z9;Tata Multi Asset Opportnities Fund-Direct Plan-Dividend Reinvestment;17.2408;10-Jan-2023
-148049;INF277K011Z7;-;Tata Multi Asset Opportunities Fund-Direct Plan-Dividend Payout;17.2408;10-Jan-2023
-148053;INF277K019Y3;-;Tata Multi Asset Opportunities Fund-Direct Plan-Growth;17.2408;10-Jan-2023
-148054;INF277K014Z1;-;Tata Multi Asset Opportunities Fund-Regular Plan-Dividend Payout;16.3589;10-Jan-2023
-148051;-;INF277K013Z3;Tata Multi Asset Opportunities Fund-Regular Plan-Dividend Reinvestment;16.3589;10-Jan-2023
-148050;INF277K012Z5;-;Tata Multi Asset Opportunities Fund-Regular Plan-Growth;16.3589;10-Jan-2023
+148052;-;INF277K010Z9;Tata Multi Asset Opportnities Fund-Direct Plan-Dividend Reinvestment;17.2290;11-Jan-2023
+148049;INF277K011Z7;-;Tata Multi Asset Opportunities Fund-Direct Plan-Dividend Payout;17.2290;11-Jan-2023
+148053;INF277K019Y3;-;Tata Multi Asset Opportunities Fund-Direct Plan-Growth;17.2290;11-Jan-2023
+148054;INF277K014Z1;-;Tata Multi Asset Opportunities Fund-Regular Plan-Dividend Payout;16.3470;11-Jan-2023
+148051;-;INF277K013Z3;Tata Multi Asset Opportunities Fund-Regular Plan-Dividend Reinvestment;16.3470;11-Jan-2023
+148050;INF277K012Z5;-;Tata Multi Asset Opportunities Fund-Regular Plan-Growth;16.3470;11-Jan-2023
 111599;INF789F01AP6;-;UTI - Multi Asset Fund - Regular Plan - Growth Option;45.6508;11-Jan-2023
 120760;INF789F01VE6;-;UTI - Multi Asset Fund- Direct Plan - Growth Option;49.3861;11-Jan-2023
 120761;INF789F01VC0;INF789F01VD8;UTI Multi Asset Fund - Direct Plan - IDCW;22.0709;11-Jan-2023
@@ -6295,10 +6295,10 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 119781;INF174K01MP6;-;Kotak Gold Fund Growth - Direct;23.4733;11-Jan-2023
 114757;INF174K01AU1;INF174K01AV9;Kotak Gold Fund Payout of Income Distribution cum capital withdrawal option;22.4745;11-Jan-2023
 119780;INF174K01MQ4;INF174K01MR2;Kotak Gold Fund Payout of Income Distribution cum capital withdrawal option- Direct;23.4731;11-Jan-2023
-119777;INF174K01LN3;-;Kotak Multi Asset Allocator Fund of Fund - Dynamic - Direct Growth - Direct;159.178;10-Jan-2023
-119776;INF174K01LO1;-;Kotak Multi Asset Allocator Fund of Fund - Dynamic - Direct Payout of Income Distribution cum capital withdrawal option;156.314;10-Jan-2023
-102574;INF174K01468;-;Kotak Multi Asset Allocator Fund of Fund - Dynamic - Growth;150.604;10-Jan-2023
-102573;INF174K01484;INF174K01476;Kotak Multi Asset Allocator Fund of Fund - Dynamic - Payout of Income Distribution cum capital withdrawal option;146.598;10-Jan-2023
+119777;INF174K01LN3;-;Kotak Multi Asset Allocator Fund of Fund - Dynamic - Direct Growth - Direct;159.504;11-Jan-2023
+119776;INF174K01LO1;-;Kotak Multi Asset Allocator Fund of Fund - Dynamic - Direct Payout of Income Distribution cum capital withdrawal option;156.634;11-Jan-2023
+102574;INF174K01468;-;Kotak Multi Asset Allocator Fund of Fund - Dynamic - Growth;150.908;11-Jan-2023
+102573;INF174K01484;INF174K01476;Kotak Multi Asset Allocator Fund of Fund - Dynamic - Payout of Income Distribution cum capital withdrawal option;146.895;11-Jan-2023
 148501;INF769K01GD1;INF769K01GF6;Mirae Asset Equity Allocator Fund  of Fund Direct IDCW;16.435;11-Jan-2023
 148503;INF769K01GA7;INF769K01GC3;Mirae Asset Equity Allocator Fund  of Fund Regular IDCW;16.391;11-Jan-2023
 148500;INF769K01GE9;-;Mirae Asset Equity Allocator Fund of Fund Direct Growth;16.424;11-Jan-2023
@@ -6313,10 +6313,10 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 149787;INF769K01HY5;INF769K01IA3;Mirae Asset Nifty India Manufacturing ETF FOF - Direct Plan- IDCW;10.602;11-Jan-2023
 149788;INF769K01HW9;-;Mirae Asset Nifty India Manufacturing ETF FOF - Regular Plan - Growth;10.561;11-Jan-2023
 149789;INF769K01HV1;INF769K01HX7;Mirae Asset Nifty India Manufacturing ETF FOF - Regular Plan - IDCW;10.599;11-Jan-2023
-148928;INF769K01HH0;-;Mirae Asset NYSE FANG + ETF Fund of Fund Direct Growth;7.836;10-Jan-2023
-148929;INF769K01HG2;-;Mirae Asset NYSE FANG + ETF Fund of Fund Regular Growth;7.781;10-Jan-2023
-149170;INF769K01HR9;-;Mirae Asset S&P 500 Top 50 ETF Fund of Fund Direct Growth;9.141;10-Jan-2023
-149171;INF769K01HQ1;-;Mirae Asset S&P 500 Top 50 ETF Fund of Fund Regular Growth;9.091;10-Jan-2023
+148928;INF769K01HH0;-;Mirae Asset NYSE FANG + ETF Fund of Fund Direct Growth;7.916;11-Jan-2023
+148929;INF769K01HG2;-;Mirae Asset NYSE FANG + ETF Fund of Fund Regular Growth;7.862;11-Jan-2023
+149170;INF769K01HR9;-;Mirae Asset S&P 500 Top 50 ETF Fund of Fund Direct Growth;9.194;11-Jan-2023
+149171;INF769K01HQ1;-;Mirae Asset S&P 500 Top 50 ETF Fund of Fund Regular Growth;9.145;11-Jan-2023
 149240;INF247L01AQ1;-;Motilal Oswal 5 Year G-Sec Fund Of Fund Direct -Growth;10.3348;11-Jan-2023
 149241;INF247L01AR9;-;Motilal Oswal 5 Year G-Sec Fund Of Fund Regular -Growth;10.3246;11-Jan-2023
 148747;INF247L01AL2;-;Motilal Oswal Asset Allocation FOF- A- Direct Growth;11.7707;11-Jan-2023
@@ -6493,20 +6493,20 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 126352;INF205K01A32;INF205K01A40;Invesco India - Invesco Pan European Equity Fund of Fund - Direct Plan - IDCW (Payout / Reinvestment);15.3135;11-Jan-2023
 126351;INF205K01ZZ9;-;Invesco India - Invesco Pan European Equity Fund of Fund - Regular Plan - Growth Option;14.2385;11-Jan-2023
 126350;INF205K01A08;INF205K01A16;Invesco India - Invesco Pan European Equity Fund of Fund - Regular Plan - IDCW (Payout / Reinvestment);14.2381;11-Jan-2023
-106441;INF174K01DV3;-;Kotak Global Emerging Market Fund - Growth;20.028;10-Jan-2023
-119779;INF174K01LW4;-;Kotak Global Emerging Market Fund - Growth - Direct;21.46;10-Jan-2023
-106442;INF174K01DX9;INF174K01DW1;Kotak Global Emerging Market Fund - Payout of Income Distribution cum capital withdrawal option;20.029;10-Jan-2023
-119778;INF174K01LX2;-;Kotak Global Emerging Market Fund - Payout of Income Distribution cum capital withdrawal option - Direct;21.55;10-Jan-2023
-149056;INF174KA1HD1;-;Kotak Global Innovation Fund of Fund - Regular Plan-Growth;6.8432;10-Jan-2023
-149060;INF174KA1HH2;INF174KA1HI0;Kotak Global Innovation Fund of Fund- Direct Plan - IDCW Option;6.9726;10-Jan-2023
-149059;INF174KA1HG4;-;Kotak Global Innovation Fund of Fund- Direct Plan -Growth;6.9727;10-Jan-2023
-149058;INF174KA1HE9;INF174KA1HF6;Kotak Global Innovation Fund of Fund- Regular Plan -IDCW Option;6.8434;10-Jan-2023
-148646;INF174KA1FO2;-;Kotak International REIT FOF - Direct Plan - Growth;9.6139;10-Jan-2023
-148649;INF174KA1FN4;-;Kotak International REIT FOF - Direct Plan - Payout of Income Distribution cum capital withdrawal option;9.6139;10-Jan-2023
-148645;INF174KA1FL8;-;Kotak International REIT FOF - Regular Plan - Growth;9.4327;10-Jan-2023
-148647;INF174KA1FK0;-;Kotak International REIT FOF - Regular Plan - Payout of Income Distribution cum capital withdrawal option;9.4327;10-Jan-2023
-148662;INF174KA1FQ7;-;Kotak NASDAQ 100 Fund of Fund - Direct Plan - Growth;9.264;10-Jan-2023
-148661;INF174KA1FR5;-;Kotak NASDAQ 100 Fund of Fund - Regular Plan - Growth;9.1914;10-Jan-2023
+106441;INF174K01DV3;-;Kotak Global Emerging Market Fund - Growth;19.95;11-Jan-2023
+119779;INF174K01LW4;-;Kotak Global Emerging Market Fund - Growth - Direct;21.376;11-Jan-2023
+106442;INF174K01DX9;INF174K01DW1;Kotak Global Emerging Market Fund - Payout of Income Distribution cum capital withdrawal option;19.951;11-Jan-2023
+119778;INF174K01LX2;-;Kotak Global Emerging Market Fund - Payout of Income Distribution cum capital withdrawal option - Direct;21.466;11-Jan-2023
+149056;INF174KA1HD1;-;Kotak Global Innovation Fund of Fund - Regular Plan-Growth;6.9401;11-Jan-2023
+149060;INF174KA1HH2;INF174KA1HI0;Kotak Global Innovation Fund of Fund- Direct Plan - IDCW Option;7.0717;11-Jan-2023
+149059;INF174KA1HG4;-;Kotak Global Innovation Fund of Fund- Direct Plan -Growth;7.0717;11-Jan-2023
+149058;INF174KA1HE9;INF174KA1HF6;Kotak Global Innovation Fund of Fund- Regular Plan -IDCW Option;6.9403;11-Jan-2023
+148646;INF174KA1FO2;-;Kotak International REIT FOF - Direct Plan - Growth;9.6177;11-Jan-2023
+148649;INF174KA1FN4;-;Kotak International REIT FOF - Direct Plan - Payout of Income Distribution cum capital withdrawal option;9.6176;11-Jan-2023
+148645;INF174KA1FL8;-;Kotak International REIT FOF - Regular Plan - Growth;9.4361;11-Jan-2023
+148647;INF174KA1FK0;-;Kotak International REIT FOF - Regular Plan - Payout of Income Distribution cum capital withdrawal option;9.4361;11-Jan-2023
+148662;INF174KA1FQ7;-;Kotak NASDAQ 100 Fund of Fund - Direct Plan - Growth;9.3582;11-Jan-2023
+148661;INF174KA1FR5;-;Kotak NASDAQ 100 Fund of Fund - Regular Plan - Growth;9.2848;11-Jan-2023
 133832;INF178L01CM3;INF178L01CN1;Kotak US Equity Fund - Direct Plan - Dividend option;20.129;25-Feb-2020
 133831;INF178L01CL5;-;Kotak US Equity Fund - Direct Plan - Growth option;20.131;25-Feb-2020
 133830;INF178L01CJ9;INF178L01CK7;Kotak US Equity Fund - Standard Plan - Dividend option;19.213;25-Feb-2020
@@ -6519,10 +6519,10 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 149231;INF174V01BA8;INF174V01AZ7;Mahindra Manulife Asia Pacific REITs FOF - Direct Plan - IDCW;9.0180;11-Jan-2023
 149228;INF174V01AV6;-;Mahindra Manulife Asia Pacific REITs FOF - Regular Plan - Growth;8.9028;11-Jan-2023
 149229;INF174V01AX2;INF174V01AW4;Mahindra Manulife Asia Pacific REITs FOF - Regular Plan - IDCW;8.9029;11-Jan-2023
-150594;INF769K01IP1;-;Mirae Asset Global Electric & Autonomous Vehicles ETFs Fund of Fund - Regular Plan - Growth;9.383;10-Jan-2023
-150595;INF769K01IQ9;-;Mirae Asset Global Electric & Autonomous Vehicles ETFs Fund of Fund- Direct Plan - Growth;9.398;10-Jan-2023
-150597;INF769K01IS5;-;Mirae Asset Global X Artificial Intelligence & Technology ETF Fund of Fund - Direct Plan- Growth;10.420;10-Jan-2023
-150596;INF769K01IR7;-;Mirae Asset Global X Artificial Intelligence & Technology ETF Fund of Fund - Regular Plan - Growth;10.411;10-Jan-2023
+150594;INF769K01IP1;-;Mirae Asset Global Electric & Autonomous Vehicles ETFs Fund of Fund - Regular Plan - Growth;9.499;11-Jan-2023
+150595;INF769K01IQ9;-;Mirae Asset Global Electric & Autonomous Vehicles ETFs Fund of Fund- Direct Plan - Growth;9.514;11-Jan-2023
+150597;INF769K01IS5;-;Mirae Asset Global X Artificial Intelligence & Technology ETF Fund of Fund - Direct Plan- Growth;10.425;11-Jan-2023
+150596;INF769K01IR7;-;Mirae Asset Global X Artificial Intelligence & Technology ETF Fund of Fund - Regular Plan - Growth;10.416;11-Jan-2023
 149910;-;-;Navi NASDAQ 100 Fund of Fund- Direct- Growth;8.1168;10-Jan-2023
 149911;-;-;Navi NASDAQ 100 Fund of Fund- Regular- Growth;8.1057;10-Jan-2023
 149830;INF959L01FV0;-;Navi US Total Stock Market Fund of Fund- Direct Plan- Growth;9.9095;10-Jan-2023
@@ -6540,10 +6540,10 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 149300;INF663L01W71;INF663L01W89;PGIM India Global Select Real Estate Securities Fund of Fund - Direct Plan - IDCW Option;8.76;10-Jan-2023
 149299;INF663L01W97;-;PGIM India Global Select Real Estate Securities Fund of Fund - Regular Plan - Growth Option;8.67;10-Jan-2023
 149301;INF663L01X05;INF663L01X13;PGIM India Global Select Real Estate Securities Fund of Fund - Regular Plan - IDCW Option;8.67;10-Jan-2023
-148760;INF200KA1U28;-;SBI International Access - US Equity FoF - Direct Plan - Growth;11.0930;10-Jan-2023
-148762;INF200KA1T96;-;SBI International Access - US Equity FoF - Regular Plan - Growth;10.9305;10-Jan-2023
-148761;INF200KA1U36;INF200KA1U44;SBI International Access- US Equity FoF Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);11.0934;10-Jan-2023
-148759;INF200KA1U02;INF200KA1U10;SBI International Access- US Equity FoF Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);10.9302;10-Jan-2023
+148760;INF200KA1U28;-;SBI International Access - US Equity FoF - Direct Plan - Growth;11.1873;11-Jan-2023
+148762;INF200KA1T96;-;SBI International Access - US Equity FoF - Regular Plan - Growth;11.0231;11-Jan-2023
+148761;INF200KA1U36;INF200KA1U44;SBI International Access- US Equity FoF Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);11.1876;11-Jan-2023
+148759;INF200KA1U02;INF200KA1U10;SBI International Access- US Equity FoF Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);11.0229;11-Jan-2023
 119602;INF903J01OB6;-;Sundaram Global Brand Fund Direct Plan - Growth;24.2452;10-Jan-2023
 119601;INF903J01NZ7;INF903J01OA8;Sundaram Global Brand Fund Direct Plan - Income Distribution cum Capital Withdrawal (IDCW);21.5640;10-Jan-2023
 106370;INF903J01EX1;-;Sundaram Global Brand Fund Regular Plan - Growth;22.6784;10-Jan-2023
@@ -7182,8 +7182,8 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 149786;INF769K01IB1;-;Mirae Asset Nifty India Manufacturing ETF;84.2208;11-Jan-2023
 149918;INF769K01IC9;-;Mirae Asset Nifty Midcap 150 ETF Regular Growth Option;11.9101;11-Jan-2023
 147906;INF769K01FN2;-;Mirae Asset Nifty Next 50 ETF (MANxt50ETF);422.3650;11-Jan-2023
-148927;INF769K01HF4;-;Mirae Asset NYSE FANG + ETF;37.6514;10-Jan-2023
-149169;INF769K01HP3;-;Mirae Asset S&P 500 Top 50 ETF;25.7085;10-Jan-2023
+148927;INF769K01HF4;-;Mirae Asset NYSE FANG + ETF;38.1885;11-Jan-2023
+149169;INF769K01HP3;-;Mirae Asset S&P 500 Top 50 ETF;25.9422;11-Jan-2023
 114984;INF247L01AP3;-;Motilal Oswal Nasdaq 100 ETF (MOFN100);89.4361;11-Jan-2023
 149438;INF247L01AU3;-;Motilal Oswal Nasdaq Q50 ETF;52.0091;11-Jan-2023
 149801;INF247L01AX7;-;Motilal Oswal Nifty 200 Momentum 30 ETF;38.4393;11-Jan-2023
