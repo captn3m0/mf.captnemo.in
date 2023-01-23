@@ -2726,14 +2726,14 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 114297;-;INF200K01LN6;SBI Overnight Fund - Regular Plan - Daily Income Distribution cum Capital Withdrawal Option (IDCW);1116.9957;22-Jan-2023
 101206;INF200K01LQ9;-;SBI OVERNIGHT FUND - REGULAR PLAN - GROWTH;3566.4120;22-Jan-2023
 103140;INF200K01LO4;INF200K01LP1;SBI Overnight Fund - Regular Plan - Weekly Income Distribution cum Capital Withdrawal Option (IDCW);1140.5377;22-Jan-2023
-150562;INF680P01323;-;Shriram Overnight Fund -  Direct Growth;10.2501;22-Jan-2023
-150566;INF680P01281;INF680P01299;Shriram Overnight Fund -  Regular Fortnightly IDCW;10.0098;22-Jan-2023
-150561;-;INF680P01331;Shriram Overnight Fund - Direct Daily IDCW;10.0000;22-Jan-2023
+150562;INF680P01323;-;Shriram Overnight Fund -  Direct Growth;10.2519;23-Jan-2023
+150566;INF680P01281;INF680P01299;Shriram Overnight Fund -  Regular Fortnightly IDCW;10.0115;23-Jan-2023
+150561;-;INF680P01331;Shriram Overnight Fund - Direct Daily IDCW;10.0000;23-Jan-2023
 150564;INF680P01364;INF680P01372;Shriram Overnight Fund - Direct Fortnightly IDCW;10.0046;22-Sep-2022
-150558;-;INF680P01257;Shriram Overnight Fund - Regular Daily IDCW;10.0000;22-Jan-2023
-150565;INF680P01232;-;Shriram Overnight Fund - Regular Growth;10.2461;22-Jan-2023
-150560;INF680P01307;INF680P01315;Shriram Overnight Fund - Regular Monthly IDCW;10.0098;22-Jan-2023
-150559;INF680P01265;INF680P01273;Shriram Overnight Fund - Regular Weekly IDCW;10.0099;22-Jan-2023
+150558;-;INF680P01257;Shriram Overnight Fund - Regular Daily IDCW;10.0000;23-Jan-2023
+150565;INF680P01232;-;Shriram Overnight Fund - Regular Growth;10.2478;23-Jan-2023
+150560;INF680P01307;INF680P01315;Shriram Overnight Fund - Regular Monthly IDCW;10.0115;23-Jan-2023
+150559;INF680P01265;INF680P01273;Shriram Overnight Fund - Regular Weekly IDCW;10.0000;23-Jan-2023
 146964;INF903JA1HJ9;-;Sundaram Overnight Fund Direct Plan - Daily Reinvestment of Income Distribution cum Capital Withdrawal (IDCW);1000.0300;22-Jan-2023
 146956;INF903JA1HL5;-;Sundaram Overnight Fund Direct Plan - Fortnightly Reinvestment of Income Distribution cum Capital Withdrawal (IDCW);1065.1199;22-Jan-2023
 146963;INF903JA1HG5;-;Sundaram Overnight Fund Direct Plan - Growth;1177.2667;22-Jan-2023
@@ -3558,10 +3558,10 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 119723;INF200K01UM9;-;SBI LONG TERM EQUITY FUND - DIRECT PLAN -GROWTH;254.2166;20-Jan-2023
 103883;INF200K01479;-;SBI Long Term Equity Fund - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);53.9770;20-Jan-2023
 105628;INF200K01495;-;SBI LONG TERM EQUITY FUND - REGULAR PLAN- GROWTH;239.2685;20-Jan-2023
-145819;INF680P01158;-;Shriram Long Term Equity Fund - Direct Growth;16.7371;20-Jan-2023
-145822;INF680P01166;-;Shriram Long Term Equity Fund - Direct- IDCW;16.6655;20-Jan-2023
-145820;INF680P01133;-;Shriram Long Term Equity Fund - Regular Growth;15.5325;20-Jan-2023
-145821;INF680P01141;-;Shriram Long Term Equity Fund - Regular-IDCW;15.5234;20-Jan-2023
+145819;INF680P01158;-;Shriram Long Term Equity Fund - Direct Growth;16.7536;23-Jan-2023
+145822;INF680P01166;-;Shriram Long Term Equity Fund - Direct- IDCW;16.6818;23-Jan-2023
+145820;INF680P01133;-;Shriram Long Term Equity Fund - Regular Growth;15.5456;23-Jan-2023
+145821;INF680P01141;-;Shriram Long Term Equity Fund - Regular-IDCW;15.5364;23-Jan-2023
 119549;INF903J01NN3;-;Sundaram Diversified Equity (ELSS) Direct Plan - Growth;161.1332;20-Jan-2023
 119548;INF903J01NL7;INF903J01NM5;Sundaram Diversified Equity (ELSS) Direct Plan - Income Distribution cum Capital Withdrawal (IDCW);15.5253;20-Jan-2023
 101853;INF903J01538;-;Sundaram Diversified Equity (ELSS) Regular Plan - Growth;154.2047;20-Jan-2023
@@ -3694,10 +3694,10 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 119717;INF200K01UE6;INF200K01UF3;SBI Flexicap Fund - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);41.2467;20-Jan-2023
 103216;INF200K01230;INF200K01248;SBI Flexicap Fund - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);33.7871;20-Jan-2023
 103215;INF200K01222;-;SBI Flexicap Fund - REGULAR PLAN -Growth Option;75.4555;20-Jan-2023
-144905;INF680P01109;-;Shriram Flexi Cap Fund - Direct Growth;16.0735;20-Jan-2023
-144906;INF680P01117;INF680P01125;Shriram Flexi Cap Fund - Direct-IDCW;15.9834;20-Jan-2023
-144902;INF680P01075;-;Shriram Flexi Cap Fund - Regular Growth;14.8603;20-Jan-2023
-144903;INF680P01083;INF680P01091;Shriram Flexi Cap Fund - Regular-IDCW;14.8558;20-Jan-2023
+144905;INF680P01109;-;Shriram Flexi Cap Fund - Direct Growth;16.1405;23-Jan-2023
+144906;INF680P01117;INF680P01125;Shriram Flexi Cap Fund - Direct-IDCW;16.0498;23-Jan-2023
+144902;INF680P01075;-;Shriram Flexi Cap Fund - Regular Growth;14.9199;23-Jan-2023
+144903;INF680P01083;INF680P01091;Shriram Flexi Cap Fund - Regular-IDCW;14.9154;23-Jan-2023
 150571;INF903JA1LE2;-;Sundaram Flexicap Fund Direct Growth;10.0166;20-Jan-2023
 150573;INF903JA1LF9;-;Sundaram Flexicap Fund Direct Plan IDCW Payout;10.0165;20-Jan-2023
 150572;-;INF903JA1LG7;Sundaram Flexicap Fund Direct Plan IDCW Reinvestment;10.0165;20-Jan-2023
@@ -5212,10 +5212,10 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 119604;INF200K01RW4;INF200K01RX2;SBI Equity Hybrid Fund - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);65.0611;20-Jan-2023
 101551;INF200K01115;INF200K01123;SBI Equity Hybrid Fund - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);43.3741;20-Jan-2023
 102885;INF200K01107;-;SBI EQUITY HYBRID FUND - REGULAR PLAN -Growth;204.6875;20-Jan-2023
-125711;INF680P01042;-;Shriram Hybrid Equity Fund- Direct Growth;25.3661;20-Jan-2023
-125712;INF680P01059;INF680P01067;Shriram Hybrid Equity Fund- Direct- IDCW;20.1108;20-Jan-2023
-125713;INF680P01018;-;Shriram Hybrid Equity Fund- Growth;23.0865;20-Jan-2023
-125714;INF680P01026;INF680P01034;Shriram Hybrid Equity Fund- Regular-IDCW;18.4553;20-Jan-2023
+125711;INF680P01042;-;Shriram Hybrid Equity Fund- Direct Growth;25.4794;23-Jan-2023
+125712;INF680P01059;INF680P01067;Shriram Hybrid Equity Fund- Direct- IDCW;20.2006;23-Jan-2023
+125713;INF680P01018;-;Shriram Hybrid Equity Fund- Growth;23.1868;23-Jan-2023
+125714;INF680P01026;INF680P01034;Shriram Hybrid Equity Fund- Regular-IDCW;18.5355;23-Jan-2023
 149601;INF173K01FE6;-;Sundaram Aggressive Hybrid Fund (Formerly Known as Principal Hybrid Equity Fund)- Direct Plan - Growth Option;127.5737;20-Jan-2023
 149600;INF173K01CI4;INF173K01CJ2;Sundaram Aggressive Hybrid Fund (Formerly Known as Principal Hybrid Equity Fund)- Monthly Income Distribution CUM Capital Withdrawal;26.0157;20-Jan-2023
 149599;INF173K01CL8;-;Sundaram Aggressive Hybrid Fund (Formerly Known as Principal Hybrid Equity Fund)-Growth;114.5307;20-Jan-2023
@@ -5654,10 +5654,10 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 134109;INF200KA1648;-;SBI Dynamic Asset Allocation Fund - Regular Plan - Growth;15.9463;02-Jul-2021
 134111;INF200KA1689;INF200KA1697;SBI Dynamic Asset Allocation Fund- Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);16.8235;02-Jul-2021
 134108;INF200KA1655;INF200KA1663;SBI Dynamic Asset Allocation Fund- Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);15.9495;02-Jul-2021
-147406;INF680P01208;-;Shriram Balanced Advantage Fund - Direct Growth;14.1988;20-Jan-2023
-147403;INF680P01216;INF680P01224;Shriram Balanced Advantage Fund - Direct- IDCW;14.1481;20-Jan-2023
-147405;INF680P01174;-;Shriram Balanced Advantage Fund - Regular Growth;13.2683;20-Jan-2023
-147404;INF680P01182;INF680P01190;Shriram Balanced Advantage Fund - Regular-IDCW;13.2692;20-Jan-2023
+147406;INF680P01208;-;Shriram Balanced Advantage Fund - Direct Growth;14.2573;23-Jan-2023
+147403;INF680P01216;INF680P01224;Shriram Balanced Advantage Fund - Direct- IDCW;14.2062;23-Jan-2023
+147405;INF680P01174;-;Shriram Balanced Advantage Fund - Regular Growth;13.3209;23-Jan-2023
+147404;INF680P01182;INF680P01190;Shriram Balanced Advantage Fund - Regular-IDCW;13.3218;23-Jan-2023
 149717;INF173K01FI7;-;Sundaram Balanced Advantage Fund ( Formerly Known as Principal Balanced Advantage Fund) - Direct Plan - Growth Option;29.9723;20-Jan-2023
 149718;INF173K01FF3;INF173K01FG1;Sundaram Balanced Advantage Fund (Formerly Known as Principal Balanced Advantage Fund) - Direct Plan - Monthly Income Distribution CUM Capital Withdrawal Option;16.7184;20-Jan-2023
 149715;INF173K01585;-;Sundaram Balanced Advantage Fund (Formerly Known as Principal Balanced Advantage Fund) - Growth Option;26.4923;20-Jan-2023
@@ -11751,10 +11751,6 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 151269;INF200KA15U4;-;SBI Fixed Maturity Plan (FMP)-Series 75 (366 Days)- Direct Plan- Growth;10.0268;22-Jan-2023
 151271;INF200KA13U9;-;SBI Fixed Maturity Plan (FMP)-Series 75 (366 Days)- Regular  Plan- Growth;10.0265;22-Jan-2023
 151272;INF200KA14U7;-;SBI Fixed Maturity Plan (FMP)-Series 75 (366 Days)- Regular Plan- Income Distribution Cum Capital Withdrawal Payout;10.0265;22-Jan-2023
-145584;INF277K014Q0;-;TATA Fixed Maturity Plan Series 56 Sch F Direct Plan - Payout of Income Distribution cum capital withdrawal option ;13.0141;04-Apr-2022
-145582;INF277K012Q4;-;TATA Fixed Maturity Plan Series 56 Sch F Regular Plan - Payout of Income Distribution cum capital withdrawal option ;12.9030;04-Apr-2022
-145583;INF277K013Q2;-;Tata Fixed Maturity Plan Series 56 Scheme F - Direct Plan - Growth;13.0141;04-Apr-2022
-145581;INF277K011Q6;-;Tata Fixed Maturity Plan Series 56 Scheme F - Regular Plan - Growth;12.9030;04-Apr-2022
 141245;INF789FC1TE6;-;UTI Capital Protection Oriented Scheme - Series IX-I (1467 Days) - Direct Plan - IDCW;10;04-May-2021
 141243;INF789FC1TC0;-;UTI Capital Protection Oriented Scheme - Series IX-I (1467 Days) - Regular Plan - IDCW;10.0001;04-May-2021
 141244;INF789FC1TF3;-;UTI Capital Protection Oriented Scheme Series IX-I (1467 Days) - Direct Plan - Growth Option;12.8584;04-May-2021
