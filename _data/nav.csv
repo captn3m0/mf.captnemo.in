@@ -4162,10 +4162,10 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 120402;INF205K01MT0;INF205K01MU8;Invesco India Midcap Fund - Direct Plan - IDCW (Payout / Reinvestment);41.28;31-Jan-2023
 105503;INF205K01BC9;-;Invesco India Midcap Fund - Growth Option;87.59;31-Jan-2023
 105504;INF205K01BD7;INF205K01BE5;Invesco India Midcap Fund - IDCW (Payout / Reinvestment);33.12;31-Jan-2023
-148733;INF00XX01929;-;ITI Mid Cap Cap Fund - Direct Plan - Growth Option;11.7392;31-Jan-2023
-148731;INF00XX01937;INF00XX01945;ITI Mid Cap Cap Fund - Direct Plan - IDCW Option;11.7392;31-Jan-2023
-148732;INF00XX01895;-;ITI Mid Cap Cap Fund - Regular Plan - Growth Option;11.2368;31-Jan-2023
-148734;INF00XX01903;INF00XX01911;ITI Mid Cap Cap Fund - Regular Plan - IDCW Option;11.2368;31-Jan-2023
+148733;INF00XX01929;-;ITI Mid Cap Fund - Direct Plan - Growth Option;11.7392;31-Jan-2023
+148731;INF00XX01937;INF00XX01945;ITI Mid Cap Fund - Direct Plan - IDCW Option;11.7392;31-Jan-2023
+148732;INF00XX01895;-;ITI Mid Cap Fund - Regular Plan - Growth Option;11.2368;31-Jan-2023
+148734;INF00XX01903;INF00XX01911;ITI Mid Cap Fund - Regular Plan - IDCW Option;11.2368;31-Jan-2023
 150815;INF192K01MV6;-;JM Midcap Fund (Direct) - Growth;9.7514;31-Jan-2023
 150814;INF192K01MW4;INF192K01MX2;JM Midcap Fund (Direct) - IDCW;9.7514;31-Jan-2023
 150812;INF192K01MS2;-;JM Midcap Fund (Regular) - Growth;9.7105;31-Jan-2023
@@ -6553,10 +6553,10 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 148762;INF200KA1T96;-;SBI International Access - US Equity FoF - Regular Plan - Growth;11.3144;31-Jan-2023
 148761;INF200KA1U36;INF200KA1U44;SBI International Access- US Equity FoF Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);11.4877;31-Jan-2023
 148759;INF200KA1U02;INF200KA1U10;SBI International Access- US Equity FoF Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);11.3141;31-Jan-2023
-119602;INF903J01OB6;-;Sundaram Global Brand Fund Direct Plan - Growth;25.1234;30-Jan-2023
-119601;INF903J01NZ7;INF903J01OA8;Sundaram Global Brand Fund Direct Plan - Income Distribution cum Capital Withdrawal (IDCW);22.3448;30-Jan-2023
-106370;INF903J01EX1;-;Sundaram Global Brand Fund Regular Plan - Growth;23.4882;30-Jan-2023
-106369;INF903J01EY9;INF903J01EZ6;Sundaram Global Brand Fund Regular Plan - Income Distribution cum Capital Withdrawal (IDCW);20.1274;30-Jan-2023
+119602;INF903J01OB6;-;Sundaram Global Brand Fund Direct Plan - Growth;25.3696;31-Jan-2023
+119601;INF903J01NZ7;INF903J01OA8;Sundaram Global Brand Fund Direct Plan - Income Distribution cum Capital Withdrawal (IDCW);22.5637;31-Jan-2023
+106370;INF903J01EX1;-;Sundaram Global Brand Fund Regular Plan - Growth;23.7177;31-Jan-2023
+106369;INF903J01EY9;INF903J01EZ6;Sundaram Global Brand Fund Regular Plan - Income Distribution cum Capital Withdrawal (IDCW);20.3242;31-Jan-2023
 115127;INF209KB18D3;-;Aditya Birla Sun Life Gold ETF;51.919;31-Jan-2023
 113434;INF846K01W80;-;Axis Gold ETF;48.4114;31-Jan-2023
 113049;INF179KC1981;-;HDFC Gold Exchange Traded Fund. - Growth Option;49.8467;31-Jan-2023
@@ -7867,22 +7867,6 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 150316;INF209KB14H3;-;Aditya Birla Sun Life Fixed Term Plan - Series TQ (1879 days) - Direct Plan - Growth Option;10.2369;31-Jan-2023
 150314;INF209KB12H7;-;Aditya Birla Sun Life Fixed Term Plan - Series TQ (1879 days) - Regular Plan - Growth Option;10.2281;31-Jan-2023
 150315;INF209KB13H5;-;Aditya Birla Sun Life Fixed Term Plan - Series TQ (1879 days) - Regular Plan - Payout of IDCW option;10.2285;31-Jan-2023
-150431;INF209KB18I2;-;Aditya Birla Sun Life Fixed Term Plan - Series TS (91 days) - Direct Plan - Growth Option;10.1413;19-Oct-2022
-150432;INF209KB19I0;-;Aditya Birla Sun Life Fixed Term Plan - Series TS (91 days) - Direct Plan - Payout of IDCW Option;10.;19-Oct-2022
-150434;INF209KB16I6;-;Aditya Birla Sun Life Fixed Term Plan - Series TS (91 days) - Regular Plan - Growth Option;10.1388;19-Oct-2022
-150433;INF209KB17I4;-;Aditya Birla Sun Life Fixed Term Plan - Series TS (91 days) - Regular Plan - Payout of IDCW Option;10.;19-Oct-2022
-150462;INF209KB12K1;-;Aditya Birla Sun Life Fixed Term Plan - Series TT (153 days) - Direct Plan - Growth Option;10.2535;28-Dec-2022
-150463;INF209KB13K9;-;Aditya Birla Sun Life Fixed Term Plan - Series TT (153 days) - Direct Plan - Payout of IDCW Option;10.;28-Dec-2022
-150464;INF209KB10K5;-;Aditya Birla Sun Life Fixed Term Plan - Series TT (153 days) - Regular Plan - Growth Option;10.2492;28-Dec-2022
-150465;INF209KB11K3;-;Aditya Birla Sun Life Fixed Term Plan - Series TT (153 days) - Regular Plan - Payout of IDCW Option;10.;28-Dec-2022
-150666;INF209KB16L0;-;Aditya Birla Sun Life Fixed Term Plan - Series TX (91 days) - Direct Plan - Growth Option;10.157;21-Dec-2022
-150668;INF209KB17L8;-;Aditya Birla Sun Life Fixed Term Plan - Series TX (91 days) - Direct Plan - Payout of IDCW Option;10.;21-Dec-2022
-150669;INF209KB14L5;-;Aditya Birla Sun Life Fixed Term Plan - Series TX (91 days) - Regular Plan - Growth Option;10.1544;21-Dec-2022
-150670;INF209KB15L2;-;Aditya Birla Sun Life Fixed Term Plan - Series TX (91 days) - Regular Plan - Payout of IDCW Option;10.;21-Dec-2022
-150773;INF209KB18N2;-;Aditya Birla Sun Life Fixed Term Plan - Series TY (76 days) - Direct Plan - Growth Option;10.1385;03-Jan-2023
-150774;INF209KB19N0;-;Aditya Birla Sun Life Fixed Term Plan - Series TY (76 Days) - Direct Plan - Payout of IDCW Option;10.;03-Jan-2023
-150775;INF209KB16N6;-;Aditya Birla Sun Life Fixed Term Plan - Series TY (76 Days) - Regular Plan - Growth Option;10.1364;03-Jan-2023
-150776;INF209KB17N4;-;Aditya Birla Sun Life Fixed Term Plan - Series TY (76 Days) - Regular Plan - Payout of IDCW Option;10.;03-Jan-2023
 150875;INF209KB16O4;-;Aditya Birla Sun Life Fixed Term Plan - Series TZ (90 days) - Direct Plan - Growth Option;10.1556;31-Jan-2023
 150877;INF209KB14O9;-;Aditya Birla Sun Life Fixed Term Plan - Series TZ (90 days) - Regular Plan -Growth Option;10.1533;31-Jan-2023
 150876;INF209KB17O2;-;Aditya Birla Sun Life Fixed Term Plan - Series TZ (90 days)- Direct Plan - Payout of IDCW Option;10.1564;31-Jan-2023
