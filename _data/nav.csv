@@ -1430,10 +1430,10 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 139259;INF192K01LC8;-;JM Liquid Fund Unclaimed Redemption IEF (Direct) Growth Plan;41.4437;24-Jan-2022
 101549;INF192K01890;-;JM Liquid Fund (Regular) - Bonus Option - Principal Units;19.3676;12-Feb-2023
 101078;-;INF192K01833;JM Liquid Fund (Regular) - Daily IDCW;10.4302;12-Feb-2023
-119764;INF174K01NH1;-;Kotak Liquid - Daily Reinvestment of Income Distribution cum capital withdrawal option - Direct;1222.81;10-Feb-2023
-119766;INF174K01NE8;-;Kotak Liquid - Growth - Direct;4504.7402;10-Feb-2023
-100833;INF174K01NL3;-;Kotak Liquid Regular Plan Daily Reinvestment of Income Distribution cum capital withdrawal option;1222.81;10-Feb-2023
-100835;INF174K01NI9;-;Kotak Liquid Regular Plan Growth;4474.8099;10-Feb-2023
+119764;INF174K01NH1;-;Kotak Liquid - Daily Reinvestment of Income Distribution cum capital withdrawal option - Direct;1222.81;12-Feb-2023
+119766;INF174K01NE8;-;Kotak Liquid - Growth - Direct;4506.3941;12-Feb-2023
+100833;INF174K01NL3;-;Kotak Liquid Regular Plan Daily Reinvestment of Income Distribution cum capital withdrawal option;1222.81;12-Feb-2023
+100835;INF174K01NI9;-;Kotak Liquid Regular Plan Growth;4476.4232;12-Feb-2023
 100834;INF174K01NK5;-;Kotak Liquid Regular Plan Weekly Reinvestment of Income Distribution cum capital withdrawal option Dividend;1000.476;17-Sep-2021
 100830;INF174K01FZ9;-;Kotak Liquid-Institutional Plan  (Growth);3046.6062;21-Oct-2016
 100832;-;INF174K01GB8;Kotak Liquid-Institutional Plan (Weekly Dividend);1011.079;23-Sep-2013
@@ -2674,10 +2674,10 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 149827;-;-;JM Overnight Fund - (Direct) - Unclaimed IDCW I.E.F. - Growth Plan;1073.9936;12-Feb-2023
 149829;-;-;JM Overnight Fund - (Direct) - Unclaimed Redemption - Growth Plan;1129.8557;12-Feb-2023
 149826;-;-;JM Overnight Fund - (Direct) - Unclaimed Redemption I.E.F. - Growth Plan;1073.9936;12-Feb-2023
-146141;INF174KA1BF9;-;Kotak Overnight Fund -Direct Plan-Growth Option;1185.4968;10-Feb-2023
-146142;INF174KA1BC6;-;Kotak Overnight Fund -Regular plan-Growth Option;1181.1742;10-Feb-2023
-146140;-;INF174KA1BE2;Kotak Overnight Fund-Direct Plan- Daily Reinvestment of Income Distribution cum capital withdrawal option;1003.6055;10-Feb-2023
-146138;-;INF174KA1BB8;Kotak Overnight Fund-Regular Plan- Daily Reinvestment of Income Distribution cum capital withdrawal option;1004.7568;10-Feb-2023
+146141;INF174KA1BF9;-;Kotak Overnight Fund -Direct Plan-Growth Option;1185.9199;12-Feb-2023
+146142;INF174KA1BC6;-;Kotak Overnight Fund -Regular plan-Growth Option;1181.588;12-Feb-2023
+146140;-;INF174KA1BE2;Kotak Overnight Fund-Direct Plan- Daily Reinvestment of Income Distribution cum capital withdrawal option;1003.6055;12-Feb-2023
+146138;-;INF174KA1BB8;Kotak Overnight Fund-Regular Plan- Daily Reinvestment of Income Distribution cum capital withdrawal option;1004.7568;12-Feb-2023
 147516;-;INF767K01QG7;LIC MF Overnight Fund-Direct Plan-Daily IDCW;1050.5975;12-Feb-2023
 147515;INF767K01QI3;-;LIC MF Overnight Fund-Direct Plan-Growth;1152.6051;12-Feb-2023
 147513;INF767K01QE2;INF767K01QF9;LIC MF Overnight Fund-Direct Plan-IDCW;1152.3402;12-Feb-2023
@@ -7212,7 +7212,7 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 147113;INF666M01FS5;-;Indiabulls Nifty50 Exchange Traded Fund;186.9921;10-Feb-2023
 115284;INF205K01DA9;-;Invesco India Nifty 50 Exchange Traded Fund;1969.9887;10-Feb-2023
 150000;INF174KA1IY5;-;Kotak Nifty 100 Low Volatility 30 ETF;13.4144;10-Feb-2023
-151358;INF174KA1LV5;-;Kotak Nifty 1D Rate Liquid ETF;1000;10-Feb-2023
+151358;INF174KA1LV5;-;Kotak Nifty 1D Rate Liquid ETF;1000;12-Feb-2023
 112351;INF174K014P6;-;Kotak Nifty 50 ETF;190.3817;10-Feb-2023
 135744;INF174K01Z71;-;Kotak Nifty 50 Value 20 ETF - Payout of Income Distribution cum capital withdrawal option;105.3682;10-Feb-2023
 149397;INF174KA1IA5;-;Kotak Nifty Alpha 50 ETF;25.5112;10-Feb-2023
