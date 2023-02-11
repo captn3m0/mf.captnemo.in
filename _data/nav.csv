@@ -1518,14 +1518,14 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 138282;INF223J01BB6;-;PGIM India Insta Cash Fund-Institutional Plan-Growth;26.2743;28-Jul-2019
 138304;INF223J01VD0;-;PGIM India INSTA CASH FUND-Monthly Bonus Option;140.0664;28-Jul-2019
 138286;INF223J01BQ4;-;PGIM India Liquid Fund - Bonus Option;186.8975;21-Jan-2022
-138285;-;INF223J01BO9;PGIM India Liquid Fund - Daily Dividend;100.304;11-Feb-2023
-138297;INF223J01NR7;-;PGIM India Liquid Fund - Direct Plan - Daily Dividend;108.57;11-Feb-2023
-138299;INF223J01NS5;-;PGIM India Liquid Fund - Direct Plan - Growth;290.6153;11-Feb-2023
-138298;INF223J01NT3;INF223J01NU1;PGIM India Liquid Fund - Direct Plan - Monthly Dividend;110.3783;11-Feb-2023
-138301;INF223J01NV9;INF223J01NW7;PGIM India Liquid Fund - Direct Plan - Weekly Dividend;100.5226;11-Feb-2023
-138288;INF223J01BP6;-;PGIM India Liquid Fund - Growth;288.0706;11-Feb-2023
-138287;INF223J01BL5;-;PGIM India Liquid Fund - Monthly Dividend;111.039;11-Feb-2023
-138289;INF223J01BU6;-;PGIM India Liquid Fund - Weekly Dividend;100.5223;11-Feb-2023
+138285;-;INF223J01BO9;PGIM India Liquid Fund - Daily Dividend;100.304;12-Feb-2023
+138297;INF223J01NR7;-;PGIM India Liquid Fund - Direct Plan - Daily Dividend;108.57;12-Feb-2023
+138299;INF223J01NS5;-;PGIM India Liquid Fund - Direct Plan - Growth;290.668;12-Feb-2023
+138298;INF223J01NT3;INF223J01NU1;PGIM India Liquid Fund - Direct Plan - Monthly Dividend;110.3983;12-Feb-2023
+138301;INF223J01NV9;INF223J01NW7;PGIM India Liquid Fund - Direct Plan - Weekly Dividend;100.5409;12-Feb-2023
+138288;INF223J01BP6;-;PGIM India Liquid Fund - Growth;288.122;12-Feb-2023
+138287;INF223J01BL5;-;PGIM India Liquid Fund - Monthly Dividend;111.0588;12-Feb-2023
+138289;INF223J01BU6;-;PGIM India Liquid Fund - Weekly Dividend;100.5403;12-Feb-2023
 138280;-;INF223J01BI1;PGIM India Liquid Fund-DIVIDEND-Daily Dividend;10.301;28-Jul-2019
 138279;INF223J01BR2;INF223J01BS0;PGIM India Liquid Fund-DIVIDEND-MONTHLY DIVIDEND;10.0577;30-Jul-2018
 138281;INF223J01BJ9;-;PGIM India Liquid Fund-Growth-GROWTH;27.706;28-Jul-2019
@@ -2712,12 +2712,12 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 145826;-;INF204KB1Q81;NIPPON INDIA OVERNIGHT FUND - WEEKLY IDCW Option;100.0406;12-Feb-2023
 150369;INF0J8L01081;-;NJ Overnight Fund - Direct Plan - Growth Option;1031.2595;12-Feb-2023
 150368;INF0J8L01073;-;NJ Overnight Fund - Regular Plan - Growth Option;1030.7103;12-Feb-2023
-147605;-;INF663L01T35;PGIM India Overnight Fund - Direct Plan - Daily Dividend Option;1000.0061;11-Feb-2023
-147606;INF663L01T01;-;PGIM India Overnight Fund - Direct Plan - Growth Option;1147.5384;11-Feb-2023
-147608;INF663L01T19;INF663L01T27;PGIM India Overnight Fund - Direct Plan - Weekly Dividend Option;1000.1884;11-Feb-2023
-147609;-;INF663L01T76;PGIM India Overnight Fund - Regular Plan - Daily Dividend Option;1000;11-Feb-2023
-147607;INF663L01T50;INF663L01T68;PGIM India Overnight Fund - Regular Plan - Weekly Dividend Option;1000.171;11-Feb-2023
-147600;INF663L01T43;-;PGIM India Overnight Fund - Regular Plan- Growth Option;1144.2927;11-Feb-2023
+147605;-;INF663L01T35;PGIM India Overnight Fund - Direct Plan - Daily Dividend Option;1000.0061;12-Feb-2023
+147606;INF663L01T01;-;PGIM India Overnight Fund - Direct Plan - Growth Option;1147.74;12-Feb-2023
+147608;INF663L01T19;INF663L01T27;PGIM India Overnight Fund - Direct Plan - Weekly Dividend Option;1000.3646;12-Feb-2023
+147609;-;INF663L01T76;PGIM India Overnight Fund - Regular Plan - Daily Dividend Option;1000;12-Feb-2023
+147607;INF663L01T50;INF663L01T68;PGIM India Overnight Fund - Regular Plan - Weekly Dividend Option;1000.3426;12-Feb-2023
+147600;INF663L01T43;-;PGIM India Overnight Fund - Regular Plan- Growth Option;1144.489;12-Feb-2023
 151190;INF966L01AZ7;-;quant Overnight Fund - Growth Option - Direct Plan;10.1168;12-Feb-2023
 151195;INF966L01BC4;-;quant Overnight Fund - Growth Option - Regular Plan;10.1135;12-Feb-2023
 151193;INF966L01BA8;INF966L01BB6;quant Overnight Fund - IDCW Option - Direct Plan;10.117;12-Feb-2023
