@@ -3726,10 +3726,10 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 120662;INF789F01TC4;-;UTI - Flexi Cap Fund-Growth Option - Direct;240.6325;20-Feb-2023
 120663;INF789F01TA8;INF789F01TB6;UTI Flexi Cap Fund - Direct Plan - IDCW;160.1377;20-Feb-2023
 100668;INF189A01053;INF789F01505;UTI Flexi Cap Fund - Regular Plan - IDCW;150.8706;20-Feb-2023
-150347;INF03VN01506;-;WhieOak Capital Flexi Cap Fund Regular Plan Growth;10.174;20-Feb-2023
-150346;INF03VN01530;-;WhiteOak Capital Flexi Cap Fund Direct Plan Growth;10.266;20-Feb-2023
-150349;INF03VN01555;INF03VN01548;WhiteOak Capital Flexi Cap Fund Direct Plan IDCW;10.266;20-Feb-2023
-150348;INF03VN01522;INF03VN01514;WhiteOak Capital Flexi Cap Fund Regular Plan IDCW;10.174;20-Feb-2023
+150347;INF03VN01506;-;WhieOak Capital Flexi Cap Fund Regular Plan Growth;10.173;20-Feb-2023
+150346;INF03VN01530;-;WhiteOak Capital Flexi Cap Fund Direct Plan Growth;10.265;20-Feb-2023
+150349;INF03VN01555;INF03VN01548;WhiteOak Capital Flexi Cap Fund Direct Plan IDCW;10.265;20-Feb-2023
+150348;INF03VN01522;INF03VN01514;WhiteOak Capital Flexi Cap Fund Regular Plan IDCW;10.173;20-Feb-2023
 119564;INF209K01WE3;-;Aditya Birla Sun Life Focused Equity Fund - Growth - Direct Plan;100.3543;20-Feb-2023
 119563;INF209K01Q71;INF209K01WF0;Aditya Birla Sun Life Focused Equity Fund -Direct - IDCW;44.0798;20-Feb-2023
 103309;INF209K01462;-;Aditya Birla Sun Life Focused Equity Fund -Growth Option;91.1229;20-Feb-2023
@@ -4226,10 +4226,10 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 102393;INF789F01794;INF789F01802;UTI Mid Cap Fund - Regular Plan - IDCW;87.8585;20-Feb-2023
 102394;INF789F01810;-;UTI Mid Cap Fund-Growth Option;185.6653;20-Feb-2023
 120726;INF789F01UA6;-;UTI Mid Cap Fund-Growth Option- Direct;202.4417;20-Feb-2023
-150584;INF03VN01597;-;WhiteOak Capital Mid Cap Fund Direct Plan Growth;9.904;17-Feb-2023
-150582;INF03VN01605;INF03VN01613;WhiteOak Capital Mid Cap Fund Direct Plan IDCW;9.904;17-Feb-2023
-150583;INF03VN01563;-;WhiteOak Capital Mid Cap Fund Regular Plan Growth;9.825;17-Feb-2023
-150585;INF03VN01571;INF03VN01589;WhiteOak Capital Mid Cap Fund Regular Plan IDCW;9.825;17-Feb-2023
+150584;INF03VN01597;-;WhiteOak Capital Mid Cap Fund Direct Plan Growth;9.930;20-Feb-2023
+150582;INF03VN01605;INF03VN01613;WhiteOak Capital Mid Cap Fund Direct Plan IDCW;9.930;20-Feb-2023
+150583;INF03VN01563;-;WhiteOak Capital Mid Cap Fund Regular Plan Growth;9.849;20-Feb-2023
+150585;INF03VN01571;INF03VN01589;WhiteOak Capital Mid Cap Fund Regular Plan IDCW;9.849;20-Feb-2023
 148921;INF209KB1Y49;-;Aditya Birla Sun Life Multi-Cap Fund-Direct Growth;12.55;20-Feb-2023
 148920;INF209KB1Y56;-;Aditya Birla Sun Life Multi-Cap Fund-Direct IDCW Payout;12.55;20-Feb-2023
 148918;INF209KB1Y23;-;Aditya Birla Sun Life Multi-Cap Fund-Regular Growth;12.17;20-Feb-2023
@@ -6152,10 +6152,10 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 150990;INF754K01RD0;INF754K01RE8;BHARAT Bond ETF FOF - April 2033 - Direct Plan - IDCW;10.0628;20-Feb-2023
 150991;INF754K01QY8;-;BHARAT Bond ETF FOF - April 2033 - Regular Plan - Growth;10.0628;20-Feb-2023
 150988;INF754K01QZ5;INF754K01RA6;BHARAT Bond ETF FOF - April 2033 - Regular Plan - IDCW;10.0628;20-Feb-2023
-147851;INF754K01KS3;-;Bharat Bond FOF - April 2023 - Direct Plan - Growth Option;12.1561;17-Feb-2023
-147852;INF754K01KT1;INF754K01KU9;BHARAT Bond FOF - April 2023 - Direct Plan - IDCW Option;12.1561;17-Feb-2023
-147850;INF754K01KP9;-;Bharat Bond FOF - April 2023 - Regular Plan - Growth Option;12.1561;17-Feb-2023
-147853;INF754K01KQ7;INF754K01KR5;BHARAT Bond FOF - April 2023 - Regular Plan - IDCW Option;12.1561;17-Feb-2023
+147851;INF754K01KS3;-;Bharat Bond FOF - April 2023 - Direct Plan - Growth Option;12.1559;20-Feb-2023
+147852;INF754K01KT1;INF754K01KU9;BHARAT Bond FOF - April 2023 - Direct Plan - IDCW Option;12.1559;20-Feb-2023
+147850;INF754K01KP9;-;Bharat Bond FOF - April 2023 - Regular Plan - Growth Option;12.1559;20-Feb-2023
+147853;INF754K01KQ7;INF754K01KR5;BHARAT Bond FOF - April 2023 - Regular Plan - IDCW Option;12.1559;20-Feb-2023
 147857;INF754K01KY1;-;Bharat Bond FOF - April 2030 - Direct Plan - Growth Option;12.3909;20-Feb-2023
 147855;INF754K01KZ8;INF754K01LA9;BHARAT Bond FOF - April 2030 - Direct Plan - IDCW Option;12.3909;20-Feb-2023
 147854;INF754K01KV7;-;Bharat Bond FOF - April 2030 - Regular Plan - Growth Option;12.3909;20-Feb-2023
@@ -7181,8 +7181,8 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 151262;INF740KA1RX3;-;DSP Nifty Bank ETF;40.6746;20-Feb-2023
 149403;INF740KA1QL0;-;DSP Nifty Midcap 150 Quality 50 ETF;159.6990;20-Feb-2023
 150523;INF740KA1RE3;-;DSP Silver ETF;65.3819;20-Feb-2023
-147848;INF754K01KN4;-;Bharat Bond ETF - April 2023;1218.6641;17-Feb-2023
-147849;INF754K01KO2;-;Bharat Bond ETF - April 2030;1235.4895;17-Feb-2023
+147848;INF754K01KN4;-;Bharat Bond ETF - April 2023;1219.3775;20-Feb-2023
+147849;INF754K01KO2;-;Bharat Bond ETF - April 2030;1237.1044;20-Feb-2023
 149398;INF754K01OB1;-;BHARAT Bond ETF - April 2032;1033.5893;20-Feb-2023
 150987;INF754K01QX0;-;BHARAT Bond ETF - April 2033;1003.8492;20-Feb-2023
 148444;INF754K01LD3;-;BHARAT Bond ETF April 2025;1103.7698;20-Feb-2023
