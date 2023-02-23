@@ -5837,12 +5837,12 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 149676;INF173K01262;INF173K01270;Sundaram Equity Savings Fund (Formerly Known as Principal Equity Savings Fund) -Quarterly Income Distribution CUM Capital Withdrawal;14.8108;22-Feb-2023
 149678;INF173K01HF9;INF173K01HG7;Sundaram Equity Savings Fund (Formerly Known as Principal Equity Savings Fund)- Direct Plan - Income Distribution CUM Capital Withdrawal Option - Quarterly;20.6835;22-Feb-2023
 149675;INF173K01247;INF173K01254;Sundaram Equity Savings Fund (Formerly Known as Principal Equity Savings Fund)- Half Yearly Income Distribution CUM Capital Withdrawal;13.7538;22-Feb-2023
-101906;INF277K01907;-;Tata Equity Savings Fund -Regular Plan-Growth Option;42.5373;21-Feb-2023
-119960;INF277K01QH5;-;Tata Equity Savings Fund- Direct Plan- Growth Option;47.1664;21-Feb-2023
-102118;INF277K01EF5;INF277K01915;Tata Equity Savings Fund- Regular Plan - Periodic Payout of IDCW Option;20.3776;21-Feb-2023
-101609;INF277K01EE8;INF277K01899;TATA Equity Savings Fund- Regular Plan -Monthly Payout of IDCW option;14.9494;21-Feb-2023
-119958;INF277K01QI3;INF277K01QJ1;Tata Equity Savings Fund-Direct Plan - Monthly Payout of IDCW Option;17.7150;21-Feb-2023
-119959;INF277K01QK9;INF277K01QL7;Tata Equity Savings Fund-Direct Plan - Periodic Payout of IDCWS Option;23.0483;21-Feb-2023
+101906;INF277K01907;-;Tata Equity Savings Fund -Regular Plan-Growth Option;42.3407;22-Feb-2023
+119960;INF277K01QH5;-;Tata Equity Savings Fund- Direct Plan- Growth Option;46.9498;22-Feb-2023
+102118;INF277K01EF5;INF277K01915;Tata Equity Savings Fund- Regular Plan - Periodic Payout of IDCW Option;20.2834;22-Feb-2023
+101609;INF277K01EE8;INF277K01899;TATA Equity Savings Fund- Regular Plan -Monthly Payout of IDCW option;14.8803;22-Feb-2023
+119958;INF277K01QI3;INF277K01QJ1;Tata Equity Savings Fund-Direct Plan - Monthly Payout of IDCW Option;17.6336;22-Feb-2023
+119959;INF277K01QK9;INF277K01QL7;Tata Equity Savings Fund-Direct Plan - Periodic Payout of IDCWS Option;22.9425;22-Feb-2023
 144312;INF582M01EC1;-;Union Equity Savings Fund - Direct Plan - Growth Option;13.82;22-Feb-2023
 144313;INF582M01EE7;INF582M01ED9;Union Equity Savings Fund - Direct Plan - IDCW Option;13.82;22-Feb-2023
 144310;INF582M01EG2;-;Union Equity Savings Fund - Regular Plan - Growth Option;13.45;22-Feb-2023
@@ -5871,10 +5871,10 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 119131;INF179K01XW8;-;HDFC Multi-Asset Fund - Growth Option - Direct Plan;53.69;22-Feb-2023
 103130;INF179K01AN5;INF179K01AO3;HDFC Multi-Asset Fund - IDCW Option;15.114;22-Feb-2023
 119130;INF179K01XU2;INF179K01XV0;HDFC Multi-Asset Fund - IDCW Option - Direct Plan;17.479;22-Feb-2023
-120334;INF109K015K4;-;ICICI Prudential Multi-Asset Fund - Direct Plan - Growth;519.1983;21-Feb-2023
-120335;INF109K013K9;INF109K014K7;ICICI Prudential Multi-Asset Fund - Direct Plan - IDCW;39.1426;21-Feb-2023
-101144;INF109K01761;-;ICICI Prudential Multi-Asset Fund - Growth;480.2328;21-Feb-2023
-101143;INF109K01ED5;INF109K01779;ICICI Prudential Multi-Asset Fund - IDCW;25.2921;21-Feb-2023
+120334;INF109K015K4;-;ICICI Prudential Multi-Asset Fund - Direct Plan - Growth;515.2412;22-Feb-2023
+120335;INF109K013K9;INF109K014K7;ICICI Prudential Multi-Asset Fund - Direct Plan - IDCW;38.8442;22-Feb-2023
+101144;INF109K01761;-;ICICI Prudential Multi-Asset Fund - Growth;476.5630;22-Feb-2023
+101143;INF109K01ED5;INF109K01779;ICICI Prudential Multi-Asset Fund - IDCW;25.0988;22-Feb-2023
 115269;INF109K01TN2;-;ICICI Prudential Multi-Asset Fund- Institutional Growth Option;22.849;24-Apr-2020
 104898;INF109K01787;-;ICICI Prudential Multi-Asset Fund-Institutional Option - I;43.0129;18-Jun-2018
 148454;INF247L01AI8;-;Motilal Oswal Multi Asset Fund - Direct Plan - Growth Option;11.2330;22-Feb-2023
@@ -5895,12 +5895,12 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 103408;INF200K01800;-;SBI MULTI ASSET ALLOCATION FUND - REGULAR PLAN - GROWTH;38.5197;22-Feb-2023
 103400;INF200K01818;INF200K01826;SBI Multi Asset Allocation Fund - Regular Plan - Monthly Income Distribution cum Capital Withdrawal Option (IDCW);17.2238;22-Feb-2023
 103401;INF200K01834;INF200K01842;SBI Multi Asset Allocation Fund - Regular Plan - Quarterly Income Distribution cum Capital Withdrawal Option (IDCW);17.2073;22-Feb-2023
-148052;-;INF277K010Z9;Tata Multi Asset Opportnities Fund-Direct Plan-Dividend Reinvestment;17.1419;21-Feb-2023
-148049;INF277K011Z7;-;Tata Multi Asset Opportunities Fund-Direct Plan-Dividend Payout;17.1419;21-Feb-2023
-148053;INF277K019Y3;-;Tata Multi Asset Opportunities Fund-Direct Plan-Growth;17.1419;21-Feb-2023
-148054;INF277K014Z1;-;Tata Multi Asset Opportunities Fund-Regular Plan-Dividend Payout;16.2313;21-Feb-2023
-148051;-;INF277K013Z3;Tata Multi Asset Opportunities Fund-Regular Plan-Dividend Reinvestment;16.2313;21-Feb-2023
-148050;INF277K012Z5;-;Tata Multi Asset Opportunities Fund-Regular Plan-Growth;16.2313;21-Feb-2023
+148052;-;INF277K010Z9;Tata Multi Asset Opportnities Fund-Direct Plan-Dividend Reinvestment;17.0176;22-Feb-2023
+148049;INF277K011Z7;-;Tata Multi Asset Opportunities Fund-Direct Plan-Dividend Payout;17.0176;22-Feb-2023
+148053;INF277K019Y3;-;Tata Multi Asset Opportunities Fund-Direct Plan-Growth;17.0176;22-Feb-2023
+148054;INF277K014Z1;-;Tata Multi Asset Opportunities Fund-Regular Plan-Dividend Payout;16.1127;22-Feb-2023
+148051;-;INF277K013Z3;Tata Multi Asset Opportunities Fund-Regular Plan-Dividend Reinvestment;16.1127;22-Feb-2023
+148050;INF277K012Z5;-;Tata Multi Asset Opportunities Fund-Regular Plan-Growth;16.1127;22-Feb-2023
 111599;INF789F01AP6;-;UTI - Multi Asset Fund - Regular Plan - Growth Option;45.2774;22-Feb-2023
 120760;INF789F01VE6;-;UTI - Multi Asset Fund- Direct Plan - Growth Option;49.0315;22-Feb-2023
 120761;INF789F01VC0;INF789F01VD8;UTI Multi Asset Fund - Direct Plan - IDCW;21.6597;22-Feb-2023
@@ -6234,10 +6234,10 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 102138;INF109K01FJ9;INF109K01845;ICICI Prudential Asset Allocator Fund (FOF) - IDCW;70.3586;22-Feb-2023
 143904;INF109KC1FW3;-;ICICI Prudential BHARAT 22 FOF - Cumulative Option;17.0714;22-Feb-2023
 143903;INF109KC1FX1;-;ICICI Prudential BHARAT 22 FOF - Direct Plan Cumulative Option;17.0738;22-Feb-2023
-120703;INF109K01X57;INF109K01X65;ICICI Prudential Debt Management Fund (FOF) - Direct Plan -  IDCW;35.5723;21-Feb-2023
-120702;INF109K01X73;-;ICICI Prudential Debt Management Fund (FOF) - Direct Plan - Growth;38.6131;21-Feb-2023
-102141;INF109K01878;-;ICICI Prudential Debt Management Fund (FOF) - Growth;37.2625;21-Feb-2023
-102143;INF109K01FS0;INF109K01886;ICICI Prudential Debt Management Fund (FOF ) - IDCW;34.0836;21-Feb-2023
+120703;INF109K01X57;INF109K01X65;ICICI Prudential Debt Management Fund (FOF) - Direct Plan -  IDCW;35.5676;22-Feb-2023
+120702;INF109K01X73;-;ICICI Prudential Debt Management Fund (FOF) - Direct Plan - Growth;38.6079;22-Feb-2023
+102141;INF109K01878;-;ICICI Prudential Debt Management Fund (FOF) - Growth;37.2571;22-Feb-2023
+102143;INF109K01FS0;INF109K01886;ICICI Prudential Debt Management Fund (FOF ) - IDCW;34.0787;22-Feb-2023
 147648;INF109KC1F34;-;ICICI Prudential Global Advantage Fund (FOF) - Direct Plan - Growth Option;13.0985;21-Feb-2023
 147645;INF109KC1F42;-;ICICI Prudential Global Advantage Fund (FOF) - Direct Plan - IDCW;13.0984;21-Feb-2023
 147647;INF109KC1F00;-;ICICI Prudential Global Advantage Fund (FOF) - Growth Option;12.8086;21-Feb-2023
@@ -6246,10 +6246,10 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 120314;INF109K01W66;INF109K01W74;ICICI Prudential Income Optimizer Fund (FOF) - Direct Plan - IDCW;42.0130;22-Feb-2023
 102139;INF109K01811;-;ICICI Prudential Income Optimizer Fund (FOF) - Growth;47.2256;22-Feb-2023
 102140;INF109K01EB9;INF109K01829;ICICI Prudential Income Optimizer Fund (FOF) - IDCW;39.5441;22-Feb-2023
-148035;INF109KC1I49;-;ICICI Prudential India Equity FOF - Direct Plan - Growth;18.1333;21-Feb-2023
-148036;INF109KC1I64;INF109KC1I56;ICICI Prudential India Equity FOF - Direct Plan - IDCW;15.1713;21-Feb-2023
-148033;INF109KC1I15;-;ICICI Prudential India Equity FOF - Growth;17.6604;21-Feb-2023
-148034;INF109KC1I31;INF109KC1I23;ICICI Prudential India Equity FOF - IDCW;14.7093;21-Feb-2023
+148035;INF109KC1I49;-;ICICI Prudential India Equity FOF - Direct Plan - Growth;17.9414;22-Feb-2023
+148036;INF109KC1I64;INF109KC1I56;ICICI Prudential India Equity FOF - Direct Plan - IDCW;15.0108;22-Feb-2023
+148033;INF109KC1I15;-;ICICI Prudential India Equity FOF - Growth;17.4733;22-Feb-2023
+148034;INF109KC1I31;INF109KC1I23;ICICI Prudential India Equity FOF - IDCW;14.5534;22-Feb-2023
 148822;INF109KC1P81;-;ICICI Prudential Nifty 100 Low Volatility 30 ETF FOF - Direct Plan - Growth;11.8372;22-Feb-2023
 148823;INF109KC1Q07;INF109KC1P99;ICICI Prudential Nifty 100 Low Volatility 30 ETF FOF - Direct Plan - IDCW;11.8372;22-Feb-2023
 148821;INF109KC1P57;-;ICICI Prudential Nifty 100 Low Volatility 30 ETF FOF - Growth;11.7158;22-Feb-2023
