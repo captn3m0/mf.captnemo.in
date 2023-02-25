@@ -2730,14 +2730,14 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 114297;-;INF200K01LN6;SBI Overnight Fund - Regular Plan - Daily Income Distribution cum Capital Withdrawal Option (IDCW);1123.2618;24-Feb-2023
 101206;INF200K01LQ9;-;SBI OVERNIGHT FUND - REGULAR PLAN - GROWTH;3586.4382;24-Feb-2023
 103140;INF200K01LO4;INF200K01LP1;SBI Overnight Fund - Regular Plan - Weekly Income Distribution cum Capital Withdrawal Option (IDCW);1146.9420;24-Feb-2023
-150562;INF680P01323;-;Shriram Overnight Fund -  Direct Growth;10.3084;24-Feb-2023
+150562;INF680P01323;-;Shriram Overnight Fund -  Direct Growth;10.3103;25-Feb-2023
 150566;INF680P01281;INF680P01299;Shriram Overnight Fund -  Regular Fortnightly IDCW;10.0049;02-Feb-2023
-150561;-;INF680P01331;Shriram Overnight Fund - Direct Daily IDCW;10.0000;24-Feb-2023
+150561;-;INF680P01331;Shriram Overnight Fund - Direct Daily IDCW;10.0000;25-Feb-2023
 150564;INF680P01364;INF680P01372;Shriram Overnight Fund - Direct Fortnightly IDCW;10.0046;22-Sep-2022
-150558;-;INF680P01257;Shriram Overnight Fund - Regular Daily IDCW;10.0000;24-Feb-2023
-150565;INF680P01232;-;Shriram Overnight Fund - Regular Growth;10.3034;24-Feb-2023
-150560;INF680P01307;INF680P01315;Shriram Overnight Fund - Regular Monthly IDCW;10.0154;24-Feb-2023
-150559;INF680P01265;INF680P01273;Shriram Overnight Fund - Regular Weekly IDCW;10.0069;24-Feb-2023
+150558;-;INF680P01257;Shriram Overnight Fund - Regular Daily IDCW;10.0000;25-Feb-2023
+150565;INF680P01232;-;Shriram Overnight Fund - Regular Growth;10.3053;25-Feb-2023
+150560;INF680P01307;INF680P01315;Shriram Overnight Fund - Regular Monthly IDCW;10.0172;25-Feb-2023
+150559;INF680P01265;INF680P01273;Shriram Overnight Fund - Regular Weekly IDCW;10.0087;25-Feb-2023
 146964;INF903JA1HJ9;-;Sundaram Overnight Fund Direct Plan - Daily Reinvestment of Income Distribution cum Capital Withdrawal (IDCW);1000.0300;24-Feb-2023
 146956;INF903JA1HL5;-;Sundaram Overnight Fund Direct Plan - Fortnightly Reinvestment of Income Distribution cum Capital Withdrawal (IDCW);1066.1703;24-Feb-2023
 146963;INF903JA1HG5;-;Sundaram Overnight Fund Direct Plan - Growth;1183.9742;24-Feb-2023
@@ -4422,10 +4422,10 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 119248;INF740K01PV5;INF740K01PW3;DSP India T.I.G.E.R. Fund - Direct Plan - IDCW;32.213;24-Feb-2023
 102434;INF740K01151;-;DSP India T.I.G.E.R. Fund - Regular Plan - Growth;160.373;24-Feb-2023
 102435;INF740K01136;INF740K01144;DSP India T.I.G.E.R. Fund - Regular Plan - IDCW;17.843;24-Feb-2023
-119028;INF740K01QA7;-;DSP Natural Resources and New Energy Fund - Direct Plan - Growth;61.804;23-Feb-2023
-119029;INF740K01QB5;INF740K01QC3;DSP Natural Resources and New Energy Fund - Direct Plan - IDCW;27.258;23-Feb-2023
-108202;INF740K01060;-;DSP Natural Resources And New Energy Fund - Regular - Growth;57.034;23-Feb-2023
-108203;INF740K01045;INF740K01052;DSP Natural Resources And New Energy Fund - Regular Plan - IDCW;23.316;23-Feb-2023
+119028;INF740K01QA7;-;DSP Natural Resources and New Energy Fund - Direct Plan - Growth;61.166;24-Feb-2023
+119029;INF740K01QB5;INF740K01QC3;DSP Natural Resources and New Energy Fund - Direct Plan - IDCW;26.977;24-Feb-2023
+108202;INF740K01060;-;DSP Natural Resources And New Energy Fund - Regular - Growth;56.443;24-Feb-2023
+108203;INF740K01045;INF740K01052;DSP Natural Resources And New Energy Fund - Regular Plan - IDCW;23.075;24-Feb-2023
 147306;INF740KA1NQ6;-;DSP Quant Fund - Direct Plan - Growth;15.804;24-Feb-2023
 147304;INF740KA1NR4;INF740KA1NS2;DSP Quant Fund - Direct Plan - IDCW;15.024;24-Feb-2023
 147303;INF740KA1NN3;-;DSP Quant Fund - Regular Plan - Growth;15.373;24-Feb-2023
@@ -4542,10 +4542,10 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 150687;INF109KC13K9;INF109KC14K7;ICICI PRUDENTIAL TRANSPORTATION AND LOGISTICS FUND - Direct Plan - IDCW;9.90;24-Feb-2023
 150684;-;INF109KC19J8;ICICI PRUDENTIAL TRANSPORTATION AND LOGISTICS FUND - Growth;9.84;24-Feb-2023
 150686;INF109KC10K5;INF109KC11K3;ICICI PRUDENTIAL TRANSPORTATION AND LOGISTICS FUND - IDCW;9.84;24-Feb-2023
-120186;INF109K01Z71;-;ICICI Prudential US Bluechip Equity Fund - Direct Plan -  Growth;52.00;23-Feb-2023
-120185;INF109K01Z55;INF109K01Z63;ICICI Prudential US Bluechip Equity Fund - Direct Plan -  IDCW;52.00;23-Feb-2023
-117620;INF109K01E35;-;ICICI Prudential US Bluechip Equity Fund - Growth;47.54;23-Feb-2023
-117619;INF109K01E43;INF109K01E50;ICICI Prudential US Bluechip Equity Fund - IDCW;47.53;23-Feb-2023
+120186;INF109K01Z71;-;ICICI Prudential US Bluechip Equity Fund - Direct Plan -  Growth;51.07;24-Feb-2023
+120185;INF109K01Z55;INF109K01Z63;ICICI Prudential US Bluechip Equity Fund - Direct Plan -  IDCW;51.07;24-Feb-2023
+117620;INF109K01E35;-;ICICI Prudential US Bluechip Equity Fund - Growth;46.68;24-Feb-2023
+117619;INF109K01E43;INF109K01E50;ICICI Prudential US Bluechip Equity Fund - IDCW;46.68;24-Feb-2023
 143353;INF397L01KM2;-;IDBI Banking & Financial Services Fund - Direct Plan (Growth);14.16;24-Feb-2023
 143352;INF397L01KJ8;INF397L01KK6;IDBI Banking & Financial Services Fund - Direct Plan (IDCW);14.16;24-Feb-2023
 143351;INF397L01KI0;-;IDBI Banking & Financial Services Fund - Regular Plan (Growth);13.31;24-Feb-2023
@@ -4674,10 +4674,10 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 149327;INF204KC1311;INF204KC1329;Nippon India Taiwan Equity Fund- Direct Plan- IDCW option;7.7359;24-Feb-2023
 149328;INF204KC1279;-;Nippon India Taiwan Equity fund- Regular Plan- Growth Option;7.5836;24-Feb-2023
 149325;INF204KC1287;INF204KC1295;Nippon India Taiwan Equity Fund- Regular Plan- IDCW option;7.5836;24-Feb-2023
-134925;INF204KA16G3;INF204KA17G1;NIPPON INDIA - US EQUITY OPPORTUNITES FUND - Direct Plan - IDCW Option;24.1705;23-Feb-2023
-134924;INF204KA13G0;INF204KA14G8;NIPPON INDIA - US EQUITY OPPORTUNITES FUND - IDCW Option;22.2511;23-Feb-2023
-134923;INF204KA15G5;-;Nippon India US Equity Opportunites Fund- Direct Plan- Growth Plan- Growth Option;24.1705;23-Feb-2023
-134922;INF204KA12G2;-;Nippon India US Equity Opportunites Fund- Growth Plan- Growth Option;22.2511;23-Feb-2023
+134925;INF204KA16G3;INF204KA17G1;NIPPON INDIA - US EQUITY OPPORTUNITES FUND - Direct Plan - IDCW Option;23.7914;24-Feb-2023
+134924;INF204KA13G0;INF204KA14G8;NIPPON INDIA - US EQUITY OPPORTUNITES FUND - IDCW Option;21.9014;24-Feb-2023
+134923;INF204KA15G5;-;Nippon India US Equity Opportunites Fund- Direct Plan- Growth Plan- Growth Option;23.7914;24-Feb-2023
+134922;INF204KA12G2;-;Nippon India US Equity Opportunites Fund- Growth Plan- Growth Option;21.9014;24-Feb-2023
 148564;INF966L01AD4;-;quant ESG Equity Fund - Growth Option - Direct Plan;21.3927;24-Feb-2023
 148560;INF966L01AB8;-;quant ESG Equity Fund - Growth Option - Regular Plan;20.6698;24-Feb-2023
 148563;INF966L01AE2;INF966L01AG7;quant ESG Equity Fund - IDCW Option - Direct Plan;21.3698;24-Feb-2023
@@ -5837,12 +5837,12 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 149676;INF173K01262;INF173K01270;Sundaram Equity Savings Fund (Formerly Known as Principal Equity Savings Fund) -Quarterly Income Distribution CUM Capital Withdrawal;14.7840;24-Feb-2023
 149678;INF173K01HF9;INF173K01HG7;Sundaram Equity Savings Fund (Formerly Known as Principal Equity Savings Fund)- Direct Plan - Income Distribution CUM Capital Withdrawal Option - Quarterly;20.6482;24-Feb-2023
 149675;INF173K01247;INF173K01254;Sundaram Equity Savings Fund (Formerly Known as Principal Equity Savings Fund)- Half Yearly Income Distribution CUM Capital Withdrawal;13.7289;24-Feb-2023
-101906;INF277K01907;-;Tata Equity Savings Fund -Regular Plan-Growth Option;42.3104;23-Feb-2023
-119960;INF277K01QH5;-;Tata Equity Savings Fund- Direct Plan- Growth Option;46.9176;23-Feb-2023
-102118;INF277K01EF5;INF277K01915;Tata Equity Savings Fund- Regular Plan - Periodic Payout of IDCW Option;20.2688;23-Feb-2023
-101609;INF277K01EE8;INF277K01899;TATA Equity Savings Fund- Regular Plan -Monthly Payout of IDCW option;14.8696;23-Feb-2023
-119958;INF277K01QI3;INF277K01QJ1;Tata Equity Savings Fund-Direct Plan - Monthly Payout of IDCW Option;17.6215;23-Feb-2023
-119959;INF277K01QK9;INF277K01QL7;Tata Equity Savings Fund-Direct Plan - Periodic Payout of IDCWS Option;22.9267;23-Feb-2023
+101906;INF277K01907;-;Tata Equity Savings Fund -Regular Plan-Growth Option;42.2876;24-Feb-2023
+119960;INF277K01QH5;-;Tata Equity Savings Fund- Direct Plan- Growth Option;46.8937;24-Feb-2023
+102118;INF277K01EF5;INF277K01915;Tata Equity Savings Fund- Regular Plan - Periodic Payout of IDCW Option;20.2579;24-Feb-2023
+101609;INF277K01EE8;INF277K01899;TATA Equity Savings Fund- Regular Plan -Monthly Payout of IDCW option;14.8616;24-Feb-2023
+119958;INF277K01QI3;INF277K01QJ1;Tata Equity Savings Fund-Direct Plan - Monthly Payout of IDCW Option;17.6125;24-Feb-2023
+119959;INF277K01QK9;INF277K01QL7;Tata Equity Savings Fund-Direct Plan - Periodic Payout of IDCWS Option;22.9150;24-Feb-2023
 144312;INF582M01EC1;-;Union Equity Savings Fund - Direct Plan - Growth Option;13.80;24-Feb-2023
 144313;INF582M01EE7;INF582M01ED9;Union Equity Savings Fund - Direct Plan - IDCW Option;13.80;24-Feb-2023
 144310;INF582M01EG2;-;Union Equity Savings Fund - Regular Plan - Growth Option;13.43;24-Feb-2023
@@ -5879,10 +5879,10 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 104898;INF109K01787;-;ICICI Prudential Multi-Asset Fund-Institutional Option - I;43.0129;18-Jun-2018
 148454;INF247L01AI8;-;Motilal Oswal Multi Asset Fund - Direct Plan - Growth Option;11.2311;24-Feb-2023
 148455;INF247L01AJ6;-;Motilal Oswal Multi Asset Fund - Regular Plan - Growth Option;10.8486;24-Feb-2023
-148457;INF204KB19V4;-;Nippon India Multi Asset Fund - Direct Plan - Growth Option;14.0419;23-Feb-2023
-148458;INF204KB10W1;INF204KB11W9;NIPPON INDIA MULTI ASSET FUND - DIRECT Plan - IDCW Option;14.0419;23-Feb-2023
-148460;INF204KB17V8;INF204KB18V6;NIPPON INDIA MULTI ASSET FUND - IDCW Option;13.5303;23-Feb-2023
-148459;INF204KB16V0;-;Nippon India Multi Asset Fund - Regular Plan - Growth Option;13.5303;23-Feb-2023
+148457;INF204KB19V4;-;Nippon India Multi Asset Fund - Direct Plan - Growth Option;13.9937;24-Feb-2023
+148458;INF204KB10W1;INF204KB11W9;NIPPON INDIA MULTI ASSET FUND - DIRECT Plan - IDCW Option;13.9937;24-Feb-2023
+148460;INF204KB17V8;INF204KB18V6;NIPPON INDIA MULTI ASSET FUND - IDCW Option;13.4834;24-Feb-2023
+148459;INF204KB16V0;-;Nippon India Multi Asset Fund - Regular Plan - Growth Option;13.4834;24-Feb-2023
 120820;INF966L01564;INF966L01572;quant Multi Asset Fund - IDCW Option - Direct Plan;80.6915;24-Feb-2023
 101071;INF966L01184;INF966L01192;quant Multi Asset Fund - IDCW Option - Regular Plan;77.3714;24-Feb-2023
 101072;INF966L01200;-;quant Multi Asset Fund-GROWTH OPTION - Regular Plan;84.3109;24-Feb-2023
@@ -5895,12 +5895,12 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 103408;INF200K01800;-;SBI MULTI ASSET ALLOCATION FUND - REGULAR PLAN - GROWTH;38.6195;24-Feb-2023
 103400;INF200K01818;INF200K01826;SBI Multi Asset Allocation Fund - Regular Plan - Monthly Income Distribution cum Capital Withdrawal Option (IDCW);17.2684;24-Feb-2023
 103401;INF200K01834;INF200K01842;SBI Multi Asset Allocation Fund - Regular Plan - Quarterly Income Distribution cum Capital Withdrawal Option (IDCW);17.2519;24-Feb-2023
-148052;-;INF277K010Z9;Tata Multi Asset Opportnities Fund-Direct Plan-Dividend Reinvestment;17.0002;23-Feb-2023
-148049;INF277K011Z7;-;Tata Multi Asset Opportunities Fund-Direct Plan-Dividend Payout;17.0002;23-Feb-2023
-148053;INF277K019Y3;-;Tata Multi Asset Opportunities Fund-Direct Plan-Growth;17.0002;23-Feb-2023
-148054;INF277K014Z1;-;Tata Multi Asset Opportunities Fund-Regular Plan-Dividend Payout;16.0955;23-Feb-2023
-148051;-;INF277K013Z3;Tata Multi Asset Opportunities Fund-Regular Plan-Dividend Reinvestment;16.0955;23-Feb-2023
-148050;INF277K012Z5;-;Tata Multi Asset Opportunities Fund-Regular Plan-Growth;16.0955;23-Feb-2023
+148052;-;INF277K010Z9;Tata Multi Asset Opportnities Fund-Direct Plan-Dividend Reinvestment;16.9816;24-Feb-2023
+148049;INF277K011Z7;-;Tata Multi Asset Opportunities Fund-Direct Plan-Dividend Payout;16.9816;24-Feb-2023
+148053;INF277K019Y3;-;Tata Multi Asset Opportunities Fund-Direct Plan-Growth;16.9816;24-Feb-2023
+148054;INF277K014Z1;-;Tata Multi Asset Opportunities Fund-Regular Plan-Dividend Payout;16.0770;24-Feb-2023
+148051;-;INF277K013Z3;Tata Multi Asset Opportunities Fund-Regular Plan-Dividend Reinvestment;16.0770;24-Feb-2023
+148050;INF277K012Z5;-;Tata Multi Asset Opportunities Fund-Regular Plan-Growth;16.0770;24-Feb-2023
 111599;INF789F01AP6;-;UTI - Multi Asset Fund - Regular Plan - Growth Option;45.2329;24-Feb-2023
 120760;INF789F01VE6;-;UTI - Multi Asset Fund- Direct Plan - Growth Option;48.9856;24-Feb-2023
 120761;INF789F01VC0;INF789F01VD8;UTI Multi Asset Fund - Direct Plan - IDCW;21.6394;24-Feb-2023
@@ -6238,10 +6238,10 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 120702;INF109K01X73;-;ICICI Prudential Debt Management Fund (FOF) - Direct Plan - Growth;38.6183;24-Feb-2023
 102141;INF109K01878;-;ICICI Prudential Debt Management Fund (FOF) - Growth;37.2664;24-Feb-2023
 102143;INF109K01FS0;INF109K01886;ICICI Prudential Debt Management Fund (FOF ) - IDCW;34.0873;24-Feb-2023
-147648;INF109KC1F34;-;ICICI Prudential Global Advantage Fund (FOF) - Direct Plan - Growth Option;13.0331;23-Feb-2023
-147645;INF109KC1F42;-;ICICI Prudential Global Advantage Fund (FOF) - Direct Plan - IDCW;13.0331;23-Feb-2023
-147647;INF109KC1F00;-;ICICI Prudential Global Advantage Fund (FOF) - Growth Option;12.7442;23-Feb-2023
-147646;INF109KC1F18;-;ICICI Prudential Global Advantage Fund (FOF) - IDCW;12.7438;23-Feb-2023
+147648;INF109KC1F34;-;ICICI Prudential Global Advantage Fund (FOF) - Direct Plan - Growth Option;12.937;24-Feb-2023
+147645;INF109KC1F42;-;ICICI Prudential Global Advantage Fund (FOF) - Direct Plan - IDCW;12.937;24-Feb-2023
+147647;INF109KC1F00;-;ICICI Prudential Global Advantage Fund (FOF) - Growth Option;12.65;24-Feb-2023
+147646;INF109KC1F18;-;ICICI Prudential Global Advantage Fund (FOF) - IDCW;12.6496;24-Feb-2023
 120313;INF109K01W82;-;ICICI Prudential Income Optimizer Fund (FOF) - Direct Plan - Growth;50.0821;24-Feb-2023
 120314;INF109K01W66;INF109K01W74;ICICI Prudential Income Optimizer Fund (FOF) - Direct Plan - IDCW;42.0140;24-Feb-2023
 102139;INF109K01811;-;ICICI Prudential Income Optimizer Fund (FOF) - Growth;47.2242;24-Feb-2023
@@ -6258,10 +6258,10 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 149160;INF109KC1S05;INF109KC1R97;ICICI Prudential Nifty Alpha Low - Volatility 30 ETF FOF - Direct Plan - IDCW;9.3302;24-Feb-2023
 149157;INF109KC1R55;-;ICICI Prudential Nifty Alpha Low - Volatility 30 ETF FOF - Growth;9.2514;24-Feb-2023
 149159;INF109KC1R71;INF109KC1R63;ICICI Prudential Nifty Alpha Low - Volatility 30 ETF FOF - IDCW;9.2514;24-Feb-2023
-149441;INF109KC1Y15;-;ICICI Prudential Passive Multi-Asset Fund of Funds - Direct Plan - Growth;10.7514;23-Feb-2023
-149442;INF109KC1Y23;INF109KC1Y31;ICICI Prudential Passive Multi-Asset Fund of Funds - Direct Plan - IDCW;10.7583;23-Feb-2023
-149439;INF109KC1X81;-;ICICI Prudential Passive Multi-Asset Fund of Funds - Growth;10.6972;23-Feb-2023
-149440;INF109KC1X99;INF109KC1Y07;ICICI Prudential Passive Multi-Asset Fund of Funds - IDCW;10.6972;23-Feb-2023
+149441;INF109KC1Y15;-;ICICI Prudential Passive Multi-Asset Fund of Funds - Direct Plan - Growth;10.6973;24-Feb-2023
+149442;INF109KC1Y23;INF109KC1Y31;ICICI Prudential Passive Multi-Asset Fund of Funds - Direct Plan - IDCW;10.7042;24-Feb-2023
+149439;INF109KC1X81;-;ICICI Prudential Passive Multi-Asset Fund of Funds - Growth;10.6432;24-Feb-2023
+149440;INF109KC1X99;INF109KC1Y07;ICICI Prudential Passive Multi-Asset Fund of Funds - IDCW;10.6432;24-Feb-2023
 102134;INF109K01DW7;INF109K01803;ICICI Prudential Passive Strategy Fund (FOF) - IDCW;85.4247;24-Feb-2023
 120243;INF109K01W33;INF109K01W41;ICICI Prudential Passive Strategy Fund (FOF) - Direct Plan -  IDCW;89.4634;24-Feb-2023
 120242;INF109K01W58;-;ICICI Prudential Passive Strategy Fund (FOF) - Direct Plan - Growth;106.0533;24-Feb-2023
@@ -6341,10 +6341,10 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 149787;INF769K01HY5;INF769K01IA3;Mirae Asset Nifty India Manufacturing ETF FOF - Direct Plan- IDCW;10.296;24-Feb-2023
 149788;INF769K01HW9;-;Mirae Asset Nifty India Manufacturing ETF FOF - Regular Plan - Growth;10.251;24-Feb-2023
 149789;INF769K01HV1;INF769K01HX7;Mirae Asset Nifty India Manufacturing ETF FOF - Regular Plan - IDCW;10.289;24-Feb-2023
-148928;INF769K01HH0;-;Mirae Asset NYSE FANG + ETF Fund of Fund Direct Growth;9.569;23-Feb-2023
-148929;INF769K01HG2;-;Mirae Asset NYSE FANG + ETF Fund of Fund Regular Growth;9.500;23-Feb-2023
-149170;INF769K01HR9;-;Mirae Asset S&P 500 Top 50 ETF Fund of Fund Direct Growth;9.722;23-Feb-2023
-149171;INF769K01HQ1;-;Mirae Asset S&P 500 Top 50 ETF Fund of Fund Regular Growth;9.665;23-Feb-2023
+148928;INF769K01HH0;-;Mirae Asset NYSE FANG + ETF Fund of Fund Direct Growth;9.547;24-Feb-2023
+148929;INF769K01HG2;-;Mirae Asset NYSE FANG + ETF Fund of Fund Regular Growth;9.479;24-Feb-2023
+149170;INF769K01HR9;-;Mirae Asset S&P 500 Top 50 ETF Fund of Fund Direct Growth;9.675;24-Feb-2023
+149171;INF769K01HQ1;-;Mirae Asset S&P 500 Top 50 ETF Fund of Fund Regular Growth;9.618;24-Feb-2023
 149240;INF247L01AQ1;-;Motilal Oswal 5 Year G-Sec Fund Of Fund Direct -Growth;10.3216;24-Feb-2023
 149241;INF247L01AR9;-;Motilal Oswal 5 Year G-Sec Fund Of Fund Regular -Growth;10.3106;24-Feb-2023
 148747;INF247L01AL2;-;Motilal Oswal Asset Allocation FOF- A- Direct Growth;11.5818;24-Feb-2023
@@ -6429,46 +6429,46 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 150287;INF251K01QU3;INF251K01QV1;Baroda BNP Paribas Funds Aqua Fund of Fund - Direct Plan - IDCW Option;10.6750;23-Feb-2023
 150286;INF251K01QR9;INF251K01QS7;Baroda BNP Paribas Funds Aqua Fund of Fund - Regular Plan - IDCW Option;10.4614;23-Feb-2023
 150284;INF251K01QQ1;-;Baroda BNP Paribas Funds Aqua Fund of Fund - Regular Plan Growth;10.4614;23-Feb-2023
-130493;INF740K01Z50;-;DSP Global Allocation Fund - Direct Plan - Growth;17.4064;23-Feb-2023
-130491;INF740K01Z68;INF740K01Z76;DSP Global Allocation Fund - Direct Plan - IDCW;15.6503;23-Feb-2023
-130492;INF740K01Z27;-;DSP Global Allocation Fund - Regular Plan - Growth;16.6895;23-Feb-2023
-130490;INF740K01Z35;INF740K01Z43;DSP Global Allocation Fund - Regular Plan - IDCW;15.0322;23-Feb-2023
-149816;INF740KA1QP1;-;DSP Global Innovation Fund of Fund - Direct - Growth;9.1340;23-Feb-2023
-149815;INF740KA1QQ9;INF740KA1QR7;DSP Global Innovation Fund of Fund - Direct - IDCW;9.1340;23-Feb-2023
-149817;INF740KA1QM8;-;DSP Global Innovation Fund of Fund - Regular - Growth;9.0431;23-Feb-2023
-149814;INF740KA1QN6;INF740KA1QO4;DSP Global Innovation Fund of Fund - Regular - IDCW;9.0431;23-Feb-2023
-119252;INF740K01OH7;-;DSP US Flexible Equity Fund - Direct Plan - Growth;45.5270;23-Feb-2023
-119253;INF740K01OI5;INF740K01OJ3;DSP US Flexible Equity Fund - Direct Plan - IDCW;42.2779;23-Feb-2023
-117691;INF740K01LP6;-;DSP US Flexible Equity Fund - Regular Plan - Growth Option;42.3726;23-Feb-2023
-117692;INF740K01LQ4;-;DSP US Flexible Equity Fund - Regular Plan - IDCW;23.5232;23-Feb-2023
-119271;INF740K01OE4;-;DSP World Agriculture Fund - Direct Plan - Growth;20.6463;23-Feb-2023
-119272;INF740K01OF1;INF740K01OG9;DSP World Agriculture Fund - Direct Plan - IDCW;18.8899;23-Feb-2023
-115882;INF740K01EK2;-;DSP World Agriculture Fund - Regular Plan - Growth;20.0382;23-Feb-2023
-115881;INF740K01EL0;-;DSP World Agriculture Fund - Regular Plan - IDCW;14.3126;23-Feb-2023
-119275;INF740K01PC5;-;DSP World Energy Fund - Direct Plan - Growth;18.0829;23-Feb-2023
-119276;INF740K01PD3;INF740K01PE1;DSP World Energy Fund - Direct Plan - IDCW;14.6603;23-Feb-2023
-112126;INF740K01284;-;DSP World Energy Fund - Regular Plan - Growth;17.4221;23-Feb-2023
-112127;INF740K01292;INF740K01300;DSP World Energy Fund - Regular Plan - IDCW;13.4167;23-Feb-2023
-119277;INF740K01OZ9;-;DSP World Gold Fund - Direct Plan - Growth;16.3448;23-Feb-2023
-119278;INF740K01PA9;INF740K01PB7;DSP World Gold Fund - Direct Plan - IDCW;11.3781;23-Feb-2023
-106597;INF740K01250;-;DSP World Gold Fund - Regular Plan - Growth;15.5254;23-Feb-2023
-106596;INF740K01268;INF740K01276;DSP World Gold Fund - Regular Plan - IDCW;10.8216;23-Feb-2023
-119279;INF740K01PF8;-;DSP World Mining Fund - Direct Plan - Growth;17.7432;23-Feb-2023
-119280;INF740K01PG6;INF740K01PH4;DSP World Mining Fund - Direct Plan - IDCW;17.7432;23-Feb-2023
-112293;INF740K01730;-;DSP World Mining Fund - Regular Plan - Growth;16.7455;23-Feb-2023
-112347;INF740K01748;INF740K01AL8;DSP World Mining Fund - Regular Plan - IDCW;16.7455;23-Feb-2023
-140256;INF843K01AW7;-;Edelweiss ASEAN Equity Off-shore Fund - Direct Plan - Growth Option;27.211;23-Feb-2023
-140255;INF843K01609;-;Edelweiss ASEAN Equity Off-shore Fund - Regular Plan - Growth Option;24.796;23-Feb-2023
-140327;INF843K01IZ3;-;Edelweiss Emerging Markets Opportunities Equity Offshore Fund - Direct Plan - Growth Option;14.8772;23-Feb-2023
-140328;INF843K01IY6;-;Edelweiss Emerging Markets Opportunities Equity Offshore Fund - Regular Plan - Growth Option;13.9829;23-Feb-2023
-140296;INF843K01GI3;-;Edelweiss Europe Dynamic Equity Offshore Fund - Growth Option - Direct Plan;17.4322;23-Feb-2023
-140295;INF843K01GJ1;-;Edelweiss Europe Dynamic Equity Offshore Fund - Growth Option - Regular Plan;16.1196;23-Feb-2023
-140243;INF843K01AU1;-;Edelweiss Greater China Equity Off-shore Fund - Direct Plan - Growth Option;43.182;23-Feb-2023
-140242;INF843K01138;-;Edelweiss Greater China Equity Off-shore Fund - Regular Plan - Growth Option;39.28;23-Feb-2023
-148063;INF754K01LB7;-;Edelweiss US Technology Equity Fund of Fund- Direct Plan- Growth;14.7471;23-Feb-2023
-148064;INF754K01LC5;-;Edelweiss US Technology Equity Fund of Fund- Regular Plan- Growth;14.3125;23-Feb-2023
-140274;INF843K01EC1;-;Edelweiss US Value Equity Offshore Fund - Direct Plan - Growth Option;27.6291;23-Feb-2023
-140273;INF843K01ED9;-;Edelweiss US Value Equity Offshore Fund - Regular Plan - Growth Option;25.5364;23-Feb-2023
+130493;INF740K01Z50;-;DSP Global Allocation Fund - Direct Plan - Growth;17.2114;24-Feb-2023
+130491;INF740K01Z68;INF740K01Z76;DSP Global Allocation Fund - Direct Plan - IDCW;14.7751;24-Feb-2023
+130492;INF740K01Z27;-;DSP Global Allocation Fund - Regular Plan - Growth;16.5023;24-Feb-2023
+130490;INF740K01Z35;INF740K01Z43;DSP Global Allocation Fund - Regular Plan - IDCW;14.2636;24-Feb-2023
+149816;INF740KA1QP1;-;DSP Global Innovation Fund of Fund - Direct - Growth;9.0962;24-Feb-2023
+149815;INF740KA1QQ9;INF740KA1QR7;DSP Global Innovation Fund of Fund - Direct - IDCW;9.0962;24-Feb-2023
+149817;INF740KA1QM8;-;DSP Global Innovation Fund of Fund - Regular - Growth;9.0054;24-Feb-2023
+149814;INF740KA1QN6;INF740KA1QO4;DSP Global Innovation Fund of Fund - Regular - IDCW;9.0054;24-Feb-2023
+119252;INF740K01OH7;-;DSP US Flexible Equity Fund - Direct Plan - Growth;44.7462;24-Feb-2023
+119253;INF740K01OI5;INF740K01OJ3;DSP US Flexible Equity Fund - Direct Plan - IDCW;41.5528;24-Feb-2023
+117691;INF740K01LP6;-;DSP US Flexible Equity Fund - Regular Plan - Growth Option;41.6448;24-Feb-2023
+117692;INF740K01LQ4;-;DSP US Flexible Equity Fund - Regular Plan - IDCW;23.1192;24-Feb-2023
+119271;INF740K01OE4;-;DSP World Agriculture Fund - Direct Plan - Growth;20.2623;24-Feb-2023
+119272;INF740K01OF1;INF740K01OG9;DSP World Agriculture Fund - Direct Plan - IDCW;18.5386;24-Feb-2023
+115882;INF740K01EK2;-;DSP World Agriculture Fund - Regular Plan - Growth;19.6653;24-Feb-2023
+115881;INF740K01EL0;-;DSP World Agriculture Fund - Regular Plan - IDCW;14.0463;24-Feb-2023
+119275;INF740K01PC5;-;DSP World Energy Fund - Direct Plan - Growth;17.7436;24-Feb-2023
+119276;INF740K01PD3;INF740K01PE1;DSP World Energy Fund - Direct Plan - IDCW;14.3853;24-Feb-2023
+112126;INF740K01284;-;DSP World Energy Fund - Regular Plan - Growth;17.0949;24-Feb-2023
+112127;INF740K01292;INF740K01300;DSP World Energy Fund - Regular Plan - IDCW;13.1647;24-Feb-2023
+119277;INF740K01OZ9;-;DSP World Gold Fund - Direct Plan - Growth;15.9796;24-Feb-2023
+119278;INF740K01PA9;INF740K01PB7;DSP World Gold Fund - Direct Plan - IDCW;11.1239;24-Feb-2023
+106597;INF740K01250;-;DSP World Gold Fund - Regular Plan - Growth;15.1783;24-Feb-2023
+106596;INF740K01268;INF740K01276;DSP World Gold Fund - Regular Plan - IDCW;10.5797;24-Feb-2023
+119279;INF740K01PF8;-;DSP World Mining Fund - Direct Plan - Growth;17.1021;24-Feb-2023
+119280;INF740K01PG6;INF740K01PH4;DSP World Mining Fund - Direct Plan - IDCW;17.1021;24-Feb-2023
+112293;INF740K01730;-;DSP World Mining Fund - Regular Plan - Growth;16.1401;24-Feb-2023
+112347;INF740K01748;INF740K01AL8;DSP World Mining Fund - Regular Plan - IDCW;16.1401;24-Feb-2023
+140256;INF843K01AW7;-;Edelweiss ASEAN Equity Off-shore Fund - Direct Plan - Growth Option;26.925;24-Feb-2023
+140255;INF843K01609;-;Edelweiss ASEAN Equity Off-shore Fund - Regular Plan - Growth Option;24.535;24-Feb-2023
+140327;INF843K01IZ3;-;Edelweiss Emerging Markets Opportunities Equity Offshore Fund - Direct Plan - Growth Option;14.5817;24-Feb-2023
+140328;INF843K01IY6;-;Edelweiss Emerging Markets Opportunities Equity Offshore Fund - Regular Plan - Growth Option;13.7048;24-Feb-2023
+140296;INF843K01GI3;-;Edelweiss Europe Dynamic Equity Offshore Fund - Growth Option - Direct Plan;17.1705;24-Feb-2023
+140295;INF843K01GJ1;-;Edelweiss Europe Dynamic Equity Offshore Fund - Growth Option - Regular Plan;15.8772;24-Feb-2023
+140243;INF843K01AU1;-;Edelweiss Greater China Equity Off-shore Fund - Direct Plan - Growth Option;42.374;24-Feb-2023
+140242;INF843K01138;-;Edelweiss Greater China Equity Off-shore Fund - Regular Plan - Growth Option;38.544;24-Feb-2023
+148063;INF754K01LB7;-;Edelweiss US Technology Equity Fund of Fund- Direct Plan- Growth;14.4824;24-Feb-2023
+148064;INF754K01LC5;-;Edelweiss US Technology Equity Fund of Fund- Regular Plan- Growth;14.0552;24-Feb-2023
+140274;INF843K01EC1;-;Edelweiss US Value Equity Offshore Fund - Direct Plan - Growth Option;27.2222;24-Feb-2023
+140273;INF843K01ED9;-;Edelweiss US Value Equity Offshore Fund - Regular Plan - Growth Option;25.1597;24-Feb-2023
 118550;INF090I01JP4;INF090I01JQ2;Franklin India Feeder - Franklin U S Opportunities Fund - Direct - IDCW ;48.4139;23-Feb-2023
 116632;INF090I01EV3;INF090I01EU5;Franklin India Feeder - Franklin U S Opportunities Fund - IDCW ;43.8274;23-Feb-2023
 116633;INF090I01EW1;-;Franklin India Feeder - Franklin U.S. Opportunities Fund - Growth;43.8274;23-Feb-2023
@@ -6495,14 +6495,14 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 148737;INF336L01PV0;-;HSBC Global Equity Climate Change Fund of Fund - Direct - Growth;9.0667;24-Feb-2023
 148735;INF336L01PY4;-;HSBC Global Equity Climate Change Fund of Fund - Regular - Growth;8.9285;24-Feb-2023
 148736;INF336L01PZ1;INF336L01QA2;HSBC Global Equity Climate Change Fund of Fund IDCW;8.9285;24-Feb-2023
-123654;INF109KA1CE0;-;ICICI Prudential Global Stable Equity Fund (FOF) - Direct - Growth;23.75;23-Feb-2023
-123652;INF109KA1CG5;INF109KA1CF7;ICICI Prudential Global Stable Equity Fund (FOF) - Direct - IDCW;23.75;23-Feb-2023
-123651;INF109KA1CB6;-;ICICI Prudential Global Stable Equity Fund (FOF) - Growth;22.29;23-Feb-2023
-123653;INF109KA1CD2;INF109KA1CC4;ICICI Prudential Global Stable Equity Fund (FOF) - IDCW;22.29;23-Feb-2023
-149455;INF109KC1Z55;-;ICICI Prudential Strategic Metal and Energy Equity Fund of Fund - Direct Plan Growth;12.2509;23-Feb-2023
-149458;INF109KC1Z63;INF109KC1Z71;ICICI Prudential Strategic Metal and Energy Equity Fund of Fund - Direct Plan IDCW;12.2512;23-Feb-2023
-149456;INF109KC1Z22;-;ICICI Prudential Strategic Metal and Energy Equity Fund of Fund - Growth;12.1117;23-Feb-2023
-149457;INF109KC1Z30;INF109KC1Z48;ICICI Prudential Strategic Metal and Energy Equity Fund of Fund - IDCW;12.1115;23-Feb-2023
+123654;INF109KA1CE0;-;ICICI Prudential Global Stable Equity Fund (FOF) - Direct - Growth;23.42;24-Feb-2023
+123652;INF109KA1CG5;INF109KA1CF7;ICICI Prudential Global Stable Equity Fund (FOF) - Direct - IDCW;23.42;24-Feb-2023
+123651;INF109KA1CB6;-;ICICI Prudential Global Stable Equity Fund (FOF) - Growth;21.98;24-Feb-2023
+123653;INF109KA1CD2;INF109KA1CC4;ICICI Prudential Global Stable Equity Fund (FOF) - IDCW;21.98;24-Feb-2023
+149455;INF109KC1Z55;-;ICICI Prudential Strategic Metal and Energy Equity Fund of Fund - Direct Plan Growth;12.1805;24-Feb-2023
+149458;INF109KC1Z63;INF109KC1Z71;ICICI Prudential Strategic Metal and Energy Equity Fund of Fund - Direct Plan IDCW;12.1809;24-Feb-2023
+149456;INF109KC1Z22;-;ICICI Prudential Strategic Metal and Energy Equity Fund of Fund - Growth;12.0418;24-Feb-2023
+149457;INF109KC1Z30;INF109KC1Z48;ICICI Prudential Strategic Metal and Energy Equity Fund of Fund - IDCW;12.0416;24-Feb-2023
 149098;INF194KB1CF2;-;IDFC US EQUITY FUND OF FUND - GROWTH - DIRECT PLAN;8.953;24-Feb-2023
 149100;INF194KB1CC9;-;IDFC US EQUITY FUND OF FUND - GROWTH - REGULAR PLAN;8.800;24-Feb-2023
 149099;INF194KB1CG0;-;IDFC US EQUITY FUND OF FUND - IDCW - DIRECT PLAN;8.953;24-Feb-2023
@@ -6547,26 +6547,26 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 149231;INF174V01BA8;INF174V01AZ7;Mahindra Manulife Asia Pacific REITs FOF - Direct Plan - IDCW;9.1415;24-Feb-2023
 149228;INF174V01AV6;-;Mahindra Manulife Asia Pacific REITs FOF - Regular Plan - Growth;9.0136;24-Feb-2023
 149229;INF174V01AX2;INF174V01AW4;Mahindra Manulife Asia Pacific REITs FOF - Regular Plan - IDCW;9.0136;24-Feb-2023
-150594;INF769K01IP1;-;Mirae Asset Global Electric & Autonomous Vehicles ETFs Fund of Fund - Regular Plan - Growth;10.048;23-Feb-2023
-150595;INF769K01IQ9;-;Mirae Asset Global Electric & Autonomous Vehicles ETFs Fund of Fund- Direct Plan - Growth;10.070;23-Feb-2023
-150597;INF769K01IS5;-;Mirae Asset Global X Artificial Intelligence & Technology ETF Fund of Fund - Direct Plan- Growth;11.188;23-Feb-2023
-150596;INF769K01IR7;-;Mirae Asset Global X Artificial Intelligence & Technology ETF Fund of Fund - Regular Plan - Growth;11.175;23-Feb-2023
+150594;INF769K01IP1;-;Mirae Asset Global Electric & Autonomous Vehicles ETFs Fund of Fund - Regular Plan - Growth;9.931;24-Feb-2023
+150595;INF769K01IQ9;-;Mirae Asset Global Electric & Autonomous Vehicles ETFs Fund of Fund- Direct Plan - Growth;9.953;24-Feb-2023
+150597;INF769K01IS5;-;Mirae Asset Global X Artificial Intelligence & Technology ETF Fund of Fund - Direct Plan- Growth;10.879;24-Feb-2023
+150596;INF769K01IR7;-;Mirae Asset Global X Artificial Intelligence & Technology ETF Fund of Fund - Regular Plan - Growth;10.866;24-Feb-2023
 149910;INF959L01FZ1;-;Navi NASDAQ 100 Fund of Fund- Direct- Growth;8.9269;23-Feb-2023
 149911;INF959L01GA2;-;Navi NASDAQ 100 Fund of Fund- Regular- Growth;8.9127;23-Feb-2023
 149830;INF959L01FV0;-;Navi US Total Stock Market Fund of Fund- Direct Plan- Growth;10.3355;23-Feb-2023
 149831;INF959L01FW8;-;Navi US Total Stock Market Fund of Fund- Regular Plan- Growth;10.3294;23-Feb-2023
 138457;INF223J01NJ4;-;PGIM India Emerging Markets Equity Fund - Direct Plan - Dividend;9.15;20-Jan-2023
-138456;INF223J01NL0;-;PGIM India Emerging Markets Equity Fund - Direct Plan - Growth;12.82;23-Feb-2023
+138456;INF223J01NL0;-;PGIM India Emerging Markets Equity Fund - Direct Plan - Growth;12.63;24-Feb-2023
 138454;INF223J01AW4;INF223J01AX2;PGIM India Emerging Markets Equity Fund - Dividend;11;20-Jan-2023
-138453;INF223J01AY0;-;PGIM India Emerging Markets Equity Fund - Growth;11.53;23-Feb-2023
+138453;INF223J01AY0;-;PGIM India Emerging Markets Equity Fund - Growth;11.36;24-Feb-2023
 138525;INF223J01AV6;-;PGIM India Global Equity Opportunities Fund - Bonus;11.75;04-Jan-2017
 138527;INF223J01NG0;-;PGIM India Global Equity Opportunities Fund - Direct Plan - Dividend;29.18;20-Jan-2023
-138528;INF223J01NF2;-;PGIM India Global Equity Opportunities Fund - Direct Plan - Growth;30.55;23-Feb-2023
+138528;INF223J01NF2;-;PGIM India Global Equity Opportunities Fund - Direct Plan - Growth;29.95;24-Feb-2023
 138524;INF223J01AS2;INF223J01AT0;PGIM India Global Equity Opportunities Fund - Dividend;22.17;20-Jan-2023
-138523;INF223J01AU8;-;PGIM India Global Equity Opportunities Fund - Growth;27.62;23-Feb-2023
-149298;INF663L01W63;-;PGIM India Global Select Real Estate Securities Fund of Fund - Direct Plan - Growth Option;9.21;23-Feb-2023
+138523;INF223J01AU8;-;PGIM India Global Equity Opportunities Fund - Growth;27.07;24-Feb-2023
+149298;INF663L01W63;-;PGIM India Global Select Real Estate Securities Fund of Fund - Direct Plan - Growth Option;9.08;24-Feb-2023
 149300;INF663L01W71;INF663L01W89;PGIM India Global Select Real Estate Securities Fund of Fund - Direct Plan - IDCW Option;9.01;20-Jan-2023
-149299;INF663L01W97;-;PGIM India Global Select Real Estate Securities Fund of Fund - Regular Plan - Growth Option;9.11;23-Feb-2023
+149299;INF663L01W97;-;PGIM India Global Select Real Estate Securities Fund of Fund - Regular Plan - Growth Option;8.98;24-Feb-2023
 149301;INF663L01X05;INF663L01X13;PGIM India Global Select Real Estate Securities Fund of Fund - Regular Plan - IDCW Option;8.93;20-Jan-2023
 148760;INF200KA1U28;-;SBI International Access - US Equity FoF - Direct Plan - Growth;11.0764;24-Feb-2023
 148762;INF200KA1T96;-;SBI International Access - US Equity FoF - Regular Plan - Growth;10.9045;24-Feb-2023
@@ -6744,10 +6744,10 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 149950;INF754K01OG0;-;Edelweiss CRISIL PSU Plus SDL 50:50 Oct 2025 Index Fund - Direct Plan Growth;10.2498;24-Feb-2023
 149947;INF754K01OD7;INF754K01OE5;Edelweiss CRISIL PSU Plus SDL 50:50 Oct 2025 Index Fund - Regular Plan - IDCW Payout;10.2308;24-Feb-2023
 149949;INF754K01OC9;-;Edelweiss CRISIL PSU Plus SDL 50:50 Oct 2025 Index Fund - Regular Plan Growth;10.2304;24-Feb-2023
-148556;INF754K01LW3;INF754K01LX1;Edelweiss MSCI India Domestic & World Healthcare 45 Index Fund - Direct Plan - IDCW Option;11.8766;23-Feb-2023
-148558;INF754K01LS1;INF754K01LT9;Edelweiss MSCI India Domestic & World Healthcare 45 Index Fund - Regular Plan - IDCW Option;11.7132;23-Feb-2023
-148555;INF754K01LV5;-;Edelweiss MSCI India Domestic & World Healthcare 45 Index Fund Direct Plan - Growth;11.8766;23-Feb-2023
-148557;INF754K01LR3;-;Edelweiss MSCI India Domestic & World Healthcare 45 index Fund Regular Plan - Growth;11.7132;23-Feb-2023
+148556;INF754K01LW3;INF754K01LX1;Edelweiss MSCI India Domestic & World Healthcare 45 Index Fund - Direct Plan - IDCW Option;11.8586;24-Feb-2023
+148558;INF754K01LS1;INF754K01LT9;Edelweiss MSCI India Domestic & World Healthcare 45 Index Fund - Regular Plan - IDCW Option;11.6952;24-Feb-2023
+148555;INF754K01LV5;-;Edelweiss MSCI India Domestic & World Healthcare 45 Index Fund Direct Plan - Growth;11.8586;24-Feb-2023
+148557;INF754K01LR3;-;Edelweiss MSCI India Domestic & World Healthcare 45 index Fund Regular Plan - Growth;11.6952;24-Feb-2023
 149254;INF754K01NJ6;-;Edelweiss Nifty 100 Quality 30 Index Fund Direct Plan Growth;9.7533;24-Feb-2023
 149255;INF754K01NK4;INF754K01NL2;Edelweiss Nifty 100 Quality 30 Index Fund Direct Plan IDCW;9.6168;24-Feb-2023
 149256;INF754K01NF4;-;Edelweiss Nifty 100 Quality 30 Index Fund Regular Plan Growth;9.6671;24-Feb-2023
@@ -6818,10 +6818,10 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 151163;INF917K01D53;INF917K01D61;HSBC NIFTY NEXT 50 INDEX FUND - Direct IDCW;16.3507;24-Feb-2023
 151162;INF917K01D95;-;HSBC NIFTY NEXT 50 INDEX FUND - Regular Growth;16.1411;24-Feb-2023
 151161;INF917K01D87;INF917K01E03;HSBC NIFTY NEXT 50 INDEX FUND - Regular IDCW;16.1412;24-Feb-2023
-149219;INF109KC1U50;-;ICICI Prudential NASDAQ 100 Index Fund - Direct Plan - Growth;8.7573;23-Feb-2023
-149221;INF109KC1U68;INF109KC1U76;ICICI Prudential NASDAQ 100 Index Fund - Direct Plan - IDCW;8.7565;23-Feb-2023
-149218;INF109KC1U27;-;ICICI Prudential NASDAQ 100 Index Fund - Growth;8.6977;23-Feb-2023
-149220;INF109KC1U35;INF109KC1U43;ICICI Prudential NASDAQ 100 Index Fund - IDCW;8.6976;23-Feb-2023
+149219;INF109KC1U50;-;ICICI Prudential NASDAQ 100 Index Fund - Direct Plan - Growth;8.6054;24-Feb-2023
+149221;INF109KC1U68;INF109KC1U76;ICICI Prudential NASDAQ 100 Index Fund - Direct Plan - IDCW;8.6047;24-Feb-2023
+149218;INF109KC1U27;-;ICICI Prudential NASDAQ 100 Index Fund - Growth;8.5468;24-Feb-2023
+149220;INF109KC1U35;INF109KC1U43;ICICI Prudential NASDAQ 100 Index Fund - IDCW;8.5466;24-Feb-2023
 150452;INF109KC11D8;-;ICICI Prudential Nifty 200 Momentum 30 Index Fund - Direct Plan - Growth;9.7540;24-Feb-2023
 150453;INF109KC12D6;INF109KC13D4;ICICI Prudential Nifty 200 Momentum 30 Index Fund - Direct Plan - IDCW;9.7533;24-Feb-2023
 150454;INF109KC18C5;-;ICICI Prudential Nifty 200 Momentum 30 Index Fund - Growth;9.7184;24-Feb-2023
@@ -7272,8 +7272,8 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 149786;INF769K01IB1;-;Mirae Asset Nifty India Manufacturing ETF;81.5597;24-Feb-2023
 149918;INF769K01IC9;-;Mirae Asset Nifty Midcap 150 ETF Regular Growth Option;11.4584;24-Feb-2023
 147906;INF769K01FN2;-;Mirae Asset Nifty Next 50 ETF (MANxt50ETF);378.5211;24-Feb-2023
-148927;INF769K01HF4;-;Mirae Asset NYSE FANG + ETF;45.4189;23-Feb-2023
-149169;INF769K01HP3;-;Mirae Asset S&P 500 Top 50 ETF;27.1805;23-Feb-2023
+148927;INF769K01HF4;-;Mirae Asset NYSE FANG + ETF;44.4887;24-Feb-2023
+149169;INF769K01HP3;-;Mirae Asset S&P 500 Top 50 ETF;26.8301;24-Feb-2023
 114984;INF247L01AP3;-;Motilal Oswal Nasdaq 100 ETF (MOFN100);98.3920;24-Feb-2023
 149438;INF247L01AU3;-;Motilal Oswal Nasdaq Q50 ETF;54.5036;24-Feb-2023
 149801;INF247L01AX7;-;Motilal Oswal Nifty 200 Momentum 30 ETF;35.9972;24-Feb-2023
