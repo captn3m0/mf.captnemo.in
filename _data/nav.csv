@@ -3335,15 +3335,15 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 133873;INF789FA1P01;INF789FA1P19;UTI Ultra Short Term Fund - Regular Plan - Quarterly IDCW;1146.2365;27-Feb-2023
 102531;-;INF789F01562;UTI Ultra Short Term Fund - Regular Plan - Weekly IDCW (Reinvestment);1155.5702;27-Feb-2023
 147316;-;INF03VN01175;WhiteOak Capital Ultra Short Term Fund- Direct plan-Daily Reinvestment of Income Distribution cum capital withdrawal option (IDCW);1001.4690;27-Feb-2023
-147315;INF03VN01183;INF03VN01191;WhiteOak Capital Ultra Short Term Fund- Direct plan-Fortnightly Payout/ Reinvestment of Income Distribution cum capital withdrawal option (IDCW);1003.3001;27-Feb-2023
-147311;INF03VN01209;-;WhiteOak Capital Ultra Short Term Fund- Direct plan-Growth Option;1192.3091;27-Feb-2023
-147312;INF03VN01217;INF03VN01225;WhiteOak Capital Ultra Short Term Fund- Direct plan-Monthly Payout/ Reinvestment of Income Distribution cum capital withdrawal option (IDCW);1003.0849;27-Feb-2023
-147313;INF03VN01233;INF03VN01241;WhiteOak Capital Ultra Short Term Fund- Direct plan-Weekly Payout/ Reinvestment of Income Distribution cum capital withdrawal option (IDCW);1002.7440;27-Feb-2023
+147315;INF03VN01183;INF03VN01191;WhiteOak Capital Ultra Short Term Fund- Direct plan-Fortnightly Payout/ Reinvestment of Income Distribution cum capital withdrawal option (IDCW);1003.2986;27-Feb-2023
+147311;INF03VN01209;-;WhiteOak Capital Ultra Short Term Fund- Direct plan-Growth Option;1192.3110;27-Feb-2023
+147312;INF03VN01217;INF03VN01225;WhiteOak Capital Ultra Short Term Fund- Direct plan-Monthly Payout/ Reinvestment of Income Distribution cum capital withdrawal option (IDCW);1003.0865;27-Feb-2023
+147313;INF03VN01233;INF03VN01241;WhiteOak Capital Ultra Short Term Fund- Direct plan-Weekly Payout/ Reinvestment of Income Distribution cum capital withdrawal option (IDCW);1002.7401;27-Feb-2023
 147308;-;INF03VN01258;WhiteOak Capital Ultra Short Term Fund- Regular plan-Daily Reinvestment of Income Distribution cum capital withdrawal option (IDCW);1001.4596;27-Feb-2023
-147309;INF03VN01266;INF03VN01274;WhiteOak Capital Ultra Short Term Fund- Regular plan-Fortnightly Payout/ Reinvestment of Income Distribution cum capital withdrawal option (IDCW);1002.9897;27-Feb-2023
-147307;INF03VN01282;-;WhiteOak Capital Ultra Short Term Fund- Regular plan-Growth Option;1167.2777;27-Feb-2023
-147314;INF03VN01290;INF03VN01308;WhiteOak Capital Ultra Short Term Fund- Regular plan-Monthly Payout/ Reinvestment of Income Distribution cum capital withdrawal option (IDCW);1002.8342;27-Feb-2023
-147310;INF03VN01316;INF03VN01324;WhiteOak Capital Ultra Short Term Fund- Regular plan-Weekly Payout/ Reinvestment of Income Distribution cum capital withdrawal option (IDCW);1002.0891;27-Feb-2023
+147309;INF03VN01266;INF03VN01274;WhiteOak Capital Ultra Short Term Fund- Regular plan-Fortnightly Payout/ Reinvestment of Income Distribution cum capital withdrawal option (IDCW);1002.9913;27-Feb-2023
+147307;INF03VN01282;-;WhiteOak Capital Ultra Short Term Fund- Regular plan-Growth Option;1167.2796;27-Feb-2023
+147314;INF03VN01290;INF03VN01308;WhiteOak Capital Ultra Short Term Fund- Regular plan-Monthly Payout/ Reinvestment of Income Distribution cum capital withdrawal option (IDCW);1002.8359;27-Feb-2023
+147310;INF03VN01316;INF03VN01324;WhiteOak Capital Ultra Short Term Fund- Regular plan-Weekly Payout/ Reinvestment of Income Distribution cum capital withdrawal option (IDCW);1002.0907;27-Feb-2023
 120348;INF205K01LE4;-;Invesco India Contra Fund - Direct Plan - Growth;87.7;27-Feb-2023
 120349;INF205K01LC8;INF205K01LD6;Invesco India Contra Fund - Direct Plan - IDCW (Payout / Reinvestment);40.88;27-Feb-2023
 105460;INF205K01189;-;Invesco India Contra Fund - Growth;76.88;27-Feb-2023
@@ -6156,10 +6156,10 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 150617;INF846K018J8;-;Axis Silver Fund of Fund -Regular Plan- Growth Option;11.4405;27-Feb-2023
 150616;INF846K016J2;INF846K017J0;Axis Silver Fund of Fund- Direct Plan - IDCW Option;11.4681;27-Feb-2023
 150615;INF846K015J4;-;Axis Silver Fund of Fund- Direct Plan-Growth Option;11.4681;27-Feb-2023
-149401;INF754K01NY5;-;BHARAT Bond ETF FOF - April 2032 Direct Growth;10.3824;24-Feb-2023
-149402;INF754K01NZ2;INF754K01OA3;BHARAT Bond ETF FOF - April 2032 Direct Plan Dividend;10.3824;24-Feb-2023
-149400;INF754K01NW9;INF754K01NX7;BHARAT Bond ETF FOF - April 2032 Regular Plan Dividend;10.3824;24-Feb-2023
-149399;INF754K01NV1;-;BHARAT Bond ETF FOF - April 2032 Regular Plan Growth;10.3824;24-Feb-2023
+149401;INF754K01NY5;-;BHARAT Bond ETF FOF - April 2032 Direct Growth;10.3806;27-Feb-2023
+149402;INF754K01NZ2;INF754K01OA3;BHARAT Bond ETF FOF - April 2032 Direct Plan Dividend;10.3806;27-Feb-2023
+149400;INF754K01NW9;INF754K01NX7;BHARAT Bond ETF FOF - April 2032 Regular Plan Dividend;10.3806;27-Feb-2023
+149399;INF754K01NV1;-;BHARAT Bond ETF FOF - April 2032 Regular Plan Growth;10.3806;27-Feb-2023
 150989;INF754K01RC2;-;BHARAT Bond ETF FOF - April 2033 - Direct Plan - Growth;10.0968;27-Feb-2023
 150990;INF754K01RD0;INF754K01RE8;BHARAT Bond ETF FOF - April 2033 - Direct Plan - IDCW;10.0968;27-Feb-2023
 150991;INF754K01QY8;-;BHARAT Bond ETF FOF - April 2033 - Regular Plan - Growth;10.0968;27-Feb-2023
@@ -6168,10 +6168,10 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 147852;INF754K01KT1;INF754K01KU9;BHARAT Bond FOF - April 2023 - Direct Plan - IDCW Option;12.185;27-Feb-2023
 147850;INF754K01KP9;-;Bharat Bond FOF - April 2023 - Regular Plan - Growth Option;12.185;27-Feb-2023
 147853;INF754K01KQ7;INF754K01KR5;BHARAT Bond FOF - April 2023 - Regular Plan - IDCW Option;12.185;27-Feb-2023
-147857;INF754K01KY1;-;Bharat Bond FOF - April 2030 - Direct Plan - Growth Option;12.3879;24-Feb-2023
-147855;INF754K01KZ8;INF754K01LA9;BHARAT Bond FOF - April 2030 - Direct Plan - IDCW Option;12.3879;24-Feb-2023
-147854;INF754K01KV7;-;Bharat Bond FOF - April 2030 - Regular Plan - Growth Option;12.3879;24-Feb-2023
-147856;INF754K01KW5;INF754K01KX3;BHARAT Bond FOF - April 2030 - Regular Plan - IDCW Option;12.3879;24-Feb-2023
+147857;INF754K01KY1;-;Bharat Bond FOF - April 2030 - Direct Plan - Growth Option;12.3934;27-Feb-2023
+147855;INF754K01KZ8;INF754K01LA9;BHARAT Bond FOF - April 2030 - Direct Plan - IDCW Option;12.3934;27-Feb-2023
+147854;INF754K01KV7;-;Bharat Bond FOF - April 2030 - Regular Plan - Growth Option;12.3934;27-Feb-2023
+147856;INF754K01KW5;INF754K01KX3;BHARAT Bond FOF - April 2030 - Regular Plan - IDCW Option;12.3934;27-Feb-2023
 148449;INF754K01LJ0;INF754K01LK8;BHARAT Bond FOF - April 2025 - Direct Plan - IDCW Option;11.0235;27-Feb-2023
 148447;INF754K01LG6;INF754K01LH4;BHARAT Bond FOF - April 2025 - Regular Plan - IDCW Option;11.0235;27-Feb-2023
 148446;INF754K01LI2;-;BHARAT Bond FOF- April 2025- Direct Pan- Growth Option;11.0235;27-Feb-2023
@@ -6383,16 +6383,16 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 149762;INF204KC1386;INF204KC1394;Nippon India Silver ETF FOF- Direct Plan-IDCW Option;10.1977;27-Feb-2023
 149761;INF204KC1352;INF204KC1360;Nippon India Silver ETF FOF- Regular Plan-IDCW Option;10.1379;27-Feb-2023
 149759;INF204KC1345;-;Nippon India Silver ETF FOF-Regular Plan- Growth Option;10.1379;27-Feb-2023
-112039;INF082J01093;-;Quantum Equity Fund of Funds - Direct Plan Growth Option;52.962;24-Feb-2023
-112038;INF082J01101;INF082J01119;Quantum Equity Fund Of Funds - Direct Plan IDCW;52.962;24-Feb-2023
-141063;INF082J01275;-;Quantum Equity Fund of Funds - Regular Plan Growth Option;52.347;24-Feb-2023
-141062;INF082J01283;INF082J01291;Quantum Equity Fund Of Funds - Regular Plan IDCW;52.347;24-Feb-2023
+112039;INF082J01093;-;Quantum Equity Fund of Funds - Direct Plan Growth Option;52.717;27-Feb-2023
+112038;INF082J01101;INF082J01119;Quantum Equity Fund Of Funds - Direct Plan IDCW;52.717;27-Feb-2023
+141063;INF082J01275;-;Quantum Equity Fund of Funds - Regular Plan Growth Option;52.104;27-Feb-2023
+141062;INF082J01283;INF082J01291;Quantum Equity Fund Of Funds - Regular Plan IDCW;52.104;27-Feb-2023
 115132;INF082J01150;-;Quantum Gold Savings Fund - Direct Plan Growth Option;21.8875;27-Feb-2023
 141064;INF082J01358;-;Quantum Gold Savings Fund - Regular Plan Growth Option;21.7270;27-Feb-2023
-117608;INF082J01168;-;Quantum Multi Asset Fund of Funds - Direct Plan Growth Option;25.0653;24-Feb-2023
-141072;INF082J01341;-;Quantum Multi Asset Fund of Funds - Regular Plan Growth Option;24.7030;24-Feb-2023
-150390;INF082J01416;-;Quantum Nifty 50 ETF Fund of Fund - Direct Plan - Growth;10.0645;24-Feb-2023
-150389;INF082J01424;-;Quantum Nifty 50 ETF Fund of Fund - Regular Plan - Growth;10.0580;24-Feb-2023
+117608;INF082J01168;-;Quantum Multi Asset Fund of Funds - Direct Plan Growth Option;24.9949;27-Feb-2023
+141072;INF082J01341;-;Quantum Multi Asset Fund of Funds - Regular Plan Growth Option;24.6329;27-Feb-2023
+150390;INF082J01416;-;Quantum Nifty 50 ETF Fund of Fund - Direct Plan - Growth;10.0261;27-Feb-2023
+150389;INF082J01424;-;Quantum Nifty 50 ETF Fund of Fund - Regular Plan - Growth;10.0196;27-Feb-2023
 119789;INF200K01RN3;INF200K01RO1;SBI Gold Fund - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);17.4483;27-Feb-2023
 115677;INF200K01HB9;INF200K01HC7;SBI Gold Fund - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);16.7883;27-Feb-2023
 115676;INF200K01HA1;-;SBI GOLD FUND REGULAR PLAN - GROWTH;16.7839;27-Feb-2023
@@ -6511,10 +6511,10 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 149458;INF109KC1Z63;INF109KC1Z71;ICICI Prudential Strategic Metal and Energy Equity Fund of Fund - Direct Plan IDCW;12.1809;24-Feb-2023
 149456;INF109KC1Z22;-;ICICI Prudential Strategic Metal and Energy Equity Fund of Fund - Growth;12.0418;24-Feb-2023
 149457;INF109KC1Z30;INF109KC1Z48;ICICI Prudential Strategic Metal and Energy Equity Fund of Fund - IDCW;12.0416;24-Feb-2023
-149098;INF194KB1CF2;-;IDFC US EQUITY FUND OF FUND - GROWTH - DIRECT PLAN;8.953;24-Feb-2023
-149100;INF194KB1CC9;-;IDFC US EQUITY FUND OF FUND - GROWTH - REGULAR PLAN;8.800;24-Feb-2023
-149099;INF194KB1CG0;-;IDFC US EQUITY FUND OF FUND - IDCW - DIRECT PLAN;8.953;24-Feb-2023
-149097;INF194KB1CD7;-;IDFC US EQUITY FUND OF FUND - IDCW - REGULAR PLAN;8.800;24-Feb-2023
+149098;INF194KB1CF2;-;IDFC US EQUITY FUND OF FUND - GROWTH - DIRECT PLAN;9.090;27-Feb-2023
+149100;INF194KB1CC9;-;IDFC US EQUITY FUND OF FUND - GROWTH - REGULAR PLAN;8.934;27-Feb-2023
+149099;INF194KB1CG0;-;IDFC US EQUITY FUND OF FUND - IDCW - DIRECT PLAN;9.090;27-Feb-2023
+149097;INF194KB1CD7;-;IDFC US EQUITY FUND OF FUND - IDCW - REGULAR PLAN;8.934;27-Feb-2023
 149961;INF205KA1585;-;Invesco India - Invesco EQQQ Nasdaq-100 ETF Fund of Fund - Direct Plan - Growth;9.4171;27-Feb-2023
 149960;INF205KA1577;-;Invesco India - Invesco EQQQ Nasdaq-100 ETF Fund of Fund - Regular Plan - Growth;9.3963;27-Feb-2023
 148614;INF205KA1270;-;Invesco India - Invesco Global Consumer Trends Fund of Fund - Direct Plan - Growth;6.6407;27-Feb-2023
@@ -6551,10 +6551,10 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 133815;INF178L01152;-;Kotak World Gold Fund - Standard Plan - Growth Option;11.199;25-Feb-2020
 133817;INF178L01AM7;INF178L01AN5;Kotak World Gold Fund- Direct Plan- Dividend Option;9.78;25-Feb-2020
 133816;INF178L01AO3;-;Kotak World Gold Fund- Direct Plan- Growth Option;11.759;25-Feb-2020
-149230;INF174V01AY0;-;Mahindra Manulife Asia Pacific REITs FOF - Direct Plan - Growth;9.1414;24-Feb-2023
-149231;INF174V01BA8;INF174V01AZ7;Mahindra Manulife Asia Pacific REITs FOF - Direct Plan - IDCW;9.1415;24-Feb-2023
-149228;INF174V01AV6;-;Mahindra Manulife Asia Pacific REITs FOF - Regular Plan - Growth;9.0136;24-Feb-2023
-149229;INF174V01AX2;INF174V01AW4;Mahindra Manulife Asia Pacific REITs FOF - Regular Plan - IDCW;9.0136;24-Feb-2023
+149230;INF174V01AY0;-;Mahindra Manulife Asia Pacific REITs FOF - Direct Plan - Growth;9.1092;27-Feb-2023
+149231;INF174V01BA8;INF174V01AZ7;Mahindra Manulife Asia Pacific REITs FOF - Direct Plan - IDCW;9.1093;27-Feb-2023
+149228;INF174V01AV6;-;Mahindra Manulife Asia Pacific REITs FOF - Regular Plan - Growth;8.9811;27-Feb-2023
+149229;INF174V01AX2;INF174V01AW4;Mahindra Manulife Asia Pacific REITs FOF - Regular Plan - IDCW;8.9811;27-Feb-2023
 150594;INF769K01IP1;-;Mirae Asset Global Electric & Autonomous Vehicles ETFs Fund of Fund - Regular Plan - Growth;9.931;24-Feb-2023
 150595;INF769K01IQ9;-;Mirae Asset Global Electric & Autonomous Vehicles ETFs Fund of Fund- Direct Plan - Growth;9.953;24-Feb-2023
 150597;INF769K01IS5;-;Mirae Asset Global X Artificial Intelligence & Technology ETF Fund of Fund - Direct Plan- Growth;10.879;24-Feb-2023
@@ -7210,7 +7210,7 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 147848;INF754K01KN4;-;Bharat Bond ETF - April 2023;1220.7812;27-Feb-2023
 147849;INF754K01KO2;-;Bharat Bond ETF - April 2030;1237.6724;27-Feb-2023
 149398;INF754K01OB1;-;BHARAT Bond ETF - April 2032;1033.5981;27-Feb-2023
-150987;INF754K01QX0;-;BHARAT Bond ETF - April 2033;1001.4197;27-Feb-2023
+150987;INF754K01QX0;-;BHARAT Bond ETF - April 2033;1001.422;27-Feb-2023
 148444;INF754K01LD3;-;BHARAT Bond ETF April 2025;1103.1108;27-Feb-2023
 148445;INF754K01LE1;-;BHARAT Bond ETF- April 2031;1104.5745;27-Feb-2023
 135859;INF754K01EL1;-;Edelweiss ETF - Nifty Bank;4109.1526;27-Feb-2023
