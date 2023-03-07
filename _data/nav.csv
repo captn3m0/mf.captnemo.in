@@ -1221,12 +1221,12 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 141889;-;-;BANK OF INDIA Liquid Fund  Unclaimed Dividend Upto 3 years;1226.9964;30-Nov-2021
 141888;-;-;BANK OF INDIA Liquid Fund  Unclaimed Redemption greater than  3 years;1000.0000;30-Nov-2021
 141890;-;-;BANK OF INDIA Liquid Fund  Unclaimed Redemption Upto 3 years;1226.8682;30-Nov-2021
-119368;-;INF761K01CL0;BANK OF INDIA Liquid Fund- Direct Plan- Daily IDCW;1002.6483;06-Mar-2023
-119369;INF761K01785;-;BANK OF INDIA Liquid Fund- Direct Plan- Growth;2577.1148;06-Mar-2023
-119370;-;INF761K01CM8;BANK OF INDIA Liquid Fund- Direct Plan- Weekly IDCW;1061.5519;06-Mar-2023
-111971;-;INF761K01CO4;BANK OF INDIA Liquid Fund- Regular Plan- Daily IDCW;1002.1069;06-Mar-2023
-109254;INF761K01306;-;BANK OF INDIA Liquid Fund- Regular Plan- Growth;2553.8314;06-Mar-2023
-109255;-;INF761K01CP1;BANK OF INDIA Liquid Fund- Regular Plan- Weekly IDCW;1001.3124;06-Mar-2023
+119368;-;INF761K01CL0;BANK OF INDIA Liquid Fund- Direct Plan- Daily IDCW;1002.6483;07-Mar-2023
+119369;INF761K01785;-;BANK OF INDIA Liquid Fund- Direct Plan- Growth;2577.6056;07-Mar-2023
+119370;-;INF761K01CM8;BANK OF INDIA Liquid Fund- Direct Plan- Weekly IDCW;1061.7530;07-Mar-2023
+111971;-;INF761K01CO4;BANK OF INDIA Liquid Fund- Regular Plan- Daily IDCW;1002.1069;07-Mar-2023
+109254;INF761K01306;-;BANK OF INDIA Liquid Fund- Regular Plan- Growth;2554.3141;07-Mar-2023
+109255;-;INF761K01CP1;BANK OF INDIA Liquid Fund- Regular Plan- Weekly IDCW;1001.5017;07-Mar-2023
 119414;INF955L01AK2;-;Baroda BNP Paribas LIQUID FUND - DIRECT PLAN - DAILY IDCW OPTION;1002.0849;07-Mar-2023
 119415;INF955L01AL0;-;Baroda BNP Paribas LIQUID FUND - DIRECT PLAN - GROWTH OPTION;2581.8788;07-Mar-2023
 119416;INF955L01AN6;-;Baroda BNP Paribas LIQUID FUND - DIRECT PLAN - WEEKLY IDCW OPTION;1218.4861;07-Mar-2023
@@ -1252,12 +1252,12 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 109351;INF760K01CX7;INF760K01CY5;CANARA ROBECO LIQUID FUND - REGULAR PLAN - MONTHLY IDCW (Payout/Reinvestment);1002.2091;07-Mar-2023
 109350;INF760K01BZ4;INF760K01CZ2;CANARA ROBECO LIQUID FUND - REGULAR PLAN - WEEKLY IDCW (Payout/Reinvestment);1001.1042;07-Mar-2023
 139235;INF760K01IC8;-;Canara Robeco Liquid Fund -Unclaimed Redemption and Dividend Plan -Direct Growth Option;1461.4375;07-Mar-2023
-119125;INF740K01QL4;-;DSP Liquidity Fund - Direct Plan - Growth;3200.2015;06-Mar-2023
-119124;-;INF740KA1OB6;DSP Liquidity Fund - Direct Plan - IDCW - Daily;1000.9329;06-Mar-2023
-119123;INF740KA1OC4;INF740KA1OD2;DSP Liquidity Fund - Direct Plan - IDCW - Weekly;1001.6368;06-Mar-2023
-103347;INF740K01FK9;-;DSP Liquidity Fund - Regular Plan - Growth;3171.0938;06-Mar-2023
-103348;INF740K01FM5;INF740K01FL7;DSP Liquidity Fund - Regular Plan - IDCW - Weekly;1001.6258;06-Mar-2023
-103349;-;INF740KA1OE0;DSP Liquidity Fund- Regular Plan - IDCW - Daily;1000.9329;06-Mar-2023
+119125;INF740K01QL4;-;DSP Liquidity Fund - Direct Plan - Growth;3200.8122;07-Mar-2023
+119124;-;INF740KA1OB6;DSP Liquidity Fund - Direct Plan - IDCW - Daily;1000.9329;07-Mar-2023
+119123;INF740KA1OC4;INF740KA1OD2;DSP Liquidity Fund - Direct Plan - IDCW - Weekly;1001.8280;07-Mar-2023
+103347;INF740K01FK9;-;DSP Liquidity Fund - Regular Plan - Growth;3171.6903;07-Mar-2023
+103348;INF740K01FM5;INF740K01FL7;DSP Liquidity Fund - Regular Plan - IDCW - Weekly;1001.8142;07-Mar-2023
+103349;-;INF740KA1OE0;DSP Liquidity Fund- Regular Plan - IDCW - Daily;1000.9329;07-Mar-2023
 140194;INF754K01GY9;-;Edelweiss Liquid Fund - Direct Plan - Bonus Option;1681.5919;07-Mar-2023
 140196;INF754K01GM4;-;Edelweiss Liquid Fund - Direct Plan - Growth Option;2890.4037;07-Mar-2023
 140198;INF754K01GO0;INF754K01GN2;Edelweiss Liquid Fund - Direct Plan - IDCW Option;2890.4186;07-Mar-2023
@@ -1294,14 +1294,14 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 102441;INF090I01BD7;-;Franklin India Liquid Fund - Institution-Growth;0.0000;08-Jul-2020
 102443;-;INF090I01BC9;Franklin India Liquid Fund - Institutional Plan - Daily - IDCW;1000.0000;06-Mar-2023
 102442;INF090I01BJ4;INF090I01BE5;Franklin India Liquid Fund - Institutional Plan - Weekly - IDCW;1054.8809;06-Mar-2023
-119091;INF179KB1HP9;-;HDFC Liquid Fund - Growth Option - Direct Plan;4399.2915;06-Mar-2023
-100868;INF179KB1HK0;-;HDFC Liquid Fund - Growth Plan;4360.5843;06-Mar-2023
-100875;-;INF179KB1IC5;HDFC Liquid Fund - IDCW Daily;1019.82;06-Mar-2023
-119089;-;INF179KB1HV7;HDFC Liquid Fund - IDCW Daily - Direct Plan;1019.82;06-Mar-2023
-100876;INF179KB1HM6;INF179KB1HL8;HDFC Liquid Fund - IDCW Monthly;1027.5476;06-Mar-2023
-119090;INF179KB1HO2;INF179KB1HQ7;HDFC Liquid Fund - IDCW Monthly - Direct Plan;1027.567;06-Mar-2023
-100874;INF179KB1ID3;-;HDFC Liquid Fund - IDCW Plan Weekly;1032.2828;06-Mar-2023
-119088;-;-;HDFC Liquid Fund - IDCW Weekly - Direct Plan;1032.3027;06-Mar-2023
+119091;INF179KB1HP9;-;HDFC Liquid Fund - Growth Option - Direct Plan;4400.1304;07-Mar-2023
+100868;INF179KB1HK0;-;HDFC Liquid Fund - Growth Plan;4361.4039;07-Mar-2023
+100875;-;INF179KB1IC5;HDFC Liquid Fund - IDCW Daily;1019.82;07-Mar-2023
+119089;-;INF179KB1HV7;HDFC Liquid Fund - IDCW Daily - Direct Plan;1019.82;07-Mar-2023
+100876;INF179KB1HM6;INF179KB1HL8;HDFC Liquid Fund - IDCW Monthly;1027.7407;07-Mar-2023
+119090;INF179KB1HO2;INF179KB1HQ7;HDFC Liquid Fund - IDCW Monthly - Direct Plan;1027.7629;07-Mar-2023
+100874;INF179KB1ID3;-;HDFC Liquid Fund - IDCW Plan Weekly;1031.224;07-Mar-2023
+119088;-;-;HDFC Liquid Fund - IDCW Weekly - Direct Plan;1031.2269;07-Mar-2023
 100878;INF179K01KP9;-;HDFC Liquid Fund-Premium Plan - Dividend-Weekly;10;14-Apr-2015
 100881;INF179K01KS3;-;HDFC Liquid Fund-Premium Plus Plan - Dividend-Weekly;10;14-May-2012
 100872;INF179K01KQ7;-;HDFC Liquid Fund-PREMIUM PLUS- Growth;10.0000;17-Dec-2012
@@ -1404,18 +1404,18 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 139388;-;-;Invesco India Liquid Fund - Unclaimed Redemption Plan - Above 3 Years;1000;07-Mar-2023
 139387;-;-;Invesco India Liquid Fund - Unclaimed Redemption Plan - Below 3 years;1456.9722;07-Mar-2023
 104485;-;INF205K01HO1;Invesco India Liquid Fund - Weekly IDCW (Reinvestment);1008.4422;07-Mar-2023
-147161;INF00XX01366;INF00XX01333;ITI Liquid Fund - Direct Plan - Annually IDCW Option;1172.7417;06-Mar-2023
-147158;-;INF00XX01291;ITI Liquid Fund - Direct Plan - Daily IDCW Option;1001.0000;06-Mar-2023
+147161;INF00XX01366;INF00XX01333;ITI Liquid Fund - Direct Plan - Annually IDCW Option;1172.9470;07-Mar-2023
+147158;-;INF00XX01291;ITI Liquid Fund - Direct Plan - Daily IDCW Option;1001.0000;07-Mar-2023
 147160;INF00XX01341;INF00XX01317;ITI Liquid Fund - Direct Plan - Fortnightly IDCW Option;1001.1646;12-Jan-2023
-147157;INF00XX01283;-;ITI Liquid Fund - Direct Plan - Growth Option;1171.8974;06-Mar-2023
-147163;INF00XX01358;INF00XX01325;ITI Liquid Fund - Direct Plan - Monthly IDCW Option;1002.0899;06-Mar-2023
-147159;-;INF00XX01309;ITI Liquid Fund - Direct Plan - Weekly IDCW Option;1002.0914;06-Mar-2023
-147162;INF00XX01275;INF00XX01242;ITI Liquid Fund - Regular Plan - Annually IDCW Option;1168.7446;06-Mar-2023
-147154;-;INF00XX01200;ITI Liquid Fund - Regular Plan - Daily IDCW Option;1001.0000;06-Mar-2023
-147155;INF00XX01259;INF00XX01226;ITI Liquid Fund - Regular Plan - Fortnightly Income Distribution cum capital withdrawal option Option;1002.0627;06-Mar-2023
-147153;INF00XX01192;-;ITI Liquid Fund - Regular Plan - Growth Option;1166.2928;06-Mar-2023
-147156;INF00XX01267;INF00XX01234;ITI Liquid Fund - Regular Plan - Monthly IDCW Option;1002.0664;06-Mar-2023
-147164;-;INF00XX01218;ITI Liquid Fund - Regular Plan - Weekly IDCW Option;1002.0633;06-Mar-2023
+147157;INF00XX01283;-;ITI Liquid Fund - Direct Plan - Growth Option;1172.1017;07-Mar-2023
+147163;INF00XX01358;INF00XX01325;ITI Liquid Fund - Direct Plan - Monthly IDCW Option;1002.2646;07-Mar-2023
+147159;-;INF00XX01309;ITI Liquid Fund - Direct Plan - Weekly IDCW Option;1001.0000;07-Mar-2023
+147162;INF00XX01275;INF00XX01242;ITI Liquid Fund - Regular Plan - Annually IDCW Option;1168.9610;07-Mar-2023
+147154;-;INF00XX01200;ITI Liquid Fund - Regular Plan - Daily IDCW Option;1001.0000;07-Mar-2023
+147155;INF00XX01259;INF00XX01226;ITI Liquid Fund - Regular Plan - Fortnightly Income Distribution cum capital withdrawal option Option;1002.2329;07-Mar-2023
+147153;INF00XX01192;-;ITI Liquid Fund - Regular Plan - Growth Option;1166.4910;07-Mar-2023
+147156;INF00XX01267;INF00XX01234;ITI Liquid Fund - Regular Plan - Monthly IDCW Option;1002.2371;07-Mar-2023
+147164;-;INF00XX01218;ITI Liquid Fund - Regular Plan - Weekly IDCW Option;1001.0000;07-Mar-2023
 120410;INF192K01CN4;-;JM Liquid Fund (Direct) - Bonus Option - Bonus Option - Principal units;19.6976;07-Mar-2023
 120411;-;INF192K01CH6;JM Liquid Fund (Direct) - Daily IDCW;10.4302;07-Mar-2023
 120406;INF192K01CM6;-;JM Liquid Fund (Direct) - Growth Option;61.2402;07-Mar-2023
@@ -1443,10 +1443,10 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 100832;-;INF174K01GB8;Kotak Liquid-Institutional Plan (Weekly Dividend);1011.079;23-Sep-2013
 100828;-;INF174K01FY2;Kotak Liquid-Regular (Dividend);1002.9403;21-Oct-2016
 100829;INF174K01NM1;-;Kotak Liquid-Regular (Growth);2893.5255;21-Oct-2016
-120248;INF767K01DL5;INF767K01DM3;LIC MF Liquid Fund-Direct Plan-Daily IDCW;1013.6;06-Mar-2023
-120249;INF767K01DN1;-;LIC MF Liquid Fund-Direct Plan-Growth;4065.7131;06-Mar-2023
-101184;INF767K01IQ3;INF767K01IR1;LIC MF Liquid Fund-Regular Plan-Daily IDCW;1000.1;06-Mar-2023
-101185;INF767K01IS9;-;LIC MF Liquid Fund-Regular Plan-Growth;4017.8189;06-Mar-2023
+120248;INF767K01DL5;INF767K01DM3;LIC MF Liquid Fund-Direct Plan-Daily IDCW;1013.6;07-Mar-2023
+120249;INF767K01DN1;-;LIC MF Liquid Fund-Direct Plan-Growth;4066.5297;07-Mar-2023
+101184;INF767K01IQ3;INF767K01IR1;LIC MF Liquid Fund-Regular Plan-Daily IDCW;1000.1;07-Mar-2023
+101185;INF767K01IS9;-;LIC MF Liquid Fund-Regular Plan-Growth;4018.6105;07-Mar-2023
 139535;-;INF174V01051;Mahindra Manulife Liquid Fund - Direct Plan - Daily IDCW;1025.8313;07-Mar-2023
 139536;-;INF174V01069;Mahindra Manulife Liquid Fund - Direct Plan - Weekly IDCW;1003.9121;07-Mar-2023
 139538;INF174V01044;-;Mahindra Manulife Liquid Fund - Direct Plan -Growth;1457.1310;07-Mar-2023
@@ -1523,14 +1523,14 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 138282;INF223J01BB6;-;PGIM India Insta Cash Fund-Institutional Plan-Growth;26.2743;28-Jul-2019
 138304;INF223J01VD0;-;PGIM India INSTA CASH FUND-Monthly Bonus Option;140.0664;28-Jul-2019
 138286;INF223J01BQ4;-;PGIM India Liquid Fund - Bonus Option;186.8975;21-Jan-2022
-138285;-;INF223J01BO9;PGIM India Liquid Fund - Daily Dividend;100.304;06-Mar-2023
-138297;INF223J01NR7;-;PGIM India Liquid Fund - Direct Plan - Daily Dividend;108.57;06-Mar-2023
-138299;INF223J01NS5;-;PGIM India Liquid Fund - Direct Plan - Growth;291.8035;06-Mar-2023
-138298;INF223J01NT3;INF223J01NU1;PGIM India Liquid Fund - Direct Plan - Monthly Dividend;110.5524;06-Mar-2023
-138301;INF223J01NV9;INF223J01NW7;PGIM India Liquid Fund - Direct Plan - Weekly Dividend;100.559;06-Mar-2023
-138288;INF223J01BP6;-;PGIM India Liquid Fund - Growth;289.2274;06-Mar-2023
-138287;INF223J01BL5;-;PGIM India Liquid Fund - Monthly Dividend;111.2064;06-Mar-2023
-138289;INF223J01BU6;-;PGIM India Liquid Fund - Weekly Dividend;100.5579;06-Mar-2023
+138285;-;INF223J01BO9;PGIM India Liquid Fund - Daily Dividend;100.304;07-Mar-2023
+138297;INF223J01NR7;-;PGIM India Liquid Fund - Direct Plan - Daily Dividend;108.57;07-Mar-2023
+138299;INF223J01NS5;-;PGIM India Liquid Fund - Direct Plan - Growth;291.8568;07-Mar-2023
+138298;INF223J01NT3;INF223J01NU1;PGIM India Liquid Fund - Direct Plan - Monthly Dividend;110.5726;07-Mar-2023
+138301;INF223J01NV9;INF223J01NW7;PGIM India Liquid Fund - Direct Plan - Weekly Dividend;100.5773;07-Mar-2023
+138288;INF223J01BP6;-;PGIM India Liquid Fund - Growth;289.2793;07-Mar-2023
+138287;INF223J01BL5;-;PGIM India Liquid Fund - Monthly Dividend;111.2264;07-Mar-2023
+138289;INF223J01BU6;-;PGIM India Liquid Fund - Weekly Dividend;100.576;07-Mar-2023
 138280;-;INF223J01BI1;PGIM India Liquid Fund-DIVIDEND-Daily Dividend;10.301;28-Jul-2019
 138279;INF223J01BR2;INF223J01BS0;PGIM India Liquid Fund-DIVIDEND-MONTHLY DIVIDEND;10.0577;30-Jul-2018
 138281;INF223J01BJ9;-;PGIM India Liquid Fund-Growth-GROWTH;27.706;28-Jul-2019
@@ -2528,17 +2528,17 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 146678;INF846K01O23;-;Axis Overnight Fund - Regular Plan - Growth Option;1177.6905;07-Mar-2023
 146681;INF846K01O31;INF846K01O49;Axis Overnight Fund - Regular Plan - Monthly IDCW;1002.2015;07-Mar-2023
 146680;INF846K01O07;INF846K01O15;Axis Overnight Fund - Regular Plan - Weekly IDCW;1000.8425;07-Mar-2023
-147951;INF761K01EU7;-;BANK OF INDIA Overnight Fund Direct Plan Growth;1130.7429;06-Mar-2023
+147951;INF761K01EU7;-;BANK OF INDIA Overnight Fund Direct Plan Growth;1130.9312;07-Mar-2023
 147952;-;INF761K01EV5;BANK OF INDIA Overnight Fund Direct Plan- Daily IDCW;1000.0000;21-Feb-2023
-147948;INF761K01EY9;INF761K01EX1;BANK OF INDIA Overnight Fund Direct Plan- Monthly IDCW;1001.1833;06-Mar-2023
-147950;-;INF761K01EW3;BANK OF INDIA Overnight Fund Direct Plan- Weekly IDCW;1000.0005;06-Mar-2023
-147936;INF761K01EZ6;-;BANK OF INDIA Overnight Fund Regular Plan Growth;1128.1552;06-Mar-2023
+147948;INF761K01EY9;INF761K01EX1;BANK OF INDIA Overnight Fund Direct Plan- Monthly IDCW;1001.3503;07-Mar-2023
+147950;-;INF761K01EW3;BANK OF INDIA Overnight Fund Direct Plan- Weekly IDCW;1000.1672;07-Mar-2023
+147936;INF761K01EZ6;-;BANK OF INDIA Overnight Fund Regular Plan Growth;1128.3426;07-Mar-2023
 147953;-;INF761K01FA6;BANK OF INDIA Overnight Fund Regular Plan- Daily IDCW;1000.0000;23-Mar-2021
-147949;INF761K01FD0;INF761K01FC2;BANK OF INDIA Overnight Fund Regular Plan- Monthly IDCW;1001.1818;06-Mar-2023
-149412;-;-;BANK OF INDIA Overnight Fund Unclaimed IDCW Plan - Greater than 3 Years;1000.0000;06-Mar-2023
-149414;-;-;BANK OF INDIA Overnight Fund Unclaimed IDCW Plan - Up to 3 Years;1063.2089;06-Mar-2023
-149415;-;-;BANK OF INDIA Overnight Fund Unclaimed Redemption Plan - Greater than 3 Years;1000.0000;06-Mar-2023
-149413;-;-;BANK OF INDIA Overnight Fund Unclaimed Redemption Plan - Upto 3 Years;1063.1254;06-Mar-2023
+147949;INF761K01FD0;INF761K01FC2;BANK OF INDIA Overnight Fund Regular Plan- Monthly IDCW;1001.3485;07-Mar-2023
+149412;-;-;BANK OF INDIA Overnight Fund Unclaimed IDCW Plan - Greater than 3 Years;1000.0000;07-Mar-2023
+149414;-;-;BANK OF INDIA Overnight Fund Unclaimed IDCW Plan - Up to 3 Years;1063.3858;07-Mar-2023
+149415;-;-;BANK OF INDIA Overnight Fund Unclaimed Redemption Plan - Greater than 3 Years;1000.0000;07-Mar-2023
+149413;-;-;BANK OF INDIA Overnight Fund Unclaimed Redemption Plan - Upto 3 Years;1063.3023;07-Mar-2023
 147197;-;INF955L01HW2;Baroda BNP Paribas Overnight Fund - Direct Plan - Daily IDCW;1000.0028;07-Mar-2023
 147196;INF955L01HV4;-;Baroda BNP Paribas Overnight Fund - Direct Plan - Growth;1172.2259;07-Mar-2023
 147195;-;INF955L01HX0;Baroda BNP Paribas Overnight Fund - Direct Plan - Weekly IDCW;1000.1079;07-Mar-2023
@@ -2553,16 +2553,16 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 147531;INF760K01JM5;-;CANARA ROBECO OVERNIGHT FUND - DIRECT PLAN - GROWTH OPTION;1155.3230;07-Mar-2023
 147533;-;INF760K01JP8;CANARA ROBECO OVERNIGHT FUND - REGULAR PLAN - DAILY IDCW (Reinvestment);1001.0000;07-Mar-2023
 147534;INF760K01JO1;-;CANARA ROBECO OVERNIGHT FUND - REGULAR PLAN - GROWTH OPTION;1154.4730;07-Mar-2023
-146062;INF740KA1MC8;-;DSP Overnight Fund - Direct Plan - Growth;1195.3089;06-Mar-2023
-146065;-;INF740KA1OR2;DSP Overnight Fund - Direct Plan - IDCW - Daily;1000.0028;06-Mar-2023
-146064;INF740KA1OS0;INF740KA1OT8;DSP Overnight Fund - Direct Plan - IDCW - Weekly;1000.5116;06-Mar-2023
-146061;INF740KA1MB0;-;DSP Overnight Fund - Regular Plan - Growth;1191.1197;06-Mar-2023
-146066;-;INF740KA1OU6;DSP Overnight Fund - Regular Plan - IDCW - Daily;1000.0028;06-Mar-2023
-146063;INF740KA1OV4;INF740KA1OW2;DSP Overnight Fund - Regular Plan - IDCW - Weekly;1000.8245;06-Mar-2023
-149313;-;-;Unclaimed IDCW - Beyond 3 years (Invested in DSP Overnight Fund);10.0000;06-Mar-2023
-149312;-;-;Unclaimed IDCW - Upto 3 years (Invested in DSP Overnight Fund);10.6475;06-Mar-2023
-149311;-;-;Unclaimed Redemption - Beyond 3 years (Invested in DSP Overnight Fund);10.0000;06-Mar-2023
-149310;-;-;Unclaimed Redemption - Upto 3 years (Invested in DSP Overnight Fund);10.6475;06-Mar-2023
+146062;INF740KA1MC8;-;DSP Overnight Fund - Direct Plan - Growth;1195.5121;07-Mar-2023
+146065;-;INF740KA1OR2;DSP Overnight Fund - Direct Plan - IDCW - Daily;1000.0028;07-Mar-2023
+146064;INF740KA1OS0;INF740KA1OT8;DSP Overnight Fund - Direct Plan - IDCW - Weekly;1000.6788;07-Mar-2023
+146061;INF740KA1MB0;-;DSP Overnight Fund - Regular Plan - Growth;1191.3195;07-Mar-2023
+146066;-;INF740KA1OU6;DSP Overnight Fund - Regular Plan - IDCW - Daily;1000.0028;07-Mar-2023
+146063;INF740KA1OV4;INF740KA1OW2;DSP Overnight Fund - Regular Plan - IDCW - Weekly;1000.9971;07-Mar-2023
+149313;-;-;Unclaimed IDCW - Beyond 3 years (Invested in DSP Overnight Fund);10.0000;07-Mar-2023
+149312;-;-;Unclaimed IDCW - Upto 3 years (Invested in DSP Overnight Fund);10.6493;07-Mar-2023
+149311;-;-;Unclaimed Redemption - Beyond 3 years (Invested in DSP Overnight Fund);10.0000;07-Mar-2023
+149310;-;-;Unclaimed Redemption - Upto 3 years (Invested in DSP Overnight Fund);10.6493;07-Mar-2023
 147551;INF754K01KD5;INF754K01KC7;Edelweiss Overnight Fund - Direct Plan - Annual - IDCW Option;1156.919;07-Mar-2023
 147557;-;INF754K01JW7;Edelweiss Overnight Fund - Direct Plan - Daily - IDCW Option;1000.031;07-Mar-2023
 147550;INF754K01JZ0;INF754K01JY3;Edelweiss Overnight Fund - Direct Plan - Fortnightly - IDCW Option;1149.6445;13-Feb-2023
@@ -2589,10 +2589,10 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 149443;-;-;Franklin India Overnight Fund- Unclaimed IDCW Plan;10.5746;06-Mar-2023
 149444;-;-;Franklin India Overnight Fund- Unclaimed Redemption Investor EducationPlan;10.0000;06-Mar-2023
 149446;-;-;Franklin India Overnight Fund- Unclaimed Redemption Plan;10.5746;06-Mar-2023
-119109;-;-;HDFC Overnight Fund - Daily IDCW Option - Direct Plan;1042.66;06-Mar-2023
-101996;INF179KB1HS3;-;HDFC Overnight Fund - Growth Option;3288.1721;06-Mar-2023
-119110;INF179KB1HT1;-;HDFC Overnight Fund - Growth Option - Direct Plan;3313.7794;06-Mar-2023
-101997;-;-;HDFC Overnight Fund - IDCW Option (Daily);1042.66;06-Mar-2023
+119109;-;-;HDFC Overnight Fund - Daily IDCW Option - Direct Plan;1042.66;07-Mar-2023
+101996;INF179KB1HS3;-;HDFC Overnight Fund - Growth Option;3288.7239;07-Mar-2023
+119110;INF179KB1HT1;-;HDFC Overnight Fund - Growth Option - Direct Plan;3314.3445;07-Mar-2023
+101997;-;-;HDFC Overnight Fund - IDCW Option (Daily);1042.66;07-Mar-2023
 147291;-;INF336L01OG4;HSBC Overnight Fund - Direct Daily IDCW;1000.0067;07-Mar-2023
 147287;INF336L01OF6;-;HSBC Overnight Fund - Direct Growth;1167.9482;07-Mar-2023
 147300;INF336L01OK6;INF336L01OI0;HSBC Overnight Fund - Direct Monthly IDCW;1001.3705;07-Mar-2023
@@ -2657,18 +2657,18 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 147878;INF205KA1114;-;Invesco India Overnight Fund - Regular Plan - Growth;1125.8641;07-Mar-2023
 147879;INF205KA1106;INF205KA1098;Invesco India Overnight Fund - Regular Plan - Monthly IDCW (Payout / Reinvestment);1001.3678;07-Mar-2023
 147881;-;INF205KA1080;Invesco India Overnight Fund - Regular Plan - Weekly IDCW (Reinvestment);1000.1768;07-Mar-2023
-147707;INF00XX01648;INF00XX01614;ITI Overnight Fund - Direct Plan - Annual IDCW Option;1130.2832;06-Mar-2023
+147707;INF00XX01648;INF00XX01614;ITI Overnight Fund - Direct Plan - Annual IDCW Option;1130.4734;07-Mar-2023
 147708;-;INF00XX01572;ITI Overnight Fund - Direct Plan - Daily IDCW Option;1001.0000;19-Jan-2023
-147710;INF00XX01622;INF00XX01598;ITI Overnight Fund - Direct Plan - Fortnightly IDCW Option;1001.9885;06-Mar-2023
-147713;INF00XX01564;-;ITI Overnight Fund - Direct Plan - Growth Option;1137.2485;06-Mar-2023
-147717;INF00XX01630;INF00XX01606;ITI Overnight Fund - Direct Plan - Monthly IDCW Option;1001.9883;06-Mar-2023
-147711;-;INF00XX01580;ITI Overnight Fund - Direct Plan - Weekly IDCW option;1001.9876;06-Mar-2023
-147715;INF00XX01556;INF00XX01523;ITI Overnight Fund - Regular Plan - Annual IDCW Option;1062.6756;06-Mar-2023
-147709;-;INF00XX01481;ITI Overnight Fund - Regular Plan - Daily IDCW Option;1001.0000;06-Mar-2023
-147716;INF00XX01531;INF00XX01507;ITI Overnight Fund - Regular Plan - Fortnightly IDCW Option;1001.9772;06-Mar-2023
-147714;INF00XX01473;-;ITI Overnight Fund - Regular Plan - Growth Option;1133.3185;06-Mar-2023
-147718;INF00XX01549;INF00XX01515;ITI Overnight Fund - Regular Plan - Monthly IDCW Option;1001.9736;06-Mar-2023
-147712;-;INF00XX01499;ITI Overnight Fund - Regular Plan - Weekly IDCW Option;1001.9715;06-Mar-2023
+147710;INF00XX01622;INF00XX01598;ITI Overnight Fund - Direct Plan - Fortnightly IDCW Option;1002.1564;07-Mar-2023
+147713;INF00XX01564;-;ITI Overnight Fund - Direct Plan - Growth Option;1137.4384;07-Mar-2023
+147717;INF00XX01630;INF00XX01606;ITI Overnight Fund - Direct Plan - Monthly IDCW Option;1002.1561;07-Mar-2023
+147711;-;INF00XX01580;ITI Overnight Fund - Direct Plan - Weekly IDCW option;1001.0000;07-Mar-2023
+147715;INF00XX01556;INF00XX01523;ITI Overnight Fund - Regular Plan - Annual IDCW Option;1062.8501;07-Mar-2023
+147709;-;INF00XX01481;ITI Overnight Fund - Regular Plan - Daily IDCW Option;1001.0000;07-Mar-2023
+147716;INF00XX01531;INF00XX01507;ITI Overnight Fund - Regular Plan - Fortnightly IDCW Option;1002.1483;07-Mar-2023
+147714;INF00XX01473;-;ITI Overnight Fund - Regular Plan - Growth Option;1133.5046;07-Mar-2023
+147718;INF00XX01549;INF00XX01515;ITI Overnight Fund - Regular Plan - Monthly IDCW Option;1002.1388;07-Mar-2023
+147712;-;INF00XX01499;ITI Overnight Fund - Regular Plan - Weekly IDCW Option;1001.0000;07-Mar-2023
 147838;-;INF192K01LY2;JM Overnight Fund (Direct) - Daily IDCW;1000.0000;07-Mar-2023
 147835;INF192K01LZ9;INF192K01MA0;JM Overnight Fund (Direct) - Weekly IDCW;1000.0000;07-Mar-2023
 147839;-;INF192K01LU0;JM Overnight Fund (Regular) - Daily IDCW;1000.0000;07-Mar-2023
@@ -2683,14 +2683,14 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 146142;INF174KA1BC6;-;Kotak Overnight Fund -Regular plan-Growth Option;1186.0336;06-Mar-2023
 146140;-;INF174KA1BE2;Kotak Overnight Fund-Direct Plan- Daily Reinvestment of Income Distribution cum capital withdrawal option;1003.6055;06-Mar-2023
 146138;-;INF174KA1BB8;Kotak Overnight Fund-Regular Plan- Daily Reinvestment of Income Distribution cum capital withdrawal option;1004.7568;06-Mar-2023
-147516;-;INF767K01QG7;LIC MF Overnight Fund-Direct Plan-Daily IDCW;1054.7042;06-Mar-2023
-147515;INF767K01QI3;-;LIC MF Overnight Fund-Direct Plan-Growth;1157.0234;06-Mar-2023
-147513;INF767K01QE2;INF767K01QF9;LIC MF Overnight Fund-Direct Plan-IDCW;1156.7572;06-Mar-2023
-147514;-;INF767K01QH5;LIC MF Overnight Fund-Direct Plan-Weekly IDCW;1001.614;06-Mar-2023
-147517;-;INF767K01QB8;LIC MF Overnight Fund-Regular Plan-Daily IDCW;1044.6591;06-Mar-2023
-147519;INF767K01QD4;-;LIC MF Overnight Fund-Regular Plan-Growth;1151.5624;06-Mar-2023
+147516;-;INF767K01QG7;LIC MF Overnight Fund-Direct Plan-Daily IDCW;1054.8862;07-Mar-2023
+147515;INF767K01QI3;-;LIC MF Overnight Fund-Direct Plan-Growth;1157.2187;07-Mar-2023
+147513;INF767K01QE2;INF767K01QF9;LIC MF Overnight Fund-Direct Plan-IDCW;1156.9526;07-Mar-2023
+147514;-;INF767K01QH5;LIC MF Overnight Fund-Direct Plan-Weekly IDCW;1000.5814;07-Mar-2023
+147517;-;INF767K01QB8;LIC MF Overnight Fund-Regular Plan-Daily IDCW;1044.6591;07-Mar-2023
+147519;INF767K01QD4;-;LIC MF Overnight Fund-Regular Plan-Growth;1151.7527;07-Mar-2023
 147512;INF767K01PZ9;INF767K01QA0;LIC MF Overnight Fund-Regular Plan-IDCW;1114.1676;03-Aug-2022
-147518;-;INF767K01QC6;LIC MF Overnight Fund-Regular Plan-Weekly IDCW;1046.6276;06-Mar-2023
+147518;-;INF767K01QC6;LIC MF Overnight Fund-Regular Plan-Weekly IDCW;1045.5778;07-Mar-2023
 147563;-;INF174V01846;Mahindra Manulife Overnight Fund - Direct Plan - Daily IDCW;1094.0188;07-Mar-2023
 147564;INF174V01838;-;Mahindra Manulife Overnight Fund - Direct Plan -Growth;1155.6208;07-Mar-2023
 147566;-;INF174V01820;Mahindra Manulife Overnight Fund - Regular Plan - Daily IDCW;1077.7341;07-Mar-2023
@@ -2717,12 +2717,12 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 145826;-;INF204KB1Q81;NIPPON INDIA OVERNIGHT FUND - WEEKLY IDCW Option;100.0721;07-Mar-2023
 150369;INF0J8L01081;-;NJ Overnight Fund - Direct Plan - Growth Option;1035.3317;07-Mar-2023
 150368;INF0J8L01073;-;NJ Overnight Fund - Regular Plan - Growth Option;1034.7164;07-Mar-2023
-147605;-;INF663L01T35;PGIM India Overnight Fund - Direct Plan - Daily Dividend Option;1000.0063;06-Mar-2023
-147606;INF663L01T01;-;PGIM India Overnight Fund - Direct Plan - Growth Option;1152.0044;06-Mar-2023
-147608;INF663L01T19;INF663L01T27;PGIM India Overnight Fund - Direct Plan - Weekly Dividend Option;1000.5384;06-Mar-2023
-147609;-;INF663L01T76;PGIM India Overnight Fund - Regular Plan - Daily Dividend Option;1000;06-Mar-2023
-147607;INF663L01T50;INF663L01T68;PGIM India Overnight Fund - Regular Plan - Weekly Dividend Option;1000.5347;06-Mar-2023
-147600;INF663L01T43;-;PGIM India Overnight Fund - Regular Plan- Growth Option;1148.6375;06-Mar-2023
+147605;-;INF663L01T35;PGIM India Overnight Fund - Direct Plan - Daily Dividend Option;1000.0063;07-Mar-2023
+147606;INF663L01T01;-;PGIM India Overnight Fund - Direct Plan - Growth Option;1152.1997;07-Mar-2023
+147608;INF663L01T19;INF663L01T27;PGIM India Overnight Fund - Direct Plan - Weekly Dividend Option;1000.7084;07-Mar-2023
+147609;-;INF663L01T76;PGIM India Overnight Fund - Regular Plan - Daily Dividend Option;1000;07-Mar-2023
+147607;INF663L01T50;INF663L01T68;PGIM India Overnight Fund - Regular Plan - Weekly Dividend Option;1000.7003;07-Mar-2023
+147600;INF663L01T43;-;PGIM India Overnight Fund - Regular Plan- Growth Option;1148.8276;07-Mar-2023
 151190;INF966L01AZ7;-;quant Overnight Fund - Growth Option - Direct Plan;10.1576;07-Mar-2023
 151195;INF966L01BC4;-;quant Overnight Fund - Growth Option - Regular Plan;10.1535;07-Mar-2023
 151193;INF966L01BA8;INF966L01BB6;quant Overnight Fund - IDCW Option - Direct Plan;10.1577;07-Mar-2023
@@ -7215,7 +7215,7 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 149156;INF846K016C7;-;Axis NIFTY India Consumption ETF;73.1261;06-Mar-2023
 148799;INF846K01Y96;-;Axis IT ETF;312.1963;06-Mar-2023
 150610;INF846K011K1;-;Axis Silver ETF;64.6608;06-Mar-2023
-142589;-;INF740KA1EU7;DSP NIFTY 1D Rate Liquid ETF - IDCW - Daily Reinvest;1000.0000;06-Mar-2023
+142589;-;INF740KA1EU7;DSP NIFTY 1D Rate Liquid ETF - IDCW - Daily Reinvest;1000.0000;07-Mar-2023
 149286;INF740KA1QK2;-;DSP Nifty 50 Equal Weight ETF;202.4519;06-Mar-2023
 149392;INF740KA1CL0;-;DSP Nifty 50 ETF;179.2906;06-Mar-2023
 151262;INF740KA1RX3;-;DSP Nifty Bank ETF;41.3195;06-Mar-2023
