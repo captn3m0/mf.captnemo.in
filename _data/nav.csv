@@ -463,13 +463,13 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 133517;INF955L01FU0;-;Baroda BNP Paribas Credit Risk Fund -Regular-Monthly IDCW;11.2989;09-Mar-2023
 133518;INF955L01FV8;-;Baroda BNP Paribas Credit Risk Fund -Regular-Quarterly IDCW;11.8418;09-Mar-2023
 148350;-;-;Baroda BNP Paribas Credit Risk Fund- Direct - Bonus Option- Segregated Portfolio- 1;0;14-Mar-2022
-148333;INF955L01IT6;-;Baroda BNP Paribas Credit Risk Fund- Direct- Growth Option- Segregated Portfolio- 1;0;09-Mar-2023
-148334;INF955L01IW0;INF955L01IX8;Baroda BNP Paribas Credit Risk Fund- Direct- Monthly IDCW Option- Segregated Portfolio- 1;0;09-Mar-2023
+148333;INF955L01IT6;-;Baroda BNP Paribas Credit Risk Fund- Direct- Growth Option- Segregated Portfolio- 1;0;10-Mar-2023
+148334;INF955L01IW0;INF955L01IX8;Baroda BNP Paribas Credit Risk Fund- Direct- Monthly IDCW Option- Segregated Portfolio- 1;0;10-Mar-2023
 148349;-;-;Baroda BNP Paribas Credit Risk Fund- Regular- Bonus Option- Segregated Portfolio- 1;0;14-Mar-2022
-148330;INF955L01IO7;-;Baroda BNP Paribas Credit Risk Fund- Regular- Growth Option- Segregated Portfolio- 1;0;09-Mar-2023
-148331;INF955L01IR0;INF955L01IS8;Baroda BNP Paribas Credit Risk Fund- Regular- Monthly IDCW Option- Segregated Portfolio- 1;0;09-Mar-2023
-148332;INF955L01IP4;INF955L01IQ2;Baroda BNP Paribas Credit Risk Fund- Regular- Quarterly IDCW Option- Segregated Portfolio- 1;0;09-Mar-2023
-148335;INF955L01IU4;INF955L01IV2;Baroda BNP Paribas Credit Risk Fund-Direct- Quarterly IDCW Option- Segregated Portfolio- 1;0;09-Mar-2023
+148330;INF955L01IO7;-;Baroda BNP Paribas Credit Risk Fund- Regular- Growth Option- Segregated Portfolio- 1;0;10-Mar-2023
+148331;INF955L01IR0;INF955L01IS8;Baroda BNP Paribas Credit Risk Fund- Regular- Monthly IDCW Option- Segregated Portfolio- 1;0;10-Mar-2023
+148332;INF955L01IP4;INF955L01IQ2;Baroda BNP Paribas Credit Risk Fund- Regular- Quarterly IDCW Option- Segregated Portfolio- 1;0;10-Mar-2023
+148335;INF955L01IU4;INF955L01IV2;Baroda BNP Paribas Credit Risk Fund-Direct- Quarterly IDCW Option- Segregated Portfolio- 1;0;10-Mar-2023
 119084;INF740K01OV8;INF740K01OW6;DSP Credit Risk Fund - Direct Plan -  IDCW - Monthly;10.6520;09-Mar-2023
 119082;INF740K01OS4;-;DSP Credit Risk Fund - Direct Plan - Growth;36.3765;09-Mar-2023
 119083;INF740K01OT2;INF740K01OU0;DSP Credit Risk Fund - Direct Plan - IDCW;12.6451;09-Mar-2023
@@ -1114,10 +1114,10 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 138470;INF223J01AQ6;-;PGIM India Gilt Fund - Growth;25.2015;09-Mar-2023
 138475;INF223J01VL3;-;PGIM India Gilt Fund - Half Yearly Bonus;12.6178;05-Jul-2018
 138467;INF223J01AO1;INF223J01AP8;PGIM India Gilt Fund - Quarterly Dividend;13.8231;09-Mar-2023
-151228;INF966L01BF7;-;quant Gilt Fund - Growth Option - Direct Plan;10.0895;09-Mar-2023
-151230;INF966L01BI1;-;quant Gilt Fund - Growth Option - Regular Plan;10.0683;09-Mar-2023
-151229;INF966L01BG5;INF966L01BH3;quant Gilt Fund - IDCW Option - Direct Plan;10.0899;09-Mar-2023
-151231;INF966L01BJ9;INF966L01BK7;quant Gilt Fund - IDCW Option - Regular Plan;10.0686;09-Mar-2023
+151228;INF966L01BF7;-;quant Gilt Fund - Growth Option - Direct Plan;10.0966;10-Mar-2023
+151230;INF966L01BI1;-;quant Gilt Fund - Growth Option - Regular Plan;10.0751;10-Mar-2023
+151229;INF966L01BG5;INF966L01BH3;quant Gilt Fund - IDCW Option - Direct Plan;10.097;10-Mar-2023
+151231;INF966L01BJ9;INF966L01BK7;quant Gilt Fund - IDCW Option - Regular Plan;10.0754;10-Mar-2023
 102061;INF200K01AB4;-;SBI MAGNUM GILT FUND -  GROWTH - PF (Fixed Period - 1 Yr) Option;N.A.;04-Sep-2017
 101933;INF200K01AE8;-;SBI MAGNUM GILT FUND -  GROWTH - PF (Fixed Period - 2 Yrs) Option;N.A.;04-Sep-2017
 101934;INF200K01AH1;-;SBI MAGNUM GILT FUND -  GROWTH - PF (Fixed Period - 3 Yrs) Option;32.5661;09-Mar-2023
@@ -1542,18 +1542,18 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 143260;INF879O01035;-;Parag Parikh Liquid Fund- Regular Plan- Growth;1243.8725;09-Mar-2023
 143261;INF879O01043;INF879O01050;Parag Parikh Liquid Fund- Regular Plan- Monthly IDCW;1004.7942;09-Mar-2023
 143266;-;INF879O01142;Parag Parikh Liquid Fund- Regular Plan- Weekly Reinvestment of IDCW;1001.5417;09-Mar-2023
-120837;INF966L01820;-;quant Liquid Fund - Growth Option - Direct Plan;36.0754;09-Mar-2023
-103225;INF966L01317;-;quant Liquid Fund - Growth Option - Regular Plan;35.3637;09-Mar-2023
-120838;INF966L01796;INF966L01812;quant Liquid Fund - Monthly IDCW Option - Direct Plan;15.5606;09-Mar-2023
-103228;INF966L01291;INF966L01309;quant Liquid Fund - Monthly IDCW Option - Regular Plan;15.1827;09-Mar-2023
-120839;INF966L01788;INF966L01804;quant Liquid Fund - Weekly IDCW Option - Direct Plan;14.0684;09-Mar-2023
-103227;INF966L01499;INF966L01283;quant Liquid Fund - Weekly IDCW Option - Regular Plan;13.3658;09-Mar-2023
-120836;-;INF966L01770;quant Liquid Fund-Daily IDCW Option - Direct Plan;13.2223;09-Mar-2023
-103226;-;INF966L01275;quant Liquid Fund-Daily IDCW Option - Regular Plan;12.8843;09-Mar-2023
-148513;-;-;quant Liquid Fund-Unclaimed Dividend Investor Education Plan-Growth Option;11.2184;09-Mar-2023
-148510;-;-;quant Liquid Fund-Unclaimed Dividend-Growth Option;11.2191;09-Mar-2023
-148511;-;-;quant Liquid Fund-Unclaimed Redemption Investor Education Plan-Growth Option;11.2184;09-Mar-2023
-148512;-;-;quant Liquid Fund-Unclaimed Redemption Plan-Growth Option;11.2349;09-Mar-2023
+120837;INF966L01820;-;quant Liquid Fund - Growth Option - Direct Plan;36.0881;10-Mar-2023
+103225;INF966L01317;-;quant Liquid Fund - Growth Option - Regular Plan;35.376;10-Mar-2023
+120838;INF966L01796;INF966L01812;quant Liquid Fund - Monthly IDCW Option - Direct Plan;15.5661;10-Mar-2023
+103228;INF966L01291;INF966L01309;quant Liquid Fund - Monthly IDCW Option - Regular Plan;15.188;10-Mar-2023
+120839;INF966L01788;INF966L01804;quant Liquid Fund - Weekly IDCW Option - Direct Plan;14.0734;10-Mar-2023
+103227;INF966L01499;INF966L01283;quant Liquid Fund - Weekly IDCW Option - Regular Plan;13.3705;10-Mar-2023
+120836;-;INF966L01770;quant Liquid Fund-Daily IDCW Option - Direct Plan;13.2245;10-Mar-2023
+103226;-;INF966L01275;quant Liquid Fund-Daily IDCW Option - Regular Plan;12.8863;10-Mar-2023
+148513;-;-;quant Liquid Fund-Unclaimed Dividend Investor Education Plan-Growth Option;11.2224;10-Mar-2023
+148510;-;-;quant Liquid Fund-Unclaimed Dividend-Growth Option;11.223;10-Mar-2023
+148511;-;-;quant Liquid Fund-Unclaimed Redemption Investor Education Plan-Growth Option;11.2224;10-Mar-2023
+148512;-;-;quant Liquid Fund-Unclaimed Redemption Plan-Growth Option;11.2389;10-Mar-2023
 103736;-;INF082J01135;Quantum Liquid Fund - Direct Plan Daily IDCW;10.0090;09-Mar-2023
 103734;INF082J01127;-;Quantum Liquid Fund - Direct Plan Growth Option;30.1438;09-Mar-2023
 103735;INF082J01143;INF082J01200;Quantum Liquid Fund - Direct Plan Monthly IDCW;10.0298;09-Mar-2023
@@ -2007,30 +2007,30 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 116894;INF846K01BP2;-;Axis Strategic Bond Fund - Regular Plan - Growth Option;23.1196;09-Mar-2023
 116896;INF846K01BR8;INF846K01BT4;Axis Strategic Bond Fund - Regular Plan - Half Yearly IDCW;10.8125;09-Mar-2023
 116895;INF846K01BQ0;INF846K01BS6;Axis Strategic Bond Fund - Regular Plan - Quarterly IDCW;10.1517;09-Mar-2023
-150292;-;-;Baroda BNP Paribas Medium Duration - Regular Plan - Monthly IDCW - Segregated Portfolio - 1;0;09-Mar-2023
-150295;-;-;Baroda BNP Paribas Medium Duration - Regular Plan - Quarterly IDCW - Segregated Portfolio - 1;0;09-Mar-2023
-150304;-;-;Baroda BNP Paribas Medium Duration Fund  - Direct Plan - Weekly IDCW - Segregated Portfolio - 1;0;09-Mar-2023
-150305;-;-;Baroda BNP Paribas Medium Duration Fund - Defunct Plan - Daily IDCW Option - Segregated Portfolio - 1;0;09-Mar-2023
-150301;-;-;Baroda BNP Paribas Medium Duration Fund - Defunct Plan - Growth Option - Segregated Portfolio - 1;0;09-Mar-2023
-150300;-;-;Baroda BNP Paribas Medium Duration Fund - Defunct Plan - Monthly IDCW Option - Segregated Portfolio - 1;0;09-Mar-2023
-150290;-;-;Baroda BNP Paribas Medium Duration Fund - Defunct Plan - Weekly IDCW Option - Segregated Portfolio - 1;0;09-Mar-2023
+150292;-;-;Baroda BNP Paribas Medium Duration - Regular Plan - Monthly IDCW - Segregated Portfolio - 1;0;10-Mar-2023
+150295;-;-;Baroda BNP Paribas Medium Duration - Regular Plan - Quarterly IDCW - Segregated Portfolio - 1;0;10-Mar-2023
+150304;-;-;Baroda BNP Paribas Medium Duration Fund  - Direct Plan - Weekly IDCW - Segregated Portfolio - 1;0;10-Mar-2023
+150305;-;-;Baroda BNP Paribas Medium Duration Fund - Defunct Plan - Daily IDCW Option - Segregated Portfolio - 1;0;10-Mar-2023
+150301;-;-;Baroda BNP Paribas Medium Duration Fund - Defunct Plan - Growth Option - Segregated Portfolio - 1;0;10-Mar-2023
+150300;-;-;Baroda BNP Paribas Medium Duration Fund - Defunct Plan - Monthly IDCW Option - Segregated Portfolio - 1;0;10-Mar-2023
+150290;-;-;Baroda BNP Paribas Medium Duration Fund - Defunct Plan - Weekly IDCW Option - Segregated Portfolio - 1;0;10-Mar-2023
 150247;INF251K01LY6;INF251K01MG1;BARODA BNP PARIBAS Medium Duration Fund - Direct Plan - Annual IDCW Option;10.5902;09-Mar-2023
 150245;INF251K01LW0;INF251K01ME6;BARODA BNP PARIBAS Medium Duration Fund - Direct Plan - Calendar Quarterly IDCW Option;10.1170;09-Mar-2023
-150293;-;-;Baroda BNP Paribas Medium Duration Fund - Direct Plan - Daily IDCW - Segregated Portfolio - 1;0;09-Mar-2023
-150294;-;-;Baroda BNP Paribas Medium Duration Fund - Direct Plan - Growth - Segregated Portfolio - 1;0;09-Mar-2023
+150293;-;-;Baroda BNP Paribas Medium Duration Fund - Direct Plan - Daily IDCW - Segregated Portfolio - 1;0;10-Mar-2023
+150294;-;-;Baroda BNP Paribas Medium Duration Fund - Direct Plan - Growth - Segregated Portfolio - 1;0;10-Mar-2023
 150241;INF251K01LU4;-;BARODA BNP PARIBAS Medium Duration Fund - Direct Plan - Growth Option;16.7894;09-Mar-2023
 150246;INF251K01LX8;INF251K01MF3;BARODA BNP PARIBAS Medium Duration Fund - Direct Plan - Half yearly IDCW Option;10.0000;09-Mar-2023
-150306;-;-;Baroda BNP Paribas Medium Duration Fund - Direct Plan - Monthly IDCW - Segregated Portfolio - 1;0;09-Mar-2023
+150306;-;-;Baroda BNP Paribas Medium Duration Fund - Direct Plan - Monthly IDCW - Segregated Portfolio - 1;0;10-Mar-2023
 150244;INF251K01LV2;INF251K01MD8;BARODA BNP PARIBAS Medium Duration Fund - Direct Plan - Monthly IDCW Option;10.3961;09-Mar-2023
-150303;-;-;Baroda BNP Paribas Medium Duration Fund - Direct Plan - Quarterly IDCW - Segregated Portfolio - 1;0;09-Mar-2023
+150303;-;-;Baroda BNP Paribas Medium Duration Fund - Direct Plan - Quarterly IDCW - Segregated Portfolio - 1;0;10-Mar-2023
 150249;INF251K01LP4;INF251K01LZ3;BARODA BNP PARIBAS Medium Duration Fund - Regular Plan - Annual IDCW Option;10.4685;09-Mar-2023
 150242;INF251K01LQ2;INF251K01MA4;BARODA BNP PARIBAS Medium Duration Fund - Regular Plan - Calendar Quarterly IDCW Option;10.1045;09-Mar-2023
-150288;-;-;Baroda BNP Paribas Medium Duration Fund - Regular Plan - Daily IDCW - Segregated Portfolio - 1;0;09-Mar-2023
-150291;-;-;Baroda BNP Paribas Medium Duration Fund - Regular Plan - Growth - Segregated Portfolio - 1;0;09-Mar-2023
+150288;-;-;Baroda BNP Paribas Medium Duration Fund - Regular Plan - Daily IDCW - Segregated Portfolio - 1;0;10-Mar-2023
+150291;-;-;Baroda BNP Paribas Medium Duration Fund - Regular Plan - Growth - Segregated Portfolio - 1;0;10-Mar-2023
 150240;INF251K01LT6;-;BARODA BNP PARIBAS Medium Duration Fund - Regular Plan - Growth Option;15.8060;09-Mar-2023
 150248;INF251K01LR0;INF251K01MB2;BARODA BNP PARIBAS Medium Duration Fund - Regular Plan - Half Yearly IDCW Option;10.4172;09-Mar-2023
 150243;INF251K01LS8;INF251K01MC0;BARODA BNP PARIBAS Medium Duration Fund - Regular Plan - Monthly IDCW Option;10.0724;09-Mar-2023
-150289;-;-;Baroda BNP Paribas Medium Duration Fund - Regular Plan - Weekly IDCW - Segregated Portfolio - 1;0;09-Mar-2023
+150289;-;-;Baroda BNP Paribas Medium Duration Fund - Regular Plan - Weekly IDCW - Segregated Portfolio - 1;0;10-Mar-2023
 118924;INF740K01MZ3;-;DSP Bond Fund - Direct Plan - Growth;71.6159;09-Mar-2023
 118922;INF740K01NB2;INF740K01ND8;DSP Bond Fund - Direct Plan - IDCW;11.6831;09-Mar-2023
 118921;INF740K01NA4;INF740K01NC0;DSP Bond Fund - Direct Plan - IDCW - Monthly;11.1070;09-Mar-2023
@@ -2723,12 +2723,12 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 147609;-;INF663L01T76;PGIM India Overnight Fund - Regular Plan - Daily Dividend Option;1000;09-Mar-2023
 147607;INF663L01T50;INF663L01T68;PGIM India Overnight Fund - Regular Plan - Weekly Dividend Option;1001.0268;09-Mar-2023
 147600;INF663L01T43;-;PGIM India Overnight Fund - Regular Plan- Growth Option;1149.2023;09-Mar-2023
-151190;INF966L01AZ7;-;quant Overnight Fund - Growth Option - Direct Plan;10.1611;09-Mar-2023
-151195;INF966L01BC4;-;quant Overnight Fund - Growth Option - Regular Plan;10.1569;09-Mar-2023
-151193;INF966L01BA8;INF966L01BB6;quant Overnight Fund - IDCW Option - Direct Plan;10.1612;09-Mar-2023
-151191;INF966L01BD2;INF966L01BE0;quant Overnight Fund - IDCW Option - Regular Plan;10.1423;09-Mar-2023
-150631;INF0K1H01040;-;Samco Overnight Fund - Direct Plan - Growth Option;1025.5386;09-Mar-2023
-150632;INF0K1H01032;-;Samco Overnight Fund - Regular Plan - Growth Option;1024.6970;09-Mar-2023
+151190;INF966L01AZ7;-;quant Overnight Fund - Growth Option - Direct Plan;10.1628;10-Mar-2023
+151195;INF966L01BC4;-;quant Overnight Fund - Growth Option - Regular Plan;10.1586;10-Mar-2023
+151193;INF966L01BA8;INF966L01BB6;quant Overnight Fund - IDCW Option - Direct Plan;10.163;10-Mar-2023
+151191;INF966L01BD2;INF966L01BE0;quant Overnight Fund - IDCW Option - Regular Plan;10.144;10-Mar-2023
+150631;INF0K1H01040;-;Samco Overnight Fund - Direct Plan - Growth Option;1026.0517;12-Mar-2023
+150632;INF0K1H01032;-;Samco Overnight Fund - Regular Plan - Growth Option;1025.1929;12-Mar-2023
 119831;-;INF200K01TJ7;SBI Overnight Fund - Direct Plan - Daily Income Distribution cum Capital Withdrawal Option (IDCW);1128.2472;09-Mar-2023
 119833;INF200K01TK5;-;SBI OVERNIGHT FUND - DIRECT PLAN - GROWTH;3634.9722;09-Mar-2023
 119832;INF200K01TL3;INF200K01TM1;SBI Overnight Fund - Direct Plan - Weekly Income Distribution cum Capital Withdrawal Option (IDCW);1152.1058;09-Mar-2023
@@ -3553,16 +3553,16 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 135598;INF663L01FQ8;-;PGIM India ELSS Tax Saver Fund - Regular Plan - Growth Option;24.48;09-Mar-2023
 147481;INF879O01100;-;Parag Parikh Tax Saver Fund- Direct Growth;21.0493;09-Mar-2023
 147482;INF879O01092;-;Parag Parikh Tax Saver Fund- Regular Growth;20.0978;09-Mar-2023
-120847;INF966L01986;-;quant Tax Plan - Growth Option - Direct Plan;250.7355;09-Mar-2023
-100175;INF966L01135;-;quant Tax Plan - Growth Option - Regular Plan;230.0137;09-Mar-2023
-120846;INF966L01960;INF966L01127;quant Tax Plan - IDCW Option - Direct Plan;33.4236;09-Mar-2023
-100174;INF966L01119;-;quant Tax Plan - IDCW Option - Regular Plan;31.9391;09-Mar-2023
+120847;INF966L01986;-;quant Tax Plan - Growth Option - Direct Plan;250.7852;10-Mar-2023
+100175;INF966L01135;-;quant Tax Plan - Growth Option - Regular Plan;230.0522;10-Mar-2023
+120846;INF966L01960;INF966L01127;quant Tax Plan - IDCW Option - Direct Plan;33.4302;10-Mar-2023
+100174;INF966L01119;-;quant Tax Plan - IDCW Option - Regular Plan;31.9444;10-Mar-2023
 111549;INF082J01069;-;Quantum Tax Saving Fund - Direct Plan Growth Option;79.98;09-Mar-2023
 111550;INF082J01077;INF082J01085;Quantum Tax Saving Fund - Direct Plan IDCW;79.98;09-Mar-2023
 141070;INF082J01366;-;Quantum Tax Saving Fund - Regular Plan Growth Option;78.14;09-Mar-2023
 141071;INF082J01374;-;Quantum Tax Saving Fund - Regular Plan IDCW;78.14;09-Mar-2023
-150838;-;-;Samco ELSS Tax Saver Fund - Direct Plan - Growth Option;10.16;09-Mar-2023
-150839;-;-;Samco ELSS Tax Saver Fund - Regular Plan - Growth Option;10.12;09-Mar-2023
+150838;-;-;Samco ELSS Tax Saver Fund - Direct Plan - Growth Option;10.13;10-Mar-2023
+150839;-;-;Samco ELSS Tax Saver Fund - Regular Plan - Growth Option;10.09;10-Mar-2023
 119722;INF200K01UK3;-;SBI Long Term Equity Fund - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);69.3230;09-Mar-2023
 119723;INF200K01UM9;-;SBI LONG TERM EQUITY FUND - DIRECT PLAN -GROWTH;251.6089;09-Mar-2023
 103883;INF200K01479;-;SBI Long Term Equity Fund - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);53.3730;09-Mar-2023
@@ -3583,10 +3583,10 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 100474;INF277K01I60;-;Tata India Tax Savings Fund- Regular Plan - Payout of IDCW Option;70.1883;09-Mar-2023
 132756;INF277K01I86;-;Tata India Tax Savings Fund-Growth-Direct Plan;32.2170;09-Mar-2023
 132757;INF277K01I52;-;Tata India Tax Savings Fund-Growth-Regular Plan;28.8972;09-Mar-2023
-118866;INF044D01CG6;INF044D01AA3;Taurus Taxshield - Direct Plan - Growth;128.80;09-Mar-2023
-118867;INF044D01CH4;INF044D01CI2;Taurus Taxshield - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;59.36;09-Mar-2023
-100480;INF044D01AC9;-;Taurus Taxshield - Regular Plan - Growth;119.94;09-Mar-2023
-108402;INF044D01997;-;Taurus Taxshield - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;56.19;09-Mar-2023
+118866;INF044D01CG6;INF044D01AA3;Taurus Taxshield - Direct Plan - Growth;127.79;10-Mar-2023
+118867;INF044D01CH4;INF044D01CI2;Taurus Taxshield - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;58.89;10-Mar-2023
+100480;INF044D01AC9;-;Taurus Taxshield - Regular Plan - Growth;119.00;10-Mar-2023
+108402;INF044D01997;-;Taurus Taxshield - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;55.75;10-Mar-2023
 119307;INF582M01765;-;Union Long Term Equity Fund - Direct Plan - Growth Option;44.66;09-Mar-2023
 119306;INF582M01781;INF582M01773;Union Long Term Equity Fund - Direct Plan - IDCW Option;44.66;09-Mar-2023
 116051;INF582M01302;-;Union Long Term Equity Fund - Growth Option;42.00;09-Mar-2023
@@ -3701,12 +3701,12 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 133836;INF663L01FJ3;-;PGIM India Flexi Cap Fund - Regular Plan - Growth Option;24.76;09-Mar-2023
 122639;INF879O01027;-;Parag Parikh Flexi Cap Fund - Direct Plan - Growth;52.9241;09-Mar-2023
 122640;INF879O01019;-;Parag Parikh Flexi Cap Fund - Regular Plan - Growth;49.3999;09-Mar-2023
-109830;INF966L01457;-;quant Flexi Cap Fund - Growth Option - Regular Plan;60.1441;09-Mar-2023
-120843;INF966L01911;-;quant Flexi Cap Fund - Growth Option-Direct Plan;64.9485;09-Mar-2023
-120842;INF966L01895;INF966L01903;quant Flexi Cap Fund - IDCW Option - Direct Plan;44.1755;09-Mar-2023
-109831;INF966L01432;INF966L01440;quant Flexi Cap Fund - IDCW Option - Regular Plan;42.9696;09-Mar-2023
-149450;INF0K1H01024;-;Samco Flexi Cap Fund - Direct Plan - Growth Option;9.28;09-Mar-2023
-149449;INF0K1H01016;-;Samco Flexi Cap Fund - Regular Plan - Growth Option;9.13;09-Mar-2023
+109830;INF966L01457;-;quant Flexi Cap Fund - Growth Option - Regular Plan;60.1741;10-Mar-2023
+120843;INF966L01911;-;quant Flexi Cap Fund - Growth Option-Direct Plan;64.9835;10-Mar-2023
+120842;INF966L01895;INF966L01903;quant Flexi Cap Fund - IDCW Option - Direct Plan;44.1992;10-Mar-2023
+109831;INF966L01432;INF966L01440;quant Flexi Cap Fund - IDCW Option - Regular Plan;42.9909;10-Mar-2023
+149450;INF0K1H01024;-;Samco Flexi Cap Fund - Direct Plan - Growth Option;9.20;10-Mar-2023
+149449;INF0K1H01016;-;Samco Flexi Cap Fund - Regular Plan - Growth Option;9.05;10-Mar-2023
 119718;INF200K01UG1;-;SBI Flexicap Fund - DIRECT PLAN - Growth Option;81.7329;09-Mar-2023
 119717;INF200K01UE6;INF200K01UF3;SBI Flexicap Fund - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);40.8526;09-Mar-2023
 103216;INF200K01230;INF200K01248;SBI Flexicap Fund - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);33.4266;09-Mar-2023
@@ -3727,10 +3727,10 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 144544;INF277K011L7;-;TATA Flexi Cap Fund Regular Plan - Payout of Income Distribution cum capital withdrawal option ;15.2193;09-Mar-2023
 144545;-;INF277K010L9;TATA Flexi Cap Fund Regular Plan - Reinvestment of Income Distribution cum capital withdrawal option ;15.2193;09-Mar-2023
 144546;INF277K015K0;-;Tata Flexi Cap Fund-Direct Plan-Growth;16.3977;09-Mar-2023
-118884;INF044D01BV7;INF044D01BW5;Taurus Flexi Cap Fund - Direct Plan -  Payout of Income Distribution cum Capital Withdrawal option;76.94;09-Mar-2023
-118883;INF044D01BU9;-;Taurus Flexi Cap Fund - Direct Plan - Growth;152.48;09-Mar-2023
-100476;INF044D01989;-;Taurus Flexi Cap Fund - Regular Plan - Growth ;146.76;09-Mar-2023
-111640;INF044D01955;INF044D01963;Taurus Flexi Cap Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;71.22;09-Mar-2023
+118884;INF044D01BV7;INF044D01BW5;Taurus Flexi Cap Fund - Direct Plan -  Payout of Income Distribution cum Capital Withdrawal option;76.10;10-Mar-2023
+118883;INF044D01BU9;-;Taurus Flexi Cap Fund - Direct Plan - Growth;150.83;10-Mar-2023
+100476;INF044D01989;-;Taurus Flexi Cap Fund - Regular Plan - Growth ;145.17;10-Mar-2023
+111640;INF044D01955;INF044D01963;Taurus Flexi Cap Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;70.45;10-Mar-2023
 119292;INF582M01633;-;Union Flexi Cap Fund - Direct Plan - Growth Option;35.56;09-Mar-2023
 119293;INF582M01658;INF582M01641;Union Flexi Cap Fund - Direct Plan - IDCW Option;31.07;09-Mar-2023
 115270;INF582M01104;-;Union Flexi Cap Fund - Growth Option;32.81;09-Mar-2023
@@ -3823,10 +3823,10 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 118692;INF204K01F95;-;Nippon India Focused Equity Fund - Direct Plan Growth Plan - Growth Option;85.4301;09-Mar-2023
 104638;INF204K01GF4;INF204K01GG2;NIPPON INDIA FOCUSED EQUITY FUND - IDCW OPTION;29.4478;09-Mar-2023
 104637;INF204K01GE7;-;Nippon India Focused Equity Fund -Growth Plan -Growth Option;78.9079;09-Mar-2023
-109275;INF966L01374;-;quant Focused Fund - Growth Option - Regular Plan;55.5195;09-Mar-2023
-120834;INF966L01853;-;quant Focused Fund - Growth Option-Direct Plan;59.379;09-Mar-2023
-120835;INF966L01838;INF966L01846;quant Focused Fund - IDCW Option - Direct Plan;34.7152;09-Mar-2023
-109274;INF966L01358;INF966L01366;quant Focused Fund - IDCW Option - Regular Plan;41.2695;09-Mar-2023
+109275;INF966L01374;-;quant Focused Fund - Growth Option - Regular Plan;54.9529;10-Mar-2023
+120834;INF966L01853;-;quant Focused Fund - Growth Option-Direct Plan;58.7756;10-Mar-2023
+120835;INF966L01838;INF966L01846;quant Focused Fund - IDCW Option - Direct Plan;34.3624;10-Mar-2023
+109274;INF966L01358;INF966L01366;quant Focused Fund - IDCW Option - Regular Plan;40.8481;10-Mar-2023
 119834;INF200K01RH5;INF200K01RI3;SBI Focused Equity Fund - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);58.7855;09-Mar-2023
 119727;INF200K01RJ1;-;SBI FOCUSED EQUITY FUND - DIRECT PLAN -GROWTH;241.2281;09-Mar-2023
 102765;INF200K01388;INF200K01396;SBI Focused Equity Fund - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);40.0971;09-Mar-2023
@@ -3944,12 +3944,12 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 106255;INF204K01331;INF204K01349;Nippon India Vision Fund Institutional Dividend Plan;258.7308;04-Jun-2018
 100379;INF204K01398;-;Nippon India Vision Fund-GROWTH PLAN-Bonus Option;140.0709;09-Mar-2023
 100380;INF204K01406;-;Nippon India Vision Fund-GROWTH PLAN-Growth Option;831.6489;09-Mar-2023
-104515;INF966L01424;-;quant Large & Mid Cap Fund - Bonus Option - Regular Plan;70.9529;09-Mar-2023
-120824;INF966L01655;-;quant Large & Mid Cap Fund - Bonus Option-Direct Plan;70.9529;09-Mar-2023
-104513;INF966L01341;-;quant Large & Mid Cap Fund - Growth Option;70.903;09-Mar-2023
-120826;INF966L01648;-;quant Large & Mid Cap Fund - Growth Option-Direct Plan;75.1662;09-Mar-2023
-120825;INF966L01622;INF966L01630;quant Large & Mid Cap Fund - IDCW Option - Direct Plan;35.0221;09-Mar-2023
-104514;INF966L01325;INF966L01333;quant Large & Mid Cap Fund - IDCW Option - Regular Plan;43.2083;09-Mar-2023
+104515;INF966L01424;-;quant Large & Mid Cap Fund - Bonus Option - Regular Plan;70.2697;10-Mar-2023
+120824;INF966L01655;-;quant Large & Mid Cap Fund - Bonus Option-Direct Plan;70.2697;10-Mar-2023
+104513;INF966L01341;-;quant Large & Mid Cap Fund - Growth Option;70.2205;10-Mar-2023
+120826;INF966L01648;-;quant Large & Mid Cap Fund - Growth Option-Direct Plan;74.4459;10-Mar-2023
+120825;INF966L01622;INF966L01630;quant Large & Mid Cap Fund - IDCW Option - Direct Plan;34.6865;10-Mar-2023
+104514;INF966L01325;INF966L01333;quant Large & Mid Cap Fund - IDCW Option - Regular Plan;42.7922;10-Mar-2023
 119720;INF200K01UH9;INF200K01UI7;SBI Large & Midcap Fund - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);216.1301;09-Mar-2023
 101530;INF200K01289;INF200K01297;SBI Large & Midcap Fund - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);176.3111;09-Mar-2023
 119721;INF200K01UJ5;-;SBI LARGE & MIDCAP FUND -DIRECT PLAN -Growth;414.6578;09-Mar-2023
@@ -4088,10 +4088,10 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 138308;INF663L01GW4;-;PGIM India Large Cap Fund - Growth;244.48;09-Mar-2023
 138310;INF223J01267;-;PGIM India Large Cap Fund Wealth Plan - Growth Option;34.74;28-Jul-2019
 138309;INF223J01242;-;PGIM India Large Cap Fund Wealth Plan -Dividend Option;11.63;28-Jul-2019
-150440;INF966L01AT0;-;quant Large Cap Fund - Growth Option - Direct Plan;9.5228;09-Mar-2023
-150441;INF966L01AW4;-;quant Large Cap Fund - Growth Option - Regular Plan;9.4204;09-Mar-2023
-150439;INF966L01AU8;INF966L01AV6;quant Large Cap Fund - IDCW Option - Direct Plan;9.5252;09-Mar-2023
-150442;INF966L01AX2;INF966L01AY0;quant Large Cap Fund - IDCW Option - Regular Plan;9.4195;09-Mar-2023
+150440;INF966L01AT0;-;quant Large Cap Fund - Growth Option - Direct Plan;9.4306;10-Mar-2023
+150441;INF966L01AW4;-;quant Large Cap Fund - Growth Option - Regular Plan;9.3288;10-Mar-2023
+150439;INF966L01AU8;INF966L01AV6;quant Large Cap Fund - IDCW Option - Direct Plan;9.433;10-Mar-2023
+150442;INF966L01AX2;INF966L01AY0;quant Large Cap Fund - IDCW Option - Regular Plan;9.3279;10-Mar-2023
 119585;INF200K01QV8;INF200K01QW6;SBI Blue Chip Fund - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);44.2138;09-Mar-2023
 103616;INF200K01164;INF200K01172;SBI Blue Chip Fund - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);35.5672;09-Mar-2023
 119598;INF200K01QX4;-;SBI BLUE CHIP FUND-DIRECT PLAN -GROWTH;68.1267;09-Mar-2023
@@ -4106,10 +4106,10 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 100475;INF277K01931;-;Tata Large Cap Fund -Regular Plan - Growth Option;334.0693;09-Mar-2023
 119159;INF277K01QX2;INF277K01QY0;Tata Large Cap Fund- Direct Plan - Payout of IDCW Option;85.1140;09-Mar-2023
 102036;INF277K01EG3;INF277K01923;Tata Large Cap Fund- Regular Plan - Payout of IDCW Option;72.7948;09-Mar-2023
-118870;INF044D01BX3;-;Taurus Largecap Equity Fund - Direct Plan - Growth;105.49;09-Mar-2023
-118871;INF044D01BY1;INF044D01BZ8;Taurus Largecap Equity Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;46.47;09-Mar-2023
-101209;INF044D01773;-;Taurus Largecap Equity Fund - Regular Plan - Growth;99.99;09-Mar-2023
-108403;INF044D01740;INF044D01757;Taurus Largecap Equity Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;43.80;09-Mar-2023
+118870;INF044D01BX3;-;Taurus Largecap Equity Fund - Direct Plan - Growth;104.65;10-Mar-2023
+118871;INF044D01BY1;INF044D01BZ8;Taurus Largecap Equity Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;46.10;10-Mar-2023
+101209;INF044D01773;-;Taurus Largecap Equity Fund - Regular Plan - Growth;99.19;10-Mar-2023
+108403;INF044D01740;INF044D01757;Taurus Largecap Equity Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;43.45;10-Mar-2023
 141248;INF582M01CU7;-;Union Largecap Fund - Direct Plan - Growth Option;16.87;09-Mar-2023
 141249;INF582M01CV5;INF582M01CW3;Union Largecap Fund - Direct Plan - IDCW Option;16.87;09-Mar-2023
 141247;INF582M01CQ5;-;Union Largecap Fund - Regular Plan - Growth Option;16.20;09-Mar-2023
@@ -4209,10 +4209,10 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 125307;INF663L01DV3;-;PGIM India Midcap Opportunities Fund - Direct Plan - Growth Option;48.08;09-Mar-2023
 125306;INF663L01EA5;INF663L01EB3;PGIM India Midcap Opportunities Fund - Regular Plan - Dividend Option - Payout;21.94;09-Mar-2023
 125305;INF663L01DZ4;-;PGIM India Midcap Opportunities Fund - Regular Plan - Growth Option;42.78;09-Mar-2023
-120841;INF966L01887;-;quant Mid Cap Fund - Growth Option - Direct Plan;144.0023;09-Mar-2023
-101065;INF966L01176;-;quant Mid Cap Fund - Growth Option - Regular Plan;131.951;09-Mar-2023
-120840;INF966L01861;INF966L01879;quant Mid Cap Fund - IDCW Option - Direct Plan;50.5776;09-Mar-2023
-101066;INF966L01150;INF966L01168;quant Mid Cap Fund - IDCW Option - Regular Plan;46.8966;09-Mar-2023
+120841;INF966L01887;-;quant Mid Cap Fund - Growth Option - Direct Plan;142.5247;10-Mar-2023
+101065;INF966L01176;-;quant Mid Cap Fund - Growth Option - Regular Plan;130.5918;10-Mar-2023
+120840;INF966L01861;INF966L01879;quant Mid Cap Fund - IDCW Option - Direct Plan;50.0585;10-Mar-2023
+101066;INF966L01150;INF966L01168;quant Mid Cap Fund - IDCW Option - Regular Plan;46.4135;10-Mar-2023
 119716;INF200K01TP4;-;SBI Magnum MIDCAP FUND - DIRECT PLAN - GROWTH;161.0718;09-Mar-2023
 119715;INF200K01TN9;INF200K01TO7;SBI Magnum MidCap Fund - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);91.3187;09-Mar-2023
 102941;INF200K01560;-;SBI Magnum MIDCAP FUND - REGULAR PLAN - GROWTH;146.6930;09-Mar-2023
@@ -4227,10 +4227,10 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 119177;INF277K01PW6;INF277K01PX4;Tata Mid Cap Growth Fund - Direct Plan- IDCW Option;89.4401;09-Mar-2023
 102328;INF277K01626;-;Tata Mid Cap Growth Fund Regular Plan- Growth Option;244.9858;09-Mar-2023
 102326;INF277K01DS0;INF277K01642;Tata Mid Cap Growth Fund-Regular Plan - IDCW Option;67.6246;09-Mar-2023
-118872;INF044D01CA9;-;Taurus Discovery (Midcap) Fund - Direct Plan - Growth;78.99;09-Mar-2023
-118873;INF044D01CB7;INF044D01CC5;Taurus Discovery (Midcap) Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;70.17;09-Mar-2023
-100477;INF044D01815;-;Taurus Discovery (Midcap) Fund - Regular Plan - Growth;75.51;09-Mar-2023
-111642;INF044D01781;INF044D01799;Taurus Discovery (Midcap) Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;67.31;09-Mar-2023
+118872;INF044D01CA9;-;Taurus Discovery (Midcap) Fund - Direct Plan - Growth;78.54;10-Mar-2023
+118873;INF044D01CB7;INF044D01CC5;Taurus Discovery (Midcap) Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;69.78;10-Mar-2023
+100477;INF044D01815;-;Taurus Discovery (Midcap) Fund - Regular Plan - Growth;75.08;10-Mar-2023
+111642;INF044D01781;INF044D01799;Taurus Discovery (Midcap) Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;66.93;10-Mar-2023
 148073;INF582M01GI3;-;Union Midcap Fund - Direct Plan - Growth Option;28.24;09-Mar-2023
 148074;INF582M01GK9;INF582M01GJ1;Union Midcap Fund - Direct Plan - IDCW Option;28.24;09-Mar-2023
 148071;INF582M01GM5;-;Union Midcap Fund - Regular Plan - Growth Option;27.16;09-Mar-2023
@@ -4311,10 +4311,10 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 106253;INF204K01448;-;Nippon India Multi Cap Fund Institutional Plan Growth Plan Growth Option;21.9544;25-Apr-2017
 101162;INF204K01471;-;Nippon India Multi Cap Fund-Growth Plan-Bonus Option;165.9509;09-Mar-2023
 101161;INF204K01489;-;Nippon India Multi Cap Fund-Growth Plan-Growth Option;165.9509;09-Mar-2023
-100631;INF966L01234;-;quant Active Fund-GROWTH OPTION - Regular Plan;425.3223;09-Mar-2023
-120823;INF966L01614;-;quant Active Fund-GROWTH OPTION-Direct Plan;451.6574;09-Mar-2023
-120822;INF966L01598;INF966L01606;quant Active Fund-IDCW Option - Direct Plan;52.3073;09-Mar-2023
-100630;INF966L01218;INF966L01226;quant Active Fund-IDCW Option - Regular Plan;48.6425;09-Mar-2023
+100631;INF966L01234;-;quant Active Fund-GROWTH OPTION - Regular Plan;422.9941;10-Mar-2023
+120823;INF966L01614;-;quant Active Fund-GROWTH OPTION-Direct Plan;449.2002;10-Mar-2023
+120822;INF966L01598;INF966L01606;quant Active Fund-IDCW Option - Direct Plan;52.0228;10-Mar-2023
+100630;INF966L01218;INF966L01226;quant Active Fund-IDCW Option - Regular Plan;48.3762;10-Mar-2023
 149887;INF200KA19E0;INF200KA10F6;SBI Multicap Fund- Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);10.3558;09-Mar-2023
 149882;INF200KA18E2;-;SBI Multicap Fund- Direct Plan- Growth option;10.3562;09-Mar-2023
 149886;INF200KA15E8;-;SBI Multicap Fund- Regular Plan- Growth Option;10.2384;09-Mar-2023
@@ -4703,18 +4703,18 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 134924;INF204KA13G0;INF204KA14G8;NIPPON INDIA - US EQUITY OPPORTUNITES FUND - IDCW Option;21.4308;09-Mar-2023
 134923;INF204KA15G5;-;Nippon India US Equity Opportunites Fund- Direct Plan- Growth Plan- Growth Option;23.2898;09-Mar-2023
 134922;INF204KA12G2;-;Nippon India US Equity Opportunites Fund- Growth Plan- Growth Option;21.4308;09-Mar-2023
-148564;INF966L01AD4;-;quant ESG Equity Fund - Growth Option - Direct Plan;21.6612;09-Mar-2023
-148560;INF966L01AB8;-;quant ESG Equity Fund - Growth Option - Regular Plan;20.9158;09-Mar-2023
-148563;INF966L01AE2;INF966L01AG7;quant ESG Equity Fund - IDCW Option - Direct Plan;21.638;09-Mar-2023
-148561;INF966L01AC6;INF966L01AF9;quant ESG Equity Fund - IDCW Option - Regular Plan;20.8138;09-Mar-2023
-106170;INF966L01523;-;quant Infrastructure Fund - Growth Option;22.3272;09-Mar-2023
-120833;INF966L01721;-;quant Infrastructure Fund - Growth Option-Direct Plan;23.7453;09-Mar-2023
-120832;INF966L01705;INF966L01713;quant Infrastructure Fund - IDCW Option - Direct Plan;23.7304;09-Mar-2023
-106169;INF966L01507;INF966L01515;quant Infrastructure Fund - IDCW Option - Regular Plan;22.2742;09-Mar-2023
-148925;INF966L01AK9;-;quant Quantamental Fund - Growth Option - Direct Plan;14.0714;09-Mar-2023
-148923;INF966L01AH5;-;quant Quantamental Fund - Growth Option - Regular Plan;13.6181;09-Mar-2023
-148924;INF966L01AL7;INF966L01AM5;quant Quantamental Fund - IDCW Option - Direct Plan;14.085;09-Mar-2023
-148922;INF966L01AI3;INF966L01AJ1;quant Quantamental Fund - IDCW Option - Regular Plan;13.6279;09-Mar-2023
+148564;INF966L01AD4;-;quant ESG Equity Fund - Growth Option - Direct Plan;21.4007;10-Mar-2023
+148560;INF966L01AB8;-;quant ESG Equity Fund - Growth Option - Regular Plan;20.6632;10-Mar-2023
+148563;INF966L01AE2;INF966L01AG7;quant ESG Equity Fund - IDCW Option - Direct Plan;21.3778;10-Mar-2023
+148561;INF966L01AC6;INF966L01AF9;quant ESG Equity Fund - IDCW Option - Regular Plan;20.5625;10-Mar-2023
+106170;INF966L01523;-;quant Infrastructure Fund - Growth Option;22.1173;10-Mar-2023
+120833;INF966L01721;-;quant Infrastructure Fund - Growth Option-Direct Plan;23.5231;10-Mar-2023
+120832;INF966L01705;INF966L01713;quant Infrastructure Fund - IDCW Option - Direct Plan;23.5083;10-Mar-2023
+106169;INF966L01507;INF966L01515;quant Infrastructure Fund - IDCW Option - Regular Plan;22.0648;10-Mar-2023
+148925;INF966L01AK9;-;quant Quantamental Fund - Growth Option - Direct Plan;13.9151;10-Mar-2023
+148923;INF966L01AH5;-;quant Quantamental Fund - Growth Option - Regular Plan;13.4663;10-Mar-2023
+148924;INF966L01AL7;INF966L01AM5;quant Quantamental Fund - IDCW Option - Direct Plan;13.9285;10-Mar-2023
+148922;INF966L01AI3;INF966L01AJ1;quant Quantamental Fund - IDCW Option - Regular Plan;13.4759;10-Mar-2023
 147372;INF082J01382;-;QUANTUM INDIA ESG EQUITY FUND - DIRECT PLAN - GROWTH OPTION;16.76;09-Mar-2023
 147371;INF082J01390;-;QUANTUM INDIA ESG EQUITY FUND - REGULAR PLAN - GROWTH OPTION;16.35;09-Mar-2023
 133859;INF200KA1507;-;SBI BANKING & FINANCIAL SERVICES FUND - DIRECT PLAN - GROWTH;27.4136;09-Mar-2023
@@ -4834,20 +4834,20 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 135818;-;INF277K014B2;TATA Resources & Energy Fund Regular Plan - Reinvestment of Income Distribution cum capital withdrawal option ;25.8230;09-Mar-2023
 135813;INF277K015B9;-;Tata Resources & Energy Fund-Direct Plan-Growth;31.8976;09-Mar-2023
 135815;INF277K012B6;-;Tata Resources & Energy Fund-Regular Plan-Growth;28.2315;09-Mar-2023
-118868;INF044D01CN2;-;Taurus Banking & Financial Services Fund - Direct Plan - Growth;41.12;09-Mar-2023
-118869;INF044D01CO0;INF044D01CP7;Taurus Banking & Financial Services Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;40.65;09-Mar-2023
-117312;INF044D01BI4;-;Taurus Banking & Financial Services Fund - Regular Plan - Growth;37.47;09-Mar-2023
-117313;INF044D01BJ2;INF044D01BK0;Taurus Banking & Financial Services Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;33.54;09-Mar-2023
-111903;INF044D01823;-;Taurus Ethical Fund -  Regular Plan - Bonus Option;81.55;09-Mar-2023
-118876;INF044D01CJ0;-;Taurus Ethical Fund - Direct Plan - Growth;89.15;09-Mar-2023
-118877;INF044D01CK8;INF044D01CL6;Taurus Ethical Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;59.84;09-Mar-2023
-111787;INF044D01864;-;Taurus Ethical Fund - Regular Plan - Growth;81.57;09-Mar-2023
-111788;INF044D01831;INF044D01849;Taurus Ethical Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;55.14;09-Mar-2023
-118878;INF044D01CM4;-;Taurus Ethical Fund-Direct Plan-Bonus Option #;29.21;09-Mar-2023
-118879;INF044D01CD3;-;Taurus Infrastructure Fund - Direct Plan - Growth ;41.48;09-Mar-2023
-118880;INF044D01CE1;INF044D01CF8;Taurus Infrastructure Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;38.63;09-Mar-2023
-105417;INF044D01906;-;Taurus Infrastructure Fund - Regular Plan - Growth;39.09;09-Mar-2023
-105418;INF044D01872;INF044D01880;Taurus Infrastructure Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;36.71;09-Mar-2023
+118868;INF044D01CN2;-;Taurus Banking & Financial Services Fund - Direct Plan - Growth;40.38;10-Mar-2023
+118869;INF044D01CO0;INF044D01CP7;Taurus Banking & Financial Services Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;39.91;10-Mar-2023
+117312;INF044D01BI4;-;Taurus Banking & Financial Services Fund - Regular Plan - Growth;36.79;10-Mar-2023
+117313;INF044D01BJ2;INF044D01BK0;Taurus Banking & Financial Services Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;32.93;10-Mar-2023
+111903;INF044D01823;-;Taurus Ethical Fund -  Regular Plan - Bonus Option;81.26;10-Mar-2023
+118876;INF044D01CJ0;-;Taurus Ethical Fund - Direct Plan - Growth;88.83;10-Mar-2023
+118877;INF044D01CK8;INF044D01CL6;Taurus Ethical Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;59.63;10-Mar-2023
+111787;INF044D01864;-;Taurus Ethical Fund - Regular Plan - Growth;81.27;10-Mar-2023
+111788;INF044D01831;INF044D01849;Taurus Ethical Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;54.94;10-Mar-2023
+118878;INF044D01CM4;-;Taurus Ethical Fund-Direct Plan-Bonus Option #;29.11;10-Mar-2023
+118879;INF044D01CD3;-;Taurus Infrastructure Fund - Direct Plan - Growth ;41.10;10-Mar-2023
+118880;INF044D01CE1;INF044D01CF8;Taurus Infrastructure Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;38.28;10-Mar-2023
+105417;INF044D01906;-;Taurus Infrastructure Fund - Regular Plan - Growth;38.74;10-Mar-2023
+105418;INF044D01872;INF044D01880;Taurus Infrastructure Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;36.38;10-Mar-2023
 120733;INF789F01SN3;-;UTI Banking and Financial Services Fund - Direct Plan - Growth Option;136.7409;09-Mar-2023
 120732;INF789F01SL7;INF789F01SM5;UTI Banking and Financial Services Fund - Direct Plan - IDCW;53.5179;09-Mar-2023
 102401;INF789F01372;-;UTI Banking and Financial Services Fund - Regular Plan - Growth Option;122.9504;09-Mar-2023
@@ -4951,10 +4951,10 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 149019;INF663L01W06;-;PGIM India Small Cap Fund - Direct Plan- Growth Option;10.77;09-Mar-2023
 149020;INF663L01W30;-;PGIM India Small Cap Fund - Regular Plan - Growth Option;10.44;09-Mar-2023
 149032;INF663L01W48;INF663L01W5;PGIM India Small Cap Fund - Regular Plan - IDCW Option;10.44;09-Mar-2023
-100177;INF966L01AA0;-;quant Small Cap Fund - Growth - Regular Plan;144.0235;09-Mar-2023
-120828;INF966L01689;-;quant Small Cap Fund - Growth Option - Direct Plan;152.8461;09-Mar-2023
-120827;INF966L01663;INF966L01671;quant Small Cap Fund - IDCW Option - Direct Plan;119.4851;09-Mar-2023
-100176;INF966L01036;INF966L01044;quant Small Cap Fund - IDCW Option - Regular Plan;114.5207;09-Mar-2023
+100177;INF966L01AA0;-;quant Small Cap Fund - Growth - Regular Plan;143.1494;10-Mar-2023
+120828;INF966L01689;-;quant Small Cap Fund - Growth Option - Direct Plan;151.9239;10-Mar-2023
+120827;INF966L01663;INF966L01671;quant Small Cap Fund - IDCW Option - Direct Plan;118.764;10-Mar-2023
+100176;INF966L01036;INF966L01044;quant Small Cap Fund - IDCW Option - Regular Plan;113.8257;10-Mar-2023
 125497;INF200K01T51;-;SBI Small Cap Fund - Direct Plan - Growth;124.5502;09-Mar-2023
 125496;INF200K01T69;INF200K01T77;SBI Small Cap Fund - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);85.0088;09-Mar-2023
 125494;INF200K01T28;-;SBI Small Cap Fund - Regular Plan - Growth;111.2926;09-Mar-2023
@@ -5041,10 +5041,10 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 118784;INF204K01K49;-;Nippon India Value Fund - Direct Plan Growth Plan;133.2117;09-Mar-2023
 103086;INF204K01GC1;INF204K01GD9;NIPPON INDIA VALUE FUND - IDCW Option;31.2649;09-Mar-2023
 103085;INF204K01GB3;-;Nippon India Value Fund- Growth Plan;123.7341;09-Mar-2023
-149335;INF966L01AN3;-;Quant Value Fund - Growth Option  - Direct Plan;11.4199;09-Mar-2023
-149337;INF966L01AQ6;-;Quant Value Fund - Growth Option - Regular Plan;11.1434;09-Mar-2023
-149338;INF966L01AO1;INF966L01AP8;Quant Value Fund - IDCW Option - Direct Plan;10.8672;09-Mar-2023
-149336;INF966L01AR4;INF966L01AS2;Quant Value Fund - IDCW Option- Regular Plan;11.1223;09-Mar-2023
+149335;INF966L01AN3;-;Quant Value Fund - Growth Option  - Direct Plan;11.3376;10-Mar-2023
+149337;INF966L01AQ6;-;Quant Value Fund - Growth Option - Regular Plan;11.0626;10-Mar-2023
+149338;INF966L01AO1;INF966L01AP8;Quant Value Fund - IDCW Option - Direct Plan;10.7888;10-Mar-2023
+149336;INF966L01AR4;INF966L01AS2;Quant Value Fund - IDCW Option- Regular Plan;11.0417;10-Mar-2023
 103490;INF082J01036;-;Quantum Long Term Equity Value Fund - Direct Plan Growth Option;80.18;09-Mar-2023
 103491;INF082J01044;INF082J01051;Quantum Long Term Equity Value Fund - Direct Plan IDCW;80.87;09-Mar-2023
 141068;INF082J01242;-;Quantum Long Term Equity Value Fund - Regular Plan Growth Option;78.33;09-Mar-2023
@@ -5247,10 +5247,10 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 139823;INF663L01OE6;INF663L01OF3;PGIM India Hybrid Equity Fund-Direct Plan-Quarterly Divdend Option;21.55;05-Mar-2021
 139821;INF663L01NY6;INF663L01NZ3;PGIM India Hybrid Equity Fund-Monthly Dividend Option;21.47;09-Mar-2023
 139822;INF663L01OC0;INF663L01OD8;PGIM India Hybrid Equity Fund-Quarterly Dividend Option;20.99;05-Mar-2021
-101070;INF966L01267;-;quant Absolute Fund - Growth Option - Regular Plan;292.7823;09-Mar-2023
-120819;INF966L01556;-;quant Absolute Fund-Growth Option-Direct Plan;308.9983;09-Mar-2023
-101069;INF966L01242;INF966L01259;quant Absolute Fund-IDCW Option - Regular Plan;40.3846;09-Mar-2023
-120818;INF966L01531;INF966L01549;quant Absolute Fund-IDCW Option-Direct Plan;42.7941;09-Mar-2023
+101070;INF966L01267;-;quant Absolute Fund - Growth Option - Regular Plan;290.5349;10-Mar-2023
+120819;INF966L01556;-;quant Absolute Fund-Growth Option-Direct Plan;306.6387;10-Mar-2023
+101069;INF966L01242;INF966L01259;quant Absolute Fund-IDCW Option - Regular Plan;40.0745;10-Mar-2023
+120818;INF966L01531;INF966L01549;quant Absolute Fund-IDCW Option-Direct Plan;42.4674;10-Mar-2023
 119609;INF200K01RY0;-;SBI EQUITY HYBRID FUND - DIRECT PLAN - Growth;216.2241;09-Mar-2023
 119604;INF200K01RW4;INF200K01RX2;SBI Equity Hybrid Fund - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);63.2717;09-Mar-2023
 101551;INF200K01115;INF200K01123;SBI Equity Hybrid Fund - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);42.1436;09-Mar-2023
@@ -5908,10 +5908,10 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 148458;INF204KB10W1;INF204KB11W9;NIPPON INDIA MULTI ASSET FUND - DIRECT Plan - IDCW Option;13.9786;09-Mar-2023
 148460;INF204KB17V8;INF204KB18V6;NIPPON INDIA MULTI ASSET FUND - IDCW Option;13.4619;09-Mar-2023
 148459;INF204KB16V0;-;Nippon India Multi Asset Fund - Regular Plan - Growth Option;13.4619;09-Mar-2023
-120820;INF966L01564;INF966L01572;quant Multi Asset Fund - IDCW Option - Direct Plan;81.5793;09-Mar-2023
-101071;INF966L01184;INF966L01192;quant Multi Asset Fund - IDCW Option - Regular Plan;78.1758;09-Mar-2023
-101072;INF966L01200;-;quant Multi Asset Fund-GROWTH OPTION - Regular Plan;85.1873;09-Mar-2023
-120821;INF966L01580;-;quant Multi Asset Fund-GROWTH OPTION-Direct Plan;88.5086;09-Mar-2023
+120820;INF966L01564;INF966L01572;quant Multi Asset Fund - IDCW Option - Direct Plan;81.1959;10-Mar-2023
+101071;INF966L01184;INF966L01192;quant Multi Asset Fund - IDCW Option - Regular Plan;77.8047;10-Mar-2023
+101072;INF966L01200;-;quant Multi Asset Fund-GROWTH OPTION - Regular Plan;84.7831;10-Mar-2023
+120821;INF966L01580;-;quant Multi Asset Fund-GROWTH OPTION-Direct Plan;88.0927;10-Mar-2023
 119840;INF200K01TX8;INF200K01TY6;SBI Multi Asset Allocation Fund - Direct Plan - Annual Income Distribution cum Capital Withdrawal Option (IDCW);24.1598;09-Mar-2023
 119843;INF200K01TZ3;-;SBI MULTI ASSET ALLOCATION FUND - DIRECT PLAN - GROWTH;42.4035;09-Mar-2023
 119841;INF200K01UA4;INF200K01UB2;SBI Multi Asset Allocation Fund - Direct Plan - Monthly Income Distribution cum Capital Withdrawal Option (IDCW);19.0407;09-Mar-2023
@@ -6109,10 +6109,10 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 122729;INF204K01V61;-;Reliance Yearly Interval Fund - Series 9 - Growth Plan - Growth Option;13.7202;14-Jul-2017
 102056;INF200K01750;INF200K01768;SBI Magnum Income Plus Fund - Savings Plan (D);11.1062;05-Oct-2012
 102055;INF200K01743;-;SBI Magnum Income Plus Fund - Savings Plan (G);12.5326;05-Oct-2012
-139619;-;-;Taurus Investor Education Pool - Unclaimed Dividend - Growth;10.0000;09-Mar-2023
-139618;-;-;Taurus Investor Education Pool - Unclaimed Redemption - Growth;10.0000;09-Mar-2023
-139616;-;-;Taurus Unclaimed Dividend - Growth;14.9126;09-Mar-2023
-139617;-;-;Taurus Unclaimed Redemption - Growth;14.9139;09-Mar-2023
+139619;-;-;Taurus Investor Education Pool - Unclaimed Dividend - Growth;10.0000;10-Mar-2023
+139618;-;-;Taurus Investor Education Pool - Unclaimed Redemption - Growth;10.0000;10-Mar-2023
+139616;-;-;Taurus Unclaimed Dividend - Growth;14.9146;10-Mar-2023
+139617;-;-;Taurus Unclaimed Redemption - Growth;14.9158;10-Mar-2023
 131897;INF084M01DQ0;INF084M01DR8;Aditya Birla Sun Life Active Debt Multi Manager FoF Scheme - DIRECT - IDCW;20.5975;09-Mar-2023
 131898;INF084M01DP2;-;Aditya Birla Sun Life Active Debt Multi Manager FoF Scheme - Direct Plan - Growth Option;32.8939;09-Mar-2023
 131895;INF084M01AI3;INF084M01AJ1;Aditya Birla Sun Life Active Debt Multi Manager FoF Scheme - REGULAR - IDCW;19.6673;09-Mar-2023
@@ -7183,10 +7183,10 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 150329;-;INF277KA1422;Tata Nifty SDL Plus AAA PSU Bond Dec 6040 Index Fund-Regular Plan- IDCW Reinvestment;10.2924;09-Mar-2023
 119287;INF277K01PK1;-;Tata S&P BSE Sensex Index Fund - Direct Plan;155.2297;09-Mar-2023
 101746;INF277K01758;-;Tata S&P BSE Sensex Index Fund -Regular Plan;147.7355;09-Mar-2023
-118881;INF044D01CQ5;-;Taurus Nifty 50 Index Fund - Direct Plan - Growth;35.5027;09-Mar-2023
-118882;INF044D01CR3;INF044D01CS1;Taurus Nifty 50 Index Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;33.2264;09-Mar-2023
-112948;INF044D01948;-;Taurus Nifty 50 Index Fund - Regular Plan - Growth;33.5443;09-Mar-2023
-112949;INF044D01914;INF044D01922;Taurus Nifty 50 Index Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;21.3810;09-Mar-2023
+118881;INF044D01CQ5;-;Taurus Nifty 50 Index Fund - Direct Plan - Growth;35.1520;10-Mar-2023
+118882;INF044D01CR3;INF044D01CS1;Taurus Nifty 50 Index Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;32.8982;10-Mar-2023
+112948;INF044D01948;-;Taurus Nifty 50 Index Fund - Regular Plan - Growth;33.2124;10-Mar-2023
+112949;INF044D01914;INF044D01922;Taurus Nifty 50 Index Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;21.1694;10-Mar-2023
 143341;INF789FC12T1;-;UTI Nifty Next 50 Index Fund - Direct Plan - Growth Option;13.9553;09-Mar-2023
 143340;INF789FC11T3;-;UTI Nifty Next 50 Index Fund - Regular Plan - Growth Option;13.6075;09-Mar-2023
 151185;INF789F1AWX3;-;UTI CRISIL SDL Maturity April 2033 Index Fund - Direct Plan - Growth Option;10.0743;09-Mar-2023
