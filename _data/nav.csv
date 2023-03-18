@@ -1309,14 +1309,14 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 102441;INF090I01BD7;-;Franklin India Liquid Fund - Institution-Growth;0.0000;08-Jul-2020
 102443;-;INF090I01BC9;Franklin India Liquid Fund - Institutional Plan - Daily - IDCW;1000.0000;17-Mar-2023
 102442;INF090I01BJ4;INF090I01BE5;Franklin India Liquid Fund - Institutional Plan - Weekly - IDCW;1055.6187;17-Mar-2023
-119091;INF179KB1HP9;-;HDFC Liquid Fund - Growth Option - Direct Plan;4409.1029;17-Mar-2023
-100868;INF179KB1HK0;-;HDFC Liquid Fund - Growth Plan;4370.178;17-Mar-2023
-100875;-;INF179KB1IC5;HDFC Liquid Fund - IDCW Daily;1019.82;17-Mar-2023
-119089;-;INF179KB1HV7;HDFC Liquid Fund - IDCW Daily - Direct Plan;1019.82;17-Mar-2023
-100876;INF179KB1HM6;INF179KB1HL8;HDFC Liquid Fund - IDCW Monthly;1029.8083;17-Mar-2023
-119090;INF179KB1HO2;INF179KB1HQ7;HDFC Liquid Fund - IDCW Monthly - Direct Plan;1029.8588;17-Mar-2023
-100874;INF179KB1ID3;-;HDFC Liquid Fund - IDCW Plan Weekly;1031.7296;17-Mar-2023
-119088;-;-;HDFC Liquid Fund - IDCW Weekly - Direct Plan;1031.7411;17-Mar-2023
+119091;INF179KB1HP9;-;HDFC Liquid Fund - Growth Option - Direct Plan;4410.7992;19-Mar-2023
+100868;INF179KB1HK0;-;HDFC Liquid Fund - Growth Plan;4371.8354;19-Mar-2023
+100875;-;INF179KB1IC5;HDFC Liquid Fund - IDCW Daily;1019.82;19-Mar-2023
+119089;-;INF179KB1HV7;HDFC Liquid Fund - IDCW Daily - Direct Plan;1019.82;19-Mar-2023
+100876;INF179KB1HM6;INF179KB1HL8;HDFC Liquid Fund - IDCW Monthly;1030.1988;19-Mar-2023
+119090;INF179KB1HO2;INF179KB1HQ7;HDFC Liquid Fund - IDCW Monthly - Direct Plan;1030.255;19-Mar-2023
+100874;INF179KB1ID3;-;HDFC Liquid Fund - IDCW Plan Weekly;1032.1209;19-Mar-2023
+119088;-;-;HDFC Liquid Fund - IDCW Weekly - Direct Plan;1032.138;19-Mar-2023
 100878;INF179K01KP9;-;HDFC Liquid Fund-Premium Plan - Dividend-Weekly;10;14-Apr-2015
 100881;INF179K01KS3;-;HDFC Liquid Fund-Premium Plus Plan - Dividend-Weekly;10;14-May-2012
 100872;INF179K01KQ7;-;HDFC Liquid Fund-PREMIUM PLUS- Growth;10.0000;17-Dec-2012
@@ -1593,14 +1593,14 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 101714;-;INF277K011D4;Tata Liquid Fund- Regular Plan - Daily Reinvestment of IDCW Option;1001.5157;19-Mar-2023
 104240;INF044D01542;INF044D01559;Taurus Liquid Fund-Dividend;1013.9743;03-Nov-2020
 104241;INF044D01575;-;Taurus Liquid Fund-Growth;2368.5909;03-Nov-2020
-148842;-;INF0GCD01263;TRUSTMF Liquid Fund-Direct Plan-Daily Income Distribution cum Capital Withdrawal;1066.3034;17-Mar-2023
-148841;INF0GCD01255;-;TRUSTMF Liquid Fund-Direct Plan-Growth;1087.8052;17-Mar-2023
-148839;INF0GCD01305;INF0GCD01297;TRUSTMF Liquid Fund-Direct Plan-Monthly Income Distribution cum Capital Withdrawal;1043.7726;17-Mar-2023
-148837;INF0GCD01271;INF0GCD01289;TRUSTMF Liquid Fund-Direct Plan-Weekly Income Distribution cum Capital Withdrawal;1051.7158;17-Mar-2023
-148834;-;INF0GCD01206;TRUSTMF Liquid Fund-Regular Plan-Daily Income Distribution cum Capital Withdrawal;1053.0613;17-Mar-2023
-148833;INF0GCD01198;-;TRUSTMF Liquid Fund-Regular Plan-Growth;1084.7021;17-Mar-2023
-148843;INF0GCD01248;INF0GCD01230;TRUSTMF Liquid Fund-Regular Plan-Monthly Income Distribution cum Capital Withdrawal;1041.5286;17-Mar-2023
-148836;INF0GCD01214;INF0GCD01222;TRUSTMF Liquid Fund-Regular Plan-Weekly Income Distribution cum Capital Withdrawal;1035.5277;17-Mar-2023
+148842;-;INF0GCD01263;TRUSTMF Liquid Fund-Direct Plan-Daily Income Distribution cum Capital Withdrawal;1066.6568;19-Mar-2023
+148841;INF0GCD01255;-;TRUSTMF Liquid Fund-Direct Plan-Growth;1088.2437;19-Mar-2023
+148839;INF0GCD01305;INF0GCD01297;TRUSTMF Liquid Fund-Direct Plan-Monthly Income Distribution cum Capital Withdrawal;1044.193;19-Mar-2023
+148837;INF0GCD01271;INF0GCD01289;TRUSTMF Liquid Fund-Direct Plan-Weekly Income Distribution cum Capital Withdrawal;1052.1396;19-Mar-2023
+148834;-;INF0GCD01206;TRUSTMF Liquid Fund-Regular Plan-Daily Income Distribution cum Capital Withdrawal;1053.327;19-Mar-2023
+148833;INF0GCD01198;-;TRUSTMF Liquid Fund-Regular Plan-Growth;1085.1303;19-Mar-2023
+148843;INF0GCD01248;INF0GCD01230;TRUSTMF Liquid Fund-Regular Plan-Monthly Income Distribution cum Capital Withdrawal;1041.9398;19-Mar-2023
+148836;INF0GCD01214;INF0GCD01222;TRUSTMF Liquid Fund-Regular Plan-Weekly Income Distribution cum Capital Withdrawal;1035.9354;19-Mar-2023
 115401;-;INF582M01021;Union Liquid Fund - Daily IDCW Option;1000.7927;19-Mar-2023
 119301;-;INF582M01682;Union Liquid Fund - Direct Plan - Daily IDCW Option;1000.7927;19-Mar-2023
 119305;INF582M01724;INF582M01708;Union Liquid Fund - Direct Plan - Fortnightly IDCW Option;1002.1905;19-Mar-2023
@@ -2599,10 +2599,10 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 149443;-;-;Franklin India Overnight Fund- Unclaimed IDCW Plan;10.5942;17-Mar-2023
 149444;-;-;Franklin India Overnight Fund- Unclaimed Redemption Investor EducationPlan;10.0000;17-Mar-2023
 149446;-;-;Franklin India Overnight Fund- Unclaimed Redemption Plan;10.5942;17-Mar-2023
-119109;-;-;HDFC Overnight Fund - Daily IDCW Option - Direct Plan;1042.66;17-Mar-2023
-101996;INF179KB1HS3;-;HDFC Overnight Fund - Growth Option;3294.2566;17-Mar-2023
-119110;INF179KB1HT1;-;HDFC Overnight Fund - Growth Option - Direct Plan;3320.011;17-Mar-2023
-101997;-;-;HDFC Overnight Fund - IDCW Option (Daily);1042.66;17-Mar-2023
+119109;-;-;HDFC Overnight Fund - Daily IDCW Option - Direct Plan;1042.66;19-Mar-2023
+101996;INF179KB1HS3;-;HDFC Overnight Fund - Growth Option;3295.4294;19-Mar-2023
+119110;INF179KB1HT1;-;HDFC Overnight Fund - Growth Option - Direct Plan;3321.2112;19-Mar-2023
+101997;-;-;HDFC Overnight Fund - IDCW Option (Daily);1042.66;19-Mar-2023
 147291;-;INF336L01OG4;HSBC Overnight Fund - Direct Daily IDCW;1000.0067;17-Mar-2023
 147287;INF336L01OF6;-;HSBC Overnight Fund - Direct Growth;1169.9521;17-Mar-2023
 147300;INF336L01OK6;INF336L01OI0;HSBC Overnight Fund - Direct Monthly IDCW;1003.0887;17-Mar-2023
@@ -2763,10 +2763,10 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 146979;-;INF277K017T7;TATA Overnight Fund Regular Plan - Daily Reinvestment of Income Distribution cum capital withdrawal option   ;1000.0000;19-Mar-2023
 146980;INF277K018T5;-;Tata Overnight Fund-Direct Plan-Growth;1180.0335;19-Mar-2023
 146977;INF277K016T9;-;Tata Overnight Fund-Regular Plan-Growth;1175.0207;19-Mar-2023
-149796;-;INF0GCD01461;TRUST MF OVERNIGHT FUND-DIRECT PLAN-DAILY IDCW REINVESTMENT;1058.896;17-Mar-2023
-149797;INF0GCD01453;-;TRUST MF OVERNIGHT FUND-DIRECT PLAN-GROWTH;1058.9104;17-Mar-2023
-149798;-;INF0GCD01446;TRUST MF OVERNIGHT FUND-REGULAR PLAN-DAILY IDCW REINVESTMENT;1058.482;17-Mar-2023
-149795;INF0GCD01438;-;TRUST MF OVERNIGHT FUND-REGULAR-GROWTH;1058.2955;17-Mar-2023
+149796;-;INF0GCD01461;TRUST MF OVERNIGHT FUND-DIRECT PLAN-DAILY IDCW REINVESTMENT;1059.288;19-Mar-2023
+149797;INF0GCD01453;-;TRUST MF OVERNIGHT FUND-DIRECT PLAN-GROWTH;1059.3036;19-Mar-2023
+149798;-;INF0GCD01446;TRUST MF OVERNIGHT FUND-REGULAR PLAN-DAILY IDCW REINVESTMENT;1058.874;19-Mar-2023
+149795;INF0GCD01438;-;TRUST MF OVERNIGHT FUND-REGULAR-GROWTH;1058.6856;19-Mar-2023
 147002;-;INF582M01FB0;Union Overnight Fund - Direct Plan - Daily IDCW Option;1000.7630;19-Mar-2023
 147003;INF582M01FA2;-;Union Overnight Fund - Direct Plan - Growth Option;1177.7599;19-Mar-2023
 147006;INF582M01FG9;INF582M01FE4;Union Overnight Fund - Direct Plan - Monthly IDCW Option;1004.0181;19-Mar-2023
@@ -6370,10 +6370,10 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 149787;INF769K01HY5;INF769K01IA3;Mirae Asset Nifty India Manufacturing ETF FOF - Direct Plan- IDCW;10.058;17-Mar-2023
 149788;INF769K01HW9;-;Mirae Asset Nifty India Manufacturing ETF FOF - Regular Plan - Growth;10.012;17-Mar-2023
 149789;INF769K01HV1;INF769K01HX7;Mirae Asset Nifty India Manufacturing ETF FOF - Regular Plan - IDCW;10.048;17-Mar-2023
-148928;INF769K01HH0;-;Mirae Asset NYSE FANG + ETF Fund of Fund Direct Growth;9.759;16-Mar-2023
-148929;INF769K01HG2;-;Mirae Asset NYSE FANG + ETF Fund of Fund Regular Growth;9.688;16-Mar-2023
-149170;INF769K01HR9;-;Mirae Asset S&P 500 Top 50 ETF Fund of Fund Direct Growth;9.649;16-Mar-2023
-149171;INF769K01HQ1;-;Mirae Asset S&P 500 Top 50 ETF Fund of Fund Regular Growth;9.589;16-Mar-2023
+148928;INF769K01HH0;-;Mirae Asset NYSE FANG + ETF Fund of Fund Direct Growth;10.029;17-Mar-2023
+148929;INF769K01HG2;-;Mirae Asset NYSE FANG + ETF Fund of Fund Regular Growth;9.956;17-Mar-2023
+149170;INF769K01HR9;-;Mirae Asset S&P 500 Top 50 ETF Fund of Fund Direct Growth;9.821;17-Mar-2023
+149171;INF769K01HQ1;-;Mirae Asset S&P 500 Top 50 ETF Fund of Fund Regular Growth;9.760;17-Mar-2023
 149240;INF247L01AQ1;-;Motilal Oswal 5 Year G-Sec Fund Of Fund Direct -Growth;10.4306;17-Mar-2023
 149241;INF247L01AR9;-;Motilal Oswal 5 Year G-Sec Fund Of Fund Regular -Growth;10.4191;17-Mar-2023
 148747;INF247L01AL2;-;Motilal Oswal Asset Allocation FOF- A- Direct Growth;11.5290;17-Mar-2023
@@ -6576,10 +6576,10 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 149231;INF174V01BA8;INF174V01AZ7;Mahindra Manulife Asia Pacific REITs FOF - Direct Plan - IDCW;8.9741;17-Mar-2023
 149228;INF174V01AV6;-;Mahindra Manulife Asia Pacific REITs FOF - Regular Plan - Growth;8.8434;17-Mar-2023
 149229;INF174V01AX2;INF174V01AW4;Mahindra Manulife Asia Pacific REITs FOF - Regular Plan - IDCW;8.8434;17-Mar-2023
-150594;INF769K01IP1;-;Mirae Asset Global Electric & Autonomous Vehicles ETFs Fund of Fund - Regular Plan - Growth;9.566;16-Mar-2023
-150595;INF769K01IQ9;-;Mirae Asset Global Electric & Autonomous Vehicles ETFs Fund of Fund- Direct Plan - Growth;9.589;16-Mar-2023
-150597;INF769K01IS5;-;Mirae Asset Global X Artificial Intelligence & Technology ETF Fund of Fund - Direct Plan- Growth;11.133;16-Mar-2023
-150596;INF769K01IR7;-;Mirae Asset Global X Artificial Intelligence & Technology ETF Fund of Fund - Regular Plan - Growth;11.118;16-Mar-2023
+150594;INF769K01IP1;-;Mirae Asset Global Electric & Autonomous Vehicles ETFs Fund of Fund - Regular Plan - Growth;9.497;17-Mar-2023
+150595;INF769K01IQ9;-;Mirae Asset Global Electric & Autonomous Vehicles ETFs Fund of Fund- Direct Plan - Growth;9.520;17-Mar-2023
+150597;INF769K01IS5;-;Mirae Asset Global X Artificial Intelligence & Technology ETF Fund of Fund - Direct Plan- Growth;11.109;17-Mar-2023
+150596;INF769K01IR7;-;Mirae Asset Global X Artificial Intelligence & Technology ETF Fund of Fund - Regular Plan - Growth;11.094;17-Mar-2023
 149910;INF959L01FZ1;-;Navi NASDAQ 100 Fund of Fund- Direct- Growth;9.1647;17-Mar-2023
 149911;INF959L01GA2;-;Navi NASDAQ 100 Fund of Fund- Regular- Growth;9.1492;17-Mar-2023
 149830;INF959L01FV0;-;Navi US Total Stock Market Fund of Fund- Direct Plan- Growth;9.9764;17-Mar-2023
@@ -7328,8 +7328,8 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 149786;INF769K01IB1;-;Mirae Asset Nifty India Manufacturing ETF;79.6789;17-Mar-2023
 149918;INF769K01IC9;-;Mirae Asset Nifty Midcap 150 ETF Regular Growth Option;11.4090;17-Mar-2023
 147906;INF769K01FN2;-;Mirae Asset Nifty Next 50 ETF (MANxt50ETF);381.4301;17-Mar-2023
-148927;INF769K01HF4;-;Mirae Asset NYSE FANG + ETF;47.9404;16-Mar-2023
-149169;INF769K01HP3;-;Mirae Asset S&P 500 Top 50 ETF;27.6127;16-Mar-2023
+148927;INF769K01HF4;-;Mirae Asset NYSE FANG + ETF;47.3767;17-Mar-2023
+149169;INF769K01HP3;-;Mirae Asset S&P 500 Top 50 ETF;27.3675;17-Mar-2023
 114984;INF247L01AP3;-;Motilal Oswal Nasdaq 100 ETF (MOFN100);101.7811;17-Mar-2023
 149438;INF247L01AU3;-;Motilal Oswal Nasdaq Q50 ETF;52.6428;17-Mar-2023
 149801;INF247L01AX7;-;Motilal Oswal Nifty 200 Momentum 30 ETF;36.5818;17-Mar-2023
