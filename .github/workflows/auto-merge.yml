@@ -1,0 +1,29 @@
+name: Dependabot auto-merge kuvera lookup updates
+on: pull_request
+
+# Based on https://docs.github.com/en/code-security/dependabot/working-with-dependabot/automating-dependabot-with-github-actions#enable-auto-merge-on-a-pull-request
+permissions:
+  pull-requests: write
+  contents: write
+
+jobs:
+  dependabot:
+    runs-on: ubuntu-latest
+    if: ${{ github.actor == 'dependabot[bot]' }}
+    steps:
+      - name: Dependabot metadata
+        id: metadata
+        uses: dependabot/fetch-metadata@v1.3.6
+        with:
+          github-token: "${{ secrets.GITHUB_TOKEN }}"
+      - uses: actions/checkout@v3
+        name: Clone self repository
+        with:
+          ref: ${{ github.head_ref }}
+          submodules: true
+      - name: Enable auto-merge for Dependabot PRs for release data
+        if: ${{contains(steps.metadata.outputs.dependency-names, '_data/kuvera-lookup')}}
+        run: gh pr merge --auto --rebase "$PR_URL"
+        env:
+          PR_URL: ${{github.event.pull_request.html_url}}
+          GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
