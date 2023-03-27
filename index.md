@@ -139,3 +139,4 @@ All endpoints have CORS enabled, so you can call them directly in your website f
 ## source
 
 The API is built as a static site using Jekyll, and deployed on Netlify.
+Lookup data for Kuvera-ISIN mapping is sourced from https://github.com/captn3m0/kuvera-mutual-funds-lookup

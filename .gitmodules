@@ -1,0 +1,4 @@
+[submodule "kuvera-lookup"]
+	path = _data/kuvera-lookup
+	url = git@github.com:captn3m0/kuvera-mutual-funds-lookup.git
+	branch = main
