@@ -207,7 +207,7 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 141375;INF789FA1U87;INF789FA1U95;UTI Banking & PSU Debt Fund - Direct Plan - Half-Yearly IDCW;12.4277;27-Mar-2023
 134026;INF789FC1HE1;INF789FC1HF8;UTI Banking & PSU Debt Fund - Direct Plan - Monthly IDCW;12.5482;27-Mar-2023
 126942;INF789F016Z4;INF789F017Z2;UTI Banking & PSU Debt Fund - Direct Plan - Quarterly IDCW;13.939;27-Mar-2023
-140116;INF789FAIU46;INF789FA1U53;UTI Banking & PSU Debt Fund - Regular Plan - Annual IDCW;11.8102;27-Mar-2023
+140116;INF789FA1U46;INF789FA1U53;UTI Banking & PSU Debt Fund - Regular Plan - Annual IDCW;11.8102;27-Mar-2023
 133971;INF789FA1U61;INF789FA1U79;UTI Banking & PSU Debt Fund - Regular Plan - Flexi IDCW;12.424;27-Mar-2023
 139407;INF789FA1U20;INF789FA1U38;UTI Banking & PSU Debt Fund - Regular Plan - Half-Yearly IDCW;12.3721;27-Mar-2023
 136110;INF789FC1HC5;INF789FC1HD3;UTI Banking & PSU Debt Fund - Regular Plan - Monthly IDCW;12.4339;27-Mar-2023
@@ -1581,7 +1581,7 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 149662;INF173K01GV8;INF173K01GW6;Sundaram Liquid Fund (Formerly Known as Principal Cash Management Fund) -Direct Plan - Income Distribution CUM Capital Withdrawal Option - Monthly;1026.1910;27-Mar-2023
 149661;INF173K01DA9;-;Sundaram Liquid Fund (Formerly Known as Principal Cash Management Fund) -Growth Option;1969.2649;27-Mar-2023
 149738;-;INF903JA1JJ5;Sundaram Liquid Fund (Formerly Known as Principal Cash Management Fund) Direct Fortnightly IDCW;1027.5258;27-Mar-2023
-149737;-;INF90JA1JH9;Sundaram Liquid Fund (Formerly Known as Principal Cash Management Fund) Direct Principal Units;1091.7084;27-Mar-2023
+149737;-;INF903JA1JH9;Sundaram Liquid Fund (Formerly Known as Principal Cash Management Fund) Direct Principal Units;1091.7084;27-Mar-2023
 149739;-;INF903JA1JF3;Sundaram Liquid Fund (Formerly Known as Principal Cash Management Fund) Regular Fortnightly IDCW;1027.4265;27-Mar-2023
 149740;-;INF903JA1JG1;Sundaram Liquid Fund (Formerly Known as Principal Cash Management Fund) Regular Quarterly IDCW;1051.4297;27-Mar-2023
 149745;-;-;Sundaram Liquid Fund (Formerly Known as Principal Cash Management Fund) Unclaimed Redemption More 3 Years;1000.0000;21-Jan-2022
@@ -3024,7 +3024,7 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 149734;INF903JA1KH7;INF903JA1KD6;Sundaram Short Duration Fund (Formerly Known as Principal Short Term Debt Fund) Regular Fortnightly IDCW;12.9286;27-Mar-2023
 149730;INF903JA1KF1;-;Sundaram Short Duration Fund (Formerly Known as Principal Short Term Debt Fund) Regular Halfyearly IDCW;13.0291;27-Mar-2023
 149735;INF903JA1KJ3;-;Sundaram Short Duration Fund (Formerly Known as Principal Short Term Debt Fund) Regular Plan Annual IDCW;12.8772;27-Mar-2023
-149736;-;IN903JA1KI5;Sundaram Short Duration Fund (Formerly Known as Principal Short Term Debt Fund) Regular Principal Units;13.4907;27-Mar-2023
+149736;-;INF903JA1KI5;Sundaram Short Duration Fund (Formerly Known as Principal Short Term Debt Fund) Regular Principal Units;13.4907;27-Mar-2023
 149731;INF903JA1KE4;-;Sundaram Short Duration Fund (Formerly Known as Principal Short Term Debt Fund) Regular Quarterly IDCW;13.1845;27-Mar-2023
 149732;INF903JA1KG9;INF903JA1KK1;Sundaram Short Duration Fund (Formerly Known as Principal Short Term Debt Fund) Regular Weekly IDCW;12.8542;27-Mar-2023
 149587;INF173K01GP0;-;Sundaram Short Duration Fund (Formerly Known as Principal Short Term Debt Fund)- Direct Plan - Growth Option;39.9262;27-Mar-2023
@@ -4967,7 +4967,7 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 149031;INF663L01W14;INF663L01W22;PGIM India Small Cap Fund - Direct Plan - IDCW Option;9.96;27-Mar-2023
 149019;INF663L01W06;-;PGIM India Small Cap Fund - Direct Plan- Growth Option;10.31;27-Mar-2023
 149020;INF663L01W30;-;PGIM India Small Cap Fund - Regular Plan - Growth Option;9.99;27-Mar-2023
-149032;INF663L01W48;INF663L01W5;PGIM India Small Cap Fund - Regular Plan - IDCW Option;9.99;27-Mar-2023
+149032;INF663L01W48;INF663L01W55;PGIM India Small Cap Fund - Regular Plan - IDCW Option;9.99;27-Mar-2023
 100177;INF966L01AA0;-;quant Small Cap Fund - Growth - Regular Plan;134.7186;27-Mar-2023
 120828;INF966L01689;-;quant Small Cap Fund - Growth Option - Direct Plan;143.0586;27-Mar-2023
 120827;INF966L01663;INF966L01671;quant Small Cap Fund - IDCW Option - Direct Plan;111.8323;27-Mar-2023
@@ -6614,10 +6614,10 @@ Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net A
 148762;INF200KA1T96;-;SBI International Access - US Equity FoF - Regular Plan - Growth;10.7290;27-Mar-2023
 148761;INF200KA1U36;INF200KA1U44;SBI International Access- US Equity FoF Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);10.9052;27-Mar-2023
 148759;INF200KA1U02;INF200KA1U10;SBI International Access- US Equity FoF Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);10.7288;27-Mar-2023
-119602;INF903J01OB6;-;Sundaram Global Brand Fund Direct Plan - Growth;25.8907;24-Mar-2023
-119601;INF903J01NZ7;INF903J01OA8;Sundaram Global Brand Fund Direct Plan - Income Distribution cum Capital Withdrawal (IDCW);23.0265;24-Mar-2023
-106370;INF903J01EX1;-;Sundaram Global Brand Fund Regular Plan - Growth;24.1747;24-Mar-2023
-106369;INF903J01EY9;INF903J01EZ6;Sundaram Global Brand Fund Regular Plan - Income Distribution cum Capital Withdrawal (IDCW);20.7157;24-Mar-2023
+119602;INF903J01OB6;-;Sundaram Global Brand Fund Direct Plan - Growth;25.9699;27-Mar-2023
+119601;INF903J01NZ7;INF903J01OA8;Sundaram Global Brand Fund Direct Plan - Income Distribution cum Capital Withdrawal (IDCW);23.0970;27-Mar-2023
+106370;INF903J01EX1;-;Sundaram Global Brand Fund Regular Plan - Growth;24.2470;27-Mar-2023
+106369;INF903J01EY9;INF903J01EZ6;Sundaram Global Brand Fund Regular Plan - Income Distribution cum Capital Withdrawal (IDCW);20.7776;27-Mar-2023
 115127;INF209KB18D3;-;Aditya Birla Sun Life Gold ETF;53.6698;27-Mar-2023
 113434;INF846K01W80;-;Axis Gold ETF;50.3847;27-Mar-2023
 113049;INF179KC1981;-;HDFC Gold Exchange Traded Fund. - Growth Option;52.1658;27-Mar-2023
