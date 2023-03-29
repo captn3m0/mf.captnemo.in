@@ -2,13 +2,13 @@
 layout: default
 permalink: /
 ---
-![GitHub last commit (branch)](https://img.shields.io/github/last-commit/captn3m0/mf.captnemo.in/main) ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/captn3m0/mf.captnemo.in) ![GitHub](https://img.shields.io/github/license/captn3m0/mf.captnemo.in) ![GitHub Sponsors](https://img.shields.io/github/sponsors/captn3m0) [![Netlify Status](https://api.netlify.com/api/v1/badges/81a9df69-6c56-416e-89f4-a252dd94da1f/deploy-status)](https://app.netlify.com/sites/mf-captnemo/deploys)
+![GitHub last commit (branch)](https://img.shields.io/github/last-commit/captn3m0/mf.captnemo.in/main) ![GitHub](https://img.shields.io/github/license/captn3m0/mf.captnemo.in) ![GitHub Sponsors](https://img.shields.io/github/sponsors/captn3m0) [![Netlify Status](https://api.netlify.com/api/v1/badges/81a9df69-6c56-416e-89f4-a252dd94da1f/deploy-status)](https://app.netlify.com/sites/mf-captnemo/deploys)
 
 Get information about Indian Mutual Funds from their ISIN numbers.
 
 To call this API, you will need an ISIN of a valid Mutual Fund in India.
 
-You can get ISIN data from various [sources](https://github.com/captn3m0/india-isin-data#alternative-sources).
+You can get ISIN data from various [sources](https://github.com/captn3m0/india-isin-data#alternative-sources), including [CAS Reports](https://mfs.kfintech.com/investor/General/ConsolidatedAccountStatement).
 
 ## API Documentation
 
@@ -144,6 +144,16 @@ To just get basic information about a given mutual fund, including the NAV.
 ## cors
 
 All endpoints have CORS enabled, so you can call them directly in your website frontend.
+
+# privacy policy
+
+Logs are not maintained for the service. The website runs directly on the netlify free-tier, which
+does not provide Analytics or request logs.
+
+There is no tracking or analytics on the website.
+
+Accuracy of data is not guaranteed, please create an issue on the [historical-mf-data](https://github.com/captn3m0/historical-mf-data)
+repo to report any issues regarding accuracy.
 
 ## source
 
