@@ -143,7 +143,8 @@ To just get basic information about a given mutual fund, including the NAV.
 
 ## cors
 
-All endpoints have CORS enabled, so you can call them directly in your website frontend.
+All endpoints have CORS enabled (`Access-Control-Allow-Origin: *`), 
+so you can call them directly in your website frontend.
 
 # privacy policy
 
