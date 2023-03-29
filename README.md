@@ -1,6 +1,6 @@
 ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/captn3m0/mf.captnemo.in/main) ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/captn3m0/mf.captnemo.in) ![GitHub](https://img.shields.io/github/license/captn3m0/mf.captnemo.in) [![GitHub Sponsors](https://img.shields.io/github/sponsors/captn3m0)](https://github.com/sponsors/captn3m0) [![Netlify Status](https://api.netlify.com/api/v1/badges/81a9df69-6c56-416e-89f4-a252dd94da1f/deploy-status)](https://app.netlify.com/sites/mf-captnemo/deploys)
 
-Get information about Indian Mutual Funds from their ISIN numbers.
+Get information about Indian Mutual Funds from their ISIN numbers, along with complete Historical NAV.
 
 To call this API, you will need an ISIN of a valid Mutual Fund in India.
 

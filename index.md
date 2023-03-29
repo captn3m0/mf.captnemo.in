@@ -120,17 +120,26 @@ To just get basic information about a given mutual fund, including the NAV.
   <details>
   <summary markdown='span'>Show/Hide Sample response
   </summary>
-  ```json
+  ```json5
   {
     "ISIN": "INF843K01FC8",
     "name": "Edelweiss Banking and PSU Debt Fund - Direct Plan - Growth Option",
     "nav": 20.1021,
-    "date": "2022-05-31"
+    "date": "2022-05-31",
+    "historical_nav": [
+        ["2016-11-28",13.4288],
+        ["2016-11-29",13.4294],
+        ["2016-11-30",13.4365],
+        ["2016-12-01",13.4403],
+        // More rows
+        ["2023-03-20",21.2381],
+        ["2023-03-21",21.2344],
+        ["2023-03-23",21.2544],
+        ["2023-03-24",21.289]
+    ]
   }
   ```
   </details>
-
-This is a much more exhaustive list of Mutual Funds.
 
 ## cors
 
