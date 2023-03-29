@@ -8,6 +8,8 @@ theme: jekyll-theme-modernist
 github:
   repository_url: https://github.com/captn3m0/mf.captnemo.in
 exclude:
+  - funds.db
+  - funds.db.zst
   - .sass-cache/
   - .jekyll-cache/
   - gemfiles/

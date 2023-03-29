@@ -1,5 +1,11 @@
 [build]
   command = """
+  wget https://github.com/captn3m0/historical-mf-data/releases/latest/download/funds.db.zst
+  unzstd funds.db.zst
+  echo 'CREATE INDEX "date" ON "nav" ("date","scheme_code")' | sqlite3 funds.db
+  echo 'CREATE INDEX "nav-scheme" ON "nav" ("scheme_code")' | sqlite3 funds.db
+  echo 'CREATE INDEX "securities-scheme" ON "securities" ("scheme_code")' | sqlite3 funds.db
+  echo 'CREATE INDEX "securities-isin" ON "securities" ("isin")' | sqlite3 funds.db
   jekyll build
   """
   publish = "_site"

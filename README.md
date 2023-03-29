@@ -17,12 +17,13 @@ All endpoints have CORS enabled, so you can call them directly in your website f
 This service uses data from 2 sources:
 
 - Kuvera
-- AMFI
+- AMFI, via [Historical Mutual Fund Database](https://github.com/captn3m0/historical-mf-data)
 
 ## how
 
 - A mapping between Kuvera Mutual Fund IDs and ISIN data is fetched from [kuvera-mutual-funds-lookup](https://github.com/captn3m0/kuvera-mutual-funds-lookup) as an automatically updating submodule.
-- NAV data from AMFI is updated daily and saved in [_data/nav.csv](https://github.com/captn3m0/mf.captnemo.in/blob/main/_data/nav.csv)
+- NAV data from AMFI is updated daily and published as a SQLite Database by https://github.com/captn3m0/historical-mf-data.
+- This website takes the above, and publishes it via Netlify.
 
 ## license
 
