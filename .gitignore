@@ -5,3 +5,4 @@ _site
 vendor
 nav/IN*
 funds.db*
+.bundle
