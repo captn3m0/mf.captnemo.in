@@ -26,9 +26,6 @@ include:
   - _redirects
   - _headers
   - nav
-# Not supported yet
-csv_reader:
-  col_sep: ';'
 markdown: kramdown
 kramdown:
   parse_block_html: true

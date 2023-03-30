@@ -1,12 +1,12 @@
 source "https://rubygems.org"
-gem "jekyll", "~> 4.2.0"
+gem "jekyll", "~> 4.3.2"
 gem "jekyll-theme-modernist", "~> 0.2"
 gem "sqlite3", "~> 1.6.2", force_ruby_platform: true
 
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
 # and associated library.
 platforms :mingw, :x64_mingw, :mswin, :jruby do
-  gem "tzinfo", "~> 1.2"
+  gem "tzinfo", "~> 2.0.6"
   gem "tzinfo-data"
 end
 
