@@ -1,0 +1,32 @@
+name: Update Data
+on:
+  schedule:
+    # This runs at 10PM UTC
+    # = 02:30 IST
+    - cron: '0 22 * * *'
+jobs:
+  update:
+    name: Daily Deploy
+    runs-on: ubuntu-latest
+    steps:
+    - name: Download Historical Mutual Funds Data
+      run: |
+        wget https://github.com/captn3m0/historical-mf-data/releases/latest/download/funds.db.zst
+        unzstd funds.db.zst
+        echo 'CREATE INDEX "date" ON "nav" ("date","scheme_code")' | sqlite3 funds.db
+        echo 'CREATE INDEX "nav-scheme" ON "nav" ("scheme_code")' | sqlite3 funds.db
+        echo 'CREATE INDEX "securities-scheme" ON "securities" ("scheme_code")' | sqlite3 funds.db
+        echo 'CREATE INDEX "securities-isin" ON "securities" ("isin")' | sqlite3 funds.db
+    - name: Build Website
+      run: |
+        bundle install
+        bundle exec jekyll build
+    - name: 'Deploy to Netlify'
+      uses: jsmrcaga/action-netlify-deploy@v2.0.0
+      with:
+        NETLIFY_AUTH_TOKEN: ${{ secrets.NETLIFY_AUTH_TOKEN }}
+        NETLIFY_DEPLOY_TO_PROD: true
+        NETLIFY_SITE_ID: ${{ secrets.NETLIFY_SITE_ID }}
+        build_directory: _site
+        install_command: "echo 'Skipping install command'"
+        build_command: "echo 'Skipping build command'"

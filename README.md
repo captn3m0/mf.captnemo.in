@@ -25,6 +25,10 @@ This service uses data from 2 sources:
 - NAV data from AMFI is updated daily and published as a SQLite Database by https://github.com/captn3m0/historical-mf-data.
 - This website takes the above, and publishes it via Netlify.
 
+## update
+
+Updates to the dataset are published daily around 2330 IST, and the site is deployed again around 0230 IST.
+
 ## license
 
 Licensed under the [MIT License](https://nemo.mit-license.org/). See [`LICENSE`](https://github.com/captn3m0/mf.captnemo.in/tree/main/LICENSE) file for details.
