@@ -4,11 +4,16 @@ on:
     # This runs at 10PM UTC
     # = 02:30 IST
     - cron: '0 22 * * *'
+  workflow_dispatch:
 jobs:
   update:
     name: Daily Deploy
     runs-on: ubuntu-latest
     steps:
+    - uses: actions/checkout@v3
+    - uses: ruby/setup-ruby@v1
+      with:
+        bundler-cache: true
     - name: Download Historical Mutual Funds Data
       run: |
         wget https://github.com/captn3m0/historical-mf-data/releases/latest/download/funds.db.zst
@@ -16,11 +21,10 @@ jobs:
         echo 'CREATE INDEX "date" ON "nav" ("date","scheme_code")' | sqlite3 funds.db
         echo 'CREATE INDEX "nav-scheme" ON "nav" ("scheme_code")' | sqlite3 funds.db
         echo 'CREATE INDEX "securities-scheme" ON "securities" ("scheme_code")' | sqlite3 funds.db
+        echo 'CREATE INDEX "schemes-schemecode" ON "schemes" ("scheme_code")' | sqlite3 funds.db
         echo 'CREATE INDEX "securities-isin" ON "securities" ("isin")' | sqlite3 funds.db
     - name: Build Website
-      run: |
-        bundle install
-        bundle exec jekyll build
+      run: bundle exec jekyll build
     - name: 'Deploy to Netlify'
       uses: jsmrcaga/action-netlify-deploy@v2.0.0
       with:
