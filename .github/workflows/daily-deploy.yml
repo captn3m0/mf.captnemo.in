@@ -14,6 +14,8 @@ jobs:
     - uses: ruby/setup-ruby@v1
       with:
         bundler-cache: true
+        # For 'latest', `gem update --system` is run to update to the latest RubyGems version.
+        rubygems: latest
     - name: Download Historical Mutual Funds Data
       run: |
         wget https://github.com/captn3m0/historical-mf-data/releases/latest/download/funds.db.zst
