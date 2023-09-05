@@ -16,7 +16,7 @@ jobs:
         uses: dependabot/fetch-metadata@v1.6.0
         with:
           github-token: "${{ secrets.GITHUB_TOKEN }}"
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
         name: Clone self repository
         with:
           ref: ${{ github.head_ref }}
