@@ -1,5 +1,5 @@
 source "https://rubygems.org"
-gem "jekyll", "~> 4.3.2"
+gem "jekyll", "~> 4.3.3"
 gem "jekyll-theme-modernist", "~> 0.2"
 gem "sqlite3", "~> 1.6.8", force_ruby_platform: true
 
