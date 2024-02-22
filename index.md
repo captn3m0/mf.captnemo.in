@@ -14,7 +14,9 @@ You can get ISIN data from various [sources](https://github.com/captn3m0/india-i
 
 `/kuvera/:isin`
 : ### Mutual Fund Details
-This endpoint returns various details about the mutual fund. The schema is documented at <https://stoplight.captnemo.in/docs/kuvera/6744709c28f51-mutual-fund-plan-details>. It only supports Mutual Funds available on Kuvera.
+
+This endpoint returns various details about the mutual fund. The schema is documented at https://captnemo.in/kuvera-unofficial-api-specification/ at the "Mutual Fund Plan Details" endpoint. It only supports Mutual Funds available on Kuvera.
+
   <details>
   <summary markdown='span'>Show/Hide Sample response
   </summary>
