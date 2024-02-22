@@ -5,6 +5,7 @@ on:
     # = 02:30 IST
     - cron: '0 22 * * *'
   workflow_dispatch:
+  push:
 jobs:
   update:
     name: Daily Deploy
@@ -27,6 +28,10 @@ jobs:
         echo 'CREATE INDEX "securities-isin" ON "securities" ("isin")' | sqlite3 funds.db
     - name: Build Website
       run: bundle exec jekyll build
+    - uses: actions/upload-artifact@v4
+      with:
+        name: mf_site_build
+        path: _site
     - name: 'Deploy to Netlify'
       uses: jsmrcaga/action-netlify-deploy@v2.1.0
       with:
