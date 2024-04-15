@@ -30,7 +30,7 @@ jobs:
     - name: Build Website
       run: bundle exec jekyll build
     - name: 'Deploy to Netlify'
-      uses: jsmrcaga/action-netlify-deploy@v2.1.0
+      uses: jsmrcaga/action-netlify-deploy@v2.2.0
       with:
         NETLIFY_AUTH_TOKEN: ${{ secrets.NETLIFY_AUTH_TOKEN }}
         NETLIFY_DEPLOY_TO_PROD: true
