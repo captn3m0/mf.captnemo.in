@@ -66,7 +66,7 @@ GEM
       google-protobuf (~> 3.23)
     sass-embedded (1.69.5-x86_64-linux-gnu)
       google-protobuf (~> 3.23)
-    sqlite3 (2.0.3)
+    sqlite3 (2.0.4)
       mini_portile2 (~> 2.8.0)
     strscan (3.1.0)
     terminal-table (3.0.2)
@@ -82,7 +82,7 @@ DEPENDENCIES
   jekyll (~> 4.3.3)
   jekyll-theme-modernist (~> 0.2)
   json (~> 2.7)
-  sqlite3 (~> 2.0.3)
+  sqlite3 (~> 2.0.4)
   tzinfo (~> 2.0.6)
   tzinfo-data
   wdm (~> 0.1.1)
