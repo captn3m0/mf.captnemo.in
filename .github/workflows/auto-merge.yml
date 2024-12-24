@@ -22,7 +22,6 @@ jobs:
           ref: ${{ github.head_ref }}
           submodules: true
       - name: Enable auto-merge for Dependabot PRs for release data
-        if: ${{contains(steps.metadata.outputs.dependency-names, '_data/kuvera-lookup')}}
         run: gh pr merge --auto --rebase "$PR_URL"
         env:
           PR_URL: ${{github.event.pull_request.html_url}}
