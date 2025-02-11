@@ -52,7 +52,7 @@ GEM
       jekyll-seo-tag (~> 2.0)
     jekyll-watch (2.2.1)
       listen (~> 3.0)
-    json (2.9.1)
+    json (2.10.1)
     kramdown (2.5.1)
       rexml (>= 3.3.9)
     kramdown-parser-gfm (1.1.0)
@@ -91,7 +91,7 @@ PLATFORMS
 DEPENDENCIES
   jekyll (~> 4.4.1)
   jekyll-theme-modernist (~> 0.2)
-  json (~> 2.9)
+  json (~> 2.10)
   sqlite3 (~> 2.5.0)
   tzinfo (~> 2.0.6)
   tzinfo-data
