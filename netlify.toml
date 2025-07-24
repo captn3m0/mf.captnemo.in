@@ -1,5 +1,6 @@
 [build]
   command = """
+  npm ci
   wget https://github.com/captn3m0/historical-mf-data/releases/latest/download/funds.db.zst
   unzstd funds.db.zst
   echo 'CREATE INDEX "date" ON "nav" ("date","scheme_code")' | sqlite3 funds.db
@@ -9,3 +10,8 @@
   jekyll build
   """
   publish = "_site"
+
+[[edge_functions]]
+  cache = "manual"
+  path = "/nsdl/isin/*"
+  function = "nsdl-isin-details"

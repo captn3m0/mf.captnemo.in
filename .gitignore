@@ -6,3 +6,6 @@ vendor
 nav/IN*
 funds.db*
 .bundle
+# Local Netlify folder
+.netlify
+node_modules
