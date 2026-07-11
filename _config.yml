@@ -29,3 +29,84 @@ include:
 markdown: kramdown
 kramdown:
   parse_block_html: true
+
+# Prometheus-style /metrics endpoint is built from funds.db via jekyll-sqlite.
+plugins:
+  - jekyll_sqlite
+
+# A single site-level query renders the entire /metrics body as formatted
+# lines (Prometheus text exposition format). The metrics template just loops
+# over site.data.metrics and prints each line. See _scripts/sample.sql for a
+# minimal funds.db used by local & deploy-preview builds.
+sqlite:
+  - data: metrics
+    file: funds.db
+    query: |
+      WITH
+      stats AS (
+        SELECT
+          (SELECT COUNT(*) FROM schemes)                          AS schemes_total,
+          (SELECT COUNT(*) FROM securities)                       AS securities_total,
+          (SELECT COUNT(*) FROM nav)                              AS nav_records_total,
+          (SELECT unixepoch(MAX(date)) FROM nav)                  AS nav_latest,
+          (SELECT unixepoch(MIN(date)) FROM nav)                  AS nav_earliest,
+          (SELECT COUNT(DISTINCT scheme_code) FROM nav
+             WHERE date >= (SELECT DATE(MAX(date), '-45 day') FROM nav)) AS active
+      ),
+      types AS (SELECT type, COUNT(*) AS n FROM securities GROUP BY type),
+      amc AS (
+        WITH toks AS (
+          SELECT SUBSTR(s.isin, 4, 4) AS ic,
+                 UPPER(CASE WHEN INSTR(TRIM(sc.scheme_name), ' ') > 0
+                      THEN SUBSTR(TRIM(sc.scheme_name), 1, INSTR(TRIM(sc.scheme_name), ' ') - 1)
+                      ELSE TRIM(sc.scheme_name) END) AS tok
+          FROM securities s JOIN schemes sc ON s.scheme_code = sc.scheme_code
+          WHERE TRIM(sc.scheme_name) <> ''
+        ),
+        counts AS (SELECT ic, tok, COUNT(*) c FROM toks GROUP BY ic, tok),
+        ranked AS (SELECT ic, tok, ROW_NUMBER() OVER (PARTITION BY ic ORDER BY c DESC, tok ASC) rn FROM counts),
+        funds  AS (SELECT SUBSTR(isin, 4, 4) ic, COUNT(DISTINCT scheme_code) n FROM securities GROUP BY ic)
+        SELECT f.ic AS issuer_code, r.tok AS amc, f.n AS n
+        FROM funds f JOIN ranked r ON f.ic = r.ic AND r.rn = 1
+      )
+      SELECT line FROM (
+        SELECT 0 ord, 0 sub, '# HELP mfapi_build_timestamp_seconds Unix time when the site was last built.' line
+        UNION ALL SELECT 0, 1, '# TYPE mfapi_build_timestamp_seconds gauge'
+        UNION ALL SELECT 0, 2, 'mfapi_build_timestamp_seconds ' || strftime('%s','now')
+
+        UNION ALL SELECT 1, 0, '# HELP mfapi_schemes_total Number of mutual fund schemes in the database.'
+        UNION ALL SELECT 1, 1, '# TYPE mfapi_schemes_total gauge'
+        UNION ALL SELECT 1, 2, 'mfapi_schemes_total ' || (SELECT schemes_total FROM stats)
+
+        UNION ALL SELECT 2, 0, '# HELP mfapi_securities_total Number of securities (ISINs) in the database.'
+        UNION ALL SELECT 2, 1, '# TYPE mfapi_securities_total gauge'
+        UNION ALL SELECT 2, 2, 'mfapi_securities_total ' || (SELECT securities_total FROM stats)
+
+        UNION ALL SELECT 3, 0, '# HELP mfapi_nav_records_total Number of historical NAV data points in the database.'
+        UNION ALL SELECT 3, 1, '# TYPE mfapi_nav_records_total gauge'
+        UNION ALL SELECT 3, 2, 'mfapi_nav_records_total ' || (SELECT nav_records_total FROM stats)
+
+        UNION ALL SELECT 4, 0, '# HELP mfapi_nav_latest_date_seconds Date of the most recent NAV in the database (data freshness).'
+        UNION ALL SELECT 4, 1, '# TYPE mfapi_nav_latest_date_seconds gauge'
+        UNION ALL SELECT 4, 2, 'mfapi_nav_latest_date_seconds ' || (SELECT nav_latest FROM stats)
+
+        UNION ALL SELECT 5, 0, '# HELP mfapi_nav_earliest_date_seconds Date of the oldest NAV in the database.'
+        UNION ALL SELECT 5, 1, '# TYPE mfapi_nav_earliest_date_seconds gauge'
+        UNION ALL SELECT 5, 2, 'mfapi_nav_earliest_date_seconds ' || (SELECT nav_earliest FROM stats)
+
+        UNION ALL SELECT 6, 0, '# HELP mfapi_schemes_active_total Schemes with a NAV in the 45 days before the latest NAV date.'
+        UNION ALL SELECT 6, 1, '# TYPE mfapi_schemes_active_total gauge'
+        UNION ALL SELECT 6, 2, 'mfapi_schemes_active_total ' || (SELECT active FROM stats)
+
+        UNION ALL SELECT 7, 0, '# HELP mfapi_securities_by_type Number of securities (ISINs) per AMFI ISIN type.'
+        UNION ALL SELECT 7, 1, '# TYPE mfapi_securities_by_type gauge'
+        UNION ALL SELECT 7, 2 + type, 'mfapi_securities_by_type{type="' || type || '"} ' || n FROM types
+
+        UNION ALL SELECT 8, 0, '# HELP mfapi_funds_by_amc Mutual fund schemes per AMC, keyed by NSDL issuer code (ISIN chars 4-7); amc label is the most common scheme-name prefix.'
+        UNION ALL SELECT 8, 1, '# TYPE mfapi_funds_by_amc gauge'
+        UNION ALL SELECT 8,
+          2 + ROW_NUMBER() OVER (ORDER BY n DESC, issuer_code ASC),
+          'mfapi_funds_by_amc{issuer_code="' || issuer_code ||
+          '",amc="' || REPLACE(REPLACE(amc, '\', '\\'), '"', '\"') || '"} ' || n
+        FROM amc
+      ) ORDER BY ord, sub

@@ -4,6 +4,17 @@
   """
   publish = "_site"
 
+# Production is deployed from CI (.github/workflows) with the full funds.db.
+# Deploy previews and branch deploys instead build from the minimal sample
+# database (_scripts/sample.sql) so they are fast and self-contained — no
+# 375MB download, and jekyll only has to generate a handful of nav files.
+# Netlify auto-runs `bundle install` (Gemfile + .ruby-version present) first.
+[context.deploy-preview]
+  command = "bundle install && sqlite3 funds.db < _scripts/sample.sql && bundle exec jekyll build"
+
+[context.branch-deploy]
+  command = "bundle install && sqlite3 funds.db < _scripts/sample.sql && bundle exec jekyll build"
+
 [[edge_functions]]
   cache = "manual"
   path = "/nsdl/isin/*"

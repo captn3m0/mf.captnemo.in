@@ -2,6 +2,8 @@
   Content-Type: application/json
 /nav/*
   Content-Type: application/json
+/metrics
+  Content-Type: text/plain; charset=utf-8
 /*
   X-Frame-Options: DENY
   X-XSS-Protection: 1; mode=block

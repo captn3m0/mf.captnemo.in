@@ -143,6 +143,36 @@ To just get basic information about a given mutual fund, including the NAV.
   ```
   </details>
 
+`/metrics`
+: ### Metrics
+
+Operational metrics about the dataset in [Prometheus text exposition format](https://prometheus.io/docs/instrumentation/exposition_formats/#text-based-format),
+served as `text/plain` and suitable for scraping. It covers dataset totals, data
+freshness, the last build time, and per-AMC fund counts. AMCs are keyed by their
+NSDL issuer code (characters 4-7 of every mutual fund ISIN, e.g. `789F` = UTI).
+
+  <details>
+  <summary markdown='span'>Show/Hide Sample response
+  </summary>
+  ```
+# HELP mfapi_build_timestamp_seconds Unix time when the site was last built.
+# TYPE mfapi_build_timestamp_seconds gauge
+mfapi_build_timestamp_seconds 1783641600
+# HELP mfapi_schemes_total Number of mutual fund schemes in the database.
+# TYPE mfapi_schemes_total gauge
+mfapi_schemes_total 38002
+# HELP mfapi_nav_latest_date_seconds Date of the most recent NAV in the database (data freshness).
+# TYPE mfapi_nav_latest_date_seconds gauge
+mfapi_nav_latest_date_seconds 1783641600
+# HELP mfapi_funds_by_amc Mutual fund schemes per AMC, keyed by NSDL issuer code (ISIN chars 4-7); amc label is the most common scheme-name prefix.
+# TYPE mfapi_funds_by_amc gauge
+mfapi_funds_by_amc{issuer_code="109K",amc="ICICI"} 3426
+mfapi_funds_by_amc{issuer_code="789F",amc="UTI"} 2944
+# ... one series per AMC, plus mfapi_securities_total, mfapi_nav_records_total,
+# mfapi_nav_earliest_date_seconds, mfapi_schemes_active_total, mfapi_securities_by_type
+  ```
+  </details>
+
 ## cors
 
 All endpoints have CORS enabled (`Access-Control-Allow-Origin: *`), 

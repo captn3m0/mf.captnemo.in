@@ -1,0 +1,6 @@
+---
+layout: null
+permalink: /metrics
+---
+{% for row in site.data.metrics %}{{ row.line }}
+{% endfor %}
