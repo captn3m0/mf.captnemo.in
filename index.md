@@ -168,8 +168,10 @@ mfapi_nav_latest_date_seconds 1783641600
 # TYPE mfapi_funds_by_amc gauge
 mfapi_funds_by_amc{issuer_code="109K",amc="ICICI"} 3426
 mfapi_funds_by_amc{issuer_code="789F",amc="UTI"} 2944
-# ... one series per AMC, plus mfapi_securities_total, mfapi_nav_records_total,
-# mfapi_nav_earliest_date_seconds, mfapi_schemes_active_total, mfapi_securities_by_type
+# ... one series per AMC, plus mfapi_schemes_active_by_amc (active funds per AMC),
+# mfapi_securities_total, mfapi_nav_records_total, mfapi_nav_earliest_date_seconds,
+# mfapi_schemes_active_total, mfapi_securities_by_type, mfapi_isin_by_security_type,
+# and mfapi_nav_records_by_year
   ```
   </details>
 

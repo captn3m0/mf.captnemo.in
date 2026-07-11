@@ -54,6 +54,8 @@ sqlite:
              WHERE date >= (SELECT DATE(MAX(date), '-45 day') FROM nav)) AS active
       ),
       types AS (SELECT type, COUNT(*) AS n FROM securities GROUP BY type),
+      sectypes AS (SELECT SUBSTR(isin, 8, 2) AS st, COUNT(*) AS n FROM securities GROUP BY st),
+      navyears AS (SELECT SUBSTR(date, 1, 4) AS y, COUNT(*) AS n FROM nav GROUP BY y),
       amc AS (
         WITH toks AS (
           SELECT SUBSTR(s.isin, 4, 4) AS ic,
@@ -68,6 +70,14 @@ sqlite:
         funds  AS (SELECT SUBSTR(isin, 4, 4) ic, COUNT(DISTINCT scheme_code) n FROM securities GROUP BY ic)
         SELECT f.ic AS issuer_code, r.tok AS amc, f.n AS n
         FROM funds f JOIN ranked r ON f.ic = r.ic AND r.rn = 1
+      ),
+      active_amc AS (
+        SELECT SUBSTR(se.isin, 4, 4) AS ic, COUNT(DISTINCT se.scheme_code) AS n
+        FROM securities se
+        WHERE se.scheme_code IN (
+          SELECT scheme_code FROM nav WHERE date >= (SELECT DATE(MAX(date), '-45 day') FROM nav)
+        )
+        GROUP BY ic
       )
       SELECT line FROM (
         SELECT 0 ord, 0 sub, '# HELP mfapi_build_timestamp_seconds Unix time when the site was last built.' line
@@ -102,11 +112,28 @@ sqlite:
         UNION ALL SELECT 7, 1, '# TYPE mfapi_securities_by_type gauge'
         UNION ALL SELECT 7, 2 + type, 'mfapi_securities_by_type{type="' || type || '"} ' || n FROM types
 
-        UNION ALL SELECT 8, 0, '# HELP mfapi_funds_by_amc Mutual fund schemes per AMC, keyed by NSDL issuer code (ISIN chars 4-7); amc label is the most common scheme-name prefix.'
-        UNION ALL SELECT 8, 1, '# TYPE mfapi_funds_by_amc gauge'
-        UNION ALL SELECT 8,
+        UNION ALL SELECT 8, 0, '# HELP mfapi_isin_by_security_type Securities per NSDL security-type code (ISIN characters 8-9; 01 = equity shares).'
+        UNION ALL SELECT 8, 1, '# TYPE mfapi_isin_by_security_type gauge'
+        UNION ALL SELECT 8, 2 + ROW_NUMBER() OVER (ORDER BY n DESC, st ASC),
+          'mfapi_isin_by_security_type{security_type="' || st || '"} ' || n FROM sectypes
+
+        UNION ALL SELECT 9, 0, '# HELP mfapi_nav_records_by_year NAV data points per calendar year.'
+        UNION ALL SELECT 9, 1, '# TYPE mfapi_nav_records_by_year gauge'
+        UNION ALL SELECT 9, CAST(y AS INTEGER), 'mfapi_nav_records_by_year{year="' || y || '"} ' || n FROM navyears
+
+        UNION ALL SELECT 10, 0, '# HELP mfapi_funds_by_amc Mutual fund schemes per AMC, keyed by NSDL issuer code (ISIN chars 4-7); amc label is the most common scheme-name prefix.'
+        UNION ALL SELECT 10, 1, '# TYPE mfapi_funds_by_amc gauge'
+        UNION ALL SELECT 10,
           2 + ROW_NUMBER() OVER (ORDER BY n DESC, issuer_code ASC),
           'mfapi_funds_by_amc{issuer_code="' || issuer_code ||
           '",amc="' || REPLACE(REPLACE(amc, '\', '\\'), '"', '\"') || '"} ' || n
         FROM amc
+
+        UNION ALL SELECT 11, 0, '# HELP mfapi_schemes_active_by_amc Active schemes (a NAV in the last 45 days) per AMC issuer code.'
+        UNION ALL SELECT 11, 1, '# TYPE mfapi_schemes_active_by_amc gauge'
+        UNION ALL SELECT 11,
+          2 + ROW_NUMBER() OVER (ORDER BY aa.n DESC, aa.ic ASC),
+          'mfapi_schemes_active_by_amc{issuer_code="' || aa.ic ||
+          '",amc="' || REPLACE(REPLACE(a.amc, '\', '\\'), '"', '\"') || '"} ' || aa.n
+        FROM active_amc aa JOIN amc a ON a.issuer_code = aa.ic
       ) ORDER BY ord, sub
