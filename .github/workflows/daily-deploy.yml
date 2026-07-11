@@ -19,16 +19,23 @@ jobs:
         # For 'latest', `gem update --system` is run to update to the latest RubyGems version.
         rubygems: latest
     - name: Download Historical Mutual Funds Data
+      env:
+        GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       run: |
-        wget https://github.com/captn3m0/historical-mf-data/releases/latest/download/funds.db.zst
+        RELEASE=$(gh release view --repo captn3m0/historical-mf-data --json tagName -q .tagName)
+        wget "https://github.com/captn3m0/historical-mf-data/releases/download/${RELEASE}/funds.db.zst"
         unzstd funds.db.zst
         echo 'CREATE INDEX "date" ON "nav" ("date","scheme_code")' | sqlite3 funds.db
         echo 'CREATE INDEX "nav-scheme" ON "nav" ("scheme_code")' | sqlite3 funds.db
         echo 'CREATE INDEX "securities-scheme" ON "securities" ("scheme_code")' | sqlite3 funds.db
         echo 'CREATE INDEX "schemes-schemecode" ON "schemes" ("scheme_code")' | sqlite3 funds.db
         echo 'CREATE INDEX "securities-isin" ON "securities" ("isin")' | sqlite3 funds.db
+        # Record the dataset version + commit for mfapi_build_info on /metrics.
+        printf 'data_release: "%s"\ncommit: "%s"\n' "$RELEASE" "$GITHUB_SHA" > _data/build.yml
     - name: Build Website
       run: bundle exec jekyll build
+    - name: Validate /metrics
+      run: ruby _scripts/validate-metrics.rb _site/metrics
     - name: 'Deploy to Netlify'
       uses: jsmrcaga/action-netlify-deploy@v2.4.0
       with:

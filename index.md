@@ -155,12 +155,15 @@ NSDL issuer code (characters 4-7 of every mutual fund ISIN, e.g. `789F` = UTI).
   <summary markdown='span'>Show/Hide Sample response
   </summary>
   ```
+# HELP mfapi_build_info Build and dataset metadata; value is always 1.
+# TYPE mfapi_build_info gauge
+mfapi_build_info{data_release="v0.0.20260711",commit="ab8a2f5"} 1
 # HELP mfapi_build_timestamp_seconds Unix time when the site was last built.
 # TYPE mfapi_build_timestamp_seconds gauge
 mfapi_build_timestamp_seconds 1783641600
-# HELP mfapi_schemes_total Number of mutual fund schemes in the database.
-# TYPE mfapi_schemes_total gauge
-mfapi_schemes_total 38002
+# HELP mfapi_schemes Number of mutual fund schemes in the database.
+# TYPE mfapi_schemes gauge
+mfapi_schemes 38002
 # HELP mfapi_nav_latest_date_seconds Date of the most recent NAV in the database (data freshness).
 # TYPE mfapi_nav_latest_date_seconds gauge
 mfapi_nav_latest_date_seconds 1783641600
@@ -169,8 +172,8 @@ mfapi_nav_latest_date_seconds 1783641600
 mfapi_funds_by_amc{issuer_code="109K",amc="ICICI"} 3426
 mfapi_funds_by_amc{issuer_code="789F",amc="UTI"} 2944
 # ... one series per AMC, plus mfapi_schemes_active_by_amc (active funds per AMC),
-# mfapi_securities_total, mfapi_nav_records_total, mfapi_nav_earliest_date_seconds,
-# mfapi_schemes_active_total, mfapi_securities_by_type, mfapi_isin_by_security_type,
+# mfapi_securities, mfapi_nav_records, mfapi_nav_earliest_date_seconds,
+# mfapi_schemes_active, mfapi_securities_by_type, mfapi_isin_by_security_type,
 # and mfapi_nav_records_by_year
   ```
   </details>

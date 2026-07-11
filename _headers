@@ -3,7 +3,7 @@
 /nav/*
   Content-Type: application/json
 /metrics
-  Content-Type: text/plain; charset=utf-8
+  Content-Type: text/plain; version=0.0.4; charset=utf-8
 /*
   X-Frame-Options: DENY
   X-XSS-Protection: 1; mode=block

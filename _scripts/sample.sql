@@ -1,7 +1,7 @@
 -- Minimal sample funds.db fixture for fast local & Netlify deploy-preview builds.
 -- Schema mirrors captn3m0/historical-mf-data; data is a small authentic subset
 -- (a few schemes across several AMCs) extracted from the full database.
--- Build with:  sqlite3 funds.db < _scripts/sample.sql
+-- Build with:  rm -f funds.db && sqlite3 funds.db < _scripts/sample.sql
 -- Production builds replace this with the full funds.db (see .github/workflows).
 PRAGMA foreign_keys=OFF;
 BEGIN TRANSACTION;

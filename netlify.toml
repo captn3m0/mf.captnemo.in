@@ -4,16 +4,22 @@
   """
   publish = "_site"
 
+[build.environment]
+  # Pin Ruby so preview builds don't break when Netlify bumps its default image.
+  # Keep in sync with .ruby-version.
+  RUBY_VERSION = "3.3.6"
+
 # Production is deployed from CI (.github/workflows) with the full funds.db.
 # Deploy previews and branch deploys instead build from the minimal sample
-# database (_scripts/sample.sql) so they are fast and self-contained — no
-# 375MB download, and jekyll only has to generate a handful of nav files.
+# database (_scripts/preview-build.sh) so they are fast and self-contained —
+# no 375MB download, and jekyll only generates a handful of nav files. The
+# script also validates that /metrics rendered non-empty and well-formed.
 # Netlify auto-runs `bundle install` (Gemfile + .ruby-version present) first.
 [context.deploy-preview]
-  command = "bundle install && sqlite3 funds.db < _scripts/sample.sql && bundle exec jekyll build"
+  command = "bundle install && bash _scripts/preview-build.sh"
 
 [context.branch-deploy]
-  command = "bundle install && sqlite3 funds.db < _scripts/sample.sql && bundle exec jekyll build"
+  command = "bundle install && bash _scripts/preview-build.sh"
 
 [[edge_functions]]
   cache = "manual"

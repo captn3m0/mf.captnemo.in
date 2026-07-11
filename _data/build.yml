@@ -1,0 +1,6 @@
+# Surfaced on /metrics as mfapi_build_info. Overwritten at build time:
+#   - production (daily-deploy workflow): the historical-mf-data release tag + git SHA
+#   - Netlify deploy previews (_scripts/preview-build.sh): "sample" + COMMIT_REF
+# These defaults are what a plain local `jekyll build` shows.
+data_release: unknown
+commit: unknown

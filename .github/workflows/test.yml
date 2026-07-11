@@ -1,0 +1,27 @@
+name: Test
+on:
+  push:
+  pull_request:
+  workflow_dispatch:
+jobs:
+  metrics:
+    name: Build & validate /metrics
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v7
+      with:
+        submodules: true
+    - uses: ruby/setup-ruby@v1
+      with:
+        bundler-cache: true
+        rubygems: latest
+    # Fast, self-contained: build funds.db from the committed sample fixture
+    # instead of downloading the full 375MB database.
+    - name: Build minimal funds.db from fixture
+      run: rm -f funds.db && sqlite3 funds.db < _scripts/sample.sql
+    - name: Build site
+      run: bundle exec jekyll build
+    - name: Validate /metrics
+      run: |
+        test -s _site/metrics
+        ruby _scripts/validate-metrics.rb _site/metrics

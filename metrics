@@ -2,5 +2,8 @@
 layout: null
 permalink: /metrics
 ---
+# HELP mfapi_build_info Build and dataset metadata; value is always 1.
+# TYPE mfapi_build_info gauge
+mfapi_build_info{data_release="{{ site.data.build.data_release | default: 'unknown' }}",commit="{{ site.data.build.commit | default: 'unknown' }}"} 1
 {% for row in site.data.metrics %}{{ row.line }}
 {% endfor %}
